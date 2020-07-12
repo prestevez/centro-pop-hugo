@@ -16,9 +16,9 @@
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 100
+  weight = 110
 
 [[main]]
   name = "Acerca"
   url = "#acerca"
-  weight = 1000
+  weight = 100
