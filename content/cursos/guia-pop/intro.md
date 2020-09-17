@@ -1,7 +1,16 @@
 ---
 title: Introducción
+linktitle: Introducción
 date: 2020-09-17
-type: book
+toc: true
+type: docs
+draft: false
+menu:
+  guia-pop:
+    parent: Guía POP
+    weight: 1
+
+weight: 1
 ---
 
 Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar la implementación de la [Policía Orientada a Problemas (POP)](que-es-pop/). La guía está organizada en cuatro secciones, según las cuatro etapas del método BASE de resolución de problemas delictivos:
