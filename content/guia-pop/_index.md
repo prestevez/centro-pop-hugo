@@ -14,10 +14,10 @@ toc: false
 
 Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar la implementación de la [Policía Orientada a Problemas (POP)](que-es-pop/). La guía está organizada en cuatro secciones, según las cuatro etapas del método BASE de resolución de problemas delictivos:
 
-- [Búsqueda](busqueda/)
-- [Análisis](analisis/)
-- [Solución](solucion/)
-- [Evaluación](evaluacion/)
+- [Búsqueda]({{< ref "/guia-pop/busqueda.md">}})
+- [Análisis]({{< ref "/guia-pop/analisis.md">}})
+- [Solución]({{< ref "/guia-pop/solucion.md">}})
+- [Evaluación]({{< ref "/guia-pop/busqueda.md">}})
 
 Al final de cada etapa, se presenta una lista para revisar que se hayan completado las partes clave de la etapa.
 

@@ -1,6 +1,6 @@
 ---
 title: ¿Qué es la Policía Orientada a Problemas?
-linktitle: ¿Qué es POP?
+linktitle: ¿Qué es la POP?
 date: 2020-09-17
 type: book
 toc: true
