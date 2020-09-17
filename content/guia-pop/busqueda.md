@@ -29,14 +29,14 @@ Set the scene about the problem by using data and information from those who hav
 
 ## What do you hope to achieve?
 
-Determine the outcomes you are hoping to achieve. For crime problems this is most likely to be a reduction in the problem, but for others it could be an improvement in reporting, a reduction in re-offending, an improvement in community engagement, or more specific such as a reduction in repeat victimisation of a particular group of people. Thinking about what you are hoping to achieve will focus your problem solving work. 
+Determine the outcomes you are hoping to achieve. For crime problems this is most likely to be a reduction in the problem, but for others it could be an improvement in reporting, a reduction in re-offending, an improvement in community engagement, or more specific such as a reduction in repeat victimisation of a particular group of people. Thinking about what you are hoping to achieve will focus your problem solving work.
 
 ## Scanning checklist
 
-- [] What is the problem? Has the problem been clearly and specifically defined?
-- [] Is it a problem? Is it increasing, persistent and who does it affect?
-- [] What does the problem involve? What data has been used to describe the problem?
-- [] What outcomes are you hoping for? What would success look like?
+- [ ] What is the problem? Has the problem been clearly and specifically defined?
+- [ ] Is it a problem? Is it increasing, persistent and who does it affect?
+- [ ] What does the problem involve? What data has been used to describe the problem?
+- [ ] What outcomes are you hoping for? What would success look like?
 
 ## Additional resources
 
