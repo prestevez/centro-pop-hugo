@@ -1,43 +1,28 @@
 +++
-# Widget de las guias "Qué funciona".
-# Esta sección usa el contenido de `content/que-funciona/`.
+# Widget de los dos grandes proyectos
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "¿Qué funciona?"
+title = "Contenido principal"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "que-funciona"
-
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+  page_type = "project"
 
 [design]
+
+  columns = 2
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  # No 5?
+  view = 3
 
 [design.background]
   # Apply a background color, gradient, or image.
