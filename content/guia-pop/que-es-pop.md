@@ -7,22 +7,23 @@ toc: true
 weight: 2
 ---
 
-## What is POP?
+La Policía Orientada a Problemas (POP) involucra entender los problemas delictivos, implementar soluciones diseñadas a la medida, y evaluar su impacto.
 
-POP involves understanding crime problems, implementing tailor-made solutions and evaluating their impact.
+Un enfoque POP no asume que las responsabilidades tradicionales de la policía (como responder a incidentes e investigar delitos) no existan, sino que considera que las funciones de la policía son más amplias que "hacer cumplir la ley" y responder ante los delitos.
 
-A POP approach assumes that the conventional responsibilities of the police still exist (i.e., the need to respond to incidents and investigate crimes), but that the police function is broader than simply enforcing the law and carrying out activities after a crime has been committed.
+Un problema delictivo puede abarcar cualquier tipo de incidente delictivo u otros asuntos de seguridad ciudadana (así como una combinación de estos). Los problemas pueden involucrar volúmenes elevados o pequeños de incidentes, ser serios o menos serios, estar asociados a grupos o bandas delictivas o ser cometidos por delincuentes individuales.
 
-A problem can involve any (or combination of) crime and citizen security issues, whether high or low in volume, serious or less serious, or associated with criminal groups or individual offenders.
+## El trabajo POP es trabajo policial
 
-## POP is real police work.
+POP ofrece la oportunidad de trabajar directamente para reducir el delito en su comunidad. Muchos oficiales de policía han dicho que su su trabajo POP ha sido la experiencia más gratificante de sus carreras.
 
-POP provides you with the opportunity to directly do something about reducing crime. Many police say their experiences from working in POP have been the highlights of their careers
+## La POP reduce el delito
 
-## POP reduces crime.
+Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró que el enfoque POP reduce el delito y el desorden en alrededor de 34%.[^1]
 
-A systematic review of 34 POP studies showed they had an average effect of decreasing crime and disorder by about 34% - “POP is an effective strategy to reduce crime” (Hinkle et al., 2020) https://onlinelibrary.wiley.com/doi/full/10.1002/cl2.1089
+[^1]: Hinkle JC, Wiesburd D, Telep CW & Petersen K (2020) Problem‐oriented policing for reducing crime and disorder: An updated systematic review and meta‐analysis. *Campbell Systematic Reviews*, *16*(2). [https://doi.org/10.1002/cl2.1089](https://doi.org/10.1002/cl2.1089)
 
 {{% alert note %}}
-The crime problem triangle: a crime problem has three core components—an offender, a victim (or some other target) and a place. This approach helps us to think in terms of the opportunity structure that relates to crime and that solving crime problems is not just about focusing attention on offenders, but also about focusing on victims, targets and places.
+{{< figure src="crime-triangle.png" title="El triángulo del delito" >}}
+Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivos), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.
 {{% /alert %}}
