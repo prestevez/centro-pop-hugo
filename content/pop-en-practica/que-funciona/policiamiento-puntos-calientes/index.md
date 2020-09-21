@@ -5,8 +5,10 @@ summary: "La evidencia sugiere que el policiamiento de puntos calientes reduce e
 authors:
   - schainey
   - prestevez
-toc: true
+#toc: true
 ---
+
+{{% toc %}}
 
 ## Resumen
 
@@ -150,6 +152,6 @@ delitos, modus operandi y otros factores ambientales).
 
 ### Referencias
 
-Braga, A., Papachristos, A. and Hureau, D. (2012) \'Hot spots policing
+Braga, A, Papachristos, A and Hureau, D (2012) \'Hot spots policing
 effects on crime\', Campbell Systematic Reviews, 2012:8, DOI:
 [10.4073/csr.2012.8](https://www.doi.org/10.4073/csr.2012.8)
