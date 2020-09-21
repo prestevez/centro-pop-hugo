@@ -25,10 +25,10 @@ Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró qu
 
 {{% alert note %}}
 
-## El triángulo del delito
-
-{{< figure library="true" src="crime-triangle.png" title="El triángulo del delito." >}}
+### El triángulo del delito
 
 Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivo), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.
+
+{{< figure library="true" src="crime-triangle.png" title="El triángulo del delito." >}}
 
 {{% /alert %}}
