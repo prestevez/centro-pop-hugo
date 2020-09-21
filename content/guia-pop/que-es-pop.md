@@ -24,6 +24,11 @@ Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró qu
 [^1]: Hinkle JC, Wiesburd D, Telep CW & Petersen K (2020) Problem‐oriented policing for reducing crime and disorder: An updated systematic review and meta‐analysis. *Campbell Systematic Reviews*, *16*(2). [https://doi.org/10.1002/cl2.1089](https://doi.org/10.1002/cl2.1089)
 
 {{% alert note %}}
+
+## El triángulo del delito
+
+Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivo), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.
+
 {{< figure src="crime-triangle.png" title="El triángulo del delito" >}}
-Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivos), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.
+
 {{% /alert %}}
