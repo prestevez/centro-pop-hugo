@@ -11,6 +11,6 @@ title = "Guía de referencia POP"
 subtitle = ""
 +++
 
-Esta guía de referencia tiene el objetivo de servir como una fuente de referencia para apoyar la implementación de la Policía Orientada a Problemas (POP).
+Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar la implementación de la Policía Orientada a Problemas (POP).
 
 ## [Consulta la guía >](guia-pop/)
