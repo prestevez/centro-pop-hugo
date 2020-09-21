@@ -39,4 +39,4 @@ Determine los resultados que espera obtener. Para problemas delictivos el result
 
 ## Recursos adicionales
 
-Clarke, RV & Eck, JE (2005) [*Análisis Delictivo para la Resolución de Problemas en 60 Pequeños Pasos*](https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/60_pasos.pdf) (A Arango Durán & JP Arango Orozco, Trans.) Washington, DC: Office of Community Oriented Policing Services.
+Clarke, RV & Eck, JE (2005) [*Análisis Delictivo para la Resolución de Problemas en 60 Pequeños Pasos*](https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/60_pasos.pdf) (A Arango Durán & JP Arango Orozco, Trad.) Washington, DC: Office of Community Oriented Policing Services.
