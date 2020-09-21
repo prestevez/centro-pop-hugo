@@ -7,39 +7,36 @@ toc: true
 weight: 3
 ---
 
-A problem is a set of similar and recurring events that affect a neighbourhood or community. Problem solving is most effective when the problem has been correctly identified and specifically defined.
+Un problema es un conjunto de eventos similares y recurrentes que afectan una comunidad o vecindario. La resolución de problemas es más efectiva cuando el problema ha sido correctamente identificado o definido de forma específica.
 
-## What is the problem?
+## ¿Cuál es el problema?
 
-The first step is to identify if there really is a problem to solve. Ask the following questions:
+El primer paso en la *búsqueda* es identificar cuál es realmente el problema que hay que resolver. Haga las siguientes preguntas:
 
-- **Is the problem an increasing or persistent problem?**
-	- Problems that are increasing or are persistent are the types of problems that require prioritised attention. If the problem is declining or occurs very occasionally it is probably less of a problem than other priorities.
+- **¿El problema ha aumentado o es un problema persistente?**
+	- Problemas que aumentan o son persistentes son los tipos de problemas que requieren atención prioritaria. Si el problema está disminuyendo u ocurre muy esporádicamente, probablemente existan otros problemas que meriten más prioridad.
+- **¿Los incidentes son similares?**
+	- Si los incidentes asociados al problema varían mucho, va a ser más difícil encontrar una solución que atienda todas los tipos de incidentes. Mejor enfóquese en conjuntos de incidentes similares entre sí.
 
-- **Are the incidents similar?**
-	- If the incidents associated with the problem are very varied, it will be difficult to find a solution that addresses all of them. Focus on a specific set of similar incidents
+## ¿Cuál es nuestro rol?
 
-## What is our role?
+Tenga claro cuál es el rol de su agencia en la resolución del problema. Si, por ejemplo, usted trabaja en la policía y el problema que busca resolver tiene que ver con "jóvenes en las calles del área", primero debe de definir qué están haciendo esos jóvenes en las calles que esté relacionado con problemas delictivos o que esté afectando la seguridad. Ello le ayudará a clarificar el rol que podría jugar la policía en la resolución del problema.
 
-Be clear on what your agency’s role is in solving the problem. If, for example, you work for the police and the problem to solve is to do with ‘young people hanging about on the streets in the area’, you have to determine what it is they are doing that is creating issues associated with crime and citizen security. By doing so, you will then be clear about the problem solving role the police should perform.
+## Establezca la escena
 
-## Set the scene
+Establezca la escena del problema usando datos e información provista por quienes conocen bien el problema. Describa el tamaño del problema (por ejemplo, cuántos incidentes ocurren cada mes) y los detalles del problema.
 
-Set the scene about the problem by using data and information from those who have some knowledge about the problem. Describe the scale of the problem (e.g., how many incidents there are each month) and what the problem involves.
+## ¿Cuáles son sus expectativas?
 
-## What do you hope to achieve?
+Determine los resultados que espera obtener. Para problemas delictivos el resultado esperado más común es una reducción en la incidencia del problema, pero otros resultados posibles pueden ser mejoras en la denuncia, reducciones en la reincidencia, mejoras en las relaciones con la comunidad, o resultados más específicos como reducciones en la victimización repetida de un grupo particular de personas. Pensar claramente sobre los resultados que esperamos obtener ayudará a enfocar el trabajo de la resolución de problemas.
 
-Determine the outcomes you are hoping to achieve. For crime problems this is most likely to be a reduction in the problem, but for others it could be an improvement in reporting, a reduction in re-offending, an improvement in community engagement, or more specific such as a reduction in repeat victimisation of a particular group of people. Thinking about what you are hoping to achieve will focus your problem solving work.
+## Revisión
 
-## Scanning checklist
+- [ ] ¿Cuál es el problema? ¿El problema ha sido definido de forma específica y clara?
+- [ ] ¿Es un problema? ¿Está aumentando o es persistente? ¿A quién afecta?
+- [ ] ¿Cuáles son los detalles del problema? ¿Qué datos se han usado para describir el problema?
+- [ ] ¿Qué resultados espera obtener? ¿Cómo definiría que el problema se ha resuelto de forma exitosa?
 
-- [ ] What is the problem? Has the problem been clearly and specifically defined?
-- [ ] Is it a problem? Is it increasing, persistent and who does it affect?
-- [ ] What does the problem involve? What data has been used to describe the problem?
-- [ ] What outcomes are you hoping for? What would success look like?
+## Recursos adicionales
 
-## Additional resources
-
-Análisis delictivo para la resolución de problemas en 60 pequeños pasos
-
-popcenter.asu.edu/sites/default/files/library/reading/PDFs/60_pasos.pdf
+Clarke, RV & Eck, JE (2005) [*Análisis Delictivo para la Resolución de Problemas en 60 Pequeños Pasos*](https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/60_pasos.pdf) (A Arango Durán & JP Arango Orozco, Trans.) Washington, DC: Office of Community Oriented Policing Services.
