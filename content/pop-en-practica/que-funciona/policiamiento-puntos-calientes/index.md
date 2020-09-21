@@ -5,6 +5,7 @@ summary: "La evidencia sugiere que el policiamiento de puntos calientes reduce e
 authors:
   - schainey
   - prestevez
+toc: true
 ---
 
 ## Resumen
