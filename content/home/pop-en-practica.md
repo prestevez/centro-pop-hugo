@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "POP en práctica"
-subtitle = ""
+subtitle = "[Ver más >](pop-en-practica/)"
 
 [content]
   # Page type to display. E.g. project.
