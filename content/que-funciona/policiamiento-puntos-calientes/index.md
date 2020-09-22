@@ -54,7 +54,7 @@ objetivo prevenir el delito en estos lugares específicos y,
 potencialmente, reducir los niveles generales del delito en la ciudad o
 el área geográfica en general.
 
-### Impacto
+## Impacto
 
 En general, la evidencia sugiere que el policiamiento de puntos
 calientes reduce el delito. La evidencia muestra que hay un efecto
@@ -73,7 +73,7 @@ evaluaciones de los programas de policiamiento de puntos calientes han
 sido bien diseñadas y se han utilizado los métodos estadísticos
 apropiados para el análisis de los resultados de la intervención.
 
-### Cómo funciona
+## Cómo funciona
 
 La estrategia asume que la incidencia delictiva se puede reducir de
 manera más eficiente al focalizar recursos y actividades en los lugares
@@ -90,7 +90,7 @@ caliente pueden existir diversos problemas delictivos (y por ende pueden
 aplicarse diversos tipos de intervención), es probable que varios
 mecanismos contribuyan a las reducciones observadas.
 
-### Dónde funciona
+## Dónde funciona
 
 La efectividad del policimaiento de puntos calientes varía según el tipo
 de delito: la estrategia es más eficaz para reducir delitos violentos,
@@ -108,7 +108,7 @@ policiamento de puntos calientes con enfoque POP tienen más
 probabilidades de reducir la incidencia delictiva en los alrededores de
 los puntos calientes.
 
-### Cómo hacerlo
+## Cómo hacerlo
 
 La información sobre la implementación del policiamiento de puntos
 calientes es limitada. Las actividades específicas que se llevan a cabo
@@ -138,7 +138,7 @@ y búsquedas, y la aplicación de la ley con "mano dura" en los puntos
 calientes pueden tener un efecto negativo en las relaciones entre la
 policía y la comunidad.
 
-### Costo
+## Costo
 
 No hay información en la literatura sobre los costos del policiamento de
 puntos calientes, y no hay cálculos específicos de los de beneficios
@@ -146,7 +146,7 @@ económicos de esta estrategia. Sin embargo, en la mayoría de los casos,
 el policiamiento de puntos calientes implica la optimización de los
 recursos existentes.
 
-### Aspectos adicionales a considerar
+## Aspectos adicionales a considerar
 
 El policiamiento de puntos calientes es una estrategia operativa que
 consiste en concentrar los recursos policiales en áreas donde se
@@ -155,7 +155,7 @@ actividad que se va a llevar a cabo dentro del puto caliente, ya que
 ésta debe variar según la naturaleza del problema (por ejemplo, tipo de
 delitos, modus operandi y otros factores ambientales).
 
-### Referencias
+## Referencias
 
 Braga, A, Papachristos, A and Hureau, D (2012) \'Hot spots policing
 effects on crime\', Campbell Systematic Reviews, 2012:8, DOI:
