@@ -1,6 +1,6 @@
 ---
 title: "Policiamiento de Puntos Calientes"
-date: "2020-07-10T00:00:00Z"
+date: "2020-07-10"
 summary: "La evidencia sugiere que el policiamiento de puntos calientes reduce el delito."
 authors:
   - schainey
