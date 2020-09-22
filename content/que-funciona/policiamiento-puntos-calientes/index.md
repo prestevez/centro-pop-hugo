@@ -6,7 +6,8 @@ authors:
   - schainey
   - prestevez
 toc: true
-projects: ["guias-de-respuesta"]
+projects: ["que-funciona"]
+categories: ["¿Qué funciona?"]
 ---
 
 ## Resumen

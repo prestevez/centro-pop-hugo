@@ -9,6 +9,4 @@ external_link: "/centro-pop-hugo/pop-en-practica/#que-funciona"
 image:
   caption: What Works Centre for Crime Reduction Logo
   focal_point: Smart
-
-categories: ["¿Qué funciona?"]
 ---

@@ -10,7 +10,7 @@ authors:
   - prestevez
 toc: true
 categories: ["Problemas delictivos"]
-
+projects: ["problemas-y-respuestas"]
 image:
   caption: Foto por David Nieto en Unsplash
   focal_point: Smart
