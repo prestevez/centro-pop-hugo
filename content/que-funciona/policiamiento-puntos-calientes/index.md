@@ -6,7 +6,7 @@ authors:
   - schainey
   - prestevez
 toc: true
-projects: ["que-funciona"]
+#projects: ["que-funciona"]
 categories: ["¿Qué funciona?"]
 ---
 
