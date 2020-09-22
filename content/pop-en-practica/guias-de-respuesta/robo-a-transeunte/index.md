@@ -9,9 +9,12 @@ authors:
   - schainey
   - prestevez
 toc: true
----
+project: "que-funciona"
 
-<span>Foto por <a href="https://unsplash.com/@nietramos_d?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">David Nieto</a> on <a href="https://unsplash.com/s/photos/pedestrian-mexico?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+image:
+  caption: Foto por David Nieto en Unsplash
+  focal_point: Smart
+---
 
 Autores: Khadija M Monk, Justin A Heinonen and John E Eck
 
