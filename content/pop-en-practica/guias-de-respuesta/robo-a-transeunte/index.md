@@ -9,7 +9,7 @@ authors:
   - schainey
   - prestevez
 toc: true
-project: "que-funciona"
+projects: ["que-funciona"]
 
 image:
   caption: Foto por David Nieto en Unsplash

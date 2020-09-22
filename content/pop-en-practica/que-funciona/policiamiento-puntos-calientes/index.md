@@ -6,7 +6,7 @@ authors:
   - schainey
   - prestevez
 toc: false
-project: "guias-de-respuesta"
+projects: ["guias-de-respuesta"]
 ---
 
 ## Resumen
