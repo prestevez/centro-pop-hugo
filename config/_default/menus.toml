@@ -11,7 +11,20 @@
 [[main]]
   name = "POP en práctica"
   url = "pop-en-practica/"
+  identifier = "pop-en-practica"
   weight = 20
+
+[[main]]
+  name = "¿Qué funciona"
+  url = "que-funciona/"
+  parent = "pop-en-practica"
+  weight = 10
+
+  [[main]]
+    name = "Problemas y respuestas"
+    url = "problemas-y-respuestas/"
+    parent = "pop-en-practica"
+    weight = 100
 
 [[main]]
   name = "Contacto"
