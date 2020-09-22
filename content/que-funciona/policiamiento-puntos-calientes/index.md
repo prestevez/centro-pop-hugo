@@ -8,6 +8,7 @@ authors:
 toc: true
 #projects: ["que-funciona"]
 categories: ["¿Qué funciona?"]
+url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=46"
 ---
 
 {{% alert secondary %}}
@@ -159,3 +160,8 @@ delitos, modus operandi y otros factores ambientales).
 Braga, A, Papachristos, A and Hureau, D (2012) \'Hot spots policing
 effects on crime\', Campbell Systematic Reviews, 2012:8, DOI:
 [10.4073/csr.2012.8](https://www.doi.org/10.4073/csr.2012.8)
+
+{{% alert note %}}
+Esta entrada es una adaptación del [*Crime Reduction Toolkit*](https://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx) del [*What Works Centre for Crime Reduction*](https://whatworks.college.police.uk/About/Pages/default.aspx) del Colegio de Policías de Inglaterra y Gales.
+
+{{% /alert %}}
