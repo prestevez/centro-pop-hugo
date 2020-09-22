@@ -1,6 +1,6 @@
 # Centro POP Uruguay de UCL
 
-Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://prestevez.com/centro-pop-hugo).
+Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://prestevez.com/centro-pop-hugo/).
 
 El contenido público del sitio se publica automáticamente en la rama `gh-pages`, cada vez que se hace un cambio a la rama `master` en el repositorio, usando integración continua a través del servicio de CircleCI.
 
