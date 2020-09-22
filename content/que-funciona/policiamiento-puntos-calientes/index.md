@@ -10,6 +10,8 @@ toc: true
 categories: ["¿Qué funciona?"]
 ---
 
+{{% alert primary %}}
+
 ## Resumen
 
 En general, la evidencia sugiere que el policiamiento de puntos
@@ -34,6 +36,7 @@ la intervención pueden extenderse más allá de las zonas intervenidas.
 | **Cómo hacerlo**   | La calidad de la evidencia es moderada.            |
 | **Costo**          | No hay información.                                |
 
+{{ /alert }}
 
 ## ¿Qué es el policiamiento de puntos calientes?
 
