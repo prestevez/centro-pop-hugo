@@ -10,7 +10,7 @@ toc: true
 categories: ["¿Qué funciona?"]
 ---
 
-{{% alert note %}}
+{{% alert secondary %}}
 
 ## Resumen
 
