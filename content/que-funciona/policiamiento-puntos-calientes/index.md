@@ -10,7 +10,7 @@ toc: true
 categories: ["¿Qué funciona?"]
 ---
 
-{{% alert primary %}}
+{{% alert note %}}
 
 ## Resumen
 
@@ -28,6 +28,8 @@ evidencia de que el policiamiento de puntos calientes desplace el delito
 a otras áreas; al contrario, la evidencia sugiere que los beneficios de
 la intervención pueden extenderse más allá de las zonas intervenidas.
 
+{{% /alert %}}
+
 |                    | Policiamiento de puntos calientes                  |
 |:-------------------|:---------------------------------------------------|
 | **Impacto**        | En general la evidencia sugiere una reducción del delito---la evidencia se considera muy fuerte.                                   |
@@ -36,7 +38,6 @@ la intervención pueden extenderse más allá de las zonas intervenidas.
 | **Cómo hacerlo**   | La calidad de la evidencia es moderada.            |
 | **Costo**          | No hay información.                                |
 
-{{ /alert }}
 
 ## ¿Qué es el policiamiento de puntos calientes?
 
