@@ -8,8 +8,6 @@ authors:
 toc: true
 ---
 
-{{% toc %}}
-
 ## Resumen
 
 En general, la evidencia sugiere que el policiamiento de puntos
