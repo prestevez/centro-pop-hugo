@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: "POP en práctica"
-view: 5
+view: 3
 ---

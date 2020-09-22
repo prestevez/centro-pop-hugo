@@ -3,5 +3,5 @@ header:
   caption: ""
   image: ""
 title: "Guías de respuesta"
-view: 5
+view: 3
 ---
