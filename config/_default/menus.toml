@@ -20,11 +20,11 @@
   parent = "pop-en-practica"
   weight = 10
 
-  [[main]]
-    name = "Problemas y respuestas"
-    url = "pop-en-practica/#problemas-y-respuestas"
-    parent = "pop-en-practica"
-    weight = 100
+[[main]]
+  name = "Problemas y respuestas"
+  url = "pop-en-practica/#problemas-y-respuestas"
+  parent = "pop-en-practica"
+  weight = 100
 
 [[main]]
   name = "Contacto"
