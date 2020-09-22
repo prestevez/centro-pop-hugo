@@ -165,3 +165,5 @@ effects on crime\', Campbell Systematic Reviews, 2012:8, DOI:
 Esta entrada es una adaptación del [*Crime Reduction Toolkit*](https://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx) del [*What Works Centre for Crime Reduction*](https://whatworks.college.police.uk/About/Pages/default.aspx) del Colegio de Policías de Inglaterra y Gales.
 
 {{% /alert %}}
+
+{{% what_works %}}
