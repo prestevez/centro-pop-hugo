@@ -14,13 +14,8 @@ categories: ["Problemas delictivos"]
 image:
   caption: Foto por David Nieto en Unsplash
   focal_point: Smart
+url_source: "https://popcenter.asu.edu/content/street-robbery-0"
 ---
-
-Autores: Khadija M Monk, Justin A Heinonen and John E Eck
-
-Basado en la serie guías del Centro POP para la Solución de Problemas
-Específicos No. 59
-
 
 Introducción
 ------------
@@ -46,7 +41,7 @@ y estos serán discutidos más adelante en esta guía. Esta guía no cubre
 otros delitos callejeros, ya que son causados por diferentes estructuras
 de oportunidad y requieren análisis y respuestas de diferente estilo.
 
-### 2.1 Resumen general del problema
+### Resumen general del problema
 
 Los robos callejeros constituyen una gran parte de todos los robos. En
 muchos países, casi la mitad de todos los robos denunciados a la policía
@@ -57,7 +52,9 @@ Caribe (ALC). Según encuestas, entre el 10,1% y el 30,6% de las personas
 en los países de América Latina fueron víctimas de robo durante el mismo
 año[^1], de los cuales la mayoría fueron víctimas de robos callejeros.
 
-*Delincuentes* Los que cometen robos callejeros tienden a ser jóvenes;
+#### Delincuentes
+
+Los que cometen robos callejeros tienden a ser jóvenes;
 los delincuentes suelen estar en la adolescencia y a principios de los
 20 años de edad. Los delincuentes son típicamente hombres. Aunque la
 raza parece ser un factor en los Estados Unidos, se desconoce si juega
@@ -65,7 +62,9 @@ un papel en la región de ALC. Es más probable que el estatus
 socioeconómico juegue un papel más importante que la raza en la región
 de ALC.
 
-*Víctimas* Los delincuentes que llevan a cabo el robo callejero
+#### Víctimas
+
+Los delincuentes que llevan a cabo el robo callejero
 generalmente buscan víctimas que parecen tener dinero u otros artículos
 de valor. También buscan a aquellas personas que pueden ser más
 vulnerables y menos propensas a resistir un robo (ej. alguien que este
@@ -73,7 +72,9 @@ solo o intoxicado). Los peatones que están distraídos y menos alertas a
 su entorno también tienen más probabilidades de parecer vulnerables a un
 delincuente.
 
-*Horarios, días y lugares.* Los robos callejeros se agrupan en
+#### Horarios, días y lugares
+
+Los robos callejeros se agrupan en
 determinados momentos, días y lugares. Esto se debe a que los patrones
 de robo en la calle siguen los ritmos y las actividades rutinarias de la
 vida cotidiana. Los ladrones de la calle aprovechan el hecho de que los
@@ -83,7 +84,8 @@ ciudad, a medida que avanzan en su vida diaria (ej. desplazamientos
 hacia y desde el trabajo) Aunque los patrones específicos varían,
 algunos patrones generales son comunes:
 
--   [Momentos]{.underline}. A menudo, la mayoría de los robos ocurren
+-   _**Momentos**_
+    -   A menudo, la mayoría de los robos ocurren
     durante la tarde y la noche. Sin embargo, para algunos grupos de
     personas, los tiempos pico de robo variarán dependiendo de sus
     actividades rutinarias. Por ejemplo, es más probable que las
@@ -95,7 +97,8 @@ algunos patrones generales son comunes:
     tarde y la noche cuando salen del trabajo o van en busca de
     entretenimiento.
 
--   [Días]{.underline}. En los Estados Unidos y el Reino Unido, la
+-   _**Días**_
+    -   En los Estados Unidos y el Reino Unido, la
     mayoría de los robos callejeros ocurren los fines de semana. Esto se
     debe a que las actividades sociales que ocurren los fines de semana
     atraen a muchos objetivos potenciales a un área única. No es claro
@@ -106,7 +109,8 @@ algunos patrones generales son comunes:
     el transporte público para ir de su trabajo a su hogar, ya que los
     robos pueden ocurrir cerca de los centros de transporte que usan.
 
--   [Lugar]{.underline}. El robo callejero es más común en las zonas
+-   _**Lugar**_
+    -   El robo callejero es más común en las zonas
     urbanas que en las rurales. Sin embargo, incluso dentro de un área,
     es probable que el robo callejero se agrupe en lugares específicos
     (en calles especificas o intersecciones particulares). Estos lugares
@@ -114,7 +118,9 @@ algunos patrones generales son comunes:
     infantiles y áreas cercanas a paradas y centros de transporte
     público.
 
-*Objetivos* Los ladrones son más propensos a robar ciertos artículos
+#### Objetivos
+
+Los ladrones son más propensos a robar ciertos artículos
 durante un robo callejero: efectivo, monederos, tarjetas de crédito,
 joyas, ropa y dispositivos electrónicos portátiles (especialmente
 teléfonos móviles). Es probable que la proliferación de teléfonos
@@ -123,21 +129,22 @@ callejero en algunos lugares. En general, los artículos tomados durante
 este tipo de robos caen dentro de las características de CRAVED (por sus
 siglas en ingles). Estos son:
 
--   Ocultable, los artículos son fáciles de ocultar
-
--   Extraíble, los ladrones pueden llevarse fácilmente el artículo
-
--   Disponible, se encuentran comúnmente en víctimas potenciales
-
--   Valiosos, los artículos son útiles para el ladrón u otra persona.
-
--   Deseados, los artículos son divertidos de usar, brindan placer y
+-   _**Ocultable**_
+    -   Los artículos son fáciles de ocultar
+-   _**Extraíble**_
+    -   Los ladrones pueden llevarse fácilmente el artículo
+-   _**Disponible**_
+    -   Se encuentran comúnmente en víctimas potenciales
+-   _**Valiosos**_
+-   Los artículos son útiles para el ladrón u otra persona.
+-   _**Deseados**_
+    -   Los artículos son divertidos de usar, brindan placer y
     satisfacción
-
--   Desechables, los ladrones pueden vender o intercambiar los artículos
+-   _**Desechables**_
+    -   Los ladrones pueden vender o intercambiar los artículos
     con facilidad.
 
-### 2.2 Daños causados por el robo callejero
+### Daños causados por el robo callejero
 
 El robo callejero es una fuente que genera temor entre la población en
 general porque las víctimas enfrentan una amenaza repentina a la vida,
@@ -184,7 +191,7 @@ Dirigirse a un lado del triángulo podría ayudar, pero abordar más de uno
 probablemente sea más efectivo para reducir los problemas que facilitan
 al robo callejero.
 
-### 3.1 Delincuentes
+### Delincuentes
 
 Como todos los delincuentes, los ladrones callejeros participan en un
 proceso de toma de decisiones cuando seleccionan víctimas, horarios y
@@ -192,7 +199,9 @@ lugares para cometer sus crímenes. Para implementar intervenciones
 apropiadas, es útil considerar los siguientes tres factores que afectan
 el proceso de toma de decisiones de un delincuente:
 
-*Necesidades de efectivo.* Los delincuentes roban principalmente porque
+#### Necesidades de efectivo
+
+Los delincuentes roban principalmente porque
 quieren o necesitan efectivo. Esto podría ser para obtener el dinero
 necesario para comprar sustancias intoxicantes (por ejemplo, alcohol,
 drogas) u otros artículos que representan el éxito o estatus (por
@@ -203,7 +212,9 @@ otros artículos valiosos de las víctimas (por ejemplo, teléfonos
 móviles), pueden usarlos ellos mismos, pero es más común que vendan los
 artículos un mercado de bienes robados.
 
-*Métodos de ataque* Los delincuentes usan diferentes métodos de ataque
+#### Métodos de ataque
+
+Los delincuentes usan diferentes métodos de ataque
 para cometer un robo callejero. La capacidad de usar un método en un
 entorno particular también puede afectar su decisión de cometer el robo.
 Los cuatro métodos principales de ataque son (con detalles adicionales
@@ -638,6 +649,12 @@ respuesta.
 Los delincuentes pueden responder a su intervención desplazándose a una
 nueva ubicación. Anticipar tales adaptaciones puede ayudar a limitar que
 sucedan. Sin embargo, el desplazamiento no es inevitable.
+
+{{% alert note %}}
+Esta guía es una adaptación de la Guía No. 59 de la serie de guías del [Centro POP](https://popcenter.asu.edu/) para la Solución de Problemas Específicos, por Khadija M Monk, Justin A Heinonen y John E Eck.
+{{% /alert %}}
+
+
 
 [^1]: En Bergman, Marcelo (2018) *More Money, More Crime: Prosperity and
     rising crime in Latin America*. Oxford, UK: Oxford University Press,
