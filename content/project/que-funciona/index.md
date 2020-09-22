@@ -4,7 +4,7 @@ summary: Síntesis de la evidencia existente sobre la efectividad de respuestas 
 date: "2020-09-22"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "pop-en-practica/#que-funciona"
+external_link: "/centro-pop-hugo/pop-en-practica/#que-funciona"
 
 image:
   caption: What Works Centre for Crime Reduction Logo

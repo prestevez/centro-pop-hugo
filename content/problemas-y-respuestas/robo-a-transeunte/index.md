@@ -9,7 +9,7 @@ authors:
   - schainey
   - prestevez
 toc: true
-projects: ["que-funciona"]
+categories: ["Problemas delictivos"]
 
 image:
   caption: Foto por David Nieto en Unsplash
