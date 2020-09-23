@@ -23,6 +23,7 @@ pop_guide_type: "Problemas Específicos"
 
 ---
 
+{{% alert secondary%}}
 Introducción
 ------------
 
@@ -35,6 +36,8 @@ que las respuestas al robo callejero probablemente variarán, pero que
 también es probable que haya mucho en común en los procesos de
 prevención de este delito. En esta guía, también describimos algunas de
 las posibles respuestas a los problemas de robo callejeros.
+{{% /alert %}}
+
 
 El problema del robo callejero
 ------------------------------
@@ -265,13 +268,33 @@ intervenciones podrían centrarse en interrumpir los planes de los
 delincuentes al hacer que tales desafíos situacionales sean más
 difíciles de superar.
 
-|         | **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
-|:--------|:------------------|:-------------------------|:--------------------|
-| **Flash** | Los delincuentes usan la violencia para obtener el control. | Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas. | No es útil en multitudes. Se puede usar cuando no hay rutas de escape. |
-| **Arrebato** | Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales. | Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos. | Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea. |
-| **Enfrentamiento** | Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida. | Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas. | Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables. |
-| **Engaño** | Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla. | Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles. | Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo. |
+{{% alert note %}}
 
+##### Flash
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Los delincuentes usan la violencia para obtener el control. | Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas. | No es útil en multitudes. Se puede usar cuando no hay rutas de escape. |
+
+##### Arrebato
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales. | Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos. | Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea. |
+
+##### Enfrentamiento
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida. | Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas. | Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables. |
+
+##### Engaño
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla. | Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles. | Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo. |
+
+{{% /alert %}}
 
 ### Victimas
 
