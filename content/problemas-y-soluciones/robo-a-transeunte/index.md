@@ -276,25 +276,25 @@ Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyent
 
 ##### Flash
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Los delincuentes usan la violencia para obtener el control. | Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas. | No es útil en multitudes. Se puede usar cuando no hay rutas de escape. |
 
 ##### Arrebato
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales. | Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos. | Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea. |
 
 ##### Enfrentamiento
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida. | Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas. | Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables. |
 
 ##### Engaño
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla. | Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles. | Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo. |
 
@@ -630,13 +630,13 @@ delincuente.
 
 Patrullas enfocadas en áreas de alta criminalidad.
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el riesgo percibido de detección de los ladrones. | La policía es muy visible en los puntos críticos durante los períodos pico de robo. | Debería ser parte de un plan de solución más grande a largo plazo. |
 
 #### Patrullas enfocadas encubiertas
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el riesgo real de captura de los ladrones. | La policía vestida de civil puede atrapar a los delincuentes en el acto.  | Efectos limitados por sí mismo. Se puede usar para arrestar delincuentes muy prolíficos. |
 
@@ -644,31 +644,31 @@ Patrullas enfocadas en áreas de alta criminalidad.
 
 Uso de la inteligencia para disuadir a ladrones prolíficos.
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Disuade a los ladrones prolíficos al aumentar su probabilidad de arresto. | Existen buenas bases de datos de inteligencia criminal. | Puede requerir capacitación y recursos especializados. Difícil de coordinar. |
 
 #### Perturbar los mercados de bienes robados
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce las recompensas de cometer robos. | La policía trabaja con empresas locales y residentes para identificar mercados de bienes robados. | Algunos mercados pueden se online y extenderse más allá de la jurisdicción. |
 
 #### Mejorar los métodos de identificación de ladrones
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
-| Aumenta el riesgo de detección. | Combinado con enfoques basados en inteligencia. | Puede ser costoso. |
+| Aumenta el riesgo de detección. | Se combina con enfoques basados en inteligencia. | Puede ser costoso. |
 
 #### Desviar delincuentes potenciales a actividades legítimas
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Elimina excusas por ofender. | La policía trabaja con agencias de asistencia social y ONGs. | Las asociaciones deben ser cultivadas y sostenidas en el tiempo. |
 
 #### Eliminar herramientas usadas para el robo
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el esfuerzo por cometer un robo. | Los minoristas locales acuerdan regular tales herramientas. | Los minoristas pueden resistir. |
 
@@ -683,37 +683,37 @@ A continuación se detallan las respuestas organizadas en relación a la víctim
 
 #### Campañas de concientización sobre robos
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Pide a las víctimas que tomen precauciones, reduciendo su atractivo y vulnerabilidad a los ladrones. | La campaña se dirige solo a las personas con mayor riesgo de sufrir un robo, en los lugares más peligrosos. | Una buena campaña puede requerir la participación de profesionales de publicidad y relaciones públicas. |
 
 #### Proporcionar transporte seguro
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce el número de objetivos en la calle. | El transporte es accesible y está disponible a bajo precio en los momentos y lugares pico de robo. | Requiere la participación de proveedores de transporte y otras partes interesadas. |
 
 #### Mejorar cómo las víctimas denuncian robos
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Mejora la recopilación de inteligencia, aumentando la probabilidad de arrestos. | Reportar robos es rápido y conveniente, y la víctima recibe apoyo. | La inteligencia debe fluir rápidamente a los oficiales de primera línea. |
 
 #### Reducción de la intoxicación en áreas pico de robo
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce la vulnerabilidad de las víctimas. | La policía trabaja con lugares de entretenimiento. | Las partes interesadas pueden necesitar convencimiento. |
 
 #### Rediseñando artículos CRAVED
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce el atractivo de un objeto para ladrones. | Las mejoras de seguridad están bien publicitadas. | Requiere convencer a los fabricantes, que pueden no ser locales. |
 
 #### Hacer que ciertos grupos sean menos vulnerables
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce el riesgo de victimización de personas vulnerables específicas. | Está claro qué hace que un grupo de personas sea más vulnerable. | Requiere un análisis detallado y respuestas creativas. |
 
@@ -727,32 +727,32 @@ A continuación se detallan las respuestas organizadas en relación a la ubicaci
 
 #### Eliminar los escondites
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta la protección natural y el riesgo percibido de detección. |  La policía trabaja con otras agencias que tienen la autoridad necesaria para hacer las modificaciones. | Podría requerir la eliminación de valiosos árboles y edificios. |
 
 #### Incremento del alumbrado público en lugares problemáticos
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta la protección natural y el riesgo percibido de detección. | Las luces se instalan en o cerca de puntos calientes nocturnos. | Deben de mantenerse. Podría aumentar el robo si los objetivos son más fáciles de detectar. |
 
 
 #### Instalar CCTV
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta la protección natural y el riesgo percibido de detección. | La presencia de CCTV está bien publicitada. | Menos efectivo si se producen desplazamientos. CCTV debe ser monitoreado. |
 
 #### Aumentar la densidad peatonal
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta la protección natural y el riesgo percibido de detección. | Los robos ocurren en el punto medio entre lugares aglomerados y vacíos. | El desvío del tráfico peatonal puede hacer que los viajes sean inconvenientes para algunos. |
 
 #### Eliminar rutas de escape
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el esfuerzo para los delincuentes. | Los puntos calientes de robo son áreas con muchas rutas de escape. | Los ladrones pueden estar más dispuestos a usar la violencia si no pueden escapar. |
 
@@ -766,20 +766,20 @@ A continuación se detallan las respuestas organizadas en relación a la rutina.
 
 #### Mejorar la planificación de eventos especiales
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 |  Reduce los riesgos de robo atípicos. | Las condiciones que aumentan el riesgo pueden identificarse y manipularse. | Se debe tener cuidado de no disuadir a los asistentes de ir a eventos con excesiva seguridad. |
 
 
 #### Notificar a los padres y estudiantes sobre los riesgos antes de que empiece año escolar
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce la vulnerabilidad de los estudiantes. | Los padres están dispuestos a tomar precauciones relevantes. | Las escuelas pueden dudar en preocupar a los padres y estudiantes. |
 
 #### Proporcionar rutas seguras durante las construcciones
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Reduce el aislamiento de peatones en lugares desconocidos. | La policía trabaja con los constructores para adaptar las rutas según sea necesario. | Las condiciones cambian rápidamente y pueden dificultar el monitoreo. |
 
@@ -794,13 +794,13 @@ Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 
 #### Usar señuelos policiales
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el riesgo de detención del delincuente. | La policía quiere arrestar a más delincuentes. | Poca evidencia que demuestre que reduce el robo. |
 
 #### Dar armas a víctimas potenciales
 
-| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+| **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
 | Aumenta los riesgos para los delincuentes. | Los delincuentes percibieron un mayor riesgo de represalias de las víctimas. | Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.|
 
