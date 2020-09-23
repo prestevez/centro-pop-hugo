@@ -12,10 +12,14 @@ El proyecto aún está en fase de desarrollo.
 
 ## Tareas
 
-- [ ] Armar estructura básica del sitio
-- [ ] Armar homepage
+- [x] Armar estructura básica del sitio
+- [x] Armar homepage
 - [ ] Agregar contenidos
 - [ ] Crear perfiles de usuarios
 - [ ] Crear página con autores
 - [ ] Crear perfil institucional de autor?
 - [ ] Agregar featured images a todos(?) los posts
+- [ ] Agregar PDFs de guias y toolkits para descarga
+- [ ] Obtener logos correctos para socios
+- [ ] Escribir los términos de uso y agregar al sitio
+- [ ] Escribir la política de privacidad (uso de google analytics) y agregar al sitio
