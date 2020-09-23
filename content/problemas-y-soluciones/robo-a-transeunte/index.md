@@ -185,6 +185,13 @@ víctimas, los delincuentes, las ubicaciones y las rutinas interactúan,
 el modelo en su totalidad contribuye a entender los patrones del robo
 callejero.
 
+{{% alert note%}}
+### Street Robbery Analysis Triangle
+
+Image here
+
+{{% /alert %}}
+
 Los robos callejeros ocurren cuando los delincuentes motivados
 encuentran víctimas adecuadas en un lugar que facilita el robo. Cuando
 los delincuentes se encuentran repetidamente con víctimas en el mismo
@@ -226,21 +233,27 @@ entorno particular también puede afectar su decisión de cometer el robo.
 Los cuatro métodos principales de ataque son (con detalles adicionales
 proporcionados en la tabla a continuación):
 
--   [Flash]{.underline}. El delincuente primero usa la violencia para
+-   _**Flash**_
+    -   El delincuente primero usa la violencia para
     dominar a la víctima y luego procede a robarla.
 
--   [Arrebato]{.underline}. Los delincuentes toman rápidamente la
+-   _**Arrebato**_
+    -    Los delincuentes toman rápidamente la
     propiedad visible (por ejemplo, un bolso o un teléfono móvil) de la
     víctima y escapan a toda velocidad.
 
--   [Enfrentamiento]{.underline}. El delincuente exige las posesiones de
+-   _**Enfrentamiento**_
+    -   El delincuente exige las posesiones de
     la víctima mediante amenazas.
 
--   [Engaño]{.underline}. El delincuente utiliza una distracción para
+-   _**Engaño**_
+    -   El delincuente utiliza una distracción para
     atrapar a la víctima con la guardia baja, por ejemplo, preguntando
     la hora.
 
-*Planificación* Los delincuentes aprenden de la experiencia previa qué
+#### Planificación
+
+Los delincuentes aprenden de la experiencia previa qué
 tácticas funcionan dependiendo de la situación. Lo que podría parecer
 impulsivo o aleatorio podría ser, de hecho, el producto de un plan
 moldeado por la experiencia previa. Las circunstancias inmediatas (por
@@ -252,16 +265,15 @@ intervenciones podrían centrarse en interrumpir los planes de los
 delincuentes al hacer que tales desafíos situacionales sean más
 difíciles de superar.
 
-                       **Como funciona**                                                                                                        **Funciona mejor si...**                                                                                                                   **Consideraciones**
-  -------------------- ------------------------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------------------------
-  **Flash**            Los delincuentes usan la violencia para obtener el control.                                                              Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas.                                                        No es útil en multitudes. Se puede usar cuando no hay rutas de escape.
-  **Arrebato**         Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales.                         Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos.   Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea.
-  **Enfrentamiento**   Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida.   Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas.                                     Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables.
-  **Engaño**           Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla.                                  Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles.                                            Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo.
+|         | **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:--------|:------------------|:-------------------------|:--------------------|
+| **Flash** | Los delincuentes usan la violencia para obtener el control. | Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas. | No es útil en multitudes. Se puede usar cuando no hay rutas de escape. |
+| **Arrebato** | Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales. | Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos. | Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea. |
+| **Enfrentamiento** | Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida. | Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas. | Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables. |
+| **Engaño** | Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla. | Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles. | Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo. |
 
-Resumen de los tipos de robo. Los tipos no son mutuamente excluyentes.
 
-### 3.2 Victimas
+### Victimas
 
 Las características de las víctimas[^3] son importantes porque se
 relacionan con algunas actividades rutinarias que aumentan el riesgo de
@@ -297,7 +309,7 @@ que pueden huir después de atacar a una víctima. Esto también se
 relaciona con la probabilidad de que el delincuente perciba que la
 víctima pueda resistirse o perseguirlo.
 
-### 3.3 Lugar
+### Lugar
 
 Los delincuentes eligen ubicaciones en función de las características
 situacionales que hacen que algunos lugares sean más adecuados o
@@ -339,7 +351,7 @@ con las que están más familiarizados.
 *Oportunidades de reventa.* Los ladrones prefieren ubicaciones cercanas
 a lugares donde pueden vender fácilmente los productos robados.
 
-### 3.4 Rutinas
+### Rutinas
 
 Las rutinas afectan el momento de los patrones de robo porque unen a
 ladrones y objetivos en ubicaciones específicas. Los cambios en las
