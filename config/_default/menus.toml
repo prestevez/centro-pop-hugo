@@ -21,8 +21,8 @@
   weight = 10
 
 [[main]]
-  name = "Problemas y respuestas"
-  url = "pop-en-practica/#problemas-y-respuestas"
+  name = "Problemas y Soluciones"
+  url = "pop-en-practica/#problemas-y-soluciones"
   parent = "pop-en-practica"
   weight = 100
 

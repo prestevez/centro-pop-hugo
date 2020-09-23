@@ -9,12 +9,18 @@ authors:
   - schainey
   - prestevez
 toc: true
-categories: ["Problemas delictivos"]
+categories: ["Guías de problemas específicos"]
 #projects: ["problemas-y-respuestas"]
 image:
   caption: Foto por David Nieto en Unsplash
   focal_point: Smart
+
+# Pop Centre params
 url_source: "https://popcenter.asu.edu/content/street-robbery-0"
+pop_guide_num: 59
+pop_guide_authors: "Khadija M Monk, Justin A Heinonen y John E Eck"
+pop_guide_type: "Problemas Específicos"
+
 ---
 
 Introducción
@@ -654,7 +660,7 @@ sucedan. Sin embargo, el desplazamiento no es inevitable.
 Esta guía es una adaptación de la Guía No. 59 de la serie de guías del [Centro POP](https://popcenter.asu.edu/) para la Solución de Problemas Específicos, por Khadija M Monk, Justin A Heinonen y John E Eck.
 {{% /alert %}}
 
-
+{{% pop_guide %}}
 
 [^1]: En Bergman, Marcelo (2018) *More Money, More Crime: Prosperity and
     rising crime in Latin America*. Oxford, UK: Oxford University Press,

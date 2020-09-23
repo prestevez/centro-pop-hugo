@@ -4,12 +4,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Problemas y respuestas"
-subtitle = "Guías específicas de problemas y respuestas comunes."
+title = "Problemas y Soluciones"
+subtitle = "Guías de problemas específicos y soluciones."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "problemas-y-respuestas"
+  page_type = "problemas-y-soluciones"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
