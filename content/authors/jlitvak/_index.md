@@ -15,7 +15,7 @@ social:
 #  link: https://twitter.com/prestevez
 superuser: false
 title: Jonathan Litvak Jankelevich
-usergroups:
+user_groups:
     - Contenido
 ---
 

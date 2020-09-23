@@ -15,7 +15,7 @@ social:
   link: https://twitter.com/prestevez
 superuser: true
 title: Dr Patricio R Estévez-Soto
-usergroups:
+user_groups:
     - Contenido
     - Diseño y desarrollo web
 ---

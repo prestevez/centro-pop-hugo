@@ -15,7 +15,7 @@ social:
   link: https://twitter.com/SpencerChainey
 superuser: false
 title: Dr Spencer Chainey
-usergroups:
+user_groups:
     - Dirección
     - Diseño y desarrollo web
 ---
