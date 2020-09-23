@@ -195,14 +195,6 @@ callejero.
 
 {{% /alert %}}
 
-{{% alert note%}}
-#### El triángulo de análisis del robo callejero
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1061px" viewBox="-0.5 -0.5 1061 822" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-09-23T17:43:45.708Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36&quot; etag=&quot;LLlOmDiAE-0z3303axPG&quot; version=&quot;13.7.1&quot; type=&quot;onedrive&quot;&gt;&lt;diagram id=&quot;fm2tmI-rEGGrfAqysdls&quot; name=&quot;Page-1&quot;&gt;7Vptb+I4EP41+ViUOITAx/Jytydt707tqrv9aJIheNfYWeMU6K8/OzgkIQFSDkqLiio1fmJPPM94ZjxOLHcwW/4pcDy94yFQC9nh0nKHFkJOGyFL/9nhao34PWcNRIKEplMOPJAXMKBt0ISEMC91lJxTSeIyGHDGIJAlDAvBF+VuE07LT41xBBXgIcC0in4noZwa1LHt/MYXINHUPLrrmRsznHU2wHyKQ74oQO7IcgeCc7m+mi0HQDV5GS/rcX/suLuZmAAmmwwIAmd59+J9Qy9P41+d+/DLY/f2xl1LecY0MQpbqEOVvP7U0XOWK0NE53eiJ9qfcCZv5qmZblUH146Vqfv5fXUVmf+pmHmM2f8SNARKWJAoJSGTqXRciy0/SsF60mXwRGok9CRiKHkDUhdmOWpRbbVO9Ti76SP+hgDmJMTa6ZTXKs5tmCjHIs/8MP1avY+m8J01cK3bnuQh32iMJf6dNFhuH1HffylmZEICHBCted9lx+ipQO0Sex0QlTRAEpapQ8oZVYCjtZSC/4IBp1wohHEGWkNC6RakZhUQFinAy1vfeKyAG6TVX0yJhAeF60ctVCJSGH8GMaFpwJ2SMASmMMETFoKOh7bh0iQc197MWA1TM90ZY51N5FYpD/gMpFipLtmAjgn2qyyLmfYizx1u22DTQtpAyDM5y+SraCM7D+nqwkT1V0T4zruP8F+TCIvP2P4Gri+4hKDg9zbDMhGYXmeku08kzpPYPMDxlYZ0bc+uIwBnyk7wjFCChc7j16nyPzEXMmHljYqAZxWn8Wc+O1k+a3fL+cxzqvmsbdflM9c+Uz7rVQwBoarYTFOtiimPOMN0lKNbPOV9vvKUdG27nyDlyrCHE8nLloUlkT/08BbyTPPJSNPXw2WxscoaTOn7o9h4KojQ7Xxc2lpVDenbm3WVlZ/uxrRa8f2GVTzxRASwh0/fFNVYRCAPVYrVhSKAYlUclOdxcqNny+4yVneKJm95e41etdW2NS9gu85Fbee8I491Gnpsy/eKTusc8Nh3aXXvklb3T1F21G3pCNOburWosThe1BG7/1Ns/U+0WUJ79ku7WbMDLklIcIHCM20LL6smZgmmcI06jvQONz2ognkMAblSNR+xPp9Su+VrVO4vJkGIJD5ewc9qpbZaQVvFSrvp4Zt/rmLFO9fh22N6aj0MJJlt6t1XZMPP4zDNYUIZCDymV3oslMYZmONGb84+ooJDomIYJuGhE58TOcYHZemBsHTnN4speaOseiFNRzQJyZHu/JlSa1Oq7zd4oeXU5dTuuXJqtyanblkmUrxoyigeA+1zEYLILGAh105/1nbV7uxjzHxekiaL4kcdzZl0e2UmUc1JaqeGyA14+oOZw0RKoYrFKD2RqVuShaUvuMRSxRa9hHtVcr16R2i0QnevgirZl2MTVdi85+PNNxPNUpC/K7IFmFL4CYKfMAhhSiJtrkB/WqPwvjaDyhD01tyYqSiz0/Q7I4/fOPK8xq5GSs9rdZHrt3vZrxyc/F6r0/W9imOhTrflul0HZQPdmoBlO60jXsKrZv4JV3qv8CGcO/oP&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://viewer.diagrams.net/?client=1&amp;edit=_blank');}}})(this);" style="cursor:pointer;max-width:100%;max-height:822px;"><defs/><g><rect x="140" y="82" width="340" height="225" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 332px; height: 1px; padding-top: 72px; margin-left: 145px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 235px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px"><span style="font-size: 30px">Delincuente</span></h1><h1 style="font-size: 30px"><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Necesidades de efectivo</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Métodos de ataque</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Planificación</span></li></ul></h1></div></div></div></foreignObject><text x="145" y="102" fill="#000000" font-family="Helvetica" font-size="30px">Delincuente...</text></switch></g><rect x="460" y="492" width="400" height="230" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 392px; height: 1px; padding-top: 482px; margin-left: 465px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 240px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px"><span style="font-size: 30px">Lugar</span></h1><h1 style="font-size: 30px"><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Protección natural</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutas de escape</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Área de familiaridad</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Oportunidades de reventa</span></li></ul></h1></div></div></div></foreignObject><text x="465" y="512" fill="#000000" font-family="Helvetica" font-size="30px">Lugar...</text></switch></g><path d="M 85 522 L 85 138.3 L 129.9 138.26" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 136.65 138.25 L 127.65 142.76 L 129.9 138.26 L 127.64 133.76 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><path d="M 340 657 L 400 657 L 400 607 L 449.9 607" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 456.65 607 L 447.65 611.5 L 449.9 607 L 447.65 602.5 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><path d="M 85 792 L 85 812 L 982.5 812 L 982.5 372.1" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 982.5 365.35 L 987 374.35 L 982.5 372.1 L 978 374.35 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><rect x="0" y="522" width="340" height="270" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 332px; height: 1px; padding-top: 512px; margin-left: 5px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 280px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px">Rutinas<br style="font-size: 30px" /><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutinas cotidianas</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutinas anuales</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Eventos especiales</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Vacaciones</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Interrupciones</span></li></ul></h1></div></div></div></foreignObject><text x="5" y="542" fill="#000000" font-family="Helvetica" font-size="30px">Rutinas...</text></switch></g><rect x="750" y="82" width="310" height="280" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 302px; height: 1px; padding-top: 72px; margin-left: 755px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 290px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px">Víctima<br style="font-size: 30px" /><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Vulnerable</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Interesante</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Distraida</span><br style="font-size: 30px" /></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Sin complicaciones</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Eludible</span></li></ul></h1></div></div></div></foreignObject><text x="755" y="102" fill="#000000" font-family="Helvetica" font-size="30px">Víctima...</text></switch></g><path d="M 370 2 L 830 232 L 370 462 Z" fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" transform="rotate(-90,600,232)" pointer-events="all"/><rect x="465.82" y="181.69" width="268.34" height="201.25" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 266px; height: 1px; padding-top: 282px; margin-left: 467px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 70px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Robo<br style="font-size: 70px" />callejero</div></div></div></foreignObject><text x="600" y="303" fill="#000000" font-family="Helvetica" font-size="70px" text-anchor="middle">Robo...</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text></a></switch></svg>
-
-
-{{% /alert %}}
-
 Los robos callejeros ocurren cuando los delincuentes motivados
 encuentran víctimas adecuadas en un lugar que facilita el robo. Cuando
 los delincuentes se encuentran repetidamente con víctimas en el mismo
@@ -308,7 +300,7 @@ Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyent
 
 {{% /alert %}}
 
-### Victimas
+### víctimas
 
 Las características de las víctimas[^3] son importantes porque se
 relacionan con algunas actividades rutinarias que aumentan el riesgo de
@@ -329,7 +321,7 @@ probabilidades de resistir.
 
 #### Interesantes
 
-Las variables que pueden hacer que una victima sea
+Las variables que pueden hacer que una víctima sea
 interesante para un ladrón no son universales. Algunos ladrones quieren
 solo robar efectivo y, por lo tanto, buscarán víctimas que perciban que
 sean más propensas a llevar efectivo u otros artículos que valga la pena
@@ -411,25 +403,33 @@ ladrones y objetivos en ubicaciones específicas. Los cambios en las
 rutinas pueden tener grandes efectos en los patrones de robo. Algunas de
 las rutinas que afectan los patrones de robo son:
 
-*Eventos especiales* Eventos como eventos deportivos y festivales pueden
+#### Eventos especiales
+
+Eventos como eventos deportivos y festivales pueden
 llevar a una gran cantidad de personas a áreas pequeñas. Las multitudes
 proporcionan una gran cantidad de objetivos, ya sea en los terrenos del
 evento o en las rutas para llegar allí. Los asistentes al evento pueden
 no estar familiarizados con el área, pueden estar distraídos o
 intoxicados, lo que podría hacerlos más vulnerables a los delincuentes.
 
-*Vacaciones* Ciertos días festivos aumentan la disponibilidad de
+#### Vacaciones
+
+Ciertos días festivos aumentan la disponibilidad de
 víctimas llevando efectivo y otros bienes valiosos en público. Además,
 algunas vacaciones implican un mayor consumo de alcohol y drogas. Por lo
 tanto, los robos pueden alcanzar su punto máximo en estas fechas.
 
-*Rutinas anuales.* El comienzo del año escolar puede aumentar la
+#### Rutinas anuales
+
+El comienzo del año escolar puede aumentar la
 cantidad de personas que llevan artículos CRAVED en áreas desconocidas
 (por ejemplo, nuevos estudiantes con computadoras portátiles y teléfonos
 en el campus). Otras rutinas que convocan grandes volúmenes de personas
 en nuevas ubicaciones incluyen el trabajo estacional y las vacaciones.
 
-*Interrupción a las rutinas.* La construcción puede alterar las rutas
+#### Interrupción a las rutinas
+
+La construcción puede alterar las rutas
 que las personas suelen tomar para llegar al trabajo, forzándolas a
 pasar por lugares desconocidos y exponiéndolos potencialmente a un mayor
 riesgo de robo. El equipo de construcción (como andamios y barreras)
@@ -437,20 +437,25 @@ también puede obstruir la vista, reduciendo la protección natural del
 ambiente. Las interrupciones también pueden disminuir el riesgo de robo
 al separar a los delincuentes de los objetivos.
 
-*Rutinas cotidianas.* Los ritmos de la vida cotidiana pueden tener un
+#### Rutinas cotidianas
+
+Los ritmos de la vida cotidiana pueden tener un
 gran efecto en los patrones de robo:
 
--   [Escuela]{.underline}. El día escolar dicta las horas y los días en
+-   _**Escuela**_
+    -   El día escolar dicta las horas y los días en
     que los estudiantes están expuestos a robos en la calle (por
     ejemplo, llegar y salir de la escuela los días de semana).
 
--   [Desplazamientos]{.underline}. La mayoría de las ciudades ven un
+-   _**Desplazamientos**_
+    -   La mayoría de las ciudades ven un
     aumento de la densidad de peatones en los momentos en que las
     personas llegan y salen del trabajo (mañana y tarde). La forma en
     que estas horas punta afectan los patrones de robo probablemente
     variará según la ciudad y el vecindario.
 
--   [Rutinas de pago]{.underline}. Algunos trabajadores reciben salarios
+-   _**Rutinas de pago**_
+    -   Algunos trabajadores reciben salarios
     durante periodos específicos y regulares (por ejemplo, diariamente,
     quincenalmente, mensualmente). Los trabajadores pagados en efectivo
     al final del día son objetivos de robo. De manera similar, es más
@@ -459,12 +464,13 @@ gran efecto en los patrones de robo:
     disfrutar de sus ingresos y los delincuentes están al acecho de
     estos objetivos.
 
--   [Entretenimiento]{.underline}. Las rutinas asociadas con el
+-   _**Entretenimiento**_
+    -   Las rutinas asociadas con el
     entretenimiento pueden afectar los patrones de robo al reunir a los
     delincuentes y objetivos en lugares en determinados momentos (como
     parques, museos, teatros, bares y restaurantes). El aumento del
     consumo de alcohol puede aumentar aún más el riesgo de robo al
-    aumentar la vulnerabilidad y disminuir la capacidad de la victima
+    aumentar la vulnerabilidad y disminuir la capacidad de la víctima
     para protegerse.
 
 Comprender el problema local
@@ -613,22 +619,67 @@ respuestas policiales pueden no ser sostenibles a largo plazo, y es
 probable que el plan de respuesta requiera cooperación con las partes
 interesadas.
 
-A continuación se detallan las respuestas, organizadas en relación al
-delincuente, a la víctima, a la ubicación y a la rutina.
+{{% alert note %}}
 
 ### Respuestas orientadas al delincuente
 
-  **Respuesta**                                                                        **Como funciona**                                                           **Funciona mejor si \...**                                                                          **Consideraciones**
-  ------------------------------------------------------------------------------------ --------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------
-  *Vigilancia de zonas calientes: patrullas enfocadas en áreas de alta criminalidad*   Aumenta el riesgo percibido de detección de los ladrones.                   La policía es muy visible en los puntos críticos durante los períodos pico de robo.                 Debería ser parte de un plan de solución más grande a largo plazo.
-  *Patrullas enfocadas encubiertas*                                                    Aumenta el riesgo real de captura de los ladrones.                          La policía vestida de civil puede atrapar a los delincuentes en el acto.                            Efectos limitados por sí mismo. Se puede usar para arrestar delincuentes muy prolíficos.
-  *Disuasión focalizada: uso de la inteligencia para atacar a ladrones prolíficos*     Disuade a los ladrones prolíficos al aumentar su probabilidad de arresto.   Existen buenas bases de datos de inteligencia criminal.                                             Puede requerir capacitación y recursos especializados. Difícil de coordinar.
-  *Perturbar los mercados de bienes robados*                                           Reduce las recompensas de cometer robos.                                    La policía trabaja con empresas locales y residentes para identificar mercados de bienes robados.   Algunos mercados pueden se online y extenderse más allá de la jurisdicción.
-  *Mejora de los métodos de identificación de ladrones*                                Aumenta el riesgo de detección.                                             Combinado con enfoques basados en inteligencia.                                                     Puede ser costoso
-  *Desviar delincuentes potenciales a actividades legítimas*                           Elimina excusas por ofender.                                                La policía trabaja con agencias de asistencia social y ONGs.                                        Las asociaciones deben ser cultivadas y sostenidas en el tiempo.
-  *Eliminar herramientas de robo*                                                      Aumenta el esfuerzo por cometer un robo.                                    Los minoristas locales acuerdan regular tales herramientas.                                         Los minoristas pueden resistir.
+A continuación se detallan las respuestas, organizadas en relación al
+delincuente.
+
+#### Policiamiento de zonas calientes
+
+Patrullas enfocadas en áreas de alta criminalidad.
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el riesgo percibido de detección de los ladrones. | La policía es muy visible en los puntos críticos durante los períodos pico de robo. | Debería ser parte de un plan de solución más grande a largo plazo. |
+
+#### Patrullas enfocadas encubiertas
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el riesgo real de captura de los ladrones. | La policía vestida de civil puede atrapar a los delincuentes en el acto.  | Efectos limitados por sí mismo. Se puede usar para arrestar delincuentes muy prolíficos. |
+
+#### Disuasión focalizada
+
+Uso de la inteligencia para disuadir a ladrones prolíficos.
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Disuade a los ladrones prolíficos al aumentar su probabilidad de arresto. | Existen buenas bases de datos de inteligencia criminal. | Puede requerir capacitación y recursos especializados. Difícil de coordinar. |
+
+#### Perturbar los mercados de bienes robados
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce las recompensas de cometer robos. | La policía trabaja con empresas locales y residentes para identificar mercados de bienes robados. | Algunos mercados pueden se online y extenderse más allá de la jurisdicción. |
+
+#### Mejorar los métodos de identificación de ladrones
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el riesgo de detección. | Combinado con enfoques basados en inteligencia. | Puede ser costoso. |
+
+#### Desviar delincuentes potenciales a actividades legítimas
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Elimina excusas por ofender. | La policía trabaja con agencias de asistencia social y ONGs. | Las asociaciones deben ser cultivadas y sostenidas en el tiempo. |
+
+#### Eliminar herramientas usadas para el robo
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el esfuerzo por cometer un robo. | Los minoristas locales acuerdan regular tales herramientas. | Los minoristas pueden resistir. |
+
+{{% /alert %}}
+
+
+{{% alert note %}}
 
 ### Respuestas orientadas a las víctimas
+
+A continuación se detallan las respuestas, organizadas en relación a la víctima.
 
   **Respuesta**                                          **Como funciona**                                                                                      **Funciona mejor si \...**                                                                                    **Consideraciones**
   ------------------------------------------------------ ------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------
@@ -639,7 +690,13 @@ delincuente, a la víctima, a la ubicación y a la rutina.
   *Rediseñando artículos CRAVED*                         Reduce el atractivo de un objeto para ladrones.                                                        Las mejoras de seguridad están bien publicitadas.                                                             Requiere convencer a los fabricantes, que pueden no ser locales.
   *Hacer que ciertos grupos sean menos vulnerables*      Reduce el riesgo de victimización de personas vulnerables específicas.                                 Está claro qué hace que un grupo de personas sea más vulnerable.                                              Requiere un análisis detallado y respuestas creativas.
 
+{{% /alert%}}
+
+{{% alert note %}}
 ### Respuestas orientadas a la ubicación
+
+A continuación se detallan las respuestas, organizadas en relación a la ubicación.
+
 
 +----------------+----------------+----------------+----------------+
 | **Respuesta**  | **Como         | **Funciona     | **Con          |
@@ -690,7 +747,12 @@ delincuente, a la víctima, a la ubicación y a la rutina.
 |                |                |                | escapar.       |
 +----------------+----------------+----------------+----------------+
 
+{{% /alert %}}
+
+{{% alert note %}}
 ### Respuestas orientadas a la rutina
+
+A continuación se detallan las respuestas, organizadas en relación a la rutina.
 
   **Respuesta**                                                                                **Como funciona**                                            **Funciona mejor si \...**                                                             **Consideraciones**
   -------------------------------------------------------------------------------------------- ------------------------------------------------------------ -------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
@@ -698,12 +760,17 @@ delincuente, a la víctima, a la ubicación y a la rutina.
   *Notificar a los padres y estudiantes sobre los riesgos antes de que empiece año escolar.*   Reduce la vulnerabilidad de los estudiantes.                 Los padres están dispuestos a tomar precauciones relevantes.                           Las escuelas pueden dudar en preocupar a los padres y estudiantes.
   *Proporcionar rutas seguras durante las construcciones.*                                     Reduce el aislamiento de peatones en lugares desconocidos.   La policía trabaja con los constructores para adaptar las rutas según sea necesario.   Las condiciones cambian rápidamente y pueden dificultar el monitoreo.
 
+{{% alert warning %}}
 ### Respuestas ineficaces
+
+Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 
   **Respuesta**                    **Como funciona**                                 **Funciona mejor si \...**                                                     **Consideraciones**
   -------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------
   *Usando señuelos policiales*     Aumenta el riesgo de detención del delincuente.   La policía quiere arrestar a más delincuentes.                                 Poca evidencia que demuestre que reduce el robo.
   *Armando víctimas potenciales*   Aumenta los riesgos para los delincuentes.        Los delincuentes percibieron un mayor riesgo de represalias de las víctimas.   Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.
+
+{{% /alert %}}
 
 Medición de efectividad
 -----------------------
