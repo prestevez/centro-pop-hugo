@@ -619,12 +619,12 @@ respuestas policiales pueden no ser sostenibles a largo plazo, y es
 probable que el plan de respuesta requiera cooperación con las partes
 interesadas.
 
-{{% alert note %}}
-
 ### Respuestas orientadas al delincuente
 
-A continuación se detallan las respuestas, organizadas en relación al
+A continuación se detallan las respuestas organizadas en relación al
 delincuente.
+
+{{% alert note %}}
 
 #### Policiamiento de zonas calientes
 
@@ -674,101 +674,135 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 
 {{% /alert %}}
 
-
-{{% alert note %}}
-
 ### Respuestas orientadas a las víctimas
 
-A continuación se detallan las respuestas, organizadas en relación a la víctima.
+A continuación se detallan las respuestas organizadas en relación a la víctima.
 
-  **Respuesta**                                          **Como funciona**                                                                                      **Funciona mejor si \...**                                                                                    **Consideraciones**
-  ------------------------------------------------------ ------------------------------------------------------------------------------------------------------ ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------
-  *Campañas de concientización sobre robos*              Pide a las víctimas que tomen precauciones, reduciendo su atractivo y vulnerabilidad a los ladrones.   La campaña se dirige solo a las personas con mayor riesgo de sufrir un robo, en los lugares más peligrosos.   Una buena campaña puede requerir la participación de profesionales de publicidad y relaciones públicas.
-  *Proporcionar transporte seguro*                       Reduce el número de objetivos en la calle.                                                             El transporte es accesible y está disponible a bajo precio en los momentos y lugares pico de robo.            Requiere la participación de proveedores de transporte y otras partes interesadas.
-  *Mejorar cómo las víctimas denuncian robos*            Mejora la recopilación de inteligencia, aumentando la probabilidad de arrestos.                        Reportar robos es rápido y conveniente, y la víctima recibe apoyo.                                            La inteligencia debe fluir rápidamente a los oficiales de primera línea.
-  *Reducción de la intoxicación en áreas pico de robo*   Reduce la vulnerabilidad de las víctimas.                                                              La policía trabaja con lugares de entretenimiento.                                                            Las partes interesadas pueden necesitar convencimiento.
-  *Rediseñando artículos CRAVED*                         Reduce el atractivo de un objeto para ladrones.                                                        Las mejoras de seguridad están bien publicitadas.                                                             Requiere convencer a los fabricantes, que pueden no ser locales.
-  *Hacer que ciertos grupos sean menos vulnerables*      Reduce el riesgo de victimización de personas vulnerables específicas.                                 Está claro qué hace que un grupo de personas sea más vulnerable.                                              Requiere un análisis detallado y respuestas creativas.
-
-{{% /alert%}}
 
 {{% alert note %}}
-### Respuestas orientadas a la ubicación
 
-A continuación se detallan las respuestas, organizadas en relación a la ubicación.
+#### Campañas de concientización sobre robos
 
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Pide a las víctimas que tomen precauciones, reduciendo su atractivo y vulnerabilidad a los ladrones. | La campaña se dirige solo a las personas con mayor riesgo de sufrir un robo, en los lugares más peligrosos. | Una buena campaña puede requerir la participación de profesionales de publicidad y relaciones públicas. |
 
-+----------------+----------------+----------------+----------------+
-| **Respuesta**  | **Como         | **Funciona     | **Con          |
-|                | funciona**     | mejor si       | sideraciones** |
-|                |                | \...**         |                |
-+================+================+================+================+
-| *Eliminar los  | Aumenta la     | La policía     | Podría         |
-| escondites*    | protección     | trabaja con    | requerir la    |
-|                | natural y el   | otras agencias | eliminación de |
-|                | riesgo         | que tienen la  | valiosos       |
-|                | percibido de   | autoridad      | árboles y      |
-|                | detección.     | necesaria para | edificios.     |
-|                |                | hacer las      |                |
-|                |                | m              |                |
-|                |                | odificaciones. |                |
-+----------------+----------------+----------------+----------------+
-| *Incremento    | Aumenta la     | Las luces se   | Deben de       |
-| del alumbrado  | protección     | instalan en o  | mantenerse.    |
-| público en     | natural y el   | cerca de       | Podría         |
-| lugares        | riesgo         | puntos         | aumentar el    |
-| problemáticos* | percibido de   | calientes      | robo si los    |
-|                | detección.     | nocturnos.     | objetivos son  |
-|                |                |                | más fáciles de |
-|                |                |                | detectar.      |
-+----------------+----------------+----------------+----------------+
-| *Instalar      | Aumenta la     | La presencia   | Menos efectivo |
-| CCTV*          | protección     | de CCTV está   | si se producen |
-|                | natural y el   | bien           | de             |
-|                | riesgo         | publicitada.   | splazamientos. |
-|                | percibido de   |                | CCTV debe ser  |
-|                | detección.     |                | monitoreado.   |
-+----------------+----------------+----------------+----------------+
-| *Aumento de la | Aumenta la     | Los robos      | El desvío del  |
-| densidad de    | protección     | ocurren en el  | tráfico        |
-| peatones*      | natural y el   | punto medio    | peatonal puede |
-|                | riesgo         | entre lugares  | hacer que los  |
-|                | percibido de   | aglomerados y  | viajes sean    |
-|                | detección.     | vacíos.        | inconvenientes |
-|                |                |                | para algunos.  |
-|                |                |                |                |
-+----------------+----------------+----------------+----------------+
-| *Eliminar      | Aumenta el     | Los puntos     | Los ladrones   |
-| rutas de       | esfuerzo para  | calientes de   | pueden estar   |
-| escape*        | los            | robo son áreas | más dispuestos |
-|                | delincuentes.  | con muchas     | a usar la      |
-|                |                | rutas de       | violencia si   |
-|                |                | escape.        | no pueden      |
-|                |                |                | escapar.       |
-+----------------+----------------+----------------+----------------+
+#### Proporcionar transporte seguro
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce el número de objetivos en la calle. | El transporte es accesible y está disponible a bajo precio en los momentos y lugares pico de robo. | Requiere la participación de proveedores de transporte y otras partes interesadas. |
+
+#### Mejorar cómo las víctimas denuncian robos
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Mejora la recopilación de inteligencia, aumentando la probabilidad de arrestos. | Reportar robos es rápido y conveniente, y la víctima recibe apoyo. | La inteligencia debe fluir rápidamente a los oficiales de primera línea. |
+
+#### Reducción de la intoxicación en áreas pico de robo
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce la vulnerabilidad de las víctimas. | La policía trabaja con lugares de entretenimiento. | Las partes interesadas pueden necesitar convencimiento. |
+
+#### Rediseñando artículos CRAVED
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce el atractivo de un objeto para ladrones. | Las mejoras de seguridad están bien publicitadas. | Requiere convencer a los fabricantes, que pueden no ser locales. |
+
+#### Hacer que ciertos grupos sean menos vulnerables
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce el riesgo de victimización de personas vulnerables específicas. | Está claro qué hace que un grupo de personas sea más vulnerable. | Requiere un análisis detallado y respuestas creativas. |
 
 {{% /alert %}}
 
+### Respuestas orientadas a la ubicación
+
+A continuación se detallan las respuestas organizadas en relación a la ubicación.
+
 {{% alert note %}}
+
+#### Eliminar los escondites
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta la protección natural y el riesgo percibido de detección. |  La policía trabaja con otras agencias que tienen la autoridad necesaria para hacer las modificaciones. | Podría requerir la eliminación de valiosos árboles y edificios. |
+
+#### Incremento del alumbrado público en lugares problemáticos
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta la protección natural y el riesgo percibido de detección. | Las luces se instalan en o cerca de puntos calientes nocturnos. | Deben de mantenerse. Podría aumentar el robo si los objetivos son más fáciles de detectar. |
+
+
+#### Instalar CCTV
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta la protección natural y el riesgo percibido de detección. | La presencia de CCTV está bien publicitada. | Menos efectivo si se producen desplazamientos. CCTV debe ser monitoreado. |
+
+#### Aumentar la densidad peatonal
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta la protección natural y el riesgo percibido de detección. | Los robos ocurren en el punto medio entre lugares aglomerados y vacíos. | El desvío del tráfico peatonal puede hacer que los viajes sean inconvenientes para algunos. |
+
+#### Eliminar rutas de escape
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el esfuerzo para los delincuentes. | Los puntos calientes de robo son áreas con muchas rutas de escape. | Los ladrones pueden estar más dispuestos a usar la violencia si no pueden escapar. |
+
+{{% /alert %}}
+
 ### Respuestas orientadas a la rutina
 
-A continuación se detallan las respuestas, organizadas en relación a la rutina.
+A continuación se detallan las respuestas organizadas en relación a la rutina.
 
-  **Respuesta**                                                                                **Como funciona**                                            **Funciona mejor si \...**                                                             **Consideraciones**
-  -------------------------------------------------------------------------------------------- ------------------------------------------------------------ -------------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------
-  *Mejora de la planificación de eventos especiales.*                                          Reduce los riesgos de robo atípicos.                         Las condiciones que aumentan el riesgo pueden identificarse y manipularse.             Se debe tener cuidado de no disuadir a los asistentes de ir a eventos con excesiva seguridad.
-  *Notificar a los padres y estudiantes sobre los riesgos antes de que empiece año escolar.*   Reduce la vulnerabilidad de los estudiantes.                 Los padres están dispuestos a tomar precauciones relevantes.                           Las escuelas pueden dudar en preocupar a los padres y estudiantes.
-  *Proporcionar rutas seguras durante las construcciones.*                                     Reduce el aislamiento de peatones en lugares desconocidos.   La policía trabaja con los constructores para adaptar las rutas según sea necesario.   Las condiciones cambian rápidamente y pueden dificultar el monitoreo.
+{{% alert note %}}
 
-{{% alert warning %}}
+#### Mejorar la planificación de eventos especiales
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+|  Reduce los riesgos de robo atípicos. | Las condiciones que aumentan el riesgo pueden identificarse y manipularse. | Se debe tener cuidado de no disuadir a los asistentes de ir a eventos con excesiva seguridad. |
+
+
+#### Notificar a los padres y estudiantes sobre los riesgos antes de que empiece año escolar
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce la vulnerabilidad de los estudiantes. | Los padres están dispuestos a tomar precauciones relevantes. | Las escuelas pueden dudar en preocupar a los padres y estudiantes. |
+
+#### Proporcionar rutas seguras durante las construcciones
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Reduce el aislamiento de peatones en lugares desconocidos. | La policía trabaja con los constructores para adaptar las rutas según sea necesario. | Las condiciones cambian rápidamente y pueden dificultar el monitoreo. |
+
+{{% /alert %}}
+
 ### Respuestas ineficaces
 
 Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 
-  **Respuesta**                    **Como funciona**                                 **Funciona mejor si \...**                                                     **Consideraciones**
-  -------------------------------- ------------------------------------------------- ------------------------------------------------------------------------------ -----------------------------------------------------------------------------------------------------
-  *Usando señuelos policiales*     Aumenta el riesgo de detención del delincuente.   La policía quiere arrestar a más delincuentes.                                 Poca evidencia que demuestre que reduce el robo.
-  *Armando víctimas potenciales*   Aumenta los riesgos para los delincuentes.        Los delincuentes percibieron un mayor riesgo de represalias de las víctimas.   Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.
+
+{{% alert warning %}}
+
+#### Usar señuelos policiales
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta el riesgo de detención del delincuente. | La policía quiere arrestar a más delincuentes. | Poca evidencia que demuestre que reduce el robo. |
+
+#### Dar armas a víctimas potenciales
+
+| **Como funciona** | **Funciona mejor si...** | **Consideraciones** |
+|:------------------|:-------------------------|:--------------------|
+| Aumenta los riesgos para los delincuentes. | Los delincuentes percibieron un mayor riesgo de represalias de las víctimas. | Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.|
 
 {{% /alert %}}
 
