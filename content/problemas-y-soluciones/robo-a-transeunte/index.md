@@ -195,6 +195,14 @@ callejero.
 
 {{% /alert %}}
 
+{{% alert note%}}
+#### El triángulo de análisis del robo callejero
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1061px" viewBox="-0.5 -0.5 1061 822" content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-09-23T17:43:45.708Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36&quot; etag=&quot;LLlOmDiAE-0z3303axPG&quot; version=&quot;13.7.1&quot; type=&quot;onedrive&quot;&gt;&lt;diagram id=&quot;fm2tmI-rEGGrfAqysdls&quot; name=&quot;Page-1&quot;&gt;7Vptb+I4EP41+ViUOITAx/Jytydt707tqrv9aJIheNfYWeMU6K8/OzgkIQFSDkqLiio1fmJPPM94ZjxOLHcwW/4pcDy94yFQC9nh0nKHFkJOGyFL/9nhao34PWcNRIKEplMOPJAXMKBt0ISEMC91lJxTSeIyGHDGIJAlDAvBF+VuE07LT41xBBXgIcC0in4noZwa1LHt/MYXINHUPLrrmRsznHU2wHyKQ74oQO7IcgeCc7m+mi0HQDV5GS/rcX/suLuZmAAmmwwIAmd59+J9Qy9P41+d+/DLY/f2xl1LecY0MQpbqEOVvP7U0XOWK0NE53eiJ9qfcCZv5qmZblUH146Vqfv5fXUVmf+pmHmM2f8SNARKWJAoJSGTqXRciy0/SsF60mXwRGok9CRiKHkDUhdmOWpRbbVO9Ti76SP+hgDmJMTa6ZTXKs5tmCjHIs/8MP1avY+m8J01cK3bnuQh32iMJf6dNFhuH1HffylmZEICHBCted9lx+ipQO0Sex0QlTRAEpapQ8oZVYCjtZSC/4IBp1wohHEGWkNC6RakZhUQFinAy1vfeKyAG6TVX0yJhAeF60ctVCJSGH8GMaFpwJ2SMASmMMETFoKOh7bh0iQc197MWA1TM90ZY51N5FYpD/gMpFipLtmAjgn2qyyLmfYizx1u22DTQtpAyDM5y+SraCM7D+nqwkT1V0T4zruP8F+TCIvP2P4Gri+4hKDg9zbDMhGYXmeku08kzpPYPMDxlYZ0bc+uIwBnyk7wjFCChc7j16nyPzEXMmHljYqAZxWn8Wc+O1k+a3fL+cxzqvmsbdflM9c+Uz7rVQwBoarYTFOtiimPOMN0lKNbPOV9vvKUdG27nyDlyrCHE8nLloUlkT/08BbyTPPJSNPXw2WxscoaTOn7o9h4KojQ7Xxc2lpVDenbm3WVlZ/uxrRa8f2GVTzxRASwh0/fFNVYRCAPVYrVhSKAYlUclOdxcqNny+4yVneKJm95e41etdW2NS9gu85Fbee8I491Gnpsy/eKTusc8Nh3aXXvklb3T1F21G3pCNOburWosThe1BG7/1Ns/U+0WUJ79ku7WbMDLklIcIHCM20LL6smZgmmcI06jvQONz2ognkMAblSNR+xPp9Su+VrVO4vJkGIJD5ewc9qpbZaQVvFSrvp4Zt/rmLFO9fh22N6aj0MJJlt6t1XZMPP4zDNYUIZCDymV3oslMYZmONGb84+ooJDomIYJuGhE58TOcYHZemBsHTnN4speaOseiFNRzQJyZHu/JlSa1Oq7zd4oeXU5dTuuXJqtyanblkmUrxoyigeA+1zEYLILGAh105/1nbV7uxjzHxekiaL4kcdzZl0e2UmUc1JaqeGyA14+oOZw0RKoYrFKD2RqVuShaUvuMRSxRa9hHtVcr16R2i0QnevgirZl2MTVdi85+PNNxPNUpC/K7IFmFL4CYKfMAhhSiJtrkB/WqPwvjaDyhD01tyYqSiz0/Q7I4/fOPK8xq5GSs9rdZHrt3vZrxyc/F6r0/W9imOhTrflul0HZQPdmoBlO60jXsKrZv4JV3qv8CGcO/oP&lt;/diagram&gt;&lt;/mxfile&gt;" onclick="(function(svg){var src=window.event.target||window.event.srcElement;while (src!=null&amp;&amp;src.nodeName.toLowerCase()!='a'){src=src.parentNode;}if(src==null){if(svg.wnd!=null&amp;&amp;!svg.wnd.closed){svg.wnd.focus();}else{var r=function(evt){if(evt.data=='ready'&amp;&amp;evt.source==svg.wnd){svg.wnd.postMessage(decodeURIComponent(svg.getAttribute('content')),'*');window.removeEventListener('message',r);}};window.addEventListener('message',r);svg.wnd=window.open('https://viewer.diagrams.net/?client=1&amp;edit=_blank');}}})(this);" style="cursor:pointer;max-width:100%;max-height:822px;"><defs/><g><rect x="140" y="82" width="340" height="225" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 332px; height: 1px; padding-top: 72px; margin-left: 145px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 235px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px"><span style="font-size: 30px">Delincuente</span></h1><h1 style="font-size: 30px"><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Necesidades de efectivo</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Métodos de ataque</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Planificación</span></li></ul></h1></div></div></div></foreignObject><text x="145" y="102" fill="#000000" font-family="Helvetica" font-size="30px">Delincuente...</text></switch></g><rect x="460" y="492" width="400" height="230" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 392px; height: 1px; padding-top: 482px; margin-left: 465px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 240px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px"><span style="font-size: 30px">Lugar</span></h1><h1 style="font-size: 30px"><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Protección natural</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutas de escape</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Área de familiaridad</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Oportunidades de reventa</span></li></ul></h1></div></div></div></foreignObject><text x="465" y="512" fill="#000000" font-family="Helvetica" font-size="30px">Lugar...</text></switch></g><path d="M 85 522 L 85 138.3 L 129.9 138.26" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 136.65 138.25 L 127.65 142.76 L 129.9 138.26 L 127.64 133.76 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><path d="M 340 657 L 400 657 L 400 607 L 449.9 607" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 456.65 607 L 447.65 611.5 L 449.9 607 L 447.65 602.5 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><path d="M 85 792 L 85 812 L 982.5 812 L 982.5 372.1" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/><path d="M 982.5 365.35 L 987 374.35 L 982.5 372.1 L 978 374.35 Z" fill="#000000" stroke="#000000" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/><rect x="0" y="522" width="340" height="270" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 332px; height: 1px; padding-top: 512px; margin-left: 5px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 280px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px">Rutinas<br style="font-size: 30px" /><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutinas cotidianas</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Rutinas anuales</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Eventos especiales</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Vacaciones</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Interrupciones</span></li></ul></h1></div></div></div></foreignObject><text x="5" y="542" fill="#000000" font-family="Helvetica" font-size="30px">Rutinas...</text></switch></g><rect x="750" y="82" width="310" height="280" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 302px; height: 1px; padding-top: 72px; margin-left: 755px;"><div style="box-sizing: border-box; font-size: 0; text-align: left; max-height: 290px; overflow: hidden; "><div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; "><h1 style="font-size: 30px">Víctima<br style="font-size: 30px" /><ul style="font-size: 30px"><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Vulnerable</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Interesante</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Distraida</span><br style="font-size: 30px" /></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Sin complicaciones</span></li><li style="font-size: 30px"><span style="font-weight: 400 ; font-size: 30px">Eludible</span></li></ul></h1></div></div></div></foreignObject><text x="755" y="102" fill="#000000" font-family="Helvetica" font-size="30px">Víctima...</text></switch></g><path d="M 370 2 L 830 232 L 370 462 Z" fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" transform="rotate(-90,600,232)" pointer-events="all"/><rect x="465.82" y="181.69" width="268.34" height="201.25" fill="none" stroke="none" pointer-events="all"/><g transform="translate(-0.5 -0.5)"><switch><foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"><div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 266px; height: 1px; padding-top: 282px; margin-left: 467px;"><div style="box-sizing: border-box; font-size: 0; text-align: center; "><div style="display: inline-block; font-size: 70px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Robo<br style="font-size: 70px" />callejero</div></div></div></foreignObject><text x="600" y="303" fill="#000000" font-family="Helvetica" font-size="70px" text-anchor="middle">Robo...</text></switch></g></g><switch><g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/><a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank"><text text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text></a></switch></svg>
+
+
+{{% /alert %}}
+
 Los robos callejeros ocurren cuando los delincuentes motivados
 encuentran víctimas adecuadas en un lugar que facilita el robo. Cuando
 los delincuentes se encuentran repetidamente con víctimas en el mismo
@@ -313,25 +321,35 @@ más idóneas al robo callejero, es necesario mirar a las víctimas desde
 la perspectiva del delincuente. Hay cinco características de la víctima
 que los delincuentes pueden notar.
 
-*Vulnerable* Los delincuentes prefieren objetivos que consideran fáciles
+#### Vulnerable
+
+Los delincuentes prefieren objetivos que consideran fáciles
 de intimidar, someter o dominar. Buscan objetivos que tengan menos
 probabilidades de resistir.
 
-*Interesantes* Las variables que pueden hacer que una victima sea
+#### Interesantes
+
+Las variables que pueden hacer que una victima sea
 interesante para un ladrón no son universales. Algunos ladrones quieren
 solo robar efectivo y, por lo tanto, buscarán víctimas que perciban que
 sean más propensas a llevar efectivo u otros artículos que valga la pena
 robar (como teléfonos móviles).
 
-*Distraídos*. Los delincuentes prefieren objetivos que están distraídos
+#### Distraídos
+
+Los delincuentes prefieren objetivos que están distraídos
 (por ejemplo, usando su teléfono, borrachos), son más fáciles de abordar
 y de controlar.
 
-*Sin complicaciones*. Los delincuentes prefieren objetivos que son más
+#### Sin complicaciones
+
+Los delincuentes prefieren objetivos que son más
 fáciles de controlar, aunque esto depende del tipo de métodos de ataque
 que los delincuentes elijan usar.
 
-*Eludible* Los delincuentes toman en consideración la facilidad con la
+#### Eludible
+
+Los delincuentes toman en consideración la facilidad con la
 que pueden huir después de atacar a una víctima. Esto también se
 relaciona con la probabilidad de que el delincuente perciba que la
 víctima pueda resistirse o perseguirlo.
@@ -365,17 +383,25 @@ para aumentas los niveles de protección.
 Hay cuatro características de los lugares que pueden atraer a los
 ladrones callejeros:
 
-*Protección natural*. El tráfico de peatones y vehículos aumenta la
+#### Protección natural
+
+El tráfico de peatones y vehículos aumenta la
 protección, por lo que es probable que los delincuentes elijan lugares
 con un nivel de protección deficiente.
 
-*Rutas de escape.* Los delincuentes prefieren lugares de los que pueden
+#### Rutas de escape
+
+Los delincuentes prefieren lugares de los que pueden
 escapar rápida y fácilmente.
 
-*Área de familiaridad*. Los ladrones prefieren cometer delitos en áreas
+#### Área de familiaridad
+
+Los ladrones prefieren cometer delitos en áreas
 con las que están más familiarizados.
 
-*Oportunidades de reventa.* Los ladrones prefieren ubicaciones cercanas
+#### Oportunidades de reventa
+
+Los ladrones prefieren ubicaciones cercanas
 a lugares donde pueden vender fácilmente los productos robados.
 
 ### Rutinas
