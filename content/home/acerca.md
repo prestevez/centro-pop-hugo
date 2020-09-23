@@ -8,12 +8,14 @@ weight = 100  # Order that this section will appear.
 title = "Acerca"
 +++
 
-# Centro POP Uruguay de UCL
+## Centro POP Uruguay de UCL
 
 El Centro POP Uruguay es un proyecto de la [Unidad para América Latina y el Caribe](https://www.ucl.ac.uk/jill-dando-institute/research/jdi-latam) del Instituto Jill Dando de University College London (UCL), con apoyo del Ministerio del Interior de Uruguay y el Banco Interamericano de Desarrollo.
 
+[Conoce al equipo >]({{< ref "equipo/_index.md" >}})
 
-# Socios
+
+## Socios
 
 <div class="row">
   <div class="column">

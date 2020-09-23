@@ -2,9 +2,9 @@
 title = "Equipo"
 
 widget = "people"  # Use the People widget
-headless = true  # This file represents a page section.
-active = false
-weight = 150
+headless = false  # This file represents a page section.
+active = true
+#weight = 150
 
 # ... Put Your Section Options Here (title etc.) ...
 
