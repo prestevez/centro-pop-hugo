@@ -17,9 +17,10 @@ El proyecto aún está en fase de desarrollo.
 - [x] Armar estructura básica del sitio
 - [x] Armar homepage
 - [ ] Agregar contenidos
-- [ ] Crear perfiles de usuarios faltantes
+- [x] Crear perfiles de usuarios faltantes
 - [x] Retirar perfiles del footer
-- [ ] Crear página o widget con autores
+- [x] Crear página o widget con autores
+- [ ] Completar perfiles de colaboradores
 - [ ] Agregar featured images a todos(?) los posts
 - [ ] Agregar PDFs de guias y toolkits para descarga
 - [ ] Obtener logos correctos para socios
