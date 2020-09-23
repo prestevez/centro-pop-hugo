@@ -189,9 +189,9 @@ el modelo en su totalidad contribuye a entender los patrones del robo
 callejero.
 
 {{% alert note%}}
-### Street Robbery Analysis Triangle
+#### El triángulo de análisis del robo callejero
 
-Image here
+{{< figure library="true" src="street_robbery_triangle.svg" title="El triángulo de análisis del robo callejero." >}}
 
 {{% /alert %}}
 
@@ -269,6 +269,10 @@ delincuentes al hacer que tales desafíos situacionales sean más
 difíciles de superar.
 
 {{% alert note %}}
+
+#### Tipos de robo
+
+Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyentes.
 
 ##### Flash
 
