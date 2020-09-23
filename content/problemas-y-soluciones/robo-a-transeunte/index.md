@@ -656,10 +656,6 @@ Los delincuentes pueden responder a su intervención desplazándose a una
 nueva ubicación. Anticipar tales adaptaciones puede ayudar a limitar que
 sucedan. Sin embargo, el desplazamiento no es inevitable.
 
-{{% alert note %}}
-Esta guía es una adaptación de la Guía No. 59 de la serie de guías del [Centro POP](https://popcenter.asu.edu/) para la Solución de Problemas Específicos, por Khadija M Monk, Justin A Heinonen y John E Eck.
-{{% /alert %}}
-
 {{% pop_guide %}}
 
 [^1]: En Bergman, Marcelo (2018) *More Money, More Crime: Prosperity and
