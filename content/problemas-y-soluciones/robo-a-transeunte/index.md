@@ -624,7 +624,7 @@ interesadas.
 A continuación se detallan las respuestas organizadas en relación al
 delincuente.
 
-{{% alert success %}}
+{{% alert note %}}
 
 #### Policiamiento de zonas calientes
 
@@ -658,7 +658,7 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 
 | **Cómo funciona** | **Funciona mejor si...** | **Consideraciones** |
 |:------------------|:-------------------------|:--------------------|
-| Aumenta el riesgo de detección. | Se combina con enfoques basados en inteligencia. | Puede ser costoso. |
+| Aumenta el riesgo de detección. | Se combina con inteligencia policial. | Puede ser un método demasiado costoso. |
 
 #### Desviar delincuentes potenciales a actividades legítimas
 
@@ -679,7 +679,7 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 A continuación se detallan las respuestas organizadas en relación a la víctima.
 
 
-{{% alert success %}}
+{{% alert note %}}
 
 #### Campañas de concientización sobre robos
 
@@ -723,7 +723,7 @@ A continuación se detallan las respuestas organizadas en relación a la víctim
 
 A continuación se detallan las respuestas organizadas en relación a la ubicación.
 
-{{% alert success %}}
+{{% alert note %}}
 
 #### Eliminar los escondites
 
@@ -762,7 +762,7 @@ A continuación se detallan las respuestas organizadas en relación a la ubicaci
 
 A continuación se detallan las respuestas organizadas en relación a la rutina.
 
-{{% alert success %}}
+{{% alert note %}}
 
 #### Mejorar la planificación de eventos especiales
 
