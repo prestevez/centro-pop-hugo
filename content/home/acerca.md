@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Acerca"
-subtitle = '[Conoce al equipo >]({{< ref "equipo/_index.md" >}})'
+subtitle = '[Conoce al equipo >](equipo/)'
 +++
 
 ## Centro POP Uruguay de UCL
