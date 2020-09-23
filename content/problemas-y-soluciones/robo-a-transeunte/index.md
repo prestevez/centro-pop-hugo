@@ -624,7 +624,7 @@ interesadas.
 A continuación se detallan las respuestas organizadas en relación al
 delincuente.
 
-{{% alert note %}}
+{{% alert success %}}
 
 #### Policiamiento de zonas calientes
 
@@ -679,7 +679,7 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 A continuación se detallan las respuestas organizadas en relación a la víctima.
 
 
-{{% alert note %}}
+{{% alert success %}}
 
 #### Campañas de concientización sobre robos
 
@@ -723,7 +723,7 @@ A continuación se detallan las respuestas organizadas en relación a la víctim
 
 A continuación se detallan las respuestas organizadas en relación a la ubicación.
 
-{{% alert note %}}
+{{% alert success %}}
 
 #### Eliminar los escondites
 
@@ -762,7 +762,7 @@ A continuación se detallan las respuestas organizadas en relación a la ubicaci
 
 A continuación se detallan las respuestas organizadas en relación a la rutina.
 
-{{% alert note %}}
+{{% alert success %}}
 
 #### Mejorar la planificación de eventos especiales
 
