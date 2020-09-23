@@ -1,5 +1,7 @@
 # Centro POP Uruguay de UCL
 
+[![prestevez](https://circleci.com/gh/prestevez/centro-pop-hugo/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/prestevez/centro-pop-hugo?branch=master)
+
 Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://prestevez.com/centro-pop-hugo/).
 
 El contenido público del sitio se publica automáticamente en la rama `gh-pages`, cada vez que se hace un cambio a la rama `master` en el repositorio, usando integración continua a través del servicio de CircleCI.
@@ -15,9 +17,9 @@ El proyecto aún está en fase de desarrollo.
 - [x] Armar estructura básica del sitio
 - [x] Armar homepage
 - [ ] Agregar contenidos
-- [ ] Crear perfiles de usuarios
-- [ ] Crear página con autores
-- [ ] Crear perfil institucional de autor?
+- [ ] Crear perfiles de usuarios faltantes
+- [x] Retirar perfiles del footer
+- [ ] Crear página o widget con autores
 - [ ] Agregar featured images a todos(?) los posts
 - [ ] Agregar PDFs de guias y toolkits para descarga
 - [ ] Obtener logos correctos para socios
