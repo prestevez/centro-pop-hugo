@@ -172,6 +172,9 @@ link_authors = true
 # Show author profile?
 profile = false
 
+# Default authors
+authors = ["schainey", "prestevez", "groci", "jlitvak"]
+
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
 

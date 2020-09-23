@@ -15,6 +15,9 @@ social:
   link: https://twitter.com/prestevez
 superuser: true
 title: Dr Patricio R Estévez-Soto
+usergroups:
+    - Contenido
+    - Diseño y desarrollo web
 ---
 
-Patricio R Estévez-Soto es profesor (Teaching Fellow) para América Latina y el Caribe en el Instituto Jill Dando de Ciencias de la Seguridad de University College London. 
+Patricio R Estévez-Soto es profesor (Teaching Fellow) para América Latina y el Caribe en el Instituto Jill Dando de Ciencias de la Seguridad de University College London.
