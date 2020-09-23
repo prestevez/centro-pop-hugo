@@ -17,7 +17,6 @@ superuser: false
 title: Dr Spencer Chainey
 user_groups:
     - Dirección
-    - Diseño y desarrollo web
 ---
 
 Spencer Chainey es profesor asociado (Associate Professor) en el Instituto Jill Dando de Ciencias de la Seguridad de University College London, donde también funge como Director de Desarrollo Profesional y Director de la Unidad para América Latina y el Caribe.

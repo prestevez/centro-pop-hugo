@@ -1,4 +1,6 @@
 +++
+title = "Equipo"
+
 widget = "people"  # Use the People widget
 headless = true  # This file represents a page section.
 active = true

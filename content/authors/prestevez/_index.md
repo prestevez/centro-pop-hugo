@@ -16,7 +16,6 @@ social:
 superuser: true
 title: Dr Patricio R Estévez-Soto
 user_groups:
-    - Contenido
     - Diseño y desarrollo web
 ---
 
