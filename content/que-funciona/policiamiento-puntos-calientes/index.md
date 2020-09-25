@@ -4,7 +4,7 @@ date: "2020-07-10"
 summary: "La evidencia sugiere que el policiamiento de puntos calientes reduce el delito."
 toc: true
 #projects: ["que-funciona"]
-authors: {{ $.Site.Params.authors }}
+authors: ["schainey", "prestevez", "gcroci", "jlitvak"]
 categories: ["¿Qué funciona?"]
 url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=46"
 ---
