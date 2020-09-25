@@ -5,9 +5,9 @@
 
   {{/* If `authors` is not set, use site `authors`. */}}
   {{ if not $page.Params.authors }}
-  {{ $page.Params.authors := $.Site.Params.authors }}
+  {{ $page.Params.authors = $.Site.Params.authors }}
   {{ end }}
-  
+
   {{/* If `authors` is set and is not empty. */}}
   {{ if $page.Params.authors }}
   {{ $authorLen := len $page.Params.authors }}
