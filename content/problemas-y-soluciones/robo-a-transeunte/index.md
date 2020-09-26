@@ -5,9 +5,11 @@ date: "2020-07-10T00:00:00Z"
 summary: "Esta guía describe los factores generales que contribuyen al robo
 callejero y discute cómo ayudar a mejorar la comprensión del problema
 local de este tipo de delito."
-#authors:
-#  - schainey
-#  - prestevez
+authors:
+  - schainey
+  - prestevez
+  - gcroci
+  - jlitvak
 toc: true
 categories: ["Guías de problemas específicos"]
 #projects: ["problemas-y-respuestas"]
