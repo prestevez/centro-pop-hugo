@@ -86,8 +86,6 @@ workflows:
       - deploy:
           requires:
             - r-release
-            context:
-                - authentication
 
   # CRON job daily at 4 am in the morning
   # - runs the "build" job on the master branch and builds package cache
