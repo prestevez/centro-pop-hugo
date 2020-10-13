@@ -42,5 +42,5 @@ workflows:
                   only:
                       - master
           context:
-              - authentication
+              - docker_auth
               - git_details
