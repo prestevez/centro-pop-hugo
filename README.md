@@ -1,6 +1,6 @@
 # Centro POP Uruguay de UCL
 
-[![prestevez](https://circleci.com/gh/prestevez/centro-pop-hugo/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/prestevez/centro-pop-hugo?branch=master)
+[![prestevez](https://circleci.com/gh/centro-pop/centro-pop.github.io/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/centro-pop/centro-pop.github.io?branch=master)
 
 Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://prestevez.com/centro-pop-hugo/).
 
