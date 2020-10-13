@@ -2,7 +2,7 @@
 
 [![prestevez](https://circleci.com/gh/centro-pop/centro-pop.github.io/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/centro-pop/centro-pop.github.io?branch=master)
 
-Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://prestevez.com/centro-pop-hugo/).
+Este repositorio contiene el código fuente del sitio del [Centro POP Uruguay de UCL](https://centro-pop.github.io).
 
 El contenido público del sitio se publica automáticamente en la rama `gh-pages`, cada vez que se hace un cambio a la rama `master` en el repositorio, usando integración continua a través del servicio de CircleCI.
 
