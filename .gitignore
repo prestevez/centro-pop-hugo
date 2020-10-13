@@ -1,6 +1,9 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
+.Rproj.user/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+docs/
+*.Rproj
 public/
+resources/

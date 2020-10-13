@@ -21,8 +21,8 @@ Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar
 
 Al final de cada etapa, se presenta una lista para revisar que se hayan completado las partes clave de la etapa.
 
-{{% callout note%}}
+{{% alert note%}}
 La guía también contiene información relevante presentada en cajas especiales como esta.
-{{% /callout %}}
+{{% /alert %}}
 
 Cada sección también contiene una lista de recursos adicionales sobre POP para su consulta.

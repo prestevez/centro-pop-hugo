@@ -9,7 +9,7 @@ categories: ["¿Qué funciona?"]
 url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=46"
 ---
 
-{{% callout secondary %}}
+{{% alert secondary %}}
 
 ## Resumen
 
@@ -27,7 +27,7 @@ evidencia de que el policiamiento de puntos calientes desplace el delito
 a otras áreas; al contrario, la evidencia sugiere que los beneficios de
 la intervención pueden extenderse más allá de las zonas intervenidas.
 
-{{% /callout %}}
+{{% /alert %}}
 
 |                    | Policiamiento de puntos calientes                  |
 |:-------------------|:---------------------------------------------------|

@@ -23,7 +23,7 @@ Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró qu
 
 [^1]: Hinkle JC, Wiesburd D, Telep CW & Petersen K (2020) Problem‐oriented policing for reducing crime and disorder: An updated systematic review and meta‐analysis. *Campbell Systematic Reviews*, *16*(2). [https://doi.org/10.1002/cl2.1089](https://doi.org/10.1002/cl2.1089)
 
-{{% callout note %}}
+{{% alert note %}}
 
 ### El triángulo del delito
 
@@ -31,4 +31,4 @@ Un problema delictivo tiene tres componentes principales: un agresor, una vícti
 
 {{< figure library="true" src="crime-triangle.png" title="El triángulo del delito." >}}
 
-{{% /callout %}}
+{{% /alert %}}

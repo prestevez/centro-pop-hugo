@@ -25,7 +25,7 @@ pop_guide_type: "Problemas Específicos"
 
 ---
 
-{{% callout secondary%}}
+{{% alert secondary%}}
 Introducción
 ------------
 
@@ -38,7 +38,7 @@ que las respuestas al robo callejero probablemente variarán, pero que
 también es probable que haya mucho en común en los procesos de
 prevención de este delito. En esta guía, también describimos algunas de
 las posibles respuestas a los problemas de robo callejeros.
-{{% /callout %}}
+{{% /alert %}}
 
 
 El problema del robo callejero
@@ -190,12 +190,12 @@ víctimas, los delincuentes, las ubicaciones y las rutinas interactúan,
 el modelo en su totalidad contribuye a entender los patrones del robo
 callejero.
 
-{{% callout note%}}
+{{% alert note%}}
 #### El triángulo de análisis del robo callejero
 
 {{< figure library="true" src="street_robbery_triangle.svg" title="El triángulo de análisis del robo callejero." >}}
 
-{{% /callout %}}
+{{% /alert %}}
 
 Los robos callejeros ocurren cuando los delincuentes motivados
 encuentran víctimas adecuadas en un lugar que facilita el robo. Cuando
@@ -270,7 +270,7 @@ intervenciones podrían centrarse en interrumpir los planes de los
 delincuentes al hacer que tales desafíos situacionales sean más
 difíciles de superar.
 
-{{% callout note %}}
+{{% alert note %}}
 
 #### Tipos de robo
 
@@ -300,7 +300,7 @@ Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyent
 |:------------------|:-------------------------|:--------------------|
 | Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla. | Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles. | Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo. |
 
-{{% /callout %}}
+{{% /alert %}}
 
 ### víctimas
 
@@ -626,7 +626,7 @@ interesadas.
 A continuación se detallan las respuestas organizadas en relación al
 delincuente.
 
-{{% callout note %}}
+{{% alert note %}}
 
 #### Policiamiento de zonas calientes
 
@@ -674,14 +674,14 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el esfuerzo por cometer un robo. | Los minoristas locales acuerdan regular tales herramientas. | Los minoristas pueden resistir. |
 
-{{% /callout %}}
+{{% /alert %}}
 
 ### Respuestas orientadas a las víctimas
 
 A continuación se detallan las respuestas organizadas en relación a la víctima.
 
 
-{{% callout note %}}
+{{% alert note %}}
 
 #### Campañas de concientización sobre robos
 
@@ -719,13 +719,13 @@ A continuación se detallan las respuestas organizadas en relación a la víctim
 |:------------------|:-------------------------|:--------------------|
 | Reduce el riesgo de victimización de personas vulnerables específicas. | Está claro qué hace que un grupo de personas sea más vulnerable. | Requiere un análisis detallado y respuestas creativas. |
 
-{{% /callout %}}
+{{% /alert %}}
 
 ### Respuestas orientadas a la ubicación
 
 A continuación se detallan las respuestas organizadas en relación a la ubicación.
 
-{{% callout note %}}
+{{% alert note %}}
 
 #### Eliminar los escondites
 
@@ -758,13 +758,13 @@ A continuación se detallan las respuestas organizadas en relación a la ubicaci
 |:------------------|:-------------------------|:--------------------|
 | Aumenta el esfuerzo para los delincuentes. | Los puntos calientes de robo son áreas con muchas rutas de escape. | Los ladrones pueden estar más dispuestos a usar la violencia si no pueden escapar. |
 
-{{% /callout %}}
+{{% /alert %}}
 
 ### Respuestas orientadas a la rutina
 
 A continuación se detallan las respuestas organizadas en relación a la rutina.
 
-{{% callout note %}}
+{{% alert note %}}
 
 #### Mejorar la planificación de eventos especiales
 
@@ -785,14 +785,14 @@ A continuación se detallan las respuestas organizadas en relación a la rutina.
 |:------------------|:-------------------------|:--------------------|
 | Reduce el aislamiento de peatones en lugares desconocidos. | La policía trabaja con los constructores para adaptar las rutas según sea necesario. | Las condiciones cambian rápidamente y pueden dificultar el monitoreo. |
 
-{{% /callout %}}
+{{% /alert %}}
 
 ### Respuestas ineficaces
 
 Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 
 
-{{% callout warning %}}
+{{% alert warning %}}
 
 #### Usar señuelos policiales
 
@@ -806,7 +806,7 @@ Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 |:------------------|:-------------------------|:--------------------|
 | Aumenta los riesgos para los delincuentes. | Los delincuentes percibieron un mayor riesgo de represalias de las víctimas. | Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.|
 
-{{% /callout %}}
+{{% /alert %}}
 
 Medición de efectividad
 -----------------------
