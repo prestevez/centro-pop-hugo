@@ -17,6 +17,7 @@ jobs:
           name: "Run Hugo"
           command: HUGO_ENV=production hugo -v
       - deploy:
+          name: "Deploy public/ to gh-pages branch"
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
                 rm -rf .git
@@ -25,7 +26,7 @@ jobs:
                 git config --global user.email "${GIT_EMAIL}"
                 git config --global user.name "${GIT_NAME}"
                 git init
-                git remote add origin git@github.com:centro-pop/centro-pop.github.io.git
+                git remote add origin ${GIT_ORIGIN}
                 git checkout --orphan gh-pages
                 git add .
                 git commit -m "Automated deployment job ${CIRCLE_BRANCH} #${CIRCLE_BUILD_NUM} [skip ci]" --allow-empty
