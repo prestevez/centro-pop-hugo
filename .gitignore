@@ -5,3 +5,5 @@
 .Ruserdata
 docs/
 *.Rproj
+public/
+resources/
