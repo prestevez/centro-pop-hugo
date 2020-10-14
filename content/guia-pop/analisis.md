@@ -70,5 +70,5 @@ En la práctica, normalmente se proponen entre 3 y 5 hipótesis en los análisis
 
 ## Revisión
 
-- [] **¿Por qué el problema existe?** ¿Qué razones explican el problema? ¿Las explicaciones propuestas se enfocan en la estructura de la oportunidad delictiva?
-- [] **¿Se han utilizado datos de buena calidad para entender el problema?** ¿Tiene certeza de que los datos que se utilizaron permiten entender el problema de manera fiel?
+- [ ] **¿Por qué el problema existe?** ¿Qué razones explican el problema? ¿Las explicaciones propuestas se enfocan en la estructura de la oportunidad delictiva?
+- [ ] **¿Se han utilizado datos de buena calidad para entender el problema?** ¿Tiene certeza de que los datos que se utilizaron permiten entender el problema de manera fiel?
