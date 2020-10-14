@@ -1,6 +1,6 @@
 ---
 title: Problemas y Soluciones
-summary: Guías problemas específicos y soluciones.
+summary: Guías de problemas específicos y soluciones.
 date: "2020-09-15"
 
 # Optional external URL for project (replaces project detail page).
