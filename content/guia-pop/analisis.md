@@ -56,7 +56,7 @@ Si un problema delictivo se entiende adecuadamente, será más fácil determinar
 
 Entender los problemas adecuadamente es un reto para implementar la POP de forma efectiva. Usar pruebas de hipótesis durante el análisis puede ayudar a mejorar la interpretación del problema
 
-{{< figure library="true" src="POP-Group-work-2.png" title="Policías uruguayos probando hipótesis para explicar el robo en fincas." >}}
+{{< figure library="true" src="POP-Group-work-2.png" title="Policías uruguayos utilizando pruebas de hipótesis para analizar los hurtos en fincas." >}}
 
 Las pruebas de hipótesis plantean una serie explicaciones plausibles sobre la causa de un problema (es decir, hipótesis). Las hipótesis planteadas determinan el tipo de análisis que debe realizarse. Una hipótesis es una teoría u opinión que usted o sus colegas pueden tener sobre un problema.
 
