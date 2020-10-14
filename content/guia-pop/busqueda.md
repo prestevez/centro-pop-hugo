@@ -1,5 +1,6 @@
 ---
 title: Búsqueda
+subtitle: Definiendo clara y específicamente el problema
 linktitle: Búsqueda
 date: 2020-09-17
 type: book
@@ -7,11 +8,11 @@ toc: true
 weight: 3
 ---
 
-Un problema es un conjunto de eventos similares y recurrentes que afectan una comunidad o vecindario. La resolución de problemas es más efectiva cuando el problema ha sido correctamente identificado o definido de forma específica.
+Un problema es un conjunto de eventos similares y recurrentes que afectan una comunidad o vecindario. La resolución de problemas es más efectiva cuando el problema ha sido correctamente identificado o definido de forma específica---esto es el objetivo de la etapa de búsqueda.
 
 ## ¿Cuál es el problema?
 
-El primer paso en la *búsqueda* es identificar cuál es realmente el problema que hay que resolver. Haga las siguientes preguntas:
+El primer paso en la *búsqueda* es identificar cuál es realmente el problema que hay que resolver y entender la magnitud del problema. Primero especifique el problema (por ejemplo, robo a transeúntes). Luego, haga las siguientes preguntas:
 
 - **¿El problema ha aumentado o es un problema persistente?**
 	- Problemas que aumentan o son persistentes son los tipos de problemas que requieren atención prioritaria. Si el problema está disminuyendo u ocurre muy esporádicamente, probablemente existan otros problemas que meriten más prioridad.
@@ -32,10 +33,10 @@ Determine los resultados que espera obtener. Para problemas delictivos el result
 
 ## Revisión
 
-- [ ] ¿Cuál es el problema? ¿El problema ha sido definido de forma específica y clara?
-- [ ] ¿Es un problema? ¿Está aumentando o es persistente? ¿A quién afecta?
-- [ ] ¿Cuáles son los detalles del problema? ¿Qué datos se han usado para describir el problema?
-- [ ] ¿Qué resultados espera obtener? ¿Cómo definiría que el problema se ha resuelto de forma exitosa?
+- [ ] **¿Cuál es el problema?** ¿El problema ha sido definido de forma específica y clara?
+- [ ] **¿Es un problema?** ¿Está aumentando o es persistente? ¿A quién afecta?
+- [ ] **¿Cuáles son los detalles del problema?** ¿Qué datos se han usado para describir el problema?
+- [ ] **¿Qué resultados espera obtener?** ¿Cómo definiría que el problema se ha resuelto de forma exitosa?
 
 ## Recursos adicionales
 

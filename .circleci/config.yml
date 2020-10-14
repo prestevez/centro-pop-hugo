@@ -1,4 +1,4 @@
-## CricleCI for prestevez.com
+## CricleCI for centro-pop
 version: 2.1
 jobs:
   build:

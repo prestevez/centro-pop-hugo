@@ -13,15 +13,15 @@ Un enfoque POP no asume que las responsabilidades tradicionales de la policía (
 
 Un problema delictivo puede abarcar cualquier tipo de incidente delictivo u otros asuntos de seguridad ciudadana (así como una combinación de estos). Los problemas pueden involucrar volúmenes elevados o pequeños de incidentes, ser serios o menos serios, estar asociados a grupos o bandas delictivas o ser cometidos por delincuentes individuales.
 
-## El trabajo POP es trabajo policial
-
-POP ofrece la oportunidad de trabajar directamente para reducir el delito en su comunidad. Muchos oficiales de policía han dicho que su su trabajo POP ha sido la experiencia más gratificante de sus carreras.
-
 ## La POP reduce el delito
 
 Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró que el enfoque POP reduce el delito y el desorden en alrededor de 34%.[^1]
 
 [^1]: Hinkle JC, Wiesburd D, Telep CW & Petersen K (2020) Problem‐oriented policing for reducing crime and disorder: An updated systematic review and meta‐analysis. *Campbell Systematic Reviews*, *16*(2). [https://doi.org/10.1002/cl2.1089](https://doi.org/10.1002/cl2.1089)
+
+## El trabajo POP es trabajo policial
+
+POP ofrece la oportunidad de trabajar directamente para reducir el delito en su comunidad. Muchos oficiales de policía han dicho que su su trabajo POP ha sido la experiencia más gratificante de sus carreras.
 
 {{% callout note %}}
 
