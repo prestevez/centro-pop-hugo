@@ -50,9 +50,9 @@ Responder esta preguntas le ayudará a construir un 'perfil' del problema, a des
 
 Si un problema delictivo se entiende adecuadamente, será más fácil determinar qué soluciones podrían ayudar a resolverlo.
 
-{{% callout note %}}
-
 ## Pruebas de hipótesis
+
+{{% callout note %}}
 
 Entender los problemas adecuadamente es un reto para implementar la POP de forma efectiva. Usar pruebas de hipótesis durante el análisis puede ayudar a mejorar la interpretación del problema
 

@@ -8,7 +8,11 @@ toc: true
 weight: 5
 ---
 
-Las soluciones que se busquen implementar deben de estar diseñadas a la medida del problema que se busca resolver. Existen vatios tipos de soluciones que deberían considerarse. La lista que se presenta a continuación no describe intervenciones específicas, sino los *tipos* de soluciones que podrían ser parte de una intervención:
+Las soluciones que se busquen implementar deben de estar diseñadas a la medida del problema que se busca resolver. Existen vatios tipos de soluciones que deberían considerarse.
+
+## Tipos de intervención
+
+La lista que se presenta a continuación no describe intervenciones específicas, sino los *tipos* de soluciones que podrían ser parte de una intervención:
 
 - **Cumplimiento de la ley**
 	- Intervenciones que buscan asegurar que leyes o reglas específicas se cumplan.
@@ -29,9 +33,9 @@ Las soluciones que se busquen implementar deben de estar diseñadas a la medida 
 
 Cuando tenga que elegir una solución, conviene comenzar revisando qué han hecho otros departamentos para resolver problemas similares.
 
-{{% callout note %}}
-
 ## ¿Qué funciona para reducir el delito?
+
+{{% callout note %}}
 
 Es poco probable que sea la primera persona que se enfrenta al problema que busca resolver. La sección [POP en práctica]({{< ref "/pop-en-practica/index.md" >}}). Otros recursos (disponibles en inglés):
 

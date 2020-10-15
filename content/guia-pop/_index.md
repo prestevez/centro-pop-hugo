@@ -19,6 +19,8 @@ Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar
 - [Solución]({{< ref "/guia-pop/solucion.md">}})
 - [Evaluación]({{< ref "/guia-pop/evaluacion.md">}})
 
+<!-- Insert SARA diagram here-->
+
 Al final de cada etapa, se presenta una lista para revisar que se hayan completado las partes clave de la etapa.
 
 {{% callout note%}}

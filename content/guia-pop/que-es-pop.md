@@ -23,9 +23,9 @@ Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró qu
 
 POP ofrece la oportunidad de trabajar directamente para reducir el delito en su comunidad. Muchos oficiales de policía han dicho que su su trabajo POP ha sido la experiencia más gratificante de sus carreras.
 
-{{% callout note %}}
+## El triángulo del delito
 
-### El triángulo del delito
+{{% callout note %}}
 
 Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivo), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.
 
