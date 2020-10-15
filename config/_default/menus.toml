@@ -15,7 +15,7 @@
   weight = 20
 
 [[main]]
-  name = "¿Qué funciona"
+  name = "¿Qué funciona?"
   url = "pop-en-practica/"
   parent = "pop-en-practica"
   weight = 10
