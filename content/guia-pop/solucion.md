@@ -81,7 +81,7 @@ Considere los siguientes puntos cuando implemente las soluciones planeadas:
 
 ## Revisión
 
-- [ ] **¿Qué les ha funcionado a otros?** Consulte la evidencia existente para identificar [qué funciona]({{< ref "/que-funciona/index.md" >}}).
+- [ ] **¿Qué les ha funcionado a otros?** Consulte la evidencia existente para identificar [qué funciona]({{< ref "/pop-en-practica/index.md" >}}).
 - [ ] **¿Las intervenciones están bien enfocadas?** Evite intervenciones generales y priorice enfocarse en las personas y lugares más vulnerables.
 - [ ] **¿Cómo funcionan las intervenciones?** Diseñe intervenciones que hagan más difícil cometer los delitos en cuestión, o que reduzcan la vulnerabilidad de las personas o los blancos del delito.
 - [ ] **¿Quién es responsable de implementar cada intervención** Identifique un responsable de cada intervención para asegurarse de que sea implementada correctamente.
