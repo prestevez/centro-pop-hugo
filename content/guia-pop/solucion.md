@@ -35,7 +35,7 @@ Cuando tenga que elegir una solución, conviene comenzar revisando qué han hech
 
 Es poco probable que sea la primera persona que se enfrenta al problema que busca resolver. La sección [POP en práctica]({{< ref "/pop-en-practica/index.md" >}}). Otros recursos (disponibles en inglés):
 
-- [*Crime Reduction Toolkit* del *What Works Centre for Crime Reduction* del Colegio de Policías de Reino Unido.](https://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx)
-- [*Crime Solutions* del Instituto Nacional de Justicia del gobierno de los Estados Unidos.](https://www.crimesolutions.gov)
+- [*Crime Reduction Toolkit* del *What Works Centre for Crime Reduction* del Colegio de Policías de Reino Unido.]({{< ref "https://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx" "newtab">}})
+- [*Crime Solutions* del Instituto Nacional de Justicia del gobierno de los Estados Unidos.]({{< ref "https://www.crimesolutions.gov" "newtab" >}})
 
 {{% /callout %}}
