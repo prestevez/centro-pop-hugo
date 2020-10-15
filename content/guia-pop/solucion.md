@@ -48,14 +48,42 @@ Aunque arrestar a un delincuente puede parecer como un logro importante, si las 
 
 Las tablas a continuación pueden ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.
 
-| Aumentar el esfuerzo requerido para cometer un delito                      |
+| Aumentar el esfuerzo                                                       |
 |:---------------------------------------------------------------------------|
-| Blindar o fortalecer los blancos u objetivos que se buscan victimizar      |
+| Blindar o fortalecer los blancos u objetivos                               |
 | Controlar el acceso a instalaciones                                        |
 | Monitorear las salidas                                                     |
 | Desviar a los delincuentes                                                 |
-| Controlar armas o herramientas usadas para cometer delitos                 |
+| Controlar armas o herramientas                                             |
 
-| Aumentar el riesgo asociado a cometer un delito                            |
+| Aumentar los riesgos                                                       |
 |:---------------------------------------------------------------------------|
 | Extender la custodia                                                       |
+| Mejorar la vigilancia natural                                              |
+| Reducir el anonimato                                                       |
+| Utilizar gestores del espacio físico                                       |
+| Fortalecer la vigilancia formal                                            |
+
+| Reducir las recompensas                                                    |
+|:---------------------------------------------------------------------------|
+| Ocultar los blancos u objetivos                                            |
+| Retirar los blancos u objetivos                                            |
+| Identificar la propiedad                                                   |
+| Interrumpir mercados negros                                                |
+| Negar los beneficios                                                       |
+
+| Reducir las provocaciones                                                  |
+|:---------------------------------------------------------------------------|
+| Reducir la frustración y el estrés                                         |
+| Evitar las disputas                                                        |
+| Reducir las fuentes de excitación emocional                                |
+| Neutralizar la presión grupal                                              |
+| Desalentar la imitación                                                    |
+
+| Retirar las excusas                                                        |
+|:---------------------------------------------------------------------------|
+| Establecer reglas                                                          |
+| Colocar instrucciones                                                      |
+| Alertar la conciencia                                                      |
+| Facilitar el cumplimiento                                                  |
+| Controlar las drogas y el alcohol                                          |
