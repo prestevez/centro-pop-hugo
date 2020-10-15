@@ -25,9 +25,10 @@ pop_guide_type: "Problemas Específicos"
 
 ---
 
-{{% callout secondary%}}
 Introducción
 ------------
+
+{{% callout secondary%}}
 
 Esta guía describe los factores generales que contribuyen al robo
 callejero y discute cómo ayudar a mejorar la comprensión del problema
@@ -190,8 +191,9 @@ víctimas, los delincuentes, las ubicaciones y las rutinas interactúan,
 el modelo en su totalidad contribuye a entender los patrones del robo
 callejero.
 
-{{% callout note%}}
 #### El triángulo de análisis del robo callejero
+
+{{% callout note%}}
 
 {{< figure library="true" src="street_robbery_triangle.svg" title="El triángulo de análisis del robo callejero." >}}
 
@@ -270,9 +272,9 @@ intervenciones podrían centrarse en interrumpir los planes de los
 delincuentes al hacer que tales desafíos situacionales sean más
 difíciles de superar.
 
-{{% callout note %}}
-
 #### Tipos de robo
+
+{{% callout note %}}
 
 Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyentes.
 

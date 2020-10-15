@@ -9,9 +9,9 @@ categories: ["¿Qué funciona?"]
 url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=46"
 ---
 
-{{% callout secondary %}}
-
 ## Resumen
+
+{{% callout secondary %}}
 
 En general, la evidencia sugiere que el policiamiento de puntos
 calientes reduce el delito. Los programas de policiamiento de puntos
