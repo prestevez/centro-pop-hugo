@@ -623,10 +623,10 @@ interesadas.
 
 ### Respuestas orientadas al delincuente
 
+{{% callout note %}}
+
 A continuación se detallan las respuestas organizadas en relación al
 delincuente.
-
-{{% callout note %}}
 
 #### Policiamiento de zonas calientes
 
@@ -678,10 +678,9 @@ Uso de la inteligencia para disuadir a ladrones prolíficos.
 
 ### Respuestas orientadas a las víctimas
 
-A continuación se detallan las respuestas organizadas en relación a la víctima.
-
-
 {{% callout note %}}
+
+A continuación se detallan las respuestas organizadas en relación a la víctima.
 
 #### Campañas de concientización sobre robos
 
@@ -723,9 +722,9 @@ A continuación se detallan las respuestas organizadas en relación a la víctim
 
 ### Respuestas orientadas a la ubicación
 
-A continuación se detallan las respuestas organizadas en relación a la ubicación.
-
 {{% callout note %}}
+
+A continuación se detallan las respuestas organizadas en relación a la ubicación.
 
 #### Eliminar los escondites
 
@@ -762,9 +761,9 @@ A continuación se detallan las respuestas organizadas en relación a la ubicaci
 
 ### Respuestas orientadas a la rutina
 
-A continuación se detallan las respuestas organizadas en relación a la rutina.
-
 {{% callout note %}}
+
+A continuación se detallan las respuestas organizadas en relación a la rutina.
 
 #### Mejorar la planificación de eventos especiales
 
@@ -789,10 +788,9 @@ A continuación se detallan las respuestas organizadas en relación a la rutina.
 
 ### Respuestas ineficaces
 
-Se ha encontrado que estas respuestas no funcionan para reducir el delito.
-
-
 {{% callout warning %}}
+
+Se ha encontrado que estas respuestas no funcionan para reducir el delito.
 
 #### Usar señuelos policiales
 
