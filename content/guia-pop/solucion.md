@@ -48,42 +48,40 @@ Aunque arrestar a un delincuente puede parecer como un logro importante, si las 
 
 Las tablas a continuación pueden ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.
 
-| Aumentar el esfuerzo                                                       |
-|:---------------------------------------------------------------------------|
-| Blindar o fortalecer los blancos u objetivos                               |
-| Controlar el acceso a instalaciones                                        |
-| Monitorear las salidas                                                     |
-| Desviar a los delincuentes                                                 |
-| Controlar armas o herramientas                                             |
+| Aumentar el esfuerzo                         | Aumentar los riesgos                         | Reducir las recompensas                      | Reducir las provocaciones                    | Retirar las excusas                          |
+|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|
+| Blindar o fortalecer los blancos u objetivos | Extender la custodia                         | Ocultar los blancos u objetivos              | Reducir la frustración y el estrés           | Establecer reglas                            |
+| Controlar el acceso a instalaciones          | Mejorar la vigilancia natural                | Retirar los blancos u objetivos              | Evitar las disputas                          | Colocar instrucciones                        |
+| Monitorear las salidas                       | Reducir el anonimato                         | Identificar la propiedad                     | Reducir las fuentes de excitación emocional  | Alertar la conciencia                        |
+| Desviar a los delincuentes                   | Utilizar gestores del espacio físico         | Interrumpir mercados negros                  | Neutralizar la presión grupal                | Facilitar el cumplimiento                    |
+| Controlar armas o herramientas               | Fortalecer la vigilancia formal              | Negar los beneficios                         | Desalentar la imitación                      | Controlar las drogas y el alcohol            |
 
-| Aumentar los riesgos                                                       |
-|:---------------------------------------------------------------------------|
-| Extender la custodia                                                       |
-| Mejorar la vigilancia natural                                              |
-| Reducir el anonimato                                                       |
-| Utilizar gestores del espacio físico                                       |
-| Fortalecer la vigilancia formal                                            |
+Es más probable que soluciones que se enfocan en lugares o personas específicas sean más efectivas para resolver el problema. También es probable que sea necesario combinar varias intervenciones en lugar de tratar de resolver el problema con solo una intervención.
 
-| Reducir las recompensas                                                    |
-|:---------------------------------------------------------------------------|
-| Ocultar los blancos u objetivos                                            |
-| Retirar los blancos u objetivos                                            |
-| Identificar la propiedad                                                   |
-| Interrumpir mercados negros                                                |
-| Negar los beneficios                                                       |
+## Pensando sobre las soluciones planeadas para resolver un problema
 
-| Reducir las provocaciones                                                  |
-|:---------------------------------------------------------------------------|
-| Reducir la frustración y el estrés                                         |
-| Evitar las disputas                                                        |
-| Reducir las fuentes de excitación emocional                                |
-| Neutralizar la presión grupal                                              |
-| Desalentar la imitación                                                    |
+{{% callout note %}}
 
-| Retirar las excusas                                                        |
-|:---------------------------------------------------------------------------|
-| Establecer reglas                                                          |
-| Colocar instrucciones                                                      |
-| Alertar la conciencia                                                      |
-| Facilitar el cumplimiento                                                  |
-| Controlar las drogas y el alcohol                                          |
+Las soluciones planeadas para resolver un problema tienden a funcionar mejor cuando una persona se hace responsable y asume el liderazgo del plan.
+
+Considere los siguientes puntos cuando implemente las soluciones planeadas:
+
+- **Mecanismos**
+	- Para cada solución o intervención, piense y describa cuál es el mecanismo de acción que reduce el problema.
+- **Contexto**
+	- Reconozca que las intervenciones pueden funcionar en algunos contextos pero no en otros.
+- **Resultados**
+	- Determine resultados realistas que espera obtener y cómo los medirá.
+- **Transfiera y comparta**
+	- Identifique qué instancia está mejor posicionada para implementar las intervenciones, y si es necesario presione a que tomen la iniciativa de actuar.
+- **Retos de implementación**
+	- Reconozca que es poco probable que todo salga como se ha planeado, así que esté listo para identificar y corregir cualquier falla.
+
+{{% /callout %}}
+
+## Revisión
+
+- [ ] **¿Qué les ha funcionado a otros?** Consulte la evidencia existente para identificar [qué funciona]({{< ref "/que-funciona/index.md" >}}).
+- [ ] **¿Las intervenciones están bien enfocadas?** Evite intervenciones generales y priorice enfocarse en las personas y lugares más vulnerables.
+- [ ] **¿Cómo funcionan las intervenciones?** Diseñe intervenciones que hagan más difícil cometer los delitos en cuestión, o que reduzcan la vulnerabilidad de las personas o los blancos del delito.
+- [ ] **¿Quién es responsable de implementar cada intervención** Identifique un responsable de cada intervención para asegurarse de que sea implementada correctamente.
