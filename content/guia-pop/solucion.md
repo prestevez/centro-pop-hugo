@@ -1,7 +1,7 @@
 ---
 title: Solución
 subtitle: Implementando las soluciones desarrolladas para atender el problema.
-linktitle: Análisis
+linktitle: Solución
 date: 2020-10-14
 type: book
 toc: true
@@ -43,3 +43,19 @@ Es poco probable que sea la primera persona que se enfrenta al problema que busc
 - [*Crime Solutions* del Instituto Nacional de Justicia del gobierno de los Estados Unidos.](https://www.crimesolutions.gov)
 
 {{% /callout %}}
+
+Aunque arrestar a un delincuente puede parecer como un logro importante, si las oportunidades para cometer delitos persisten, el problema no se ha resuelto. la POP promueve el uso de **alternativas al arresto** y enfatiza las soluciones que procuran **hacer más difícil cometer los delitos** que son parte del problema.
+
+Las tablas a continuación pueden ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.
+
+| Aumentar el esfuerzo requerido para cometer un delito                      |
+|:---------------------------------------------------------------------------|
+| Blindar o fortalecer los blancos u objetivos que se buscan victimizar      |
+| Controlar el acceso a instalaciones                                        |
+| Monitorear las salidas                                                     |
+| Desviar a los delincuentes                                                 |
+| Controlar armas o herramientas usadas para cometer delitos                 |
+
+| Aumentar el riesgo asociado a cometer un delito                            |
+|:---------------------------------------------------------------------------|
+| Extender la custodia                                                       |
