@@ -1,7 +1,7 @@
 ---
 title: Análisis
 subtitle: Entendiendo el problema
-linktitle: Análisis
+linktitle: 3. Análisis
 date: 2020-10-14
 type: book
 toc: true

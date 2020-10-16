@@ -28,3 +28,5 @@ La guía también contiene información relevante presentada en cajas especiales
 {{% /callout %}}
 
 Cada sección también contiene una lista de recursos adicionales sobre POP para su consulta.
+
+### [Da inicio aquí >]({{< ref "que-es-pop.md" >}})

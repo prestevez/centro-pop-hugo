@@ -1,7 +1,7 @@
 ---
 title: Búsqueda
 subtitle: Definiendo clara y específicamente el problema
-linktitle: Búsqueda
+linktitle: 2. Búsqueda
 date: 2020-09-17
 type: book
 toc: true
