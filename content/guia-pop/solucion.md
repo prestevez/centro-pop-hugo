@@ -1,7 +1,7 @@
 ---
 title: Solución
-subtitle: 4. Implementando las soluciones desarrolladas para atender el problema.
-linktitle: Solución
+subtitle: Implementando las soluciones desarrolladas para atender el problema.
+linktitle: 4. Solución
 date: 2020-10-14
 type: book
 toc: true
