@@ -42,3 +42,27 @@ Los grupos de control pueden componerse de áreas o personas donde las intervenc
 Comparar cómo cambia el problema en los grupos de tratamiento y control después de implementar las intervenciones es una forma efectiva de determinar si las intervenciones tuvieron impacto.
 
 {{% /callout %}}
+
+## ¿La intervención funcionó?
+
+La evaluación permite entender mejor qué funciona para reducir el delito. Si las intervenciones que implementó no funcionaron, regrese a las listas de revisión de secciones anteriores. Esto le ayudará a identificar aspectos que quizá no se hayan considerado y a determinar *por qué* sus intervenciones no tuvieron el efecto deseado.
+
+Independientemente de si las intervenciones implementadas hayan funcionado o no, es importante compartir las lecciones aprendidas con sus colegas.
+
+## Evaluaciones de resultados y procesos
+
+{{% callout note %}}
+
+Muchas intervenciones que podrían funcionar, fracasan porque no se han implementado de forma correcta.
+
+Una *evaluación de resultados* determina si las intervenciones tuvieron el efecto deseado, y si podemos tener confianza en que nuestras acciones fueron las responsables de los cambios observados.
+
+Por otro lado, una *evaluación del proceso* ayuda a determinar si hubieron fallas en la implementación. La evaluación del proceso revisa si los planes de implementación se siguieron, si se realizaron cambios, si todas las acciones se realizaron en las secuencias planeadas, quién cooperó en la implementación, quié no, y por qué.
+
+{{% /callout %}}
+
+# Revisión
+
+- [ ] **¿Cuál fue el impacto de las intervenciones?** ¿Cómo se midió el impacto? ¿Se usaron grupos de control adecuados? ¿Qué intervenciones funcionaron mejor?
+- [ ] **¿Las intervenciones se implementaron de acuerdo a lo planeado?** ¿Qué retos se encontraron en la implementación?
+- [ ] **¿Cuáles son las principales lecciones aprendidas?** ¿Se han compartido los resultados con colegas para compartir los aprendizajes adquiridos?
