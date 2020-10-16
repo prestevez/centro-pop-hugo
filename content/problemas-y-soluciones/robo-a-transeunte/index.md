@@ -2,9 +2,7 @@
 title: "Robo Callejero"
 subtitle: "Guías Orientadas a la Solución de Problemas"
 date: "2020-07-10T00:00:00Z"
-summary: "Esta guía describe los factores generales que contribuyen al robo
-callejero y discute cómo ayudar a mejorar la comprensión del problema
-local de este tipo de delito."
+summary: "Esta guía describe los factores generales que contribuyen al robo callejero y discute cómo ayudar a mejorar la comprensión del problema local de este tipo de delito."
 authors:
   - schainey
   - prestevez
@@ -304,7 +302,7 @@ Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyent
 
 {{% /callout %}}
 
-### víctimas
+### Víctimas
 
 Las características de las víctimas[^3] son importantes porque se
 relacionan con algunas actividades rutinarias que aumentan el riesgo de
