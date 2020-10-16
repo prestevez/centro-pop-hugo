@@ -46,7 +46,7 @@ Es poco probable que sea la primera persona que se enfrenta al problema que busc
 
 Aunque arrestar a un delincuente puede parecer como un logro importante, si las oportunidades para cometer delitos persisten, el problema no se ha resuelto. la POP promueve el uso de **alternativas al arresto** y enfatiza las soluciones que procuran **hacer más difícil cometer los delitos** que son parte del problema.
 
-Las tablas a continuación pueden ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.
+La tabla a continuación puede ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.
 
 | Aumentar el esfuerzo                         | Aumentar los riesgos                         | Reducir las recompensas                      | Reducir las provocaciones                    | Retirar las excusas                          |
 |:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|
