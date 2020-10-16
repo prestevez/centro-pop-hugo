@@ -13,4 +13,4 @@ subtitle = "[Consulta la guía >](guia-pop/)"
 
 Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar la implementación de la Policía Orientada a Problemas (POP).
 
-[{{< figure library="true" src="BASE.png" title="Diagrama del método BASE para la resolución de problemas." >}}]({{< ref "/guia-pop/_index.md" >}})
+{{< figure library="true" src="BASE.png" title="Diagrama del método BASE para la resolución de problemas." link="guia-pop/" height="50%">}}
