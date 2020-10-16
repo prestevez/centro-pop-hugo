@@ -19,7 +19,7 @@ Esta guía tiene el objetivo de servir como una fuente de referencia para apoyar
 - [Solución]({{< ref "/guia-pop/solucion.md">}})
 - [Evaluación]({{< ref "/guia-pop/evaluacion.md">}})
 
-{{< figure library="true" src="BASE.png" title = "Diagrama del método BASE para la resolución de problemas." >}}
+{{< figure library="true" src="BASE.png" title="Diagrama del método BASE para la resolución de problemas." >}}
 
 Al final de cada etapa, se presenta una lista para revisar que se hayan completado las partes clave de la etapa.
 
