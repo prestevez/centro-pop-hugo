@@ -35,13 +35,16 @@ cabo por las fuerzas del orden público y, simultáneamente, entidades de
 servicios sociales a través de una comunicación directa y persuasiva y
 de un seguimiento riguroso de los compromisos del individuo.
 
-Las iniciativas de disuasión focalizada implican cinco acciones: i)
-identificar delincuentes prolíficos ii) notificar a los infractores de
-la iniciativa a través de reuniones con un guion predeterminado iii) un
-enjuiciamiento coordinado y estratégico del individuo iv); prestación de
-servicios sociales a medida, y i) seguimiento cuidadoso de las acciones
-del individuo. No son simplemente medidas represivas o enfoques de
-tolerancia cero.
+{{% /callout %}}
+
+Las iniciativas de disuasión focalizada implican cinco acciones:
+
+1. identificar delincuentes prolíficos
+2. notificar a los infractores de la iniciativa a través de reuniones con un guion predeterminado,
+3. un enjuiciamiento coordinado y estratégico del individuo iv); prestación de servicios sociales a medida, y
+4. seguimiento cuidadoso de las acciones del individuo.
+
+No son simplemente medidas represivas o enfoques de tolerancia cero.
 
 Cuando se implementan de manera cuidadosa y adecuada, las iniciativas de
 disuasión focalizada tienen un gran potencial para disuadir a
@@ -51,14 +54,10 @@ hacia la policía.
 
 Una revisión de las estrategias de disuasión focalizadas identificó que
 19 de 24 estudios resultaron en una reducción estadísticamente
-significativa de la delincuencia en el problema delictivo objetivo.
+significativa de la incidencia del problema delictivo objetivo.
 Además, estas implementaciones no demostraron tener efectos
 significativos de desplazamiento del delito, sino más bien una difusión
-beneficiosa del efecto delictivo que se extendió a áreas cercanas y
-grupos sociales que no formaban parte del programa (Braga et al., 2019).
-
-{{% /callout %}}
-
+de beneficios que se extendió a áreas cercanas y grupos sociales que no formaban parte del programa (Braga et al., 2019). 
 
 **1.1 Teoría de Disuasión Focalizada**
 
