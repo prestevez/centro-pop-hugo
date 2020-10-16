@@ -39,10 +39,11 @@ de un seguimiento riguroso de los compromisos del individuo.
 
 Las iniciativas de disuasión focalizada implican cinco acciones:
 
-1. identificar delincuentes prolíficos
+1. identificar delincuentes prolíficos,
 2. notificar a los infractores de la iniciativa a través de reuniones con un guion predeterminado,
-3. un enjuiciamiento coordinado y estratégico del individuo iv); prestación de servicios sociales a medida, y
-4. seguimiento cuidadoso de las acciones del individuo.
+3. un enjuiciamiento coordinado y estratégico del individuo,
+4. prestación de servicios sociales a la medida, y
+5. seguimiento cuidadoso de las acciones del individuo.
 
 No son simplemente medidas represivas o enfoques de tolerancia cero.
 
@@ -57,13 +58,13 @@ Una revisión de las estrategias de disuasión focalizadas identificó que
 significativa de la incidencia del problema delictivo objetivo.
 Además, estas implementaciones no demostraron tener efectos
 significativos de desplazamiento del delito, sino más bien una difusión
-de beneficios que se extendió a áreas cercanas y grupos sociales que no formaban parte del programa (Braga et al., 2019). 
+de beneficios que se extendió a áreas cercanas y grupos sociales que no formaban parte del programa (Braga et al., 2019).
 
-**1.1 Teoría de Disuasión Focalizada**
+### Teoría de Disuasión Focalizada
 
 La disuasión focalizada se basa en la teoría de la disuasión del delito,
 que establece que se desalienta a las personas a cometer delitos si
-creen que el castigo por haber cometido dicho delito es seguro, severo y
+creen que el castigo por cometer dicho delito es seguro, severo y
 rápido.
 
 Las iniciativas de disuasión focalizada se ocupan principalmente de la
@@ -73,12 +74,11 @@ también pueden contribuir a mejorar la disuasión general, al desalentar
 los delitos entre el público en general.
 
 El papel de la policía en la disuasión del delito reside principalmente
-en el primer elemento de disuasión: la certeza de atrapar al
-delincuente. La policía generalmente tiene poca influencia sobre la
-severidad o la rapidez del castigo, ya que estos factores generalmente
+en el primer elemento de disuasión: *la certeza de atrapar de ser castigado*. La policía generalmente tiene poca influencia sobre la
+*severidad* o la _rapidez_ del castigo, ya que estos factores generalmente
 son decididos por las legislaturas, jueces y fiscales.
 
-**1.2 Teoría vs. Práctica**
+### Teoría vs. Práctica
 
 La teoría detrás de la disuasión criminal es sólida, aunque la evidencia
 ha demostrado que el aspecto más importante es la certeza del castigo,
@@ -88,12 +88,11 @@ justicia penal sólo castigan a una fracción muy pequeña de los
 delincuentes.
 
 Además, en lugar de basarse en mediciones objetivas, el efecto
-disuasorio se basa en última instancia en la percepción de las personas
+disuasorio se basa en última instancia en la percepción que las personas tienen
 sobre la certeza, la rapidez y la severidad del castigo, y estas
 percepciones pueden variar considerablemente entre las comunidades y los
 individuos. Por ejemplo, es probable que las personas que viven en
-comunidades que sufren un alto índice de delincuencia perciban que la
-amenaza general de castigo de la policía es débil, mientras que los
+comunidades que sufren un alto índice de delincuencia perciban que el riesgo general de castigo de la policía es débil, mientras que los
 delincuentes prolíficos, que probablemente han pasado por el sistema de
 justicia penal muchas veces, son aún más propensos a percibir que las
 posibilidades de castigo son bajas.
@@ -101,7 +100,7 @@ posibilidades de castigo son bajas.
 La disuasión focalizada tiene como objetivo abordar algunas de estas
 debilidades al concentrar los recursos de la justicia penal y las
 instituciones de política social en las personas que tienen más
-probabilidades de delinquir. La investigación ha demostrado en repetidas
+probabilidades de delinquir. Estudios científicos han demostrado en repetidas
 ocasiones que pequeñas cantidades de individuos, en general delincuentes
 prolíficos, son responsables de grandes cantidades de los delitos.
 
@@ -115,34 +114,33 @@ delincuentes prolíficos y controlan estratégicamente sus acciones, se
 puede maximizar el efecto disuasorio de las sanciones. Este elemento de
 la estrategia se conoce como "accionar palancas".
 
-La disuasión focalizada también puede funcionar a través de mecanismos
-de prevención de delitos situacionales, lo que significa que puede
+La disuasión focalizada también puede funcionar a través de mecanismos situacionales de prevención del delito, lo que significa que puede
 aumentar el esfuerzo para cometer delitos, aumentar el riesgo de ser
 atrapado, reducir las recompensas de cometer delitos y eliminar las
 provocaciones y excusas que alientan a los delincuentes a cometer
 delitos.
 
-Las iniciativas de disuasión focalizadas pueden funcionar a través de
+Las iniciativas de disuasión focalizada pueden funcionar a través de
 una variedad de mecanismos, más allá de la teoría de la disuasión y la
-prevención del delito situacional. Estos incluyen principios de ventanas
+prevención situacional del delito. Estos incluyen principios de ventanas
 rotas, eficacia colectiva, control social informal y justicia procesal.
 
-2.  **El Rol del Análisis**
+## El Rol del Análisis
 
 Las iniciativas de disuasión focalizadas no pueden implementarse fuera
-del contexto local. La replicación de lo que otros departamentos
+del contexto local. Repetir exactamente lo que otros departamentos
 policiales han hecho es poco probable que funcione. Un aspecto central
 de la lógica detrás de las técnicas policiales orientadas a problemas,
 como la disuasión focalizada, es que los problemas de delincuencia
 tienen características locales importantes que deben entenderse antes de
-desarrollar e implementar las respuestas.
+desarrollar e implementar las soluciones pensadas.
 
 Los problemas de delincuencia de cada comunidad son diferentes en
 algunos aspectos, incluso si las comunidades son similares en otros. Por
 lo tanto, en lugar de simplemente copiar lo que han hecho otros
 departamentos de policía, es importante observar cómo abordaron el
 problema, cómo lo analizaron y lo entendieron, para que podamos aprender
-cómo analizar y comprender nuestros problemas de delincuencia para así
+cómo analizar y comprender nuestros problemas de delincuencia y así
 desarrollar intervenciones personalizadas que tienen más probabilidades
 de funcionar.
 
@@ -165,20 +163,20 @@ disuasión focalizada, es importante tener en cuenta condiciones como:
 
   - La disposición de la comunidad para colaborar con la iniciativa.
 
-Casi todas las iniciativas de disuasión enfocadas se han guiado por el
+Casi todas las iniciativas de disuasión focalizada se han guiado por el
 análisis de datos al menos para estos propósitos:
 
   - Definir la naturaleza, el alcance y la gravedad del problema.
 
   - Comprender la dinámica local del problema (incluidos los motivos,
-    los métodos y las redes cercanas involucradas).
+    los métodos y las redes de personas involucradas).
 
-  - Asistir en la selección de personas con alto riesgo de ofender.
+  - Guiar la selección de personas con alto riesgo de ofender.
 
   - Elaboración de intervenciones que coincidan con las condiciones y
     recursos locales.
 
-  - Evaluar si la implementación y los efectos de la intervención.
+  - Evaluar la implementación y los efectos de la intervención.
 
 A continuación, se ilustran los tipos de análisis que podrían ser
 relevantes para diseñar una iniciativa de disuasión focalizada:
@@ -198,12 +196,12 @@ a mitad de la implementación si un elemento de la intervención no
 funciona, y para crear un registro que garantice el aprendizaje
 institucional y el intercambio de conocimientos.
 
-Puede ser necesario contratar a investigadores externos de universidades
-o consultorías para dirigir o ayudar en el análisis de datos.
+Puede ser necesario trabajar con investigadores externos, de universidades
+o consultorías, para dirigir o ayudar en el análisis de datos.
 
-# Las Fases y Elementos Centrales de la Disuasión Focalizada
+## Las Fases y Elementos Centrales de la Disuasión Focalizada
 
-**3.1 Fase 1 - Planificación e Implementación**
+### Fase 1 - Planificación e Implementación
 
 La primera fase de una iniciativa de disuasión focalizada es pensar
 cuidadosamente sobre el plan y la implementación del programa. La
