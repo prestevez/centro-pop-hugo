@@ -53,7 +53,7 @@ delincuentes prolíficos y, por lo tanto, reducir el crimen de manera
 significativa, además de mejorar la legitimidad y confianza percibidas
 hacia la policía.
 
-Una revisión de las estrategias de disuasión focalizadas identificó que
+Una revisión de las estrategias de disuasión focalizada identificó que
 19 de 24 estudios resultaron en una reducción estadísticamente
 significativa de la incidencia del problema delictivo objetivo.
 Además, estas implementaciones no demostraron tener efectos
@@ -127,7 +127,7 @@ rotas, eficacia colectiva, control social informal y justicia procesal.
 
 ## El Rol del Análisis
 
-Las iniciativas de disuasión focalizadas no pueden implementarse fuera
+Las iniciativas de disuasión focalizada no pueden implementarse fuera
 del contexto local. Repetir exactamente lo que otros departamentos
 policiales han hecho es poco probable que funcione. Un aspecto central
 de la lógica detrás de las técnicas policiales orientadas a problemas,
@@ -206,15 +206,15 @@ o consultorías, para dirigir o ayudar en el análisis de datos.
 La primera fase de una iniciativa de disuasión focalizada es pensar
 cuidadosamente sobre el plan y la implementación del programa. La
 implementación de iniciativas exitosas de disuasión focalizada requiere
-la coordinación entre múltiples partes, por lo tanto, durante esta fase,
-es crucial llegar y comprometerse con partes interesadas cuyo apoyo es
+la coordinación entre múltiples partes. Por lo tanto, durante esta fase,
+es crucial relacionarse y comprometerse con partes interesadas cuyo apoyo es
 necesario para realizar la intervención.
 
 Los objetivos de la Fase 1 son:
 
   - Involucrar a la comunidad
 
-  - Contratar personal policial
+  - Involucrar al personal policial
 
   - Involucrar a socios externos para asegurar el apoyo y los
     compromisos de recursos
@@ -223,19 +223,17 @@ Los objetivos de la Fase 1 son:
 
   - Establecer una infraestructura administrativa.
 
-**3.2 Fase 2 - Selección Individual de Alto Riesgo**
+### Fase 2 - Selección de Individuos de Alto Riesgo
 
-Después de asegurar los socios necesarios y la infraestructura para
-administrar la iniciativa de disuasión focalizada, el siguiente paso es
-decidir cómo se seleccionarán los delincuentes de alto riesgo.
+Después de asegurar la participación de socios y la infraestructura necesaria para administrar la iniciativa de disuasión focalizada, el siguiente paso es
+decidir cómo se seleccionarán los individuos de alto riesgo.
 
 La selección de los delincuentes de alto riesgo debe ser justa, objetiva
 y transparente. La mayoría de los individuos seleccionados (y la
-comunidad en general) no deben perciben que han sido seleccionados de
-manera injusta o aleatoria, sino que hay una justificación en su
-selección. Debe quedar claro que la selección se basó en la frecuencia
-y / o severidad de ofensas pasadas. Del mismo modo, los delincuentes
-deben creer que pueden dejar de ser objetivos de la intervención si
+comunidad en general) no deben percibir que han sido seleccionados de
+manera injusta o arbitraria, sino que la  selección está bien justificada. Debe quedar claro que la selección se basó en la frecuencia
+y/o severidad de delitos pasados. Del mismo modo, los delincuentes
+deben creer que pueden dejar de ser objeto de la intervención si
 cambian su comportamiento.
 
 El tipo de delincuentes de alto riesgo que se elegirán dependerá del
@@ -244,76 +242,72 @@ relacionados con pandillas, delitos relacionados con el mercado de
 drogas, violencia doméstica, conducir en estado de ebriedad, etc. Por
 ejemplo, si se esta interesado en abordar crímenes violentos
 relacionados con pandillas, no tendría sentido seleccionar un
-delincuente basado en una historia pasada de conducir ebrio.
+individuo por su historia de conducir en estado de ebriedad.
 
-Luego se debe decidir el umbral con el cual se seleccionará a los
-delincuentes para la intervención focalización. Esta puede ser la
+A continuación, se debe decidir el umbral que se utilizará para seleccionar a los
+delincuentes para la intervención. Esta puede ser la
 frecuencia o severidad de ofensas previas (o una combinación de ambas).
 Factores adicionales pueden influir en los criterios de selección, como
-el papel de un individuo en una red cercana y su influencia en otros
+el papel de un individuo en una red social y su influencia en otros
 delincuentes.
 
-Luego, se debe seleccionar a los delincuentes que coincidan con los
-criterios especificados previamente utilizando evidencia objetiva,
+Luego, se debe seleccionar a los delincuentes que se encuentren arriba del umbral especificado previamente utilizando evidencia objetiva,
 basada en datos sobre delitos anteriores, análisis de redes sociales,
 entrevistas y otras fuentes.
 
 Por último, también debe decidir los criterios que se utilizarían para
-eliminar formalmente a un individuo del foco de la intervención.
+formalmente retirar a un individuo de la intervención.
 
 Los objetivos de la Fase 2 son:
 
   - Desarrollar y probar un método para la selección de delincuentes de
     alto riesgo.
 
-  - Identificar candidatos para delincuentes de alto riesgo.
+  - Identificar candidatos a ser clasficiados como delincuentes de alto riesgo.
 
-  - Seleccionar delincuentes de alto riesgo
+  - Seleccionar a los delincuentes de alto riesgo
 
-**3.3 Fase 3 – Notificación**
+### Fase 3 – Notificación
 
-Uno de los elementos centrales de una iniciativa de disuasión enfocada
+Uno de los elementos centrales de una iniciativa de disuasión focalizada
 es notificar a los delincuentes de alto riesgo seleccionados sobre la
-intervención. Recuerde que la amenaza de castigo sólo funciona si los
-delincuentes perciben que la probabilidad de ser atrapados es alta, por
+intervención. Recuerde que el efecto disuasorio del castigo sólo funciona si los
+delincuentes *perciben* que la probabilidad de ser atrapados es alta, por
 lo tanto, si los delincuentes no conocen la iniciativa de disuasión
 focalizada, es poco probable que la intervención funcione.
 
 El mensaje general que deben recibir los delincuentes es del tipo
 siguiente:
 
-Su persistentes y graves ofensas nos han llamado particularmente la
-atención. El gobierno y la comunidad insisten en que dejes de ofender
-porque estás lastimando a personas y a la comunidad. Si está dispuesto a
-detener tus acciones, recibirás toda la asistencia necesaria para crear
-un estilo de vida exitoso para usted y su familia, y respetuoso de la
-ley. Si no está dispuesto a detenerse, usted y sus asociados criminales
-estarán sujetos a todos los medios disponibles para obligarlos a
-detenerse.
+> Su delitos persistentes y graves nos han llamado la
+> atención. El gobierno y la comunidad insisten en que deje de ofender
+> porque estás lastimando a personas y a la comunidad. Si está dispuesto a
+> detener tus acciones, recibirá toda la asistencia necesaria para crear
+> un estilo de vida legítimo y exitoso para usted y su familia. Si no está dispuesto a detenerse, usted y sus asociados criminales
+> estarán sujetos a todos los medios disponibles para obligarlos a
+> detenerse.
 
 Los delincuentes seleccionados son notificados de los detalles de la
 intervención en un entorno grupal en reuniones conocidas como reuniones
-o foros de notificación de delincuentes. Pero primero, la comunicación
+o foros de notificación. Pero primero, la comunicación
 individual con los delincuentes y sus familias debe realizarse para
 convencerlos de que asistan a la reunión. Esto puede ser a través de una
-carta persuasiva. Es de crucial importancia para la intervención obligue
-a las personas seleccionadas a asistir a la reunión programada.
+carta persuasiva. Es de crucial importancia para la intervención que las personas seleccionadas asistan a la reunión programada.
 
 El objetivo de la reunión es que los delincuentes comprendan las
 consecuencias de sus acciones (ya sea continuando o desistiendo en su
-comportamiento criminal). La naturaleza abierta de la reunión ayuda a
+comportamiento criminal). La naturaleza pública de la reunión ayuda a
 reducir la sensación de anonimato de los delincuentes.
 
 Los componentes clave del mensaje son:
 
-  - Las amenazas de castigo deben ser claras y creíbles.
+  - Las amenazas del castigo deben ser claras y creíbles.
 
   - Las agencias de justicia penal deben especificar las acciones que
-    están dispuestas a tomar contra las personas seleccionadas (y sus
-    asociados) que persisten en cometer delitos.
+    están dispuestas a tomar contra los individuos seleccionadas (y sus
+    asociados) que persistan en cometer delitos.
 
-  - Las agencias deben asegurarse de que coordinarán y se comunicarán
-    entre sí para monitorear a las personas seleccionadas.
+  - Las agencias deben asegurarse que se comunique claramente que se coordinarán y comunicarán entre sí para monitorear a las personas seleccionadas.
 
   - El mensaje debe ser respetuoso pero firme.
 
@@ -321,54 +315,52 @@ Los componentes clave del mensaje son:
     acordado (posiblemente siguiendo un guion).
 
   - El mensaje debe reiterarse en las comunicaciones de seguimiento, ya
-    sea en reuniones, en la calle o en cualquier otro medio adecuado.
+    sea en reuniones, en la calle o a través de cualquier medio adecuado.
 
 Los objetivos de la Fase 3 son:
 
-  - Establezca una buena relación con las familias y amigos de las
-    personas de alto riesgo.
+  - Establecer una buena relación con las familias y amigos de los
+    individuos de alto riesgo.
 
   - Invitar a delincuentes de alto riesgo a la reunión de notificación.
 
   - Realizar la reunión de notificación
 
-**3.4 Fase 4: cumplimiento y prestación de servicios**
+### Fase 4: cumplimiento y prestación de servicios
 
 El segundo elemento más importante de una iniciativa de disuasión
 focalizada es hacer un seguimiento de los compromisos adquiridos en la
 fase de notificación. Esto significa que las acciones coercitivas
-coordinadas contra los delincuentes seleccionados que persisten en su
+coordinadas contra los delincuentes seleccionados que persistan en su
 comportamiento criminal deben implementarse rápidamente. Además, se debe
-asegurar que los servicios prometidos a aquellos que desisten de su
-comportamiento criminal estén disponibles de inmediato.
+asegurar que los servicios prometidos a aquellos que desistan de su
+comportamiento criminal se pongan a su disposición inmediatamente.
 
-Entre las acciones de cumplimiento se encuentran:
+Las acciones de cumplimiento pueden incluir:
 
   - Monitoreo previo al arresto
 
-<!-- end list -->
-
   - Arresto
 
-  - Enjuiciamiento
+  - Procesamiento judicial
 
   - Sentencia y monitoreo intensivo posterior a la liberación
 
-  - Interrupción de las condiciones en que los delincuentes cometen
+  - Interrupción de las condiciones en las que los delincuentes cometen
     delitos.
 
-  - Incautaciones de activos ilícitos.
+  - Incautaciones de activos y bienes ilícitos
 
 La prestación del servicio debe estar supeditada a que los delincuentes
 desistan de su comportamiento criminal, y también debe adaptarse a las
 necesidades del individuo. La asistencia bien intencionada que no sea
 relevante para el individuo no será particularmente efectiva. Esto puede
-requerir muchos recursos. Se recomienda tener administradores
+requerir muchos recursos. Se recomienda tener trabajadores sociales
 específicos para cada caso.
 
 Entre los servicios sociales que pueden ser relevantes están:
 
-  - Capacitación y entrevistas de trabajo.
+  - Capacitación y entrevistas de trabajo
 
   - Empleo
 
@@ -394,26 +386,25 @@ Entre los servicios sociales que pueden ser relevantes están:
 
 Si bien la disuasión focalizada tiene como objetivo hacer un uso más
 estratégico de los mecanismos formales de control social para disuadir
-el comportamiento delictivo de un grupo selecto de delincuentes de alto
+el comportamiento delictivo de un grupo selecto de individuos de alto
 riesgo, las intervenciones más efectivas también movilizan mecanismos
 informales de control social (como el que se ejerce a través de la
 familia, los amigos y la comunidad), para disuadir a los delincuentes.
 
-Si el entorno social donde viven los delincuentes de alto riesgo
+Si el entorno social donde viven los individuos de alto riesgo
 promueve el comportamiento antisocial y criminal, es probable que el
 efecto disuasorio de las instituciones formales de control social (por
 ejemplo, la policía, los tribunales, el gobierno, etc.) se debilite. Por
-lo tanto, es importante que las iniciativas de disuasión focalizadas se
-involucren con los controladores sociales informales y les den una buena
+lo tanto, es importante que las iniciativas de disuasión focalizada se
+involucren a los controladores sociales informales y les den una buena
 razón para ponerse del lado de la intervención. Esto puede ser
 particularmente difícil en comunidades donde las relaciones con la
-policía son tensas.
+policía son complicadas.
 
-Por último, para problemas criminales basados en grupos (por ejemplo,
-violencia de pandillas), las iniciativas de disuasión focalizadas pueden
-aprovechar la presión de los compañeros para disuadir a los
-delincuentes. Esto se logra prometiendo (y entregando) acciones de
-cumplimiento mejoradas a todos los miembros del grupo si uno de sus
+Por último, para problemas criminales relacionados a grupos delictivos (por ejemplo, violencia de pandillas), las iniciativas de disuasión focalizada pueden
+aprovechar la presión grupal para disuadir a los
+delincuentes. Esto se logra prometiendo (y realizando) acciones de
+cumplimiento concentradas en todos los miembros del grupo si uno de sus
 miembros persiste en ofender. Esto hace que todo el grupo sea vulnerable
 a las acciones de un individuo, y es un buen ejemplo del uso del control
 social formal para aprovechar los mecanismos informales de control
@@ -422,27 +413,25 @@ social.
 En resumen, los objetivos de la Fase 4 son:
 
   - Llevar a cabo la ejecución y el enjuiciamiento de los delincuentes
-    de alto riesgo que se niegan a desistir participar en actividades
-    criminales
+    de alto riesgo que se niegan a desistir de participar en actividades
+    criminales.
 
-  - Proporcionar servicios a delincuentes de alto riesgo que desistan en
+  - Proporcionar servicios a delincuentes de alto riesgo que desistan de
     sus actividades criminales y soliciten asistencia.
 
-**3.5 Fase 5 - Comunicación de Seguimiento**
+### Fase 5 - Comunicación de Seguimiento
 
 Para fortalecer el efecto disuasorio de la intervención, es importante
 hacer un seguimiento de la notificación inicial con mensajes que
-detallen las acciones impuestas (por ejemplo, el posible castigo) a las
-personas que persistieron en su comportamiento criminal. Esto ayudará a
+detallen las acciones impuestas (por ejemplo, arrestos, juicios, sentencias) a las personas que persistieron en su comportamiento criminal. Esto ayudará a
 reforzar el mensaje inicial, subrayando la certeza, la rapidez y la
-severidad del castigo que aguardan a quienes no prestan atención a las
+severidad del castigo que aguardan a quienes no hagan caso de las
 advertencias.
 
-También es importante comunicar los servicios que se han prestado a las
-personas de alto riesgo que han desistido del delito. Esto ayudará a
-convencer a otros de que estarán mejor abandonando la vida criminal.
+También es importante comunicar los servicios que se han prestado a los individuos de alto riesgo que han desistido del delito. Esto ayudará a
+convencer a otros de que estarán mejor abandonando el estilo de vida criminal.
 
-Por último, también debe mantener informadas a las partes y miembros de
+Por último, también debe mantenerse informadas a los socios y miembros de
 la comunidad involucrados en el programa sobre los éxitos y fracasos de
 la intervención, para mantenerlos involucrados en el esfuerzo.
 
@@ -450,15 +439,15 @@ Los objetivos de la Fase 5 son:
 
   - Informar a los delincuentes de alto riesgo y sus asociados
     criminales de las consecuencias (positivas o negativas) que se
-    derivan del cumplimiento o incumplimiento y por qué
+    derivaron del cumplimiento o incumplimiento, y los comportamientos específicos que los desataron.
 
   - Mantener a las partes informadas sobre las medidas tomadas para
     penalizar o ayudar a los delincuentes de alto riesgo.
 
   - Informar al público en general sobre los principios de disuasión
-    focalizadas, y las principales acciones y resultados.
+    focalizada, y las principales acciones y resultados.
 
-**3.6 Fase 6 – Evaluación**
+### Fase 6 – Evaluación
 
 Un tiempo después de que se haya implementado la intervención, se
 deberán realizar dos tipos de evaluaciones. La primera es una
@@ -466,40 +455,38 @@ evaluación del proceso que detalla cómo se implementó la intervención
 (por ejemplo, cómo se seleccionaron y notificaron a los individuos, el
 contenido de las notificaciones, las acciones implementadas, etc.). La
 segunda es una evaluación de impacto para evaluar la efectividad de la
-intervención con los objetivos, así como si fue justa y rentable.
+intervención respecto a los objetivos planteados, así como evaluar si fue justa y rentable.
 
-Para evaluar la efectividad, los resultados deben medirse antes y
-después de la intervención. Algunos resultados relevantes que podrían
+Para evaluar la efectividad, los indicadores deben medirse antes y
+después de la intervención. Algunos indicadores relevantes que podrían
 medirse son:
 
-  - Cambio en el número de delitos que fueron el foco de la intervención
+  - Cambio en el número de delitos que fueron el motivaron la intervención
     (por ejemplo, delitos violentos, delitos relacionados con pandillas,
     etc.).
 
-  - Cambio en el número de delitos (de delitos relevantes) cometidos por
+  - Cambio en el número de delitos (relevantes a la intervención) cometidos por
     delincuentes de alto riesgo que recibieron la intervención.
 
-  - Cambio en el número de delitos (de delitos relacionados) por parte
+  - Cambio en el número de delitos (de otro tipo) por parte
     de delincuentes de alto riesgo.
 
   - Cambios en las percepciones de la comunidad sobre el miedo al
     crimen.
 
-Evaluaciones anteriores sugieren que las iniciativas de disuasión
-focalizadas pueden tener importantes efectos rápidamente para los
-delincuentes violentos, aunque los efectos tienden a ser más pequeños y
-lentos para los delincuentes no violentos.
+Evaluaciones previas sugieren que los efectos de las iniciativas de disuasión
+focalizada tienden ser de gran magnitud y a observarse rápidamente cuando se trata de delincuentes violentos. Cuando se trata de delincuentes no-violentos, los efectos tienden a ser de menor magnitud y a notarse más lentamente.
 
-Evaluar adecuadamente las intervenciones de disuasión focalizadas
+Evaluar adecuadamente las intervenciones de disuasión focalizada
 requiere conocimientos y habilidades especializadas, por lo que tiene
 sentido asociarse con investigadores con experiencia en evaluaciones
 cuantitativas para la prevención del delito.
 
-Las iniciativas de disuasión focalizadas requieren muchos recursos,
+Las iniciativas de disuasión focalizada requieren muchos recursos,
 debido a la cantidad de agencias, socios y servicios sociales
 involucrados. Por lo tanto, es importante evaluar si la intervención fue
 rentable. Esencialmente, esto implica comparar la cantidad de recursos
-utilizados por la intervención con los ahorros monetarios asociados con
+utilizados para la intervención con los ahorros monetarios asociados con
 sus efectos (por ejemplo, delitos prevenidos, recursos no gastados en
 encarcelamiento, etc.)
 
@@ -513,12 +500,9 @@ Los objetivos de la Fase 6 son:
 
   - Determinar si la intervención se percibe como justa y si es rentable
 
-**
-**
+## Administrar y Liderar una Iniciativa de Disuasión Focalizada 
 
-4.  **Administrar y Liderar una Iniciativa de Disuasión Focalizada**
-
-Las iniciativas de disuasión focalizadas pueden ser difíciles de
+Las iniciativas de disuasión focalizada pueden ser difíciles de
 administrar porque involucran la colaboración de múltiples
 organizaciones asociadas, cada una con diferentes misiones, mandatos y
 requisitos organizacionales. Tales colaboraciones son particularmente
@@ -570,7 +554,7 @@ también debe dedicar parte de su tiempo a sus tareas habituales.
 
 Liderazgo fuerte: las iniciativas de disuasión enfocadas requieren un
 liderazgo fuerte. El liderazgo de las iniciativas de disuasión
-focalizadas generalmente recae en la policía. Sin embargo, la policía
+focalizada generalmente recae en la policía. Sin embargo, la policía
 debe tener cuidado de no tomar demasiado control, ya que todos los
 socios son dueños del proyecto. Tener una estructura de gestión clara
 puede ayudar a la iniciativa a soportar cambios, como las transiciones
@@ -578,7 +562,7 @@ de liderazgo y la rotación del personal.
 
 # La Aplicación de Disuasión Focalizada a Problemas de Delincuencia Específicos
 
-Las iniciativas de disuasión focalizadas están destinadas esencialmente
+Las iniciativas de disuasión focalizada están destinadas esencialmente
 a reducir los incidentes delictivos cometidos por delincuentes
 prolíficos. Debido a que los delincuentes prolíficos tienden a cometer
 muchos tipos de diferentes de delitos, las intervenciones podrían
@@ -592,13 +576,13 @@ un enfoque en delincuentes de alto riesgo con intervenciones basadas en
 el lugar (como la vigilancia policial de puntos calientes).
 
 No obstante, también es posible implementar iniciativas de disuasión
-focalizadas para abordar los problemas de delincuencia y seguridad en
+focalizada para abordar los problemas de delincuencia y seguridad en
 los que los delincuentes no están agrupados geográficamente, como
 abusadores sexuales, la conducción en estado de ebriedad y la violencia
 doméstica. Sin embargo, el abordar estos problemas, puede significar que
 una reducción en la delincuencia general sea menos probable.
 
-La mayoría de las iniciativas de disuasión focalizadas han sido
+La mayoría de las iniciativas de disuasión focalizada han sido
 dirigidas a reducir la violencia de las pandillas juveniles, incluidas
 las pandillas pequeñas y desorganizadas, así como los grupos grandes y
 organizados. También se han ideado intervenciones para hacer frente a
