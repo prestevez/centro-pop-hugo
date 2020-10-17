@@ -573,7 +573,7 @@ Algunas intervenciones se concentran en delincuentes que viven y operan
 en vecindarios específicos, por ejemplo, involucrados en pandillas o
 mercados locales de drogas. Por lo tanto, estas intervenciones combinan
 un enfoque en delincuentes de alto riesgo con intervenciones basadas en
-el lugar (como el [policiamiento de puntos calientes]({{< ref "/que-funciona/policiamiento-puntos-calientes/" >}})).
+el lugar (como el [policiamiento de puntos calientes]({{< ref "/que-funciona/policiamiento-puntos-calientes/index.md" >}})).
 
 No obstante, también es posible implementar iniciativas de disuasión
 focalizada para abordar los problemas de delincuencia y seguridad en
