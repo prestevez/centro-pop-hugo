@@ -10,8 +10,7 @@ categories: ["¿Qué funciona?"]
 url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=3"
 
 image:
-  caption: Foto por Henry & Co en Unsplash
-  #caption: Foto por Arpad Spodni en Unsplash
+  caption: Foto por Rachel Woock en Unsplash
   focal_point: Smart
 ---
 
