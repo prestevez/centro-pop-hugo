@@ -1,5 +1,5 @@
 ---
-title: "Terapia Cognitivo-Conductual (TCC)"
+title: "Terapia Cognitivo-Conductual"
 date: "2020-10-17"
 summary: "En general, la evidencia sugiere que la terapia cognitivo-conductual (TCC) reduce el delito."
 toc: true
@@ -109,14 +109,16 @@ inadecuadas).
 ​La evidencia de la investigación indica que los resultados de la TCC
 pueden diferir de acuerdo con un numero de factores:
 
-  - Tipo de delincuente: la evidencia sugiere que la TCC funciona
-    significativamente mejor para participantes de alto riesgo.
+  - **Tipo de delincuente**
+      - La evidencia sugiere que la TCC funciona
+        significativamente mejor para participantes de alto riesgo.
 
-  - Intensidad y duración del programa: los programas de TCC con más
-    sesiones semanales y más horas de tratamiento mostraron índices de
-    reincidencia significativamente menores. Los programas de TCC con
-    implementaciones de mejor calidad también experimentaron índices de
-    reincidencia significativamente menores.
+  - **Intensidad y duración del programa**
+      - Los programas de TCC con más
+        sesiones semanales y más horas de tratamiento mostraron índices de
+        reincidencia significativamente menores. Los programas de TCC con
+        implementaciones de mejor calidad también experimentaron índices de
+        reincidencia significativamente menores.
 
 Adicionalmente, estudios en torno al impacto de la TCC no encontraron
 diferencias significativas en los índices de reincidencia de adultos o
