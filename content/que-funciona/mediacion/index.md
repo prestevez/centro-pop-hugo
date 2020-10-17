@@ -1,5 +1,5 @@
 ---
-title: "Meciación Víctima-Delincuente"
+title: "Mediación Víctima-Delincuente"
 date: "2020-10-17"
 summary: "La evidencia sugiere que la mediación víctima-delincuente (MVD) reduce el delito, pero hay algo de evidencia (aunque de baja calidad) que indica que también puede aumentarlo."
 toc: true
