@@ -12,6 +12,8 @@ image:
   focal_point: Smart
 ---
 
+¿Por qué no funciona esto?
+
 ## Resumen
 
 {{% callout secondary %}}
@@ -94,7 +96,7 @@ menos de US$1 por participante. Otro estudio de Estados Unidos estimó que
 el costo de participar en el programa era de US$50 por persona. Sin
 embargo, después de considerar los costos estimados de los delitos
 adicionales cometidos por menores involucrados en el programa, el costo
-neto total se estimó en US$14,667 por participante. 
+neto total se estimó en US$14,667 por participante.
 
 ## Temas adicionales
 
