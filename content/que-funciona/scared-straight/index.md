@@ -1,7 +1,7 @@
 ---
 title: "Programa de Concientización Juvenil (Scared Straight)"
 date: "2020-10-17"
-summary: "La evidencia sugiere que _Scared Straight_ no tiene ningún impacto o puede aumentar la delincuencia cometida por jóvenes."
+summary: "La evidencia sugiere que _Scared Straight_ no tiene ningún impacto o puede aumentar los delitos cometidos por jóvenes."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]
 categories: ["¿Qué funciona?"]
@@ -17,7 +17,7 @@ image:
 {{% callout secondary %}}
 
 En general, la evidencia sugiere que _Scared Straight_ no tiene ningún
-impacto o puede aumentar la delincuencia cometida por jóvenes. En la
+impacto o puede aumentar los delitos cometidos por jóvenes. En la
 mayoría de los estudios revisados, se encontró que los
 jóvenes que participaron en el programa cometieron mas delitos en promedio, en
 comparación con los jóvenes que no participaron. Esto sugiere un efecto
