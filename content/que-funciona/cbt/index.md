@@ -42,7 +42,7 @@ problemas interpersonales.
 | **Costo**          | No hay información.                                |
 
 
-**2. ¿Qué es la Terapia Cognitivo-Conductual?**
+## ¿Qué es la Terapia Cognitivo-Conductual?
 
 La Terapia Cognitivo-Conductual (TCC) para delincuentes considera que el
 “pensamiento delictual” es un factor contribuyente a la conducta
