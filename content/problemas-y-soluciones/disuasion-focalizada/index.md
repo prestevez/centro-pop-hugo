@@ -500,85 +500,85 @@ Los objetivos de la Fase 6 son:
 
   - Determinar si la intervención se percibe como justa y si es rentable
 
-## Administrar y Liderar una Iniciativa de Disuasión Focalizada 
+## Administrar y Liderar una Iniciativa de Disuasión Focalizada
 
 Las iniciativas de disuasión focalizada pueden ser difíciles de
 administrar porque involucran la colaboración de múltiples
-organizaciones asociadas, cada una con diferentes misiones, mandatos y
+organizaciones, cada una con diferentes misiones, mandatos y
 requisitos organizacionales. Tales colaboraciones son particularmente
 difíciles de mantener a largo plazo.
 
 Las siguientes recomendaciones pueden ayudar a los administradores y
-líderes a mantener iniciativas de disuasión enfocadas por más tiempo.
+líderes a mantener iniciativas de disuasión focalizada por más tiempo.
 
-Protocolo: los socios principales deben acordar un protocolo formal para
+### Protocolo
+
+Los socios principales deben acordar un protocolo formal para
 la intervención que contenga:
 
   - Una definición acordada sobre problema que la intervención pretende
     abordar y los objetivos de la colaboración.
 
-  - Qué información se compartirá con quién y cómo
+  - Qué información se compartirá con quién y cómo.
 
   - Cuándo y dónde se llevarán a cabo las reuniones.
 
   - Quién asumirá el liderazgo y la carga administrativa de la
     colaboración.
 
-  - Cómo contribuirá cada socio a la colaboración
+  - Cómo contribuirá cada socio a la colaboración.
 
-Estructura organizacional: ejecutar una intervención de disuasión
-enfocada necesita una estructura organizacional. Se recomiendan tres
-grupos de dirección:
+### Estructura organizacional
 
-1\) Un grupo de formuladores de políticas de alto nivel para establecer
-políticas generales y asegurar recursos.
+Ejecutar una intervención de disuasión enfocada necesita una estructura organizacional. Se recomiendan tres grupos de gestión:
 
-2\) Un grupo de supervisores de nivel medio para proporcionar
-supervisión diaria, revisar los resultados del análisis, seleccionar
-delincuentes de alto riesgo y responsabilizar a los socios.
+1. Un grupo de altos funcionarios para establecer políticas generales y asegurar recursos.
 
-3\) Un grupo de nivel de línea para implementar respuestas específicas.
+2. Un grupo de supervisores de nivel intermedio para dar seguimiento diario, revisar los resultados del análisis, seleccionar delincuentes de alto riesgo y asegurar que los socios cumplan con sus responsabilidades.
 
-Duración de la intervención: las organizaciones asociadas deben decidir
-si la iniciativa pretende ser una intervención a corto plazo (por
+3. Un grupo de nivel operativo para implementar las respuestas específicas.
+
+### Duración de la intervención
+
+Las organizaciones que participan en la intervención deben decidir
+si la iniciativa pretende ser una intervención de corto plazo (por
 ejemplo, un grupo de trabajo) o si tienen la intención de hacerla
 permanente (por ejemplo, institucionalizar su gestión).
 
-Enfoque especializado o generalista: dependiendo de los recursos
-disponibles, los socios también tienen que decidir si un enfoque
-especializado o generalista es mejor. En un enfoque especializado, es
-cuando un pequeño grupo de personas se dedica por completo a la
-iniciativa, mientras que, en un enfoque generalista, es cuando la
-implementación de la iniciativa es realizada por todo el personal, que
-también debe dedicar parte de su tiempo a sus tareas habituales.
+## Enfoque especializado o generalista
 
-Liderazgo fuerte: las iniciativas de disuasión enfocadas requieren un
-liderazgo fuerte. El liderazgo de las iniciativas de disuasión
+Dependiendo de los recursos disponibles, los socios también tienen que decidir si un enfoque especializado o generalista es mejor. En un enfoque especializado, es cuando un pequeño grupo de personas se dedica por completo a la
+iniciativa. Un enfoque generalista es cuando la implementación de la iniciativa es realizada por todo el personal, que también debe dedicar parte de su tiempo a sus tareas habituales.
+
+## Liderazgo sólido
+
+Las iniciativas de disuasión focalizada requieren un
+liderazgo sólido. El liderazgo de las iniciativas de disuasión
 focalizada generalmente recae en la policía. Sin embargo, la policía
 debe tener cuidado de no tomar demasiado control, ya que todos los
 socios son dueños del proyecto. Tener una estructura de gestión clara
 puede ayudar a la iniciativa a soportar cambios, como las transiciones
 de liderazgo y la rotación del personal.
 
-# La Aplicación de Disuasión Focalizada a Problemas de Delincuencia Específicos
+## La Aplicación de Disuasión Focalizada a Problemas Delictivos Específicos
 
 Las iniciativas de disuasión focalizada están destinadas esencialmente
 a reducir los incidentes delictivos cometidos por delincuentes
 prolíficos. Debido a que los delincuentes prolíficos tienden a cometer
-muchos tipos de diferentes de delitos, las intervenciones podrían
-reducir varios tipos de delitos, además de los tipos de delitos que
+muchos tipos diferentes de delitos, las intervenciones podrían
+reducir varios tipos de delitos, además de los delitos que
 motivaron la intervención.
 
 Algunas intervenciones se concentran en delincuentes que viven y operan
 en vecindarios específicos, por ejemplo, involucrados en pandillas o
 mercados locales de drogas. Por lo tanto, estas intervenciones combinan
 un enfoque en delincuentes de alto riesgo con intervenciones basadas en
-el lugar (como la vigilancia policial de puntos calientes).
+el lugar (como el [policiamiento de puntos calientes]({{< ref "/que-funciona/policiamiento-de-puntos-calientes/" >}})).
 
 No obstante, también es posible implementar iniciativas de disuasión
 focalizada para abordar los problemas de delincuencia y seguridad en
 los que los delincuentes no están agrupados geográficamente, como
-abusadores sexuales, la conducción en estado de ebriedad y la violencia
+el abuso sexual, conductores en estado de ebriedad y la violencia
 doméstica. Sin embargo, el abordar estos problemas, puede significar que
 una reducción en la delincuencia general sea menos probable.
 
@@ -599,9 +599,7 @@ monitoreo; y, los siguientes son informados de posibles monitoreos
 futuros.
 
 También se han propuesto enfoques de disuasión focalizada para hacer
-frente a delitos organizados, tales como el tráfico transnacional
-ilícito y el terrorismo. Sin embargo, hasta la fecha parecen no haber
-claros ejemplos exitosos.
+frente a delitos organizados, tales como el tráfico ilegal transnacional y el terrorismo. Sin embargo, hasta la fecha parecen no han habido casos de éxito del uso de la disuasión focalizada.
 
 {{% pop_guide %}}
 
