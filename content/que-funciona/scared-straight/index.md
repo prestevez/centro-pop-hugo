@@ -1,6 +1,6 @@
 ---
 title: "Programa de Concientización Juvenil (Scared Straight)"
-date: "2020-10-18"
+date: "2020-10-17"
 summary: "La evidencia sugiere que _Scared Straight_ no tiene ningún impacto o puede aumentar la delincuencia cometida por jóvenes."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]
@@ -11,8 +11,6 @@ image:
   caption: Foto por Emiliano Bar en Unsplash
   focal_point: Smart
 ---
-
-¿Por qué no funciona esto?
 
 ## Resumen
 
