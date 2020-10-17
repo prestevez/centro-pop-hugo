@@ -10,7 +10,8 @@ categories: ["¿Qué funciona?"]
 url_source: "https://whatworks.college.police.uk/toolkit/Pages/Intervention.aspx?InterventionID=3"
 
 image:
-  caption: Foto por Arpad Spodni en Unsplash
+  caption: Foto por Henry & Co en Unsplash
+  #caption: Foto por Arpad Spodni en Unsplash
   focal_point: Smart
 ---
 
@@ -90,7 +91,7 @@ Se requiere evidencia sistemática adicional para determinar cuáles son
 los mecanismos específicos a través de los cuales mejorar el alumbrado
 público reduce el delito. Específicamente, esta evidencia es necesaria
 para examinar cómo la influencia del sentido de orgullo comunitario en
-un vecindario ─como resultado de un alumbrado público mejorado–impacta
+un vecindario---como resultado de un alumbrado público mejorado---impacta
 en la reducción del delito.
 
 ## Dónde funciona
