@@ -20,8 +20,7 @@ El proyecto aún está en fase de desarrollo.
 - [x] Crear perfiles de usuarios faltantes
 - [x] Retirar perfiles del footer
 - [x] Crear página o widget con autores
-- [ ] ~Implementar autores por default~ (Abandoned, use all authors in front matter instead)
-- [ ] Completar perfiles de colaboradores
+- [x] Completar perfiles de colaboradores
 - [ ] Agregar featured images a todos(?) los posts
 - [ ] Agregar PDFs de guias y toolkits para descarga
 - [ ] Obtener logos correctos para socios
