@@ -545,12 +545,12 @@ si la iniciativa pretende ser una intervención de corto plazo (por
 ejemplo, un grupo de trabajo) o si tienen la intención de hacerla
 permanente (por ejemplo, institucionalizar su gestión).
 
-## Enfoque especializado o generalista
+### Enfoque especializado o generalista
 
 Dependiendo de los recursos disponibles, los socios también tienen que decidir si un enfoque especializado o generalista es mejor. En un enfoque especializado, es cuando un pequeño grupo de personas se dedica por completo a la
 iniciativa. Un enfoque generalista es cuando la implementación de la iniciativa es realizada por todo el personal, que también debe dedicar parte de su tiempo a sus tareas habituales.
 
-## Liderazgo sólido
+### Liderazgo sólido
 
 Las iniciativas de disuasión focalizada requieren un
 liderazgo sólido. El liderazgo de las iniciativas de disuasión
