@@ -164,7 +164,7 @@ considerados.
 
   - Mejorar el alumbrado público puede ser necesario para el despliegue
     efectivo de otras iniciativas de prevención del delito, tales como
-    la vigilancia por sistemas de circuito cerrado de televisión (CCTV).
+    la[ vigilancia por sistemas de circuito cerrado de televisión (CCTV)]({{< ref "/que-funciona/cctv/index.md" >}}).
 
 ## Referencias
 
