@@ -43,7 +43,7 @@ El Centro POP Uruguay es un proyecto de la [Unidad para América Latina y el Car
     </div>
   <div class="column">
     <a href="https://www.minterior.gub.uy/" target="new">
-    <img src="/img/minterior_logo.jpeg" style="width:100%" alt="Ministerio del Interior">
+    <img src="/img/minterior_logo.png" style="width:100%" alt="Ministerio del Interior">
     </a>
   </div>
 </div>
