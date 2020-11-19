@@ -12,7 +12,7 @@ subtitle = "Guías de problemas específicos y soluciones."
   page_type = "problemas-y-soluciones"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 0
 
   # Choose how many pages you would like to offset by
   offset = 0
