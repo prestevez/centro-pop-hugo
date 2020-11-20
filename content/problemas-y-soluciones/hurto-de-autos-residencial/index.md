@@ -78,21 +78,21 @@ Determinar qué individuos y grupos tienen interés en el problema y su resoluci
 
 #### En casas privadas
 
-      - Propietarios o arrendatarios
-      - Compañías de seguros de viviendas
+- Propietarios o arrendatarios
+- Compañías de seguros de viviendas
 
 #### En calles públicas
 
-      - Supervisores de la ciudad
-      - Topógrafos municipales
-      - Ingenieros de tráfico
-      - Planificadores urbanos
-      - Grupos comunitarios locales
+- Supervisores de la ciudad
+- Topógrafos municipales
+- Ingenieros de tráfico
+- Planificadores urbanos
+- Grupos comunitarios locales
 
 #### Para ambas ubicaciones
 
-      - Compañías de seguros de autos
-      - Los propietarios de los autos
+- Compañías de seguros de autos
+- Los propietarios de los autos
 
 ### Recolectando Inteligencia
 
