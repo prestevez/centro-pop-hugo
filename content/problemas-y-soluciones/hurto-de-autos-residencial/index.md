@@ -376,9 +376,9 @@ Los ladrones que buscan objetos rápidos y fáciles de robar eligen objetivos do
 
 Una preocupación clave para los ladrones es tener un medio rápido de escape después del evento o en caso de ser descubiertos. Los ladrones que operan en vehículos pueden ser disuadidos si sus potenciales rutas de escape son restringidas. Las calles sin salida ofrecen sólo un medio de acceso, y también aumentan la probabilidad de llamar la atención sobre cualquier vehículo en particular que ingrese a la calle.
 
-##### Instalar y monitorear [cámaras de vigilancia (CCTV)]({{< ref "que-funciona/cctb/index.md" >}})
+##### Instalar y monitorear [cámaras de vigilancia (CCTV)]({{< ref "que-funciona/cctv/index.md" >}})
 
-Los [sistemas de videovigilancia]({{< ref "que-funciona/cctb/index.md" >}}) pueden proporcionar un método de bajo costo (en comparación con el uso de guardias de seguridad) para proporcionar monitoreo en las calles las 24 horas. Si bien estos dispositivos pueden no registrar un acto criminal, potencialmente podrían ayudar a la policía a identificar un vehículo o una persona conocida que se encuentre en el área donde se producen los delitos y que no tenga una causa razonable para estar ahí. Sin embargo, no está claro en qué circunstancias y en qué ubicaciones específicas la videovigilancia puede ser efectiva.
+Los [sistemas de videovigilancia]({{< ref "que-funciona/cctv/index.md" >}}) pueden proporcionar un método de bajo costo (en comparación con el uso de guardias de seguridad) para proporcionar monitoreo en las calles las 24 horas. Si bien estos dispositivos pueden no registrar un acto criminal, potencialmente podrían ayudar a la policía a identificar un vehículo o una persona conocida que se encuentre en el área donde se producen los delitos y que no tenga una causa razonable para estar ahí. Sin embargo, no está claro en qué circunstancias y en qué ubicaciones específicas la videovigilancia puede ser efectiva.
 
 {{% /callout %}}
 
@@ -436,7 +436,7 @@ Las casas de empeño locales y las tiendas de segunda mano que comercian artícu
 
 ##### Advertir a los infractores
 
-La mayoría de los ladrones son conscientes de la amenaza de ser arrestados y procesados penalmente. La instalación de anuncios  de programas de [vigilancia vecinal]({{< ref "que-funciona/vigiliancia-vecinal/index.md" >}}) y otros mensajes para advertir a los delincuentes generalmente no actúan como elementos disuasorios para los delincuentes experimentados, pues estos se dan cuenta que los riesgos de detección y la aprehensión son pequeños.
+La mayoría de los ladrones son conscientes de la amenaza de ser arrestados y procesados penalmente. La instalación de anuncios  de programas de [vigilancia vecinal]({{< ref "que-funciona/vigilancia-vecinal/index.md" >}}) y otros mensajes para advertir a los delincuentes generalmente no actúan como elementos disuasorios para los delincuentes experimentados, pues estos se dan cuenta que los riesgos de detección y la aprehensión son pequeños.
 
 ##### Programas para delincuentes juveniles
 
