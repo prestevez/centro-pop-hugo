@@ -1,7 +1,7 @@
 ---
 title: "Robo de y a Vehículos en Zonas Residenciales"
 date: "2020-11-20"
-summary: "Esta guía describe el problema del robo de vehículos y de artículos en su interior en zonas residenciales y revisa factores que aumentan los riesgos de estos incidentes. Luego, identifica una serie de preguntas que ayudan a analizar el problema en su dimensión local. Finalmente, revisa respuestas al problema y lo que se sabe de éstas desde la evaluación y la práctica policial."
+summary: "Esta guía describe el problema del robo de vehículos y de artículos en su interior en zonas residenciales y revisa factores que aumentan los riesgos de estos incidentes."
 authors:
   - schainey
   - prestevez
