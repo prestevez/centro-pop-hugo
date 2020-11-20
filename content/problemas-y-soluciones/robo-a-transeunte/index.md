@@ -1,6 +1,6 @@
 ---
 title: "Robo Callejero"
-subtitle: "Guías Orientadas a la Solución de Problemas"
+#subtitle: "Guías Orientadas a la Solución de Problemas"
 date: "2020-07-10T00:00:00Z"
 summary: "Esta guía describe los factores generales que contribuyen al robo callejero y discute cómo ayudar a mejorar la comprensión del problema local de este tipo de delito."
 authors:

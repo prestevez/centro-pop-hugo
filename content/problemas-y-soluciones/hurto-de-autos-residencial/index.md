@@ -1,6 +1,5 @@
 ---
-title: "Robo de Vehículos en Calles Residenciales"
-subtitle: "Robo de Vehículos y Robo de Artículos en Vehículos en Calles Residenciales"
+title: "Robo de Vehículos en Zonas Residenciales"
 date: "2020-11-20"
 summary: "Esta guía describe el problema del robo de vehículos y de artículos en su interior en zonas residenciales y revisa factores que aumentan los riesgos de estos incidentes. Luego, identifica una serie de preguntas que ayudan a analizar el problema en su dimensión local. Finalmente, revisa respuestas al problema y lo que se sabe de éstas desde la evaluación y la práctica policial."
 authors:
@@ -31,29 +30,13 @@ Esta guía describe el problema del robo de vehículos y de artículos en su int
 
 {{% /callout %}}
 
-**2. Descripción General del Problema**
+## Descripción General del Problema
 
-El robo de autos estacionados es uno de los tipos de incidentes que
-ocurren en vecindarios residenciales. Algunos delitos, y en particular
-los delitos contra la propiedad tienden a no ser denunciados a las
-autoridades. Como resultado, el problema podría ser peor de lo que
-parece según las estadísticas reportadas por la policía.
+El robo de autos estacionados es uno de los tipos de incidentes que ocurren en vecindarios residenciales. Algunos delitos, y en particular los delitos contra la propiedad tienden a no ser denunciados a las autoridades. Como resultado, el problema podría ser peor de lo que parece según las estadísticas reportadas por la policía.
 
-El robo de artículos en el *interior* de los vehículos puede implicar la
-sustracción de objetos de bajo valor comercial, pero consumen recursos
-policiales considerables y aumentan el temor al delito de los residentes
-y reducen su confianza en la policía y otras autoridades.
+El robo de artículos en el *interior* de los vehículos puede implicar la sustracción de objetos de bajo valor comercial, pero consumen recursos policiales considerables y aumentan el temor al delito de los residentes y reducen su confianza en la policía y otras autoridades.
 
-Si bien generalmente es un problema en las áreas metropolitanas, los
-robos *de* vehículos también plantean un problema delictual
-significativo en muchas jurisdicciones suburbanas. Por lo general, los
-vehículos son robados para uno de tres propósitos: (1) para transporte
-temporal, como el uso en otro delito o para circular; (2) para desarmar
-el vehículo en partes y revenderlas; (3) para revender el vehículo
-completo, a menudo disimulando su origen robado. Los vehículos robados
-generan mayores costos de seguros, inconvenientes y pérdidas financieras
-para sus propietarios, así como riesgos para la seguridad de la policía
-y otros automovilistas por persecuciones a vehículos robados.
+Si bien generalmente es un problema en las áreas metropolitanas, los robos *de* vehículos también plantean un problema delictual significativo en muchas jurisdicciones suburbanas. Por lo general, los vehículos son robados para uno de tres propósitos: (1) para transporte temporal, como el uso en otro delito o para circular; (2) para desarmar el vehículo en partes y revenderlas; (3) para revender el vehículo completo, a menudo disimulando su origen robado. Los vehículos robados generan mayores costos de seguros, inconvenientes y pérdidas financieras para sus propietarios, así como riesgos para la seguridad de la policía y otros automovilistas por persecuciones a vehículos robados.
 
 **3. Factores Contribuyentes al Robo de Vehículos y de Artículos en su
 Interior en Calles Residenciales**
