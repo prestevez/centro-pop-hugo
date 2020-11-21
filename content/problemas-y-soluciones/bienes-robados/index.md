@@ -11,9 +11,9 @@ authors:
 toc: true
 categories: ["Guías de problemas específicos"]
 #projects: ["problemas-y-respuestas"]
-# image:
-#   caption: Foto por David Nieto en Unsplash
-#   focal_point: Smart
+image:
+  caption: Foto por Osman Rana en Unsplash
+  focal_point: Smart
 
 # Pop Centre params
 url_source: "https://popcenter.asu.edu/content/stolen-goods-markets-0"
@@ -85,12 +85,6 @@ obteniendo los bienes.
 
 #### Cadena de transacciones de bienes robados
 
-<!--
-1. Robo (de cualquier tipo)
-2. Ocultamiento de bien robado
-
--->
-
 ```mermaid
 graph TB
 A[Robo de<br/>cualquier tipo] --> B[Ocultar o esconder<br/>objeto robado]
@@ -100,7 +94,7 @@ D --> E[Vender el bien]
 
 ```
 
-**5.2. Oferta y Demanda: el Tema Clave en la Mayoría de los Robos**
+### Oferta y Demanda: El Tema Clave en la Mayoría de los Robos
 
 Como con cualquier mercado, la relación entre oferta y demanda por
 bienes robados puede ser compleja. Generalmente, la demanda de bienes
