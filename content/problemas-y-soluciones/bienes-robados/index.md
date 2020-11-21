@@ -92,10 +92,10 @@ obteniendo los bienes.
 -->
 
 ```mermaid
-graph LR
+graph TB
 A[Robo de<br/>cualquier tipo] --> B[Ocultar o esconder<br/>objeto robado]
 B --> C[Disfrazar origen<br/>robado de objeto]
-C --> D[Ofrecer objeto<br/>directamente al cliente<br/>o a través de <br/>intermediario]
+C --> D[Ofrecer objeto<br/>robado al cliente<br/>o a través de <br/>intermediario]
 D --> E[Vender el bien]
 
 ```
