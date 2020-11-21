@@ -515,3 +515,5 @@ menos tres meses para medir el impacto de las respuestas a los mercados
 de bienes robados.
 
 [^1]: Un receptor, comerciante o vendedor de bienes robados; un individuo que, a sabiendas de su procedencia, compra bienes robados para más tarde venderlos obteniendo una ganancia.
+
+{{% pop_center %}}
