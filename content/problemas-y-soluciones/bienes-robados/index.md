@@ -92,11 +92,11 @@ obteniendo los bienes.
 -->
 
 ```mermaid
-graph LR;
-Robo (cualquier tipo) --> Ocultar/Esconder;
-Ocultar/Esconder -->  Disfrazar origen robado;
-Disfrazar origen robado --> Ofrecer en mercado;
-Ofrecer en mercado --> Deshacerse del bien (venta)
+graph LR
+A[Robo de<br/>cualquier tipo] --> B[Ocultar o esconder<br/>objeto robado]
+B --> C[Disfrazar origen<br/>robado de objeto]
+C --> D[Ofrecer objeto<br/>directamente al cliente<br/>o a través de <br/>intermediario]
+D --> E[Vender el bien]
 
 ```
 
