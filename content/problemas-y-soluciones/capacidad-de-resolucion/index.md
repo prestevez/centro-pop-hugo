@@ -244,7 +244,8 @@ aplicación diferente de tecnología y datos que el análisis táctico
 tradicional. En particular, requiere que el analista amplíe la variedad
 y el alcance de los datos para poder:
 
-1. Analizar los diversos factores que contribuyen a un problema en particular; y 2. Evaluar la efectividad de las respuestas implementadas.
+1. Analizar los diversos factores que contribuyen a un problema en particular; y
+2. Evaluar la efectividad de las respuestas implementadas.
 
 Los buenos datos son la base de un buen análisis y es importante que los
 analistas dediquen tiempo a establecer un flujo de datos apropiados.
