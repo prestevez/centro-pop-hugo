@@ -1,6 +1,6 @@
 ---
 title: "CCTV"
-date: "2020-10-17"
+date: 2020-10-16
 summary: "La evidencia disponible sugiere que el CCTV tiene un impacto en la reducción de la delincuencia, en particular para reducir los delitos contra vehículos en estacionamientos."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]

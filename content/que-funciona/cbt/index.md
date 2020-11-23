@@ -1,6 +1,6 @@
 ---
 title: "Terapia Cognitivo-Conductual"
-date: "2020-10-17"
+date: 2020-10-16
 summary: "En general, la evidencia sugiere que la terapia cognitivo-conductual (TCC) reduce el delito."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]

@@ -1,6 +1,6 @@
 ---
 title: "Alumbrado Público"
-date: "2020-10-17"
+date: 2020-10-16
 summary: "La evidencia disponible sugiere que el alumbrado público
 puede reducir el delito."
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "Robos de autos y robos de artículos en autos en estacionamientos"
 subtitle: "Guías Orientadas a la Solución de Problemas"
-date: "2020-11-19"
+date: 2020-10-16
 summary: "Esta guía describe los factores generales que contribuyen al robo de autos y de objetos en autos en estacionamientos y discute cómo ayudar a mejorar la comprensión del problema local de este tipo de delito."
 authors:
   - schainey

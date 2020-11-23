@@ -2,7 +2,7 @@
 title: Búsqueda
 subtitle: Definiendo clara y específicamente el problema
 linktitle: 2. Búsqueda
-date: 2020-09-17
+date: 2020-10-16
 type: book
 toc: true
 weight: 3

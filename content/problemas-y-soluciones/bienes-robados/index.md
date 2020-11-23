@@ -1,7 +1,7 @@
 ---
 title: "Mercados de Bienes Robados"
 #subtitle: "Guías Orientadas a la Solución de Problemas"
-date: "2020-07-10T00:00:00Z"
+date: 2020-10-16
 summary: "La presente guía aborda el problema de los mercados de bienes robados. El objetivo final de reducir el mercado de bienes robados es hacer más difícil y arriesgado para las personas comerciar con bienes robados y, por lo tanto, desalentar el robo en primer lugar."
 authors:
   - schainey

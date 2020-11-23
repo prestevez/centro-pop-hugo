@@ -1,6 +1,6 @@
 ---
 title: "Sanciones a la Violencia Doméstica"
-date: "2020-10-17"
+date: 2020-10-16
 summary: "La evidencia sugiere que las sanciones penales contra la violencia domestica no tienen un impacto significativo en la incidencia de estos delitos."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]

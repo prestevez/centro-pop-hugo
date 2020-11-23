@@ -2,7 +2,7 @@
 title: Solución
 subtitle: Implementando las soluciones desarrolladas para atender el problema.
 linktitle: 4. Solución
-date: 2020-10-14
+date: 2020-10-16
 type: book
 toc: true
 weight: 5

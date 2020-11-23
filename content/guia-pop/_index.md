@@ -6,7 +6,7 @@ weight: 1
 
 # Page metadata
 title: Guía de referencia sobre la Policía Orientada a Problemas
-date: 2020-09-17
+date: 2020-10-16
 lastmod: 2020-09-17
 type: book
 toc: false

@@ -1,7 +1,7 @@
 ---
 title: "Disuasión Focalizada"
 subtitle: "Disuasión Focalizada hacia Individuos de Alto Riesgo"
-date: "2020-10-16"
+date: 2020-10-16
 summary: "Esta guía describe la intervención conocida como disuasión focalizada, que procura evitar que los delincuentes prolíficos desistan de sus actividades delictivas por medio del uso estratégico de la presión policial, la procuración de justicia, y los servicios sociales."
 authors:
   - schainey

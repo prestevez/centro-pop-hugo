@@ -1,7 +1,7 @@
 ---
 title: "Mejorando la Capacidad de Resolución de Problemas"
 subtitle: "Cómo mejorar la capacidad de resolución de problemas de las unidades de análisis delictivo"
-date: "2020-10-16"
+date: 2020-10-16
 summary: "La policía orientada a problemas y el análisis de datos son altamente interdependientes. Un marco para la policía orientada a problemas es de poca utilidad si no está respaldado por un buen análisis de datos."
 authors:
   - schainey
@@ -16,7 +16,7 @@ categories: ["Guías de herramientas específicas"]
 #   focal_point: Smart
 
 # Pop Centre params
-url_source: "https://popcenter.asu.edu/content/focused-deterrence-high-risk-offenders"
+url_source: "https://popcenter.asu.edu/content/enhancing-problem-solving-capacity-crime-analysis-units"
 pop_guide_num: 9
 pop_guide_authors: "Matthew B White"
 pop_guide_type: "Herramientas Específicas"
@@ -289,7 +289,7 @@ personal de tecnología de la información.
 
 #### Recomendaciones
 
-{{% callout %}}
+{{% callout note %}}
 - Asegúrese de que los analistas exploren constantemente nuevas
   herramientas y técnicas que los harán más rápidos y flexibles.
 - Ayude a los analistas a obtener los datos que necesitan; no asuma
@@ -350,14 +350,14 @@ embargo, como con cualquier tarea, el trabajo en equipo debe promoverse.
 
 #### Recomendaciones
 
-{{% callout %}}
+{{% callout note %}}
 - Asegure la mayor centralización posible, incluso si solo se basa en
   la capacitación cruzada continua y el intercambio de información.
 - Asegure que los analistas que están centralizados también sean
   móviles; regularmente deben pasar tiempo con aquellos a quienes
   apoyan y al mismo tiempo tener acceso a una gama completa de
   herramientas, datos y soporte de pares.
-- Reconocer que proporcionar apoyo táctico y tecnológico diverso puede
+- Reconozca que proporcionar apoyo táctico y tecnológico diverso puede
   poner en peligro el progreso analítico colectivo. Para contrarrestar
   esto, establezca una línea de base para habilidades y conocimientos
   generales aceptables, y haga que todos los miembros del equipo actué
@@ -369,7 +369,7 @@ embargo, como con cualquier tarea, el trabajo en equipo debe promoverse.
 
 {{% /callout %}}
 
-**3.5 ¿Tienen sus analistas el soporte técnico adecuado?**
+### ¿Tienen sus analistas el soporte técnico adecuado?
 
 Se necesita el apoyo de especialistas en tecnología de la información en
 todos los sectores de una agencia policial, pero son más críticos en la
@@ -389,8 +389,7 @@ esfuerzos de resolución de problemas toman demasiado tiempo y están muy
 por debajo de la calidad que podría haberse logrado debido a la falta de
 datos y tecnología adecuados. Aunque la tecnología avanzada no es
 necesaria para proyectos de análisis limitados o piloto, es fundamental
-para la implementación de un análisis eficiente de problemas
-institucionales.
+para la implementación institucional de un análisis eficiente de problemas.
 
 Algunas unidades de análisis deben sus éxitos al soporte técnico que
 está integrado en la unidad. El apoyo tecnológico interno a veces nace
@@ -407,23 +406,25 @@ adaptan con precisión a la reducción efectiva del crimen.
 
 #### Recomendaciones
 
-  - Ayude a construir una relación de trabajo sólida y positiva entre
-    analistas y personal de tecnología de la información, pero no
-    obligue a los analistas a confiar en técnicos que no pueden
-    comprometerse con sus necesidades.
+{{%  callout %}}
 
-  - Debido a que muchas unidades tecnológicas apenas pueden satisfacer
-    las necesidades actuales de todo el departamento, un personal de
-    análisis de delitos técnicos en rápida evolución puede abrumar
-    rápidamente a las unidades tecnológicas con solicitudes. Si no se
-    puede encontrar otra solución, considere permitir que la unidad de
-    análisis contrate a sus propios expertos y programadores, lo que le
-    permitirá un acceso seguro y directo a los datos que necesita. Si
-    bien esto puede ser resistido por el departamento de tecnología, es
-    un modelo que ha demostrado ser exitoso en muchas ciudades.
+- Ayude a construir una relación de trabajo sólida y positiva entre
+  analistas y personal de tecnología de la información, pero no
+  obligue a los analistas a confiar en técnicos que no pueden
+  comprometerse con sus necesidades.
+- Debido a que muchas unidades tecnológicas apenas pueden satisfacer
+  las necesidades actuales de todo el departamento, un personal de
+  análisis de delitos técnicos en rápida evolución puede abrumar
+  rápidamente a las unidades tecnológicas con solicitudes. Si no se
+  puede encontrar otra solución, considere permitir que la unidad de
+  análisis contrate a sus propios expertos y programadores, lo que le
+  permitirá un acceso seguro y directo a los datos que necesita. Si
+  bien esto puede ser resistido por el departamento de tecnología, es
+  un modelo que ha demostrado ser exitoso en muchas ciudades.
 
-    6.  **¿Son sus analistas libres de ser objetivos respecto a su
-        trabajo?**
+{{% /callout %}}
+
+### ¿Sus analistas pueden ser objetivos respecto a su trabajo?
 
 En muchas agencias, los analistas no se sienten libres de proporcionar
 información que contradiga los resultados deseados. Esto puede ocurrir

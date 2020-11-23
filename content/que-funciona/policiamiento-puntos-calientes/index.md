@@ -1,6 +1,6 @@
 ---
 title: "Policiamiento de Puntos Calientes"
-date: "2020-07-10"
+date: 2020-10-16
 summary: "La evidencia sugiere que el policiamiento de puntos calientes reduce el delito."
 toc: true
 #projects: ["que-funciona"]

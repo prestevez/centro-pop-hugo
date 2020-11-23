@@ -1,6 +1,6 @@
 ---
 title: "Vigilancia Vecinal"
-date: "2020-10-17"
+date: 2020-10-16
 summary: "Existe evidencia de que los programas de vigilancia vecinal, como son definidos e implementados normalmente, reducen el delito de forma moderada."
 toc: true
 authors: ["schainey", "prestevez", "gcroci", "jlitvak"]

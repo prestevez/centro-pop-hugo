@@ -1,7 +1,7 @@
 ---
 title: Problemas y Soluciones
 summary: Guías de problemas específicos y soluciones.
-date: "2020-09-15"
+date: 2020-10-16
 
 # Optional external URL for project (replaces project detail page).
 external_link: "/pop-en-practica/#problemas-y-soluciones"
