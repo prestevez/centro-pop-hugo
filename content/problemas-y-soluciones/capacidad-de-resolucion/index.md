@@ -28,7 +28,7 @@ pop_guide_type: "Herramientas Específicas"
 
 {{% callout secondary %}}
 
-El marco teórico de la policía orientada a los problemas ha
+El marco teórico de la policía orientada a problemas ha
 evolucionado de manera constante durante las últimas décadas, y se ha
 vuelto cada vez más claro cuan importante es el análisis cuidadoso de
 los datos sobre problemas delictivos. De hecho, la policía
@@ -51,7 +51,7 @@ mando. La supervisión y el apoyo de alto nivel son esenciales para la
 reasignación de las tareas tradicionales de análisis del delito (como el
 monitoreo del desempeño estadístico) y para garantizar que el trabajo de
 la unidad de análisis del delito maximice el papel del trabajo
-policial orientado a los problemas en toda la agencia.
+policial orientado a problemas en toda la agencia.
 
 {{% /callout %}}
 
@@ -95,7 +95,7 @@ resolver problemas?
 decisiones?
 8. ¿Se reconoce adecuadamente la importancia del análisis en su
 departamento?
-9. ¿Se remunera debidamente a los analistas?
+9. ¿Se paga debidamente a los analistas?
 
 Atender a cada pregunta aumenta la probabilidad de que la unidad de
 análisis de delitos contribuya significativamente a sus esfuerzos de
@@ -144,7 +144,7 @@ de trabajo más equilibrada.
 
 #### Recomendaciones
 
-{{% alert %}}
+{{% callout %}}
 - Asegúrese de que sus analistas pasen la mayor parte de su tiempo
   haciendo análisis y que estén capacitados adecuadamente para su
   función. Mire de cerca lo que están haciendo y trate las razones
@@ -159,15 +159,15 @@ de trabajo más equilibrada.
   si bien es potencialmente mucho más importante, no es tan urgente
   como lo que se necesita para respaldar las demandas actuales.
 - Considere las horas extras u otros incentivos si las tareas extras
-  empujan el trabajo orientado a los problemas de sus analistas a un
+  empujan el trabajo orientado a problemas de sus analistas a un
   segundo plano.
-{{% /alert %}}
+{{% /callout %}}
 
 ### ¿Están sus analistas aprendiendo sobre la policía orientada a problemas?
 
 La mayoría de los analistas han tenido una exposición limitada a los
 principios de la policía orientada a problemas y algunos
-analistas tradicionalmente capacitados nunca han oído hablar de ello.
+analistas nunca han oído hablar de ella.
 Por lo tanto, deben estar capacitados en los conceptos centrales de la
 policía orientada orientada a problemas. El analista debe recibir una
 educación adecuada sobre este tema y obtener recursos para asistir a
@@ -228,7 +228,7 @@ siguiente.
   internamente, no dude en traer expertos externos para asumir este papel.
 - Asegúrese de que los analistas trabajen con comandantes que
   entiendan sus roles y necesidades, y que compartan la visión de la
-  policía orientada a los problemas.
+  policía orientada a problemas.
 
 {{% /callout %}}
 
@@ -439,54 +439,53 @@ Incluso los analistas bien considerados pueden luchar con la objetividad
 debido a su deseo de mantenerse integrados en los círculos de toma de
 decisiones.
 
-Sin embargo, desafiar los supuestos tradicionales es crítico para la
-resolución de problemas de calidad. Ningún recurso es más valioso para
+Sin embargo, desafiar los supuestos tradicionales es crucial para la
+resolución de problemas. Ningún recurso es más valioso para
 este fin que un analista objetivo y bien preparado. La función del
 analista es ofrecer un análisis metodológicamente sólido que conduzca a
-una comprensión multifacética de un problema, para garantizar que las
-respuestas fluyan directamente de estos análisis y para evaluar la
-efectividad de las estrategias de respuesta. Al hacerlo, los analistas
+una comprensión holística del problema, para garantizar que las
+respuestas fluyan naturalmente de estos análisis y para evaluar su
+efectividad. Los analistas
 objetivos aumentan la eficiencia al garantizar que los recursos se
 asignen de manera adecuada y efectiva. Además, los analistas objetivos y
-bien entrenados permiten a los ejecutivos de la policía defender las
-decisiones controvertidas con mayor facilidad y permiten un mayor
-contralor. Este beneficio es a menudo pasado por alto por los gerentes
+bien entrenados permiten a los jefes de policía a defender
+decisiones polémicas con mayor facilidad y permiten una mejor rendición de cuentas. Este beneficio es a menudo pasado por alto por los gerentes
 de policía.
 
 Se debe alentar y defender la objetividad, y se debe permitir a los
 analistas desafiar las creencias aceptadas y la sabiduría convencional.
 Los analistas que han hecho su tarea brindan información que puede dañar
 los egos durante esfuerzos mal administrados. Sin embargo, sus
-interpretaciones alternativas de situaciones y datos pueden ser críticas
-para mejorar los enfoques orientados a los problemas. En lugar de
+interpretaciones alternativas de situaciones y datos pueden ser cruciales
+para mejorar los enfoques orientados a problemas. En lugar de
 infringir la experiencia de los tomadores de decisiones, dichos
 analistas cumplen una función central.
 
 #### Recomendaciones
 
-  - Aliente a analistas bien preparados a estar respetuosamente en
-    desacuerdo, incluso con comandantes de alto nivel e incluso frente a
-    subordinados.
+{{% callout note %}}
 
-  - Lidere con el ejemplo: cuando sea apropiado, permita que las
-    recomendaciones y opiniones analíticas tengan peso, y permita que el
-    análisis ayude a impulsar la toma de decisiones.
+- Aliente a analistas bien preparados a estar respetuosamente en
+  desacuerdo, incluso con comandantes de alto nivel e incluso frente a
+  subordinados.
+- Lidere con el ejemplo: cuando sea apropiado, permita que las
+  recomendaciones y opiniones analíticas tengan peso, y permita que el
+  análisis ayude a impulsar la toma de decisiones.
+- En resumen, confíe en sus analistas; y cuando fallen, enfóquese en
+  arreglar las circunstancias que condujeron a las fallas analíticas, en
+  lugar de culpar a los analistas.
 
-  - En resumen, confíe en sus analistas; y cuando fallan, enfóquese en
-    arreglar las circunstancias que conducen a fallas analíticas, en
-    lugar de culpar a los analistas.
+{{% /callout %}}
 
-    6.  **¿Están sus analistas debidamente integrados en el proceso de
-        toma de decisiones?**
+### ¿Están sus analistas debidamente integrados en el proceso de toma de decisiones?
 
 Una de las realidades más inquietantes en muchas agencias policiales es
-que el análisis de calidad a menudo no está integrado en las tomas de
+que el análisis de calidad a menudo no está integrado en la toma de
 decisiones. A veces, está completamente ausente. Esto es malo para la
 comunidad porque puede conducir a esfuerzos débiles para resolver
-crímenes, y es malo para la policía porque puede dejar al departamento
-abierto a críticas si los métodos tradicionales fallan.
+problemas delictivos, y es malo para la policía porque puede dejar al departamento abierto a críticas si los métodos tradicionales fallan.
 
-La participación temprana de los analistas puede ser crucial para la
+La participación oportuna de los analistas puede ser crucial para la
 resolución efectiva de problemas. Solo entonces pueden comprender
 completamente el problema en cuestión y ser capaces de proporcionar la
 investigación y el análisis que podrían permitir a otros evitar
@@ -502,30 +501,30 @@ orientado a problemas en toda la agencia.
 
 #### Recomendaciones
 
-  - Asegúrese de que los analistas tengan acceso a los tomadores de
-    decisiones de todos los rangos y que estén comprometidos de
-    principio a fin en un proyecto policial orientado a problemas. Deben
-    presentarse al principio para ayudar a definir el problema, en lugar
-    de pedirles que proporcionen un análisis después del hecho.
+{{% callout note %}}
 
-  - Haga todo lo que pueda para romper las barreras entre sus oficiales
-    y analistas. Se debe alentar a los comandantes a pasar tiempo con
-    los analistas de manera regular y se les debe alentar a discutir
-    problemas recurrentes con oficiales y analistas por igual.
+- Asegúrese de que los analistas tengan acceso a los tomadores de
+  decisiones de todos los rangos y que estén involucrados de
+  principio a fin a los proyectos policiales de resolución de problemas. Deben
+  participar desde el principio para ayudar a definir el problema, en lugar
+  de pedirles que proporcionen un análisis después del hecho.
+- Haga todo lo que pueda para romper las barreras entre sus oficiales
+  y analistas. Se debe alentar a los comandantes a pasar tiempo con
+  los analistas de manera regular y se les debe alentar a discutir
+  problemas recurrentes con oficiales y analistas por igual.
+- Permita que los analistas asistan a reuniones de alto nivel y
+  aliéntelos a decir lo que piensan. Pídales que mantengan a los
+  comandantes informados sobre avances a través de informes regulares y
+  rendición de cuentas.
+- Donde sea posible, permita que analistas con visión de futuro apoyen
+  a los líderes de la policía. Esto maximizará la probabilidad de
+  éxito y proporcionará un refuerzo informal para analistas y
+  personal por igual. Si se hace de manera consistente y justa, estos
+  líderes se convertirán en candidatos naturales para la promoción.
 
-  - Permita que los analistas asistan a reuniones de alto nivel y
-    aliéntelos a decir lo que piensan. Pídales que mantengan a los
-    comandantes informados sobre el progreso a través de informes y
-    rendición de cuentas regulares.
+{{% /callout %}}
 
-  - Donde sea posible, permita que analistas con visión de futuro apoyen
-    a los líderes de la policía. Esto maximizará la probabilidad de
-    éxito y proporcionará un refuerzo informal para analistas y
-    personal por igual. Si se hace de manera consistente y justa, estos
-    líderes se convertirán en candidatos naturales para la promoción.
-
-    6.  **¿Se reconoce adecuadamente la importancia del análisis en su
-        departamento?**
+### ¿Se reconoce adecuadamente la importancia del análisis en su departamento?
 
 El trabajo policial es una de las pocas profesiones que generalmente
 no considera al análisis de datos como una función relevante. Muchas
@@ -550,14 +549,14 @@ los analistas pueden considerarse menos tecnológicamente competentes que
 los profesionales de la tecnología de la información y los ingenieros de
 software. Por otro lado, se cree que su conocimiento de la policía no es
 mejor que el de los otros. Estas comparaciones son inapropiadas, porque
-un buen analista de delitos tiene un conocimiento independiente y
-específico de computadoras y vigilancia que va mucho más allá de estos
+un buen analista delictivo tiene un conocimiento independiente y
+específico sobre tecnologías y el trabajo policial que va mucho más allá de estos
 otros grupos. Por lo tanto, los analistas deben ser vistos en su
 contexto adecuado: como profesionales capacitados con experiencia y
 habilidades esenciales que ayudan a mejorar la efectividad de los
 esfuerzos para reducir el crimen y el desorden.
 
-Para que prosperen las respuestas innovadoras a la prevención del
+Para que prosperen las respuestas innovadoras de prevención del
 delito, la agencia debe recompensar a aquellos analistas que adopten la
 creatividad y que desarrollen nuevas habilidades y experiencia. En la
 mayoría de las agencias policiales, el reconocimiento y la recompensa
@@ -567,13 +566,13 @@ arrestos, se deben considerar los medios por los cuales se obtienen
 estos arrestos. Los arrestos pueden generarse a partir de una iniciativa
 que hace poco para abordar la dinámica subyacente del problema, o pueden
 provenir de un esfuerzo por apuntar a las personas, los lugares y las
-condiciones que crean oportunidades para el crimen. Es más probable que
+condiciones que crean oportunidades para el delito. Es más probable que
 esto último provoque una caída duradera de la delincuencia y es más
-probable que ocurra cuando analistas creativos se unen con oficiales de
-patrulla y supervisores que están bien instruidos ​​en la vigilancia
-policial orientada a problemas. Estos esfuerzos deben ser reconocidos y
+probable que ocurra cuando analistas creativos se alían con oficiales de
+patrulla y supervisores que están bien instruidos ​​en el trabajo
+policial orientado a problemas. Estos esfuerzos deben ser reconocidos y
 recompensados ​​públicamente para que la resolución de problemas
-prospere dentro de la unidad de análisis de delitos. Al hacerlo, los
+prospere dentro de la unidad de análisis delictivo. Al hacerlo, los
 analistas comenzarán a comprender y apreciar su papel esencial en el
 apoyo a los esfuerzos de resolución de problemas. Tal reconocimiento
 también juega un papel importante en la retención de analistas altamente
@@ -581,47 +580,39 @@ capacitados, un desafío importante para las agencias policiales.
 
 #### Recomendaciones
 
-  - Trabajar para garantizar un equilibrio entre las recompensas y el
-    reconocimiento tanto para el análisis táctico como para el análisis
-    orientado a problemas. No exagere los éxitos tácticos que implican
-    soluciones simples, como búsquedas de datos básicos.
+{{% callout note %}}
 
-  - No espere el éxito para alabar el pensamiento orientado a los
-    problemas, anímelo en cada etapa. Traiga un análisis innovador
-    orientado a los problemas a la atención del personal de comando en
-    los niveles más altos.
+- Trabajar para garantizar un equilibrio entre las recompensas y el
+  reconocimiento tanto para el análisis táctico como para el análisis
+  orientado a problemas. No celebre tanto los éxitos tácticos que impliquen
+  soluciones simples, como búsquedas de datos básicos.
+- No espere a que tenga éxito para celebrar el pensamiento orientado a los
+  problemas, anímelo en cada etapa. Resalte la importancia del análisis
+  orientado a problemas ante el personal de mando.
+- Señale cuando la falta de pensamiento orientado a problemas
+  lleva a hacer lo mismo una y otra vez, y desafíe la sabiduría
+  policial convencional cuando los estudios de investigación no lo
+  respalden.
 
-  - Señale cuando la falta de pensamiento orientado a los problemas
-    lleva a hacer lo mismo una y otra vez, y desafíe la sabiduría
-    policial convencional cuando los estudios de investigación no lo
-    respalden.
+{{% /callout %}}
 
-    6.  **¿Se remunera debidamente a los analistas?**
+### ¿Se paga debidamente a los analistas?
 
-Considere el conjunto de habilidades requeridas para los analistas de
-crímenes de resolución de problemas. Ellos deben:
+Considere el conjunto de habilidades requeridas para los analistas delictivos orientados a la resolución de problemas. Ellos deben:
 
-  - dominar numerosos y complejos paquetes de software;
-
-  - saber cómo obtener, manipular y usar datos;
-
-  - comprender las técnicas de investigación y los métodos estadísticos;
-
-  - comprender los méritos y desventajas relativas de muchas técnicas
-    analíticas;
-
-  - comprender los principios de la policía orientada a
-    problemas;
-
-  - poseer un conocimiento amplio y profundo de la policía en general;
-
-  - estar instruido en varios aspectos de la teoría del crimen;
-
-  - ser capaz de dirigir o coordinar el proceso analítico al tratar con
-    un grupo diverso de partes interesadas; y
-
-  - ser capaz de comunicarse efectivamente con los oficiales y los
-    gerentes de nivel de comando.
+- dominar numerosos y complejos paquetes de software;
+- saber cómo obtener, manipular y usar datos;
+- comprender las técnicas de investigación y los métodos estadísticos;
+- comprender las ventajas y desventajas relativas de muchas técnicas
+  analíticas;
+- comprender los principios de la policía orientada a
+  problemas;
+- poseer un conocimiento amplio y profundo de la policía en general;
+- estar instruido en varios aspectos de la teoría del crimen;
+- ser capaz de dirigir o coordinar el proceso analítico al tratar con
+  un grupo diverso de partes interesadas; y
+- ser capaz de comunicarse efectivamente con los oficiales y los
+  mandos policiales.
 
 Con esta gama de habilidades altamente especializadas debería haber una
 compensación proporcional, pero este no suele ser el caso. En cambio,
@@ -648,18 +639,21 @@ operan.
 
 #### Recomendaciones
 
-  - Remunere a los analistas de forma acorde a sus capacidades y exija
-    excelencia a cambio de su inversión. No base los salarios en lo que
-    ganan los analistas en otros lugares. En cambio, examine qué hacen
-    otras agencias y cómo lo hacen; compare sus habilidades tecnológicas
-    y capacidades de resolución de problemas con las de su propia
-    agencia y pague los salarios en consecuencia.
+{{% callot note %}}
 
-  - Tenga en cuenta que muchos analistas competentes en otros
-    departamentos se enfrentan a condiciones de trabajo difíciles. Si
-    encuentra a esas personas, reclútelas. Podrían apreciar la
-    oportunidad de trabajar en un entorno analítico que sea más propicio
-    para el crecimiento personal y profesional.
+- Remunere a los analistas de forma acorde a sus capacidades y exija
+  excelencia a cambio de su inversión. No base los salarios en lo que
+  ganan los analistas en otros lugares. En cambio, examine qué hacen
+  otras agencias y cómo lo hacen; compare sus habilidades tecnológicas
+  y capacidades de resolución de problemas con las de su propia
+  agencia y pague los salarios en consecuencia.
+- Tenga en cuenta que muchos analistas competentes en otros
+  departamentos se enfrentan a condiciones de trabajo difíciles. Si
+  encuentra a esas personas, reclútelas. Podrían apreciar la
+  oportunidad de trabajar en un entorno analítico que sea más propicio
+  para el crecimiento personal y profesional.
+
+{{% /callout %}}
 
 ## Conclusiones
 
@@ -668,20 +662,20 @@ resolver problemas es un requisito para las agencias policiales
 comprometidas con la policía orientada a problemas. Los
 analistas delictivos pueden desempeñar un papel central para ayudar a
 que los proyectos de resolución de problemas tengan éxito. De hecho, a
-menudo pueden proporcionar la fuerza para garantizar que el equipo del
+menudo pueden proporcionar el ímpetu para garantizar que el equipo del
 proyecto se mueva de una etapa a la siguiente en una progresión lógica.
-Para desempeñar este papel consistentemente, se les requiere
+Para desempeñar este papel consistentemente, se les requiere dar
 capacitación y apoyo, e integrarlos plenamente en los equipos y en la
 toma de decisiones de los departamentos. Esto requerirá una inversión
 considerable de tiempo y esfuerzo por parte de sus superiores y
 supervisores, así como de los propios analistas.
 
 Por lo tanto, las agencias que deseen impulsar la policía
-orientada a los problemas deberán considerar cuidadosamente la mejor
+orientada a problemas deberán considerar cuidadosamente la mejor
 forma de desarrollar la capacidad analítica necesaria. Las nueve
 preguntas descritas en esta guía pueden servir como punto de partida
 para lograr este objetivo. Una vez establecidos, los analistas
-orientados a los problemas pueden tener un impacto substancial y
+orientados a problemas pueden tener un impacto substancial y
 duradero en la capacidad de una agencia para responder al crimen y al
 desorden.
 
