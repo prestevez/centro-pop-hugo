@@ -145,7 +145,7 @@ con la sigla CRAVED (por sus iniciales en inglés):
 -   _**Disponible**_
     -   Se encuentran comúnmente en víctimas potenciales
 -   _**Valiosos**_
--   Los artículos son útiles para el ladrón u otra persona.
+    -   Los artículos son útiles para el ladrón u otra persona.
 -   _**Deseados**_
     -   Los artículos son divertidos de usar, brindan placer y
     satisfacción
@@ -320,38 +320,38 @@ También se debe asegurar de que el público pueda denunciar a la policía,
 de manera fácil y confidencial, sobre cualquier actividad sospechosa
 relacionada con bienes robados.
 
-## Partes Interesadas
+### Partes Interesadas
 
 Además de las entidades locales de justicia penal, los siguientes grupos
 tienen intereses en el problema del comercio de bienes robados, y se
 debería considerar la contribución que podrían hacer para recolectar
 información sobre el problema y responder a él:
 
-### Asociaciones comerciales
+#### Asociaciones comerciales
 
 Asociaciones que representan a vendedores minoristas bares, comerciantes de chatarra, entre otros, tienen un interés en evitar que los comerciantes de bienes robados socaven la participación en el mercado de comerciantes legítimos, y pueden saber qué comerciantes son sospechosos de tratar con bienes robados.
 
-### Profesionales de prevención de pérdida de activos
+#### Profesionales de prevención de pérdida de activos
 
 Los profesionales de prevención de pérdidas tienen un interés en reducir las pérdidas derivadas de desvíos de mercancía mayoristas compradas legítimamente a los mercados ilegítimos de bienes robados.
 
-### Líneas directas de denuncia de delitos
+#### Líneas directas de denuncia de delitos
 
 Pueden tener información sobre presuntos ladrones e intermediarios en particular, así como sobre tendencias emergentes.
 
-### Autoridades tributarias
+#### Autoridades tributarias
 
 Están interesadas en detener ingresos fiscales perdidos atribuibles al comercio de bienes robados y pueden tener información respecto a entidades comerciales sospechosas.
 
-### Entidades reguladoras
+#### Entidades reguladoras
 
 Saben qué tipo de regulaciones legales pueden aplicar a empresas sospechosas de comercializar bienes robados.
 
-### Agencias de policía nacionales y estatales
+#### Agencias de policía nacionales y estatales
 
 Las agencias policiales nacionales y estatales podrían saber cómo los mercados de bienes robados locales están conectados a organizaciones criminales más grandes y sofisticadas.
 
-## Haciendo las Preguntas Correctas
+### Haciendo las Preguntas Correctas
 
 Las siguientes son algunas preguntas claves que se deberían tener en
 cuenta al analizar los problemas de mercados de bienes robados, incluso
@@ -359,7 +359,7 @@ si las respuestas no siempre están disponibles. Las respuestas a éstas y
 a otras preguntas ayudarán a elegir el conjunto más apropiado de
 respuestas.
 
-### Mercados de Bienes Robados
+#### Mercados de Bienes Robados
 
 - ¿Cuánto comercio de bienes robados ocurre en su jurisdicción?
   (Recuerde que los datos de delitos registrados por la policía
@@ -392,9 +392,9 @@ respuestas.
 - ¿Con qué frecuencia los ladrones necesitan deshacerse de bienes que
   pueden vender?
 
-### Delincuentes
+#### Delincuentes
 
-#### Ladrones
+##### Ladrones
 
 - ¿Quién hace negocios con determinados tipos de bienes robados? ¿En
   qué mercado(s) los hace y cómo?
@@ -411,7 +411,7 @@ respuestas.
 - ¿Cuánto saben los ladrones sobre las operaciones policiales contra
   el tráfico de bienes robados?
 
-####  Intemediarios
+#####  Intemediarios
 
 - ¿Quiénes son los intermediarios (e.g., profesionales; comerciantes
   semi-legítimos)?
@@ -420,7 +420,7 @@ respuestas.
 - ¿Qué perciben los intermediarios como *recompensas* de vender bienes
   robados?
 
-#### Consumidores
+##### Consumidores
 
 - ¿Quién en su jurisdicción tiende a comprar bienes que saben o
   deberían sospechar que han sido robados?
@@ -429,13 +429,13 @@ respuestas.
 - ¿Qué perciben los consumidores como *recompensas* de comprar bienes
   robados?
 
-### Objetivos
+#### Objetivos
 
 - ¿Qué tipos de bienes se venden comúnmente en los mercados de bienes
   robados?
 - ¿Qué tipos de artículos específicos son recientemente cotizados?
 
-### Ubicaciones y Horarios
+#### Ubicaciones y Horarios
 
 - ¿Dónde se ubican las operaciones de intermediarios dentro de su
   jurisdicción?
@@ -445,7 +445,7 @@ respuestas.
   académicos; libros de textos universitarios al comienzo de los
   semestres y justo antes de los periodos de exámenes)?
 
-## Consejos para Entender los Mercados Locales de Bienes Robados
+### Consejos para Entender los Mercados Locales de Bienes Robados
 
 {{% callout note %}}
 
