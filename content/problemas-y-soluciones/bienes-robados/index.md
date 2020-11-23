@@ -18,7 +18,7 @@ image:
 # Pop Centre params
 url_source: "https://popcenter.asu.edu/content/stolen-goods-markets-0"
 pop_guide_num: 57
-pop_guide_authors: "Mike Sutton"
+pop_guide_authors: "Michael Sutton"
 pop_guide_type: "Problemas Específicos"
 
 ---
