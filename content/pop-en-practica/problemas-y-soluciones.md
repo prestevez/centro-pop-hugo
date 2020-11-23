@@ -23,7 +23,7 @@ subtitle = "Guías de problemas específicos y soluciones."
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = ["Guías de respuestas específicas", "Guías de problemas específicos", "Guías de herramientas específicas"]
     publication_type = ""
     author = ""
     exclude_featured = false
