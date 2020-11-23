@@ -39,7 +39,7 @@ por lo tanto, desalentar el robo en primer lugar.
 La mayoría de los ladrones roban para recaudar dinero, y para esto
 necesitan vender lo que roban. Esto requiere que exista un mercado de
 bienes robados que no sólo proporcione un punto de venta, sino que esté
-alimentado por una demanda constante de los bienes robados.
+alimentado por una demanda permanente de bienes robados.
 
 ### Resumen General del Problema
 
@@ -105,50 +105,54 @@ entendimiento general sobre si los dueños de negocios y el público en
 general están dispuestos a comprar bienes robados motiva a los ladrones
 a comenzar y continuar robando.
 
-A veces los ladrones roban artículos por encargo. Esto significado que
+A veces los ladrones roban artículos por encargo. Esto significa que
 son requeridos para proveer productos particulares a través del robo. De
 esta manera, los comerciantes prolíficos de bienes robados tienden a
 alentar a los ladrones a aumentar sus actividades delictivas. Sin
 embargo, robar por encargo no es tan frecuente como robar para ofrecer
 en el mercado.
 
-**5.3. Bienes Frecuentemente Robados y Vendidos**
+### Bienes Frecuentemente Robados y Vendidos
 
 El conocimiento de la “demanda permanente” de bienes robados afecta el
 tipo de bienes robados, dependiendo lo que más se demanda en ese
 momento, y a veces puede generar oleadas de delitos problemáticos cuando
-los ladrones se enfocan en bienes específicos muy buscados. La
-investigación académica muestra que la mayoría de los ladrones actúa en
+los ladrones se enfocan en bienes específicos muy buscados.
+
+La investigación académica muestra que la mayoría de los ladrones actúa en
 base a una jerarquía en constante cambio de bienes que prefieren robar.
 La investigación directa con ladrones revela que rara vez acumulan
 bienes robados por más de una hora o dos, ya que buscan una rápida
 devolución de dinero en efectivo y quieren evitar ser atrapados con los
 bienes en su poder. Esto significa que es poco probable que los ladrones
 roben y almacenen bienes de los que no saben la demanda actual, en caso
-de que sean vendibles en un futuro. Dado que la mayoría de los ladrones
-roba para obtener dinero rápidamente, el efectivo está en la parte
-superior de su lista, seguido por artículos que pueden vender fácil y
-rápidamente a precios relativamente altos, como joyas y equipos de
+de que sean vendibles en un futuro.
+
+Dado que la mayoría de los ladrones roba para obtener dinero rápidamente, el efectivo es el objeto preferido para robar, seguido por artículos que pueden vender fácil y rápidamente a precios relativamente altos, como joyas y equipos de
 entretenimiento de alta tecnología para el hogar.
 
 Entender qué hace que los productos sean atractivos para los ladrones
-ayuda a anticipar nuevos objetivos de robo, y consecuentemente
+ayuda a anticipar nuevos blancos de robo, y consecuentemente
 comprender qué nuevos productos pueden llegar a ser populares en los
 mercados de bienes robados. Los llamados *productos calientes* suelen
 tener una o más de las siguientes características, que pueden resumirse
 con la sigla CRAVED (por sus iniciales en inglés):
 
-**C**oncealable (Ocultable)
+-   _**Ocultable**_
+    -   Los artículos son fáciles de ocultar
+-   _**Extraíble**_
+    -   Los ladrones pueden llevarse fácilmente el artículo
+-   _**Disponible**_
+    -   Se encuentran comúnmente en víctimas potenciales
+-   _**Valiosos**_
+-   Los artículos son útiles para el ladrón u otra persona.
+-   _**Deseados**_
+    -   Los artículos son divertidos de usar, brindan placer y
+    satisfacción
+-   _**Desechables**_
+    -   Los ladrones pueden vender o intercambiar los artículos
+    con facilidad.
 
-**R**emovable (Extraíble)
-
-**A**vailable (Disponible)
-
-**V**aluable (Valioso)
-
-**E**njoyable (Deseado)
-
-**D**isposable (Deshechable)
 
 Mientras más de estas características tenga un producto, más atractivo
 será para que alguien lo robe. Sin embargo, ya que sabemos que los
@@ -156,10 +160,10 @@ ladrones prolíficos rara vez roban artículos para uso propio, las
 últimas tres características son las más relevantes debido a que se
 relacionan con el valor de un artículo, y no únicamente a su
 portabilidad. Es este *valor* de los artículos el que los hace
-descartables como productos cuando los ladrones desean vender o
+desechables como productos cuando los ladrones desean vender o
 intercambiar artículos robados por drogas.
 
-**5.4. Ubicaciones y Horarios de los Mercados de Bienes Robados**
+### Ubicaciones y Horarios de los Mercados de Bienes Robados
 
 Aunque el robo puede ocurrir en cualquier lugar donde haya algo para
 robar, muchos robos en domicilios y otros tipos de robo se concentran en
@@ -168,22 +172,22 @@ personas en esas áreas.
 
 Los ladrones generalmente prefieren vender bienes robados localmente y
 rápidamente (en cuestión de horas en vez de días). Por lo tanto, una
-concentración de robos locales podría (pero no necesariamente) indicar
+concentración de robos podría (pero no necesariamente) indicar
 la proximidad relativa de un mercado local para esos bienes. Sin
 embargo, debe tenerse en cuenta que si bien este fenómeno es algo que
-vale la pena explorar en primera instancia, no debe hacerse a expensas
+vale la pena explorar en primera instancia, no debe hacerse a costa
 de descuidar otros mercados más lejanos pero más importantes.
 
-**5.5. Compradores de Bienes Robados**
+### Compradores de Bienes Robados
 
 Además de comerciantes profesionales de bienes robados, los ciudadanos
-normales compran bienes robados. A su vez, los dueños de negocios
+también compran bienes robados. A su vez, los dueños de negocios
 también pueden ser susceptibles a comprar bienes robados. Esto mismo se
 cumple para comerciantes y cualquier otra persona en la población que
 encuentren difícil resistir la posibilidad de una ganga sin regatear ni
 hacer muchas preguntas.
 
-**5.6. Tolerancia del Público a los Mercados de Bienes Robados**
+### Tolerancia del Público a los Mercados de Bienes Robados
 
 Mientras que la mayoría de los ciudadanos no toleran a los ladrones ni
 al robo, tienden a ser más tolerantes con los compradores y vendedores
@@ -191,7 +195,7 @@ de bienes robados. Esto usualmente se debe a que son vistos como
 emprendedores o empresarios que brindan un servicio local poniendo a
 disposición del público bienes a precios reducidos.
 
-**5.7. Vínculos con Uso Ilícito de Substancias**
+### Vínculos con Uso Ilícito de Substancias
 
 Los mercados de bienes robados juegan un papel importante en los
 mercados de drogas al explicar las altas tasas de robo y, por lo tanto,
@@ -202,7 +206,7 @@ Se sabe que los narcotraficantes compran en particular ropa de diseñador
 y joyas para uso propio. Comprar y vender productos robados es, para
 muchos delincuentes, un delito de entrada a la compra y venta de drogas.
 
-**5.8. Tipos de Mercados de Bienes Robados**
+### Tipos de Mercados de Bienes Robados
 
 Los mercados de bienes robados tienden a presentar características
 locales particulares en términos de lo que roban los ladrones y como
@@ -216,39 +220,31 @@ consumidores operan. Ningún tipo de mercado es más serio o importante
 que otro en términos del papel que desempeña promoviendo el robo. Los
 seis tipos de mercados son los siguientes:
 
-  - **Proveedores de intermediarios comerciales:** Los ladrones venden
-    bienes robados a intermediarios comerciales, quienes operan en
-    tiendas como joyerías, casa de empeño y locales de segunda mano.
+#### Proveedores de intermediarios comerciales 
 
-  - **Proveedores de intermediarios residenciales:** Los ladrones venden
-    bienes robados (especialmente bienes electrónicos) a intermediarios,
-    generalmente en los hogares de estos últimos.
+- Los ladrones venden bienes robados a intermediarios comerciales, quienes operan en tiendas como joyerías, casa de empeño y locales de segunda mano.
 
-  - **Ventas en red:** Los ladrones traspasan los bienes robados, y cada
-    participante de la red aumenta un poco el precio hasta que se
-    encuentra un consumidor. Esto puede involucrar a un intermediario
-    residencial, y el comprador puede ser el consumidor final o puede
-    vender los bienes nuevamente a través de otros vínculos sociales.
+#### Proveedores de intermediarios residenciales
 
-  - **Ventas comerciales:** Los intermediarios comerciales generalmente
-    se presentan abiertamente como dueños de negocios legítimos mientras
-    venden en secreto bienes robados para obtener ganancias, ya sea
-    directamente al consumidor (inocente) o, más infrecuentemente, a
-    otro distribuidor que piensa que podría revender los bienes para
-    obtener ganancias adicionales.
+- Los ladrones venden bienes robados (especialmente bienes electrónicos) a intermediarios, generalmente en los hogares de estos últimos.
 
-  - **Venta en Lugares Públicos:** Los ladrones venden directamente a
-    los consumidores en lugares como bares, pubs o incluso puerta a
-    puerta (e.g., ladrones de tiendas pueden vender cigarrillos,
-    artículos de baño, ropa o comida).
+#### Ventas en cadena
 
-  - **“eSelling”:** Este tipo de mercado implica la venta de bienes
-    robados a través de sitios web privados o en sitios de subastas en
-    línea, tales como eBay, Facebook Marketplace o MercadoLibre. Esto
-    les da a los ladrones acceso a compradores que de otro modo no
-    podrían alcanzar.
+- Los ladrones traspasan los bienes robados, y cada participante de la cadena aumenta un poco el precio hasta que se encuentra un consumidor. Esto puede involucrar a un intermediario residencial, y el comprador puede ser el consumidor final o puede vender los bienes nuevamente a través de otros vínculos sociales.
 
-**5.9. El Dilema del Vendedor**
+#### Ventas comerciales
+
+- Los intermediarios comerciales generalmente se presentan abiertamente como dueños de negocios legítimos mientras venden en secreto bienes robados para obtener ganancias, ya sea directamente al consumidor (inocente) o, más infrecuentemente, a otro distribuidor que piensa que podría revender los bienes para obtener ganancias adicionales.
+
+#### Venta en lugares públicos
+
+- Los ladrones venden directamente a los consumidores en lugares como bares, pubs o incluso puerta a puerta (e.g., ladrones de tiendas pueden vender cigarrillos, artículos de baño, ropa o comida).
+
+#### Ventas por internet
+
+- Este tipo de mercado implica la venta de bienes robados a través de sitios web privados o en sitios de subastas en línea, tales como eBay, Facebook Marketplace o MercadoLibre. Esto les da a los ladrones acceso a compradores que de otro modo no podrían alcanzar.
+
+### El Dilema del Vendedor
 
 Entender los dilemas a los que se enfrentan las personas que
 comercializan bienes robados es útil para diseñar estrategias de
@@ -263,7 +259,7 @@ vendedor puede vender a desconocidos, lo que le permite tener acceso a
 más clientes potenciales, pero a la vez aumenta sus posibilidades de
 ser detenido o engañado.
 
-**5.10. Intermediarios**
+### Intermediarios
 
 Algunos traficantes de bienes robados son intermediarios profesionales,
 que disimulan sus actividades detrás de fachadas comerciales legítimas.
@@ -273,21 +269,21 @@ vinculados a través de teléfonos móviles. En otros mercados, los
 consumidores y los distribuidores inocentes pueden comprar directamente
 a los ladrones en vez de hacerlo a través de un intermediario.
 
-**5.11. Principios Básicos de los Intermediarios**
+#### Principios Básicos de los Intermediarios
 
 Para que un intermediario profesional pueda operar y evitar su
 detención, necesita entrenar a ladrones promisorios para evitar la
 detección y maximizar las ganancias. Debe ocultar sus actividades con
 bienes robados detrás de una fachada comercial legítima. También debe
-permanecer deliberadamente ignorantes respecto de si los bienes que
+permanecer deliberadamente ignorante respecto de si los bienes que
 compra de otros distribuidores son a su vez robados. Debe intentar
 descargar rápidamente los bienes robados para evitar ser detectado, pero
 también saber cuándo es más seguro almacenarlos y venderlos más tarde.
 Debe evitar ser descubierto en posesión de bienes robados, pero en caso
 de que lo sea, debe saber cómo dificultar a la policía para que pueda
-demostrar que estaba en conocimiento de que los bienes fueron robados.
+demostrar que sabía que los bienes eran robados.
 
-**5.12. Método de Operación**
+### Método de Operación
 
 Los ladrones inexpertos tienden a vender principalmente a desconocidos
 en lugares públicos o vendiendo sólo a un intermediario residencial
@@ -297,7 +293,7 @@ Los delincuentes más experimentados y prolíficos tienden a conocer la
 mayoría de las formas de vender bienes robados en una variedad de
 mercados.
 
-**6. Entendiendo Su Problema Local**
+## Entendiendo Su Problema Local
 
 Toda la información provista anteriormente constituye sólo una
 descripción general de los mercados de bienes robados. Se deben
@@ -312,53 +308,50 @@ propiedad robada, así como aquellos que pueden saber sobre estas
 personas. Generalmente, se debe solicitar información a los siguientes
 grupos:
 
-  - Delincuentes actuales, recientemente activos y exdelincuentes
-    (ladrones, intermediarios, narcotraficantes, usuarios de drogas);
+- Delincuentes actuales, recientemente activos y exdelincuentes
+  (ladrones, intermediarios, narcotraficantes, usuarios de drogas);
 
-  - Presos (condenados por robo, comercialización de bienes robados, y
-    uso o tráfico de drogas); y,
+- Presos (condenados por robo, comercialización de bienes robados, y
+  uso o tráfico de drogas); y,
 
-  - Informantes confidenciales.
+- Informantes confidenciales.
 
 También se debe asegurar de que el público pueda denunciar a la policía,
 de manera fácil y confidencial, sobre cualquier actividad sospechosa
 relacionada con bienes robados.
 
-**7. Partes Interesadas**
+## Partes Interesadas
 
 Además de las entidades locales de justicia penal, los siguientes grupos
 tienen intereses en el problema del comercio de bienes robados, y se
 debería considerar la contribución que podrían hacer para recolectar
 información sobre el problema y responder a él:
 
-  - Las *asociaciones comerciales* (e.g., que representan a vendedores
-    minoristas, bares, comerciantes de chatarra) tienen un interés en
-    evitar que los comerciantes de bienes robados socaven la
-    participación en el mercado de comerciantes legítimos, y pueden
-    saber qué comerciantes son sospechosos de tratar con bienes robados.
+### Asociaciones comerciales
 
-  - Los *profesionales de prevención de pérdida de activos* tienen un
-    interés en reducir las pérdidas derivadas de desvíos de mercancía
-    mayoristas compradas legítimamente a los mercados ilegítimos de
-    bienes robados.
+Asociaciones que representan a vendedores minoristas bares, comerciantes de chatarra, entre otros, tienen un interés en evitar que los comerciantes de bienes robados socaven la participación en el mercado de comerciantes legítimos, y pueden saber qué comerciantes son sospechosos de tratar con bienes robados.
 
-  - Las *líneas directas de denuncia de delitos* pueden tener
-    información sobre presuntos ladrones e intermediarios en
-    particular, así como sobre tendencias emergentes.
+### Profesionales de prevención de pérdida de activos
 
-  - Las *autoridades tributarias* están interesadas en detener ingresos
-    fiscales perdidos atribuibles al comercio de bienes robados y pueden
-    tener información respecto a entidades comerciales sospechosas.
+Los profesionales de prevención de pérdidas tienen un interés en reducir las pérdidas derivadas de desvíos de mercancía mayoristas compradas legítimamente a los mercados ilegítimos de bienes robados.
 
-  - Las *entidades reguladoras* saben qué tipo de regulaciones legales
-    pueden aplicar a empresas sospechosas de comercializar bienes
-    robados.
+### Líneas directas de denuncia de delitos
 
-  - Las agencias policiales nacionales y estatales podrían saber cómo
-    los mercados de bienes robados locales están conectados a
-    organizaciones criminales más grandes y sofisticadas.
+Pueden tener información sobre presuntos ladrones e intermediarios en particular, así como sobre tendencias emergentes.
 
-**8. Haciendo las Preguntas Correctas**
+### Autoridades tributarias
+
+Están interesadas en detener ingresos fiscales perdidos atribuibles al comercio de bienes robados y pueden tener información respecto a entidades comerciales sospechosas.
+
+### Entidades reguladoras
+
+Saben qué tipo de regulaciones legales pueden aplicar a empresas sospechosas de comercializar bienes robados.
+
+### Agencias de policía nacionales y estatales
+
+Las agencias policiales nacionales y estatales podrían saber cómo los mercados de bienes robados locales están conectados a organizaciones criminales más grandes y sofisticadas.
+
+## Haciendo las Preguntas Correctas
 
 Las siguientes son algunas preguntas claves que se deberían tener en
 cuenta al analizar los problemas de mercados de bienes robados, incluso
@@ -366,147 +359,113 @@ si las respuestas no siempre están disponibles. Las respuestas a éstas y
 a otras preguntas ayudarán a elegir el conjunto más apropiado de
 respuestas.
 
-**8.1. Mercados de Bienes Robados**
+### Mercados de Bienes Robados
 
-  - ¿Cuánto comercio de bienes robados ocurre en su jurisdicción?
-    (Recuerde que los datos de delitos registrados por la policía
-    oficial son de poca ayuda para esto, ya que el público rara vez
-    denuncia tales delitos, y muchos casos de recepción de artículos
-    robados son en realidad casos en los que los ladrones se declararon
-    culpables de un cargo menor cuando la evidencia del robo original es
-    débil).
+- ¿Cuánto comercio de bienes robados ocurre en su jurisdicción?
+  (Recuerde que los datos de delitos registrados por la policía
+  oficial son de poca ayuda para esto, ya que el público rara vez
+  denuncia tales delitos, y muchos casos de recepción de artículos
+  robados son en realidad casos en los que los ladrones se declararon
+  culpables de un cargo menor cuando la evidencia del robo original es
+  débil).
+- ¿Cuáles tipos de mercados de bienes robados comercializan qué tipos
+  específicos de bienes?
+- ¿Se están reduciendo o incluso cerrando algunos tipos de mercados?
+  ¿Están surgiendo nuevos tipos de mercados?
+- ¿Dónde se ubican los mercados para tipos específicos de bienes
+  robados?
+- ¿Cuál es el descuento típico para bienes robados? ¿El descuento está
+  aumentando o disminuyendo?
+- ¿Qué proporción de bienes robados en su jurisdicción estima que son
+  vendidos posteriormente en mercados de bienes robados, en lugar de
+  ser usados por el ladrón, recuperados por la policía o descartados?
+- ¿Cuán fácil y rápido es para *los ladrones* encontrar un comprador
+  para sus bienes robados?
+- ¿Cuán fácil y rápido es para *los intermediarios* encontrar un
+  comprador para sus bienes robados?
+- ¿Cómo transportan los ladrones los bienes robados a los
+  intermediarios?
+- ¿Qué suelen hacer los ladrones con los bienes inmediatamente después
+  de robarlos (e.g., los venden o intercambian en la calle; los
+  ocultan mientras buscan un comprador; los venden a una casa de
+  empeño o a un intermediario)?
+- ¿Con qué frecuencia los ladrones necesitan deshacerse de bienes que
+  pueden vender?
 
-  - ¿Cuáles tipos de mercados de bienes robados comercializan qué tipos
-    específicos de bienes?
+### Delincuentes
 
-  - ¿Se están reduciendo o incluso cerrando algunos tipos de mercados?
-    ¿Están surgiendo nuevos tipos de mercados?
+#### Ladrones
 
-  - ¿Dónde se ubican los mercados para tipos específicos de bienes
-    robados?
+- ¿Quién hace negocios con determinados tipos de bienes robados? ¿En
+  qué mercado(s) los hace y cómo?
+- ¿Qué perciben los ladrones como *riesgos* de vender bienes robados?
+- ¿Qué perciben los ladrones como *recompensas* de vender bienes
+  robados?
+- ¿Cómo evitan los ladrones la detección al vender bienes robados?
+- ¿Cómo aprenden los ladrones dónde vender bienes robados?
+- ¿Qué tan seguros se sienten los ladrones transportando y almacenando
+  bienes robados?
+- ¿Qué tan seguros se sienten los ladrones al lidiar con un
+  intermediario?
+- ¿Qué tan preocupados se sienten los ladrones por ser descubiertos?
+- ¿Cuánto saben los ladrones sobre las operaciones policiales contra
+  el tráfico de bienes robados?
 
-  - ¿Cuál es el descuento típico para bienes robados? ¿El descuento está
-    aumentando o disminuyendo?
+####  Intemediarios
 
-  - ¿Qué proporción de bienes robados en su jurisdicción estima que son
-    vendidos posteriormente en mercados de bienes robados, en lugar de
-    ser usados por el ladrón, recuperados por la policía o descartados?
+- ¿Quiénes son los intermediarios (e.g., profesionales; comerciantes
+  semi-legítimos)?
+- ¿Qué perciben los intermediarios como *riesgos* de vender bienes
+  robados?
+- ¿Qué perciben los intermediarios como *recompensas* de vender bienes
+  robados?
 
-  - ¿Cuán fácil y rápido es para *los ladrones* encontrar un comprador
-    para sus bienes robados?
+#### Consumidores
 
-  - ¿Cuán fácil y rápido es para *los intermediarios* encontrar un
-    comprador para sus bienes robados?
+- ¿Quién en su jurisdicción tiende a comprar bienes que saben o
+  deberían sospechar que han sido robados?
+- ¿Qué perciben los consumidores como *riesgos* de comprar bienes
+  robados?
+- ¿Qué perciben los consumidores como *recompensas* de comprar bienes
+  robados?
 
-  - ¿Cómo transportan los ladrones los bienes robados a los
-    intermediarios?
+### Objetivos
 
-  - ¿Qué suelen hacer los ladrones con los bienes inmediatamente después
-    de robarlos (e.g., los venden o intercambian en la calle; los
-    ocultan mientras buscan un comprador; los venden a una casa de
-    empeño o a un intermediario)?
+- ¿Qué tipos de bienes se venden comúnmente en los mercados de bienes
+  robados?
+- ¿Qué tipos de artículos específicos son recientemente cotizados?
 
-  - ¿Con qué frecuencia los ladrones necesitan deshacerse de bienes que
-    pueden vender?
+### Ubicaciones y Horarios
 
-**8.2. Delincuentes**
+- ¿Dónde se ubican las operaciones de intermediarios dentro de su
+  jurisdicción?
+- ¿Existen variaciones estacionales en los tipos de bienes vendidos
+  en mercados de bienes robados (e.g., cortacéspedes en verano;
+  electrónica y computadores portátiles al comienzo de los años
+  académicos; libros de textos universitarios al comienzo de los
+  semestres y justo antes de los periodos de exámenes)?
 
-<span class="underline">Ladrones</span>
+## Consejos para Entender los Mercados Locales de Bienes Robados
 
-  - ¿Quién hace negocios con determinados tipos de bienes robados? ¿En
-    qué mercado(s) los hace y cómo?
+{{% callout note %}}
 
-  - ¿Qué perciben los ladrones como *riesgos* de vender bienes robados?
+- **Entreviste a una muestra de personas que trabajan en los sectores de bienes mayoristas y minoristas.**
+    - Sin hablar sobre el delito, averigüe cómo y por qué algunos productos son rechazados o transportados fuera de las tiendas que los compraron legítimamente y donde terminan estos artículos.
+- **Mapee posibles puntos calientes de mercados de bienes robados.**
+    - Analice con colegas, informantes, delincuentes, exdelincuentes y otros expertos, tales como funcionarios públicos o criminólogos respecto a por qué ciertas áreas pueden ser propicias para los mercados de bienes robados.
+- **Fotografíe letreros de tiendas en su jurisdicción que parezcan invitar a los ladrones a vender productos robados ahí.**
+    - Nuevamente, analice junto a otros que puedan contribuir su conocimiento experto en el tema.
+- **Realizar encuestas a víctimas de robo y al público de una comuna, departamento, pueblo o ciudad es costoso.**
+    - Si bien este tipo de ejercicios en invaluable para la investigación académica, estos esfuerzos toman mucho tiempo y, debido a las características específicas de los problemas de delincuencia local, ofrece poca información útil para iniciativas locales.
 
-  - ¿Qué perciben los ladrones como *recompensas* de vender bienes
-    robados?
+{{% /callout %}}
 
-  - ¿Cómo evitan los ladrones la detección al vender bienes robados?
-
-  - ¿Cómo aprenden los ladrones dónde vender bienes robados?
-
-  - ¿Qué tan seguros se sienten los ladrones transportando y almacenando
-    bienes robados?
-
-  - ¿Qué tan seguros se sienten los ladrones al lidiar con un
-    intermediario?
-
-  - ¿Qué tan preocupados se sienten los ladrones por ser descubiertos?
-
-  - ¿Cuánto saben los ladrones sobre las operaciones policiales contra
-    el tráfico de bienes robados?
-
-<span class="underline">Intemediarios</span>
-
-  - ¿Quiénes son los intermediarios (e.g., profesionales; comerciantes
-    semi-legítimos)?
-
-  - ¿Qué perciben los intermediarios como *riesgos* de vender bienes
-    robados?
-
-  - ¿Qué perciben los intermediarios como *recompensas* de vender bienes
-    robados?
-
-<span class="underline">Consumidores</span>
-
-  - ¿Quién en su jurisdicción tiende a comprar bienes que saben o
-    deberían sospechar que han sido robados?
-
-  - ¿Qué perciben los consumidores como *riesgos* de comprar bienes
-    robados?
-
-  - ¿Qué perciben los consumidores como *recompensas* de comprar bienes
-    robados?
-
-> **8.3. Objetivos**
-
-  - ¿Qué tipos de bienes se venden comúnmente en los mercados de bienes
-    robados?
-
-  - ¿Qué tipos de artículos específicos son recientemente cotizados?
-
-> **8.4. Ubicaciones y Horarios**
-
-  - ¿Dónde se ubican las operaciones de intermediarios dentro de su
-    jurisdicción?
-
-  - ¿Existen variaciones estacionales en los tipos de bienes transados
-    en mercados de bienes robados (e.g., cortacéspedes en verano;
-    electrónica y computadores portátiles al comienzo de los años
-    académicos; libros de textos universitarios al comienzo de los
-    semestres y justo antes de los periodos de exámenes)?
-
-***Consejos para Entender los Mercados Locales de Bienes Robados***
-
-  - Entrevistar a una muestra de personas que trabajan en los sectores
-    de bienes mayoristas y minoristas. Sin hablar sobre el delito,
-    averigüe cómo y por qué algunos productos son rechazados o
-    transportados fuera de las tiendas que los compraron legítimamente y
-    donde terminan estos artículos.
-
-  - Mapee posibles puntos calientes de mercados de bienes robados.
-    Analice con colegas, informantes, delincuentes, exdelincuentes y
-    otros expertos, tales como funcionarios públicos o criminólogos
-    respecto a por qué ciertas áreas pueden ser propicias para los
-    mercados de bienes robados.
-
-  - Fotografíe letreros de tiendas en su jurisdicción que parezcan
-    invitar a los ladrones a vender productos robados ahí. Nuevamente,
-    analice junto a otros que puedan contribuir su conocimiento y
-    expertise.
-
-  - La realización de encuestas representativas a víctimas de robo y al
-    público de una comuna, departamento, pueblo o ciudad es costoso,
-    lleva mucho tiempo y, debido a las características específicas de
-    los problemas de delincuencia local, ofrece poca información útil
-    para iniciativas locales.
-
-**9. Midiendo Su Efectividad**
+## Midiendo Su Efectividad
 
 La medición permite determinar en qué grado los esfuerzos han tenido
 éxito y sugiere como se podrían modificar las respuestas si no está
 produciendo los resultados deseados. Se deberían medir los problemas
-delictuales *antes* de implementar respuestas, para así determinar cuán
+delictivos *antes* de implementar respuestas, para así determinar cuán
 serios son los problemas, y *después* de implementarlas, para determinar
 si es que fueron efectivas. Se debería tomar mediciones tanto en el área
 objetivo como en un área de control, como por ejemplo el área
@@ -516,4 +475,4 @@ de bienes robados.
 
 [^1]: Un receptor, comerciante o vendedor de bienes robados; un individuo que, a sabiendas de su procedencia, compra bienes robados para más tarde venderlos obteniendo una ganancia.
 
-{{% pop_center %}}
+{{% pop_guide %}}
