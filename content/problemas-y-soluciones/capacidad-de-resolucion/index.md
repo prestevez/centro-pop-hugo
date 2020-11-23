@@ -639,7 +639,7 @@ operan.
 
 #### Recomendaciones
 
-{{% callot note %}}
+{{% callout note %}}
 
 - Remunere a los analistas de forma acorde a sus capacidades y exija
   excelencia a cambio de su inversión. No base los salarios en lo que
