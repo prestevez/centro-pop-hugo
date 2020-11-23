@@ -456,7 +456,7 @@ respuestas.
 - **Fotografíe letreros de tiendas en su jurisdicción que parezcan invitar a los ladrones a vender productos robados ahí.**
     - Nuevamente, analice junto a otros que puedan contribuir su conocimiento experto en el tema.
 - **Realizar encuestas a víctimas de robo y al público de una comuna, departamento, pueblo o ciudad es costoso.**
-    - Si bien este tipo de ejercicios en invaluable para la investigación académica, estos esfuerzos toman mucho tiempo y, debido a las características específicas de los problemas de delincuencia local, ofrece poca información útil para iniciativas locales.
+    - Si bien este tipo de ejercicios es invaluable para la investigación académica, estos esfuerzos toman mucho tiempo y, debido a las características específicas de los problemas de delincuencia local, ofrece poca información útil para iniciativas locales.
 
 {{% /callout %}}
 
