@@ -144,7 +144,7 @@ de trabajo más equilibrada.
 
 #### Recomendaciones
 
-{{% callout %}}
+{{% callout note %}}
 - Asegúrese de que sus analistas pasen la mayor parte de su tiempo
   haciendo análisis y que estén capacitados adecuadamente para su
   función. Mire de cerca lo que están haciendo y trate las razones
@@ -406,7 +406,7 @@ adaptan con precisión a la reducción efectiva del crimen.
 
 #### Recomendaciones
 
-{{%  callout %}}
+{{%  callout note %}}
 
 - Ayude a construir una relación de trabajo sólida y positiva entre
   analistas y personal de tecnología de la información, pero no
