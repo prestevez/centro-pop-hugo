@@ -23,10 +23,16 @@ subtitle = "Guías de problemas específicos y soluciones."
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ["Guías de respuestas específicas", "Guías de problemas específicos", "Guías de herramientas específicas"]
+    category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
+
+  filter_default = 0
+
+  [filter_button]
+    name = "All"
+    tag = "*"
 
 [design]
   # Toggle between the various page layout types.
