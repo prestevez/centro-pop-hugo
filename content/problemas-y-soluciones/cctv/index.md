@@ -409,7 +409,7 @@ personas que se encuentran en un área de vigilancia de CCTV. Los
 sistemas abiertos tienen una fuerte justificación para la prevención del
 delito, pero son más vulnerables a la manipulación y el vandalismo.
 
-#### Sistemas semi-cubiertos
+#### Cámaras semi-cubiertas
 
 Estos sistemas están a la vista del público, pero las cámaras están
 ocultas detrás de una carcasa transparente unidireccional. Este enfoque
@@ -419,7 +419,7 @@ determine quién está bajo vigilancia y le permite ocultar la cantidad
 exacta de cámaras en un sistema, ya que no es necesario que instale una
 cámara en cada carcasa.
 
-#### Sistemas encubiertos
+#### Cámaras encubiertos
 
 Con estos sistemas, el objetivo es ocultar las ubicaciones de las
 cámaras. Estos sistemas son particularmente adecuados para la detección
