@@ -12,7 +12,7 @@ toc: true
 categories: ["Guías de respuestas específicas"]
 #projects: ["problemas-y-respuestas"]
 image:
-  caption: Foto por Bill Oxford en Unsplash
+  caption: Foto por Chrisjmit en Pixabay
   focal_point: Smart
 
 # Pop Centre params
@@ -332,7 +332,6 @@ registrado.
 
 {{% /callout %}}
 
-
 Varias encuestas han examinado la percepción de los administradores de
 sistemas de CCTV y el público en relación con los beneficios de
 prevención de delitos. Estas percepciones suelen ser positivas, pero es
@@ -362,31 +361,26 @@ posible que el crimen registrado pueda aumentar.
 
 Los hallazgos generales sugieren que:
 
-  - El CCTV es más efectivo para combatir los delitos contra la
-    propiedad que la violencia o el delito de orden público (aunque ha
-    habido éxitos en esta área).
-
-  - CCTV parece funcionar mejor en áreas pequeñas y bien definidas (como
-    estacionamientos públicos).
-
-  - El contexto individual de cada área y la forma en que se utiliza el
-    sistema parecen ser importantes.
-
-  - Lograr reducciones estadísticamente significativas de la
-    delincuencia puede ser difícil (es decir, las reducciones de la
-    delincuencia que claramente van más allá del nivel que podría
-    ocurrir debido a las fluctuaciones normales en la tasa de
-    criminalidad son difíciles de probar).
-
-  - Una relación cercana con la policía parece importante para
-    determinar un sistema exitoso.
-
-  - Hay un beneficio para la investigación gracias a la CCTV una vez que
-    se ha cometido un delito.
+- El CCTV es más efectivo para combatir los delitos contra la
+  propiedad que la violencia o el delito de orden público (aunque ha
+  habido éxitos en esta área).
+- CCTV parece funcionar mejor en áreas pequeñas y bien definidas (como
+  estacionamientos públicos).
+- El contexto individual de cada área y la forma en que se utiliza el
+  sistema parecen ser importantes.
+- Lograr reducciones estadísticamente significativas de la
+  delincuencia puede ser difícil (es decir, las reducciones de la
+  delincuencia que claramente van más allá del nivel que podría
+  ocurrir debido a las fluctuaciones normales en la tasa de
+  criminalidad son difíciles de probar).
+- Una relación cercana con la policía parece importante para
+  determinar un sistema exitoso.
+- Hay un beneficio para la investigación gracias a la CCTV una vez que
+  se ha cometido un delito.
 
 Para ir más allá de una interpretación estrictamente estadística, es
 posible decir que hubo alguna evidencia de reducción del delito en la
-mayoría de los sistemas informados. En otras palabras, el CCTV
+mayoría de los sistemas estudiados. En otras palabras, el CCTV
 seguramente no empeorará las cosas (aunque las denuncias de delitos
 pueden aumentar), y hay una lista cada vez mayor de evaluaciones que
 sugieren que el CCTV ha tenido algunos éxitos en la reducción del
@@ -399,24 +393,23 @@ circuito cerrado de televisión que los senderos cortos y estrechos con
 árboles que pueden oscurecer las vistas de la cámara. La disponibilidad
 de la policía para responder a los incidentes de manera adecuada también
 puede ser un contexto local que afecta el éxito del CCTV. Las áreas con
-altos niveles de delitos contra la propiedad pueden ser más susceptibles
-al CCTV que las áreas con bajos niveles de desorden público. Los
+altos niveles de delitos contra la propiedad pueden ser más apropiadas para la  CCTV que las áreas con bajos niveles de desorden público. Los
 sistemas más pequeños en áreas bien definidas pueden ser más efectivos
 que los sistemas de amplio alcance que cubren áreas grandes.
 
-### **Consideraciones de implementación**
+## Consideraciones de implementación
 
-#### **6.1 Decidir sobre la configuración de cámara**
+### Tipos de cámaras
 
-#### **Sistemas abiertos**
+#### Cámaras abiertas
 
-Los sistemas de cámara abierta son comunes. Las cámaras están a la vista
+Los sistemas de cámaras abiertas son comunes. Las cámaras están a la vista
 del público y a menudo van acompañadas de carteles que indican a las
 personas que se encuentran en un área de vigilancia de CCTV. Los
 sistemas abiertos tienen una fuerte justificación para la prevención del
 delito, pero son más vulnerables a la manipulación y el vandalismo.
 
-**Sistemas Semi-Cubiertos**
+#### Sistemas semi-cubiertos
 
 Estos sistemas están a la vista del público, pero las cámaras están
 ocultas detrás de una carcasa transparente unidireccional. Este enfoque
@@ -426,7 +419,7 @@ determine quién está bajo vigilancia y le permite ocultar la cantidad
 exacta de cámaras en un sistema, ya que no es necesario que instale una
 cámara en cada carcasa.
 
-**Sistemas encubiertos**
+#### Sistemas encubiertos
 
 Con estos sistemas, el objetivo es ocultar las ubicaciones de las
 cámaras. Estos sistemas son particularmente adecuados para la detección
@@ -434,7 +427,7 @@ de delitos; sin embargo, sin señalización pública o una campaña
 publicitaria, tienen poca función de prevención del delito hasta que se
 corra la voz dentro de la comunidad de delincuentes.
 
-### **6.2 Funcionalidad de cámara**
+### Funcionalidad de cámara
 
 Si el objetivo principal es la disuasión, la mera presencia de una
 cámara debería ser suficiente. Puede que no sea necesario gastar
@@ -444,7 +437,7 @@ necesario comprar un sistema con cámaras de alta resolución y equipos de
 grabación. También se puede requerir una capacidad de visión nocturna
 adecuada. Estos requisitos adicionales aumentarán los costos.
 
-**6.3 Publicidad**
+### Publicidad
 
 Si el público, y especialmente el público infractor, no sabe que las
 cámaras están funcionando, el aspecto preventivo de CCTV no funcionará.
@@ -452,7 +445,7 @@ Los sistemas encubiertos no requieren publicidad, pero debe considerar
 los costos y la colocación de cualquier señalización que informe al
 público sobre cámaras abiertas.
 
-**6.4 ¿Dónde deben ubicarse las cámaras?**
+### ¿Dónde deben ubicarse las cámaras?
 
 Hay pautas disponibles para muchas de las actividades relacionadas con
 CCTV; sin embargo, generalmente no se proporcionan pautas para ubicar
@@ -473,7 +466,7 @@ sistema apunta. También es valioso realizar una serie de visitas al
 sitio que examinan las líneas de visión de las cámaras e identificar
 posibles obstrucciones.
 
-**6.5 ¿Quién operará el sistema?**
+### ¿Quién operará el sistema?
 
 Aunque el objetivo de CCTV es reducir la delincuencia, la operación real
 de la mayoría de los esquemas se divide entre operadores policiales y
@@ -482,58 +475,54 @@ ciudad. Para garantizar una comunicación rápida, algunas instalaciones
 de control civil tienen radios policiales para que puedan comunicarse
 directamente con los oficiales en la calle.
 
-7.  **¿Tiene el capital y los fondos para la operación?**
+### ¿Tiene el capital y los fondos para la operación?
 
 Los costos iniciales de capital para los sistemas de CCTV fluctúan,
 aunque generalmente disminuyen con el tiempo a medida que la tecnología
 se ha vuelto más convencional. Los costos humanos continúan durante toda
 la vida del proyecto y con frecuencia son difíciles de mantener.
 
-**7.1 ¿La policía local tiene los recursos para responder a cualquier
-incidente?**
+### ¿La policía local tiene los recursos para responder a cualquier incidente?
 
 Hay poca evidencia de que el CCTV reduzca significativamente el desorden
 público y los delitos violentos, pero el impacto de estos crímenes se
 puede reducir con una respuesta policial rápida y efectiva, y este es un
 beneficio potencial del CCTV.
 
-8.  **¿Quién y qué se debe mirar?**
+### ¿Quién y qué se debe mirar?
 
 Como guía, es prudente que cualquier sistema de CCTV tenga:
 
-  - Directrices operacionales
+- Directrices operacionales
+- Verificación de empleados
+- Capacitación efectiva (en asuntos como el funcionamiento de la
+  cámara, las prácticas de grabación, el tiempo que se retienen las
+  cintas y los mecanismos para contactar a la policía)
+- Una política clara sobre quién y cuáles son los temas de
+  focalización
 
-  - Verificación de empleados
-
-  - Capacitación efectiva (en asuntos como el funcionamiento de la
-    cámara, las prácticas de grabación, el tiempo que se retienen las
-    cintas y los mecanismos para contactar a la policía)
-
-  - Una política clara sobre quién y cuáles son los temas de
-    focalización
-
-Con respecto al último ítem, parece esencial una política clara,
+Con respecto al último ítem, es esencial contar con políticas claras,
 inteligencia sobre los patrones delictivos locales y posibles
 sospechosos basados en un análisis e inteligencia delictivo minucioso,
 sólido y objetivo.
 
-9.  **Evaluación**
+### Evaluación
 
 Muchas fuentes de financiación que pueden proporcionar el dinero para un
 esquema de CCTV también requieren una evaluación del esquema. Una
-evaluación ideal sería robusta y evitaría la mayoría, si no todas, las
+evaluación ideal sería robusta y evitaría la mayoría, si no todas, de las
 críticas dirigidas a evaluaciones más débiles. Se sugiere asociarse con
 una universidad local, que puede proporcionar asesoramiento estadístico
 y evaluativo.
 
-10. **Preocupaciones públicas**
+## Preocupaciones públicas
 
 Como se indicó anteriormente, las encuestas de percepción pública sobre
 los beneficios de CCTV suelen ser positivas. Sin embargo, no lo son
 universalmente, y los gerentes de cualquier implementación deben
 anticipar las respuestas sobre una variedad de preocupaciones públicas.
 
-**10.1 Gestionar las preocupaciones públicas**
+### Gestionar las preocupaciones públicas
 
 Algunos han sugerido que con el crecimiento del CCTV en lugares públicos
 y la red ya extensa de sistemas de vigilancia privada en el sistema de
@@ -542,7 +531,7 @@ imposible escapar de la vigilancia. Esto puede ser así, pero todavía
 estamos lejos del tipo de red de vigilancia global abrumadora descrita
 en novelas como 1984 de George Orwell.
 
-**10.2 Cámaras encubiertas**
+### Cámaras encubiertas
 
 A diferencia de las cámaras abiertas, que se pueden ver realizando
 vigilancia de áreas públicas, las cámaras ocultas están diseñadas para
@@ -551,32 +540,30 @@ más intrusivas, hay administradores de la ciudad que han utilizado
 cámaras domo (un esquema semi-oculto) porque se considera que son más
 discretas.
 
-**10.3 Privacidad y preocupaciones constitucionales**
+### Privacidad y preocupaciones legales
 
 Las expectativas razonables de privacidad tienden a ser subjetivas, pero
-a los fines de la simple vigilancia de video (i.e., no audio) del
-espacio público, el uso de CCTV parecería ser firme legalmente.
+a los fines de la simple vigilancia de video (i.e., sin audio) del
+espacio público, el uso de CCTV parecería ser firme legalmente en la mayoría de los contextos.
 
 En resumen, las agencias públicas que deseen instalar sistemas de CCTV
 en lugares públicos deben considerar estos dos puntos clave:
 
-  - El área bajo vigilancia debe cubrir solo áreas públicas.
+- El área bajo vigilancia debe cubrir solo áreas públicas.
+- El equipo de vigilancia puede usar el zoom, la inclinación y la
+  panorámica para mejorar la captura de video, y los micrófonos
+  mejorados para detectar el sonido. Sin embargo, la tecnología que
+  puede inmiscuirse más allá de los límites razonables de la capacidad
+  de audio y visual puede ser legalmente cuestionable.
 
-  - El equipo de vigilancia puede usar el zoom, la inclinación y la
-    panorámica para mejorar la captura de video, y los micrófonos
-    mejorados para detectar el sonido. Sin embargo, la tecnología que
-    puede inmiscuirse más allá de los límites razonables de la capacidad
-    de audio y visual puede ser constitucionalmente cuestionable.
+### Propiedad de las imágenes
 
-**10.4 Propiedad de las imágenes**
-
-Es poco probable que el público apoye CCTV si existe el riesgo de que un
-video de ellos comprando en una calle pública cuando deberían estar en
+Es poco probable que el público apoye los sistemas CCTV si existe el riesgo de que un video de ellos comprando en una calle pública cuando deberían estar en
 el trabajo aparezca en las noticias. Por lo tanto, debe existir una
 política de protección cuando las imágenes grabadas se divulguen a la
 policía, los medios u otras agencias del sistema de justicia penal.
 
-**10.5 Sistemas futuros**
+### Sistemas futuros
 
 Los implementadores deben ser conscientes de que la tecnología mejora
 continuamente, y una serie de innovaciones particulares han surgido en
@@ -587,7 +574,7 @@ reconocimiento facial han empezado a ser utilizados. Estos requieren un
 enlace a otro sistema informático dentro de un departamento de policía,
 como una base de datos que contenga fotografías de personas buscadas.
 
-11. **Conclusiones**
+## Conclusiones
 
 Aunque gran parte de la literatura profesional de los fabricantes tiende
 a exagerar los beneficios de los CCTV, las evaluaciones robustas tienden
@@ -595,31 +582,28 @@ a ser más cautelosas. Como se señaló en un estudio, "el CCTV de calle
 abierta puede 'funcionar' de manera limitada, pero no es una panacea
 universal. Funciona de diferentes maneras en diferentes situaciones". La
 evidencia sugiere que el CCTV funciona de manera más efectiva cuando se
-combina con un paquete de otras medidas preventivas situacionales.
+combina con un paquete de otras medidas de prevención situacional.
 Cuando el CCTV a menudo se implementa con otras medidas hace que sea
 difícil confirmar con evidencia concluyente la efectividad del CCTV.
 
-La manipulación de los medios puede colocar un papel importante en la
-publicidad de un sistema, ayudar a aumentar el conocimiento público y,
+Los medios juegan un papel importante en la
+publicidad del sistema, ayudan a aumentar el conocimiento público y,
 por lo tanto, reducir el miedo al delito. También puede informar a los
-delincuentes y aumentar su riesgo de percepción.
+delincuentes del uso de la CCTV y aumentar su percepción de riesgo.
 
 Las conclusiones sobre la efectividad que pueden extraerse son:
 
-  - CCTV funciona mejor en sitios pequeños y bien definidos (por
-    ejemplo, áreas de estacionamiento público) en lugar de áreas grandes
-    (como urbanizaciones).
-
-  - El CCTV es más efectivo para combatir el delito contra la propiedad
-    que la violencia o el desorden público.
-
-  - Una relación cercana con la policía y las autoridades municipales
-    mejorará la efectividad del sistema.
-
-  - Un sistema de CCTV de buena calidad puede ayudar a las
-    investigaciones policiales.
+- CCTV funciona mejor en sitios pequeños y bien definidos (por
+  ejemplo, áreas de estacionamiento público) en lugar de áreas grandes
+  (como complejos habitacionales).
+- El CCTV es más efectivo para combatir el delito contra la propiedad
+  que la violencia o el desorden público.
+- Una relación cercana con la policía y las autoridades municipales
+  mejorará la efectividad del sistema.
+- Un sistema de CCTV de buena calidad puede ayudar a las
+  investigaciones policiales.
 
 Finalmente, debe considerar el impacto de un sistema de CCTV desde una
-perspectiva social. Se ha sugerido que la vigilancia cada vez mayor
-puede hacer que el medio ambiente local sea un lugar menos agradable
+perspectiva social. Se ha sugerido que la vigilancia cada vez más intensa
+puede hacer que el espacio local sea un lugar menos agradable
 para vivir.
