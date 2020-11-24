@@ -202,9 +202,9 @@ Es importante mencionar dos aspectos importantes que deben ser considerados. Pri
 
 La policía ha estado involucrada durante mucho tiempo en transmitir sistemáticamente información al público sobre cómo prevenir el delito. Esto se hace mediante presentaciones, folletos y una variedad de otros programas. Algunos de estos esfuerzos están dirigidos al público general; otros están dirigidos a grupos específicos. Los mensajes educacionales y los programas están dirigidos hacia víctimas potenciales, instruyéndoles cómo evitar la victimización, o hacia potenciales delincuentes, instruyéndoles sobre cómo evitar delinquir. Sin embargo, es esencial para todos estos esfuerzos el hecho de que aquellos a quienes se dirige el mensaje estén en condiciones de tomar medidas que los protegerán de la victimización o a evitar cometer delitos. Dichos materiales y presentaciones educacionales son generalmente discretos; uno puede tomar el consejo o ignorarlo. Los mensajes educativos a potenciales delincuentes toman un tono de ayuda en lugar de uno de advertencia: están dirigidas a personas que tienen a obedecer la ley, pero que pueden delinquir por ignorancia o descuido.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - Un análisis de la policía de San Diego, California, encontró que un
   alto porcentaje de los casos de agresión sexual eran violaciones por
@@ -261,9 +261,9 @@ informando a un ciudadano de algo de lo que no estaba al tanto, y el
 ciudadano cumple la solicitud con gratitud y cortesía.
 
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - La policía en Chula Vista, California, concluyó que las nuevas
   viviendas sociales eran vulnerables al robo simplemente porque
@@ -304,9 +304,9 @@ de manera más confrontacional en virtud del apoyo que recibe de los
 ciudadanos agraviados.
 
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
   - La policía en Peel, Ontario, identificó establecimientos con una
     alta incidencia de servir alcohol a personas posteriormente
@@ -371,9 +371,9 @@ privados han utilizado la documentación policial para justificar
 expansiones en sus programas y presupuestos de apoyo.
 
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 
 - Basándose en un cuidadoso análisis de datos, la policía de
@@ -431,9 +431,9 @@ existir y son fortalecidas, la policía descubre que gradualmente se
 puede transferir responsabilidades de estrategias de prevención
 específica a estas nuevas entidades.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - La policía en Racine, Wisconsin, concluyó que una solución para
   mejorar vecindarios con problemas de fumaderos de drogas era comprar propiedades
@@ -490,9 +490,9 @@ las solicitudes de la policía, la negativa o falta de respuesta a
 medidas menos coercitivas, y los argumentos para responsabilizar a otros
 por sus contribuciones al problema.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - La policía en Lanchashire, Inglaterra, envió cartas a los
   propietarios de vehículos vistos andando en áreas donde la
@@ -546,9 +546,9 @@ La mayoría de los retiros de servicio surge de transacciones comerciales
 que son temas principalmente civiles más que penales. A
 continuación, se presentan algunos ejemplos típicos.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - Algunas agencias de policía se niegan a responder a denuncias sobre
   automovilistas que dejan las estaciones de autoservicio sin pagar
@@ -598,9 +598,9 @@ debates públicos informales y luego por audiencias públicas formales. En
 el escenario típico, los individuos sobre quienes recaerá la nueva carga
 regulatoria usualmente se oponen a la propuesta.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - Para reducir los robos residenciales, algunas ciudades han
   implementado códigos que exigen características de diseño y
@@ -645,9 +645,9 @@ exitosos, tiene la intención de obligar a los dueños de inmuebles a
 asumir una mayor responsabilidad de controlar las actividades que tienen
 lugar en sus propiedades.
 
-#### Ejemplos
-
 {{% callout note %}}
+
+#### Ejemplos
 
 - La policía en Oakland, California, presentó una demanda contra la
   casa matriz de una franquicia internacional de moteles por no
