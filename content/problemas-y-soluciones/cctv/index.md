@@ -607,3 +607,5 @@ Finalmente, debe considerar el impacto de un sistema de CCTV desde una
 perspectiva social. Se ha sugerido que la vigilancia cada vez más intensa
 puede hacer que el espacio local sea un lugar menos agradable
 para vivir.
+
+{{% pop_guide %}}
