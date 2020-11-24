@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guías de respuestas específicas | Centro POP Uruguay de UCL</title>
+    <link>/category/guias-de-respuestas-especificas/</link>
+      <atom:link href="/category/guias-de-respuestas-especificas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guías de respuestas específicas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guías de respuestas específicas</title>
+      <link>/category/guias-de-respuestas-especificas/</link>
+    </image>
+    
+    <item>
+      <title>CCTV en lugares públicos</title>
+      <link>/problemas-y-soluciones/cctv/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/cctv/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    El propósito de esta guía es proporcionar una visión general del uso de
+los sistemas de circuito cerrado de televisión (CCTV) como respuesta
+policial orientada a la solución de problemas.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;El público está acostumbrado a ser vigilado por la tecnología de
+vigilancia en muchos establecimientos comerciales y semipúblicos como
+bancos, casinos, tiendas y centros comerciales. Alrededor de las tres
+cuartas partes de las pequeñas empresas registran quién llega a su local
+con CCTV. Esta guía está destinada al lector que considera el CCTV como
+una opción de prevención del delito para una gama más amplia de delitos
+personales y de propiedad en lugares públicos. Los ejemplos de espacios
+públicos relevantes incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Parques públicos&lt;/li&gt;
+&lt;li&gt;Calles peatonales en el centro de la ciudad&lt;/li&gt;
+&lt;li&gt;Áreas de estacionamiento público al aire libre&lt;/li&gt;
+&lt;li&gt;Calles de barrio residencial&lt;/li&gt;
+&lt;li&gt;Intercambios de transporte público.&lt;/li&gt;
+&lt;li&gt;Áreas fuera de las instalaciones públicas, como arenas deportivas y
+estaciones de metro.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aunque algunos ven a los CCTV como una panacea contra el crimen y el
+desorden en lugares públicos, otros ven el crecimiento del CCTV como una
+intrusión totalitaria que invade la
+privacidad personal. Esta guía ayudará a comprender mejor la
+efectividad del CCTV y abordar algunas preocupaciones del público.&lt;/p&gt;
+&lt;h2 id=&#34;qué-son-los-cctv&#34;&gt;¿Qué son los CCTV?&lt;/h2&gt;
+&lt;p&gt;Los sistemas de circuito cerrado de televisión (CCTV) son una tecnología
+de vigilancia. Más específicamente, es &amp;ldquo;un sistema en el que varias
+cámaras de video están conectadas en un circuito cerrado, y las
+imágenes producidas se envían a un monitor de televisión central o se
+graban&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Aunque algunos sistemas son extremadamente sofisticados y emplean una
+carcasa a prueba de balas, capacidad de visión nocturna, detección de
+movimiento y capacidades avanzadas de zoom y seguimiento automático,
+muchos sistemas existentes son más rudimentarios. Las instalaciones de
+CCTV más comunes involucran una cantidad de cámaras conectadas a una
+sala de control donde los operadores miran un banco de pantallas de
+televisión.&lt;/p&gt;
+&lt;p&gt;Muchos sistemas de CCTV (pero no todos) tendrán una instalación de
+grabación que funciona en una de las siguientes maneras:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Grabar las imágenes de una cámara seleccionada&lt;/li&gt;
+&lt;li&gt;Uso de grabación multiplex donde la imagen cambia de cámara a
+cámara, permitiendo así que una cinta vea cada vista de la cámara
+de forma rotativa&lt;/li&gt;
+&lt;li&gt;Empleando tecnología digital para grabar imágenes de múltiples
+cámaras a la vez&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A menudo, un operador puede mover, inclinar y hacer zoom en varias
+cámaras. A medida que la tecnología se ha desarrollado, las cámaras con
+una amplia gama de facilidades de movimiento y control se han convertido
+en la norma, y ​​es probable que haya mejoras continuas en el zoom
+óptico y digital, el color y la resolución de pixeles, lo cual mejorará
+la calidad de la imagen.&lt;/p&gt;
+&lt;p&gt;Incluyendo el elemento humano, podemos clasificar los sistemas en
+pasivos, donde los bancos de dispositivos de grabación graban imágenes
+que pueden reproducirse si se denuncia un delito, aunque nadie monitorea
+activamente las imágenes, y en activos, donde una persona se sienta y
+monitorea una serie de pantallas en tiempo real. En realidad, muchos
+sistemas son híbridos, donde los dispositivos graban todas las imágenes,
+y un operador escanea de monitor a monitor, concentrándose en algunos e
+ignorando otros.&lt;/p&gt;
+&lt;p&gt;Aunque la mayoría de los esquemas de CCTV emplean cámaras abiertas que
+son visibles por el publico, es posible encontrar sistemas en los que
+las cámaras estén montadas en carcasas protectoras o dentro de cúpulas
+empañadas (de policarbonato). A menudo denominados semi-encubiertos,
+estos sistemas de cámaras hacen que sea más difícil para las personas
+bajo vigilancia determinar si están siendo observados, ya que
+generalmente es imposible determinar en qué dirección está mirando la
+cámara. Algunas cámaras emplean lentes falsos para ocultar el
+objetivo de vigilancia.&lt;/p&gt;
+&lt;p&gt;Además de las cámaras, el cableado para alimentar imágenes a los
+monitores y los dispositivos de grabación, un sistema de CCTV también
+requiere que un operador mire los monitores o revise las grabaciones.
+Debido a esto, una descripción completa de CCTV no debe ignorar el
+elemento humano. Revisar el video, actuar sobre la información y
+preparar la evidencia del video para un tribunal, crea una necesidad
+potencial de espacio de oficina y costos de personal en curso además de
+cualquier gasto de capital inicial. Tomando en consideración los costos
+tecnológicos y de personal, el CCTV tiene un precio considerable. Aunque
+los costos tecnológicos continúan disminuyendo, los costos humanos no.&lt;/p&gt;
+&lt;p&gt;En resumen, hay una gama de configuraciones de CCTV disponibles. Un
+sistema completo de CCTV (para los fines de este informe) comprende:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Una o más cámaras que ven un área pública&lt;/li&gt;
+&lt;li&gt;Un mecanismo para transmitir imágenes de video a uno o más monitores&lt;/li&gt;
+&lt;li&gt;Monitores de video para ver la escena, generalmente acompañados de
+dispositivos de grabación como una grabadora de video de lapso de
+tiempo o un disco duro de computadora para imágenes digitales&lt;/li&gt;
+&lt;li&gt;Un espectador u operador de cámara, como un oficial de policía o
+guardia de seguridad&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Las variaciones a esta configuración básica incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La capacidad de transmitir imágenes a través de Internet.&lt;/li&gt;
+&lt;li&gt;Sensores de movimiento que activan la cámara cuando se detecta
+actividad.&lt;/li&gt;
+&lt;li&gt;Iluminación normal o infrarroja para mejorar la calidad de la imagen
+por la noche.&lt;/li&gt;
+&lt;li&gt;Una capacidad de giro e inclinación que permite al operador cambiar
+la dirección de visualización, el zoom y el enfoque de la cámara.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los sistemas más avanzados pueden incluir tecnologías de reconocimiento
+facial limitado o estimar la ubicación de incidentes con armas de fuego,
+aunque los sistemas más avanzados a menudo dependen de otra tecnología.
+Por ejemplo, un programa de reconocimiento facial tiene un valor
+limitado a menos que esté vinculado a una base de datos de computadora
+de fotos sospechosas.&lt;/p&gt;
+&lt;h2 id=&#34;cómo-los-cctv-previenen-el-crimen&#34;&gt;Cómo los CCTV previenen el crimen&lt;/h2&gt;
+&lt;p&gt;Un sistema de CCTV no es una barrera física. No limita el acceso a
+ciertas áreas, hace que un objeto sea más difícil de robar o que una
+persona sea más difícil de asaltar y robar. Esto no significa que no sea
+un ejemplo de prevención situacional del delito. Es altamente
+situacional y, como se mostrará, tiene cierta capacidad de prevención
+del delito en las situaciones correctas. Aunque el CCTV tiene muchas
+funciones, la principal utilidad preventiva es activar un mecanismo
+perceptivo en un delincuente potencial. Busca cambiar la percepción del
+delincuente para que el este crea que, si comete un delito, será
+atrapado. Para que este proceso de prevención del delito tenga éxito,
+deben existir dos elementos:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;El delincuente debe ser consciente de la presencia de las cámaras.&lt;/li&gt;
+&lt;li&gt;El delincuente debe creer que las cámaras presentan un riesgo alto de captura para no incurrir en las recompensas del delito previsto.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Considere el primer elemento. Si, por ejemplo, se instala un sistema de
+CCTV para frenar un aumento percibido en el crimen o desorden en el
+centro de una ciudad, el mecanismo de prevención del delito requiere que
+los delincuentes potenciales sepan que están siendo vigilados. La
+evidencia sugiere que, aunque los implementadores instalen un sistema,
+realicen una campaña publicitaria y coloquen señalización, no hay
+garantía de que la población esté al tanto de las cámaras.&lt;/p&gt;
+&lt;p&gt;No solo existen limitaciones sobre la percepción del público de la
+ubicación de las cámaras, el segundo elemento (la presencia de cámaras
+que afecta la percepción de riesgo de los delincuentes) no está
+garantizado. Ciertamente, existe la sugerencia, y alguna evidencia
+cualitativa, de que los delincuentes potenciales que están bajo la
+influencia del alcohol o las drogas pueden no preocuparse o recordar que
+pueden estar bajo vigilancia. Esto puede ser un factor por la cual el
+CCTV parece ser más efectivo para combatir el delito contra la propiedad
+que el desorden y los delitos violentos.&lt;/p&gt;
+&lt;p&gt;El deseo de atrapar a un delincuente en el acto es a menudo la razón
+detrás de la colocación de cámaras ocultas. Sin lugar a dudas, la
+evidencia de CCTV es convincente, aunque la capacidad de CCTV para
+reducir los niveles generales de delincuencia mediante la detección (en
+lugar de la prevención) es menos convincente y podría decirse que es una
+forma, menos efectiva, que impacta sobre el delito.&lt;/p&gt;
+&lt;p&gt;Una consideración importante en la efectividad de una tecnología de
+vigilancia es el tipo de delito que debe abordarse, porque esto afecta
+la capacidad de adaptación de los delincuentes. Si bien un sistema de
+CCTV puede reducir la probabilidad de robo en una ubicación comercial
+dentro del alcance de la cámara, existen algunas pruebas de que los
+mercados de drogas pueden continuar operando en presencia de CCTV
+cambiando sus prácticas operativas.&lt;/p&gt;
+&lt;p&gt;Se han empleado cámaras falsas en algunos casos. Es posible que las
+cámaras falsas logren el mismo objetivo preventivo que los sistemas
+activos. Sin embargo, si se hace creer a los usuarios del espacio bajo
+vigilancia, a través de señales, por ejemplo, que están siendo vigilados
+las 24 horas del día y ocurre un incidente, puede afectar la
+credibilidad de la CCTV.&lt;/p&gt;
+&lt;p&gt;Se pueden acumular una serie de otros beneficios, más allá de una
+reducción en la delincuencia, que incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Menor miedo al crimen.&lt;/li&gt;
+&lt;li&gt;Ayuda a las investigaciones policiales.&lt;/li&gt;
+&lt;li&gt;Prestación de asistencia médica.&lt;/li&gt;
+&lt;li&gt;Gestión del espacio&lt;/li&gt;
+&lt;li&gt;Recopilación de información&lt;/li&gt;
+&lt;li&gt;Difusión de beneficios.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;reducción-del-temor-al-crimen&#34;&gt;Reducción del temor al crimen&lt;/h3&gt;
+&lt;p&gt;Numerosos estudios han tratado de determinar si la presencia de cámaras
+en lugares públicos reduce el temor a la delincuencia en las personas
+que usan el área. Los hallazgos son mixtos, pero en general, muestran
+que hay un nivel reducido de temor al crimen en las áreas de CCTV, pero
+solo entre las personas que sabían que estaban en un área bajo
+vigilancia. La mayoría de los estudios que exploran la percepción de las
+áreas de vigilancia encontraron que menos de la mitad de los
+entrevistados sabían que estaban en un área de CCTV.&lt;/p&gt;
+&lt;h3 id=&#34;ayuda-a-las-investigaciones-policiales&#34;&gt;Ayuda a las investigaciones policiales&lt;/h3&gt;
+&lt;p&gt;Independientemente del potencial que un sistema de CCTV tenga en la
+prevención del delito, aún puede contribuir en un papel de detección.
+Existen numerosos ejemplos de cintas de CCTV que ayudan a la condena de
+un delincuente. Las imágenes de la cámara también pueden ayudar a
+identificar posibles testigos que de otro modo no se presentarían ante
+la policía. La evidencia de la cámara de CCTV puede ser convincente,
+aunque los problemas de calidad de imagen son un factor si las imágenes
+de CCTV se usan con fines de identificación.&lt;/p&gt;
+&lt;h3 id=&#34;prestación-de-asistencia-médica&#34;&gt;Prestación de asistencia médica&lt;/h3&gt;
+&lt;p&gt;Como característica de seguridad de la comunidad, los operadores de
+cámaras de CCTV pueden comunicarse con los servicios médicos si ven a
+personas en la calle que sufren enfermedades o lesiones como resultado
+de actividades delictivas (como robos y asaltos) o emergencias médicas
+no relacionadas a crímenes.&lt;/p&gt;
+&lt;h3 id=&#34;gestión-del-espacio&#34;&gt;Gestión del espacio&lt;/h3&gt;
+&lt;p&gt;El CCTV se puede utilizar para la gestión de una ubicación en general.
+Las cámaras se pueden usar para buscar niños perdidos, para controlar el
+flujo de tráfico, reuniones públicas o manifestaciones que pueden
+requerir recursos policiales adicionales, o para determinar si las
+alarmas se han activado innecesariamente, eliminando así la necesidad de
+una respuesta policial.&lt;/p&gt;
+&lt;h3 id=&#34;recopilación-de-información&#34;&gt;Recopilación de información&lt;/h3&gt;
+&lt;p&gt;Las cámaras también se pueden usar para recopilar información y
+monitorear el comportamiento de los delincuentes conocidos en lugares
+públicos (como los ladrones de tiendas en áreas comerciales). Los
+operadores de CCTV a menudo llegan a conocer las caras de los delincuentes
+locales, y las cámaras se convierten en una forma de monitorear sus
+movimientos de una manera menos intrusiva que desplegar agentes de
+policía vestidos de civil.&lt;/p&gt;
+&lt;h3 id=&#34;difusión-de-beneficios&#34;&gt;Difusión de beneficios&lt;/h3&gt;
+&lt;p&gt;Aunque rara vez se aborda en la literatura, también existe la clara
+posibilidad de que, si los delincuentes son conscientes y cautelosos en
+presencia de cámaras, pueden desconocer el alcance de las capacidades de
+las cámaras. Como resultado, pueden reducir su actividad criminal en un
+área más amplia que la cubierta por el sistema de cámara.&lt;/p&gt;
+&lt;h3 id=&#34;consecuencias-no-deseadas&#34;&gt;Consecuencias no deseadas&lt;/h3&gt;
+&lt;p&gt;Aunque no se discute en la literatura de las compañías que venden
+cámaras, los sistemas de CCTV también pueden tener algunas
+consecuencias no deseadas. Éstas incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Desplazamiento&lt;/li&gt;
+&lt;li&gt;Mayor sospecha o temor a la delincuencia.&lt;/li&gt;
+&lt;li&gt;Mayor denuncia de delitos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;desplazamiento&#34;&gt;Desplazamiento&lt;/h4&gt;
+&lt;p&gt;Hay muchos tipos diferentes de desplazamiento. En lugar de reducir las
+ofensas, puede ser que los delincuentes reaccionen trasladando sus actividades un lugar fuera de la vista de las cámaras de CCTV. Este es
+un ejemplo de desplazamiento espacial.&lt;/p&gt;
+&lt;p&gt;Un sistema de CCTV también puede obligar a la comunidad criminal a ser
+más imaginativa y diversificar las operaciones. Por ejemplo,
+investigadores informaron que en un mercado específico de drogas la
+presencia de cámaras alentó al mercado de drogas a pasar a un sistema
+donde los pedidos se tomaban por teléfono móvil y luego se entregaban, y
+como tal &amp;ldquo;aumentan la velocidad y el ingenio de la transacción de
+drogas&amp;rdquo;. Este es un ejemplo de desplazamiento táctico, donde los
+delincuentes cambian su modus operandi para continuar con los mismos
+actos criminales.&lt;/p&gt;
+&lt;h4 id=&#34;mayor-sospecha-o-temor-al-delito&#34;&gt;Mayor sospecha o temor al delito&lt;/h4&gt;
+&lt;p&gt;Una segunda preocupación es la posibilidad de una respuesta pública
+negativa a la existencia de las cámaras. En una encuesta, un tercio de
+los encuestados sintió que uno de los propósitos de CCTV era &amp;ldquo;espiar a
+las personas&amp;rdquo;. En otras encuestas, algunos oficiales de la ciudad se
+mostraron reacios a tener sistemas de CCTV o de publicitarlos por temor a que hicieran más temerosos a los ciudadanos.&lt;/p&gt;
+&lt;p&gt;Recuerde que el mecanismo primario de prevención del delito parece
+funcionar al aumentar la percepción de riesgo en el delincuente. Con su
+renuencia a anunciar el sistema, algunos administradores municipales
+pueden estar reduciendo inadvertidamente la efectividad de las cámaras.&lt;/p&gt;
+&lt;h4 id=&#34;mayor-denuncia-de-delitos&#34;&gt;Mayor denuncia de delitos&lt;/h4&gt;
+&lt;p&gt;Una tercera consecuencia no deseada es la posibilidad de que haya un
+aumento en el delito registrado para algunos tipos de delitos. Muchos
+delitos tienen bajas tasas de denuncia, especialmente actos menores de
+violencia, graffiti y delitos de drogas. Los operadores de CCTV están
+mejor posicionados para detectar estos delitos y esto en realidad puede
+aumentar sus cifras de delitos registrados. Esto no quiere decir que
+hubo un aumento en el crimen real, sino que solo en el crimen
+registrado.&lt;/p&gt;
+&lt;h2 id=&#34;evaluaciones-de-cctv&#34;&gt;Evaluaciones de CCTV&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;¿La CCTV funciona para reducir el delito?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/que-funciona/cctv/&#34;&gt;Lea el resumen del evidencia.&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Varias encuestas han examinado la percepción de los administradores de
+sistemas de CCTV y el público en relación con los beneficios de
+prevención de delitos. Estas percepciones suelen ser positivas, pero es
+más difícil encontrar evidencia en la reducción real del delito.&lt;/p&gt;
+&lt;p&gt;Establecer si el CCTV reduce la delincuencia a menudo es difícil porque
+una solución policial orientada a problemas rara vez se implementa sin
+otras medidas de prevención del delito que se aplican al mismo tiempo.
+La implementación a menudo puede tener problemas y comenzar tarde o poco
+a poco; las tasas de criminalidad varían naturalmente y muestran
+evidencia de estacionalidad y tendencias a corto y largo plazo; los
+delincuentes no necesariamente conocen el sistema o se dan cuenta en
+diferentes momentos (un mecanismo teóricamente crucial para el éxito del
+CCTV); y, existen desafíos cuantitativos para la medición y detección de
+desplazamiento y difusión de beneficios.&lt;/p&gt;
+&lt;p&gt;Evaluar el impacto de CCTV también es complicado por el diseño del
+sistema. Un CCTV está diseñado para ver el crimen. Como resultado, las
+cámaras pueden detectar delitos que la policía no notaría de otra
+manera. Esto puede aumentar inadvertidamente la tasa de criminalidad,
+especialmente para los delitos que tienen bajas tasas de denuncia, como
+ya se señaló en esta guía. Un proceso mediante el cual la policía puede
+tomar conciencia de la violencia callejera sin tener que depender de la
+cooperación del público en general puede aumentar sustancialmente las
+tasas de denuncia. Esto no significa que el crimen aumentará, pero es
+posible que el crimen registrado pueda aumentar.&lt;/p&gt;
+&lt;p&gt;Los hallazgos generales sugieren que:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El CCTV es más efectivo para combatir los delitos contra la
+propiedad que la violencia o el delito de orden público (aunque ha
+habido éxitos en esta área).&lt;/li&gt;
+&lt;li&gt;CCTV parece funcionar mejor en áreas pequeñas y bien definidas (como
+estacionamientos públicos).&lt;/li&gt;
+&lt;li&gt;El contexto individual de cada área y la forma en que se utiliza el
+sistema parecen ser importantes.&lt;/li&gt;
+&lt;li&gt;Lograr reducciones estadísticamente significativas de la
+delincuencia puede ser difícil (es decir, las reducciones de la
+delincuencia que claramente van más allá del nivel que podría
+ocurrir debido a las fluctuaciones normales en la tasa de
+criminalidad son difíciles de probar).&lt;/li&gt;
+&lt;li&gt;Una relación cercana con la policía parece importante para
+determinar un sistema exitoso.&lt;/li&gt;
+&lt;li&gt;Hay un beneficio para la investigación gracias a la CCTV una vez que
+se ha cometido un delito.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para ir más allá de una interpretación estrictamente estadística, es
+posible decir que hubo alguna evidencia de reducción del delito en la
+mayoría de los sistemas estudiados. En otras palabras, el CCTV
+seguramente no empeorará las cosas (aunque las denuncias de delitos
+pueden aumentar), y hay una lista cada vez mayor de evaluaciones que
+sugieren que el CCTV ha tenido algunos éxitos en la reducción del
+delito.&lt;/p&gt;
+&lt;p&gt;El punto importante es que el contexto local es central para determinar
+la probabilidad de éxito. Por ejemplo, las calles de la ciudad con
+líneas de visión largas y claras pueden ser más susceptibles al
+circuito cerrado de televisión que los senderos cortos y estrechos con
+árboles que pueden oscurecer las vistas de la cámara. La disponibilidad
+de la policía para responder a los incidentes de manera adecuada también
+puede ser un contexto local que afecta el éxito del CCTV. Las áreas con
+altos niveles de delitos contra la propiedad pueden ser más apropiadas para la  CCTV que las áreas con bajos niveles de desorden público. Los
+sistemas más pequeños en áreas bien definidas pueden ser más efectivos
+que los sistemas de amplio alcance que cubren áreas grandes.&lt;/p&gt;
+&lt;h2 id=&#34;consideraciones-de-implementación&#34;&gt;Consideraciones de implementación&lt;/h2&gt;
+&lt;h3 id=&#34;tipos-de-cámaras&#34;&gt;Tipos de cámaras&lt;/h3&gt;
+&lt;h4 id=&#34;cámaras-abiertas&#34;&gt;Cámaras abiertas&lt;/h4&gt;
+&lt;p&gt;Los sistemas de cámaras abiertas son comunes. Las cámaras están a la vista
+del público y a menudo van acompañadas de carteles que indican a las
+personas que se encuentran en un área de vigilancia de CCTV. Los
+sistemas abiertos tienen una fuerte justificación para la prevención del
+delito, pero son más vulnerables a la manipulación y el vandalismo.&lt;/p&gt;
+&lt;h4 id=&#34;cámaras-semi-cubiertas&#34;&gt;Cámaras semi-cubiertas&lt;/h4&gt;
+&lt;p&gt;Estos sistemas están a la vista del público, pero las cámaras están
+ocultas detrás de una carcasa transparente unidireccional. Este enfoque
+conserva la mayor parte de la razón preventiva del sistema abierto, pero
+las cámaras tienen cierta protección. También evita que el público
+determine quién está bajo vigilancia y le permite ocultar la cantidad
+exacta de cámaras en un sistema, ya que no es necesario que instale una
+cámara en cada carcasa.&lt;/p&gt;
+&lt;h4 id=&#34;cámaras-encubiertos&#34;&gt;Cámaras encubiertos&lt;/h4&gt;
+&lt;p&gt;Con estos sistemas, el objetivo es ocultar las ubicaciones de las
+cámaras. Estos sistemas son particularmente adecuados para la detección
+de delitos; sin embargo, sin señalización pública o una campaña
+publicitaria, tienen poca función de prevención del delito hasta que se
+corra la voz dentro de la comunidad de delincuentes.&lt;/p&gt;
+&lt;h3 id=&#34;funcionalidad-de-cámara&#34;&gt;Funcionalidad de cámara&lt;/h3&gt;
+&lt;p&gt;Si el objetivo principal es la disuasión, la mera presencia de una
+cámara debería ser suficiente. Puede que no sea necesario gastar
+grandes sumas en la última tecnología. Si el objetivo es ayudar en el
+enjuiciamiento y la condena de los delincuentes, entonces puede ser
+necesario comprar un sistema con cámaras de alta resolución y equipos de
+grabación. También se puede requerir una capacidad de visión nocturna
+adecuada. Estos requisitos adicionales aumentarán los costos.&lt;/p&gt;
+&lt;h3 id=&#34;publicidad&#34;&gt;Publicidad&lt;/h3&gt;
+&lt;p&gt;Si el público, y especialmente el público infractor, no sabe que las
+cámaras están funcionando, el aspecto preventivo de CCTV no funcionará.
+Los sistemas encubiertos no requieren publicidad, pero debe considerar
+los costos y la colocación de cualquier señalización que informe al
+público sobre cámaras abiertas.&lt;/p&gt;
+&lt;h3 id=&#34;dónde-deben-ubicarse-las-cámaras&#34;&gt;¿Dónde deben ubicarse las cámaras?&lt;/h3&gt;
+&lt;p&gt;Hay pautas disponibles para muchas de las actividades relacionadas con
+CCTV; sin embargo, generalmente no se proporcionan pautas para ubicar
+cámaras. El análisis del delito no es necesariamente el único árbitro
+de las ubicaciones de las cámaras de CCTV. Aunque se sabe que los datos
+de delitos registrados por la policía son incompletos, el análisis de
+delitos sigue siendo la forma más objetiva de determinar las áreas que
+pueden necesitar CCTV. Si los esquemas están orquestados y dirigidos
+principalmente por las autoridades locales, existe el riesgo de que la
+policía pueda ser excluida de la etapa crucial de diseño, incluida la
+colocación de cámaras.&lt;/p&gt;
+&lt;p&gt;La elección de las ubicaciones de las cámaras debería, idealmente, ser
+el resultado de un análisis de delitos de alta calidad que no solo
+incorpore un mapeo a nivel micro de los patrones de delitos locales,
+sino también una apreciación de los tipos de delitos a los que el
+sistema apunta. También es valioso realizar una serie de visitas al
+sitio que examinan las líneas de visión de las cámaras e identificar
+posibles obstrucciones.&lt;/p&gt;
+&lt;h3 id=&#34;quién-operará-el-sistema&#34;&gt;¿Quién operará el sistema?&lt;/h3&gt;
+&lt;p&gt;Aunque el objetivo de CCTV es reducir la delincuencia, la operación real
+de la mayoría de los esquemas se divide entre operadores policiales y
+operadores civiles, que son empleados por la autoridad local o de la
+ciudad. Para garantizar una comunicación rápida, algunas instalaciones
+de control civil tienen radios policiales para que puedan comunicarse
+directamente con los oficiales en la calle.&lt;/p&gt;
+&lt;h3 id=&#34;tiene-el-capital-y-los-fondos-para-la-operación&#34;&gt;¿Tiene el capital y los fondos para la operación?&lt;/h3&gt;
+&lt;p&gt;Los costos iniciales de capital para los sistemas de CCTV fluctúan,
+aunque generalmente disminuyen con el tiempo a medida que la tecnología
+se ha vuelto más convencional. Los costos humanos continúan durante toda
+la vida del proyecto y con frecuencia son difíciles de mantener.&lt;/p&gt;
+&lt;h3 id=&#34;la-policía-local-tiene-los-recursos-para-responder-a-cualquier-incidente&#34;&gt;¿La policía local tiene los recursos para responder a cualquier incidente?&lt;/h3&gt;
+&lt;p&gt;Hay poca evidencia de que el CCTV reduzca significativamente el desorden
+público y los delitos violentos, pero el impacto de estos crímenes se
+puede reducir con una respuesta policial rápida y efectiva, y este es un
+beneficio potencial del CCTV.&lt;/p&gt;
+&lt;h3 id=&#34;quién-y-qué-se-debe-mirar&#34;&gt;¿Quién y qué se debe mirar?&lt;/h3&gt;
+&lt;p&gt;Como guía, es prudente que cualquier sistema de CCTV tenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Directrices operacionales&lt;/li&gt;
+&lt;li&gt;Verificación de empleados&lt;/li&gt;
+&lt;li&gt;Capacitación efectiva (en asuntos como el funcionamiento de la
+cámara, las prácticas de grabación, el tiempo que se retienen las
+cintas y los mecanismos para contactar a la policía)&lt;/li&gt;
+&lt;li&gt;Una política clara sobre quién y cuáles son los temas de
+focalización&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Con respecto al último ítem, es esencial contar con políticas claras,
+inteligencia sobre los patrones delictivos locales y posibles
+sospechosos basados en un análisis e inteligencia delictivo minucioso,
+sólido y objetivo.&lt;/p&gt;
+&lt;h3 id=&#34;evaluación&#34;&gt;Evaluación&lt;/h3&gt;
+&lt;p&gt;Muchas fuentes de financiación que pueden proporcionar el dinero para un
+esquema de CCTV también requieren una evaluación del esquema. Una
+evaluación ideal sería robusta y evitaría la mayoría, si no todas, de las
+críticas dirigidas a evaluaciones más débiles. Se sugiere asociarse con
+una universidad local, que puede proporcionar asesoramiento estadístico
+y evaluativo.&lt;/p&gt;
+&lt;h2 id=&#34;preocupaciones-públicas&#34;&gt;Preocupaciones públicas&lt;/h2&gt;
+&lt;p&gt;Como se indicó anteriormente, las encuestas de percepción pública sobre
+los beneficios de CCTV suelen ser positivas. Sin embargo, no lo son
+universalmente, y los gerentes de cualquier implementación deben
+anticipar las respuestas sobre una variedad de preocupaciones públicas.&lt;/p&gt;
+&lt;h3 id=&#34;gestionar-las-preocupaciones-públicas&#34;&gt;Gestionar las preocupaciones públicas&lt;/h3&gt;
+&lt;p&gt;Algunos han sugerido que con el crecimiento del CCTV en lugares públicos
+y la red ya extensa de sistemas de vigilancia privada en el sistema de
+transporte, hospitales, locales comerciales, escuelas, etc., es casi
+imposible escapar de la vigilancia. Esto puede ser así, pero todavía
+estamos lejos del tipo de red de vigilancia global abrumadora descrita
+en novelas como 1984 de George Orwell.&lt;/p&gt;
+&lt;h3 id=&#34;cámaras-encubiertas&#34;&gt;Cámaras encubiertas&lt;/h3&gt;
+&lt;p&gt;A diferencia de las cámaras abiertas, que se pueden ver realizando
+vigilancia de áreas públicas, las cámaras ocultas están diseñadas para
+ser invisibles. Aunque algunos consideran que las cámaras ocultas son
+más intrusivas, hay administradores de la ciudad que han utilizado
+cámaras domo (un esquema semi-oculto) porque se considera que son más
+discretas.&lt;/p&gt;
+&lt;h3 id=&#34;privacidad-y-preocupaciones-legales&#34;&gt;Privacidad y preocupaciones legales&lt;/h3&gt;
+&lt;p&gt;Las expectativas razonables de privacidad tienden a ser subjetivas, pero
+a los fines de la simple vigilancia de video (i.e., sin audio) del
+espacio público, el uso de CCTV parecería ser firme legalmente en la mayoría de los contextos.&lt;/p&gt;
+&lt;p&gt;En resumen, las agencias públicas que deseen instalar sistemas de CCTV
+en lugares públicos deben considerar estos dos puntos clave:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El área bajo vigilancia debe cubrir solo áreas públicas.&lt;/li&gt;
+&lt;li&gt;El equipo de vigilancia puede usar el zoom, la inclinación y la
+panorámica para mejorar la captura de video, y los micrófonos
+mejorados para detectar el sonido. Sin embargo, la tecnología que
+puede inmiscuirse más allá de los límites razonables de la capacidad
+de audio y visual puede ser legalmente cuestionable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;propiedad-de-las-imágenes&#34;&gt;Propiedad de las imágenes&lt;/h3&gt;
+&lt;p&gt;Es poco probable que el público apoye los sistemas CCTV si existe el riesgo de que un video de ellos comprando en una calle pública cuando deberían estar en
+el trabajo aparezca en las noticias. Por lo tanto, debe existir una
+política de protección cuando las imágenes grabadas se divulguen a la
+policía, los medios u otras agencias del sistema de justicia penal.&lt;/p&gt;
+&lt;h3 id=&#34;sistemas-futuros&#34;&gt;Sistemas futuros&lt;/h3&gt;
+&lt;p&gt;Los implementadores deben ser conscientes de que la tecnología mejora
+continuamente, y una serie de innovaciones particulares han surgido en
+los últimos años. Estos incluyen imágenes de rayos X de bajo nivel de
+retrodispersión que proporcionan el potencial de ver a través de la ropa
+y detectar armas y otros materiales prohibidos. Además, los sistemas de
+reconocimiento facial han empezado a ser utilizados. Estos requieren un
+enlace a otro sistema informático dentro de un departamento de policía,
+como una base de datos que contenga fotografías de personas buscadas.&lt;/p&gt;
+&lt;h2 id=&#34;conclusiones&#34;&gt;Conclusiones&lt;/h2&gt;
+&lt;p&gt;Aunque gran parte de la literatura profesional de los fabricantes tiende
+a exagerar los beneficios de los CCTV, las evaluaciones robustas tienden
+a ser más cautelosas. Como se señaló en un estudio, &amp;ldquo;el CCTV de calle
+abierta puede &amp;lsquo;funcionar&amp;rsquo; de manera limitada, pero no es una panacea
+universal. Funciona de diferentes maneras en diferentes situaciones&amp;rdquo;. La
+evidencia sugiere que el CCTV funciona de manera más efectiva cuando se
+combina con un paquete de otras medidas de prevención situacional.
+Cuando el CCTV a menudo se implementa con otras medidas hace que sea
+difícil confirmar con evidencia concluyente la efectividad del CCTV.&lt;/p&gt;
+&lt;p&gt;Los medios juegan un papel importante en la
+publicidad del sistema, ayudan a aumentar el conocimiento público y,
+por lo tanto, reducir el miedo al delito. También puede informar a los
+delincuentes del uso de la CCTV y aumentar su percepción de riesgo.&lt;/p&gt;
+&lt;p&gt;Las conclusiones sobre la efectividad que pueden extraerse son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CCTV funciona mejor en sitios pequeños y bien definidos (por
+ejemplo, áreas de estacionamiento público) en lugar de áreas grandes
+(como complejos habitacionales).&lt;/li&gt;
+&lt;li&gt;El CCTV es más efectivo para combatir el delito contra la propiedad
+que la violencia o el desorden público.&lt;/li&gt;
+&lt;li&gt;Una relación cercana con la policía y las autoridades municipales
+mejorará la efectividad del sistema.&lt;/li&gt;
+&lt;li&gt;Un sistema de CCTV de buena calidad puede ayudar a las
+investigaciones policiales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finalmente, debe considerar el impacto de un sistema de CCTV desde una
+perspectiva social. Se ha sugerido que la vigilancia cada vez más intensa
+puede hacer que el espacio local sea un lugar menos agradable
+para vivir.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 4,
+originalmente elaborada por
+Jerry Ratcliffe,
+de la serie de guías de
+Respuestas Específicas
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/video-surveillance-public-places-2&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disuasión Focalizada</title>
+      <link>/problemas-y-soluciones/disuasion-focalizada/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/disuasion-focalizada/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    La disuasión focalizada es una estrategia de reducción de la
+delincuencia en la que delincuentes de alto riesgo son cuidadosamente
+seleccionados (por ejemplo, delincuentes prolíficos o particularmente
+violentos) y reciben una atención focalizada. Esta atención se lleva a
+cabo por las fuerzas del orden público y, simultáneamente, entidades de
+servicios sociales a través de una comunicación directa y persuasiva y
+de un seguimiento riguroso de los compromisos del individuo.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada implican cinco acciones:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;identificar delincuentes prolíficos,&lt;/li&gt;
+&lt;li&gt;notificar a los infractores de la iniciativa a través de reuniones con un guion predeterminado,&lt;/li&gt;
+&lt;li&gt;un enjuiciamiento coordinado y estratégico del individuo,&lt;/li&gt;
+&lt;li&gt;prestación de servicios sociales a la medida, y&lt;/li&gt;
+&lt;li&gt;seguimiento cuidadoso de las acciones del individuo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;No son simplemente medidas represivas o enfoques de tolerancia cero.&lt;/p&gt;
+&lt;p&gt;Cuando se implementan de manera cuidadosa y adecuada, las iniciativas de
+disuasión focalizada tienen un gran potencial para disuadir a
+delincuentes prolíficos y, por lo tanto, reducir el crimen de manera
+significativa, además de mejorar la legitimidad y confianza percibidas
+hacia la policía.&lt;/p&gt;
+&lt;p&gt;Una revisión de las estrategias de disuasión focalizada identificó que
+19 de 24 estudios resultaron en una reducción estadísticamente
+significativa de la incidencia del problema delictivo objetivo.
+Además, estas implementaciones no demostraron tener efectos
+significativos de desplazamiento del delito, sino más bien una difusión
+de beneficios que se extendió a áreas cercanas y grupos sociales que no formaban parte del programa (Braga et al., 2019).&lt;/p&gt;
+&lt;h3 id=&#34;teoría-de-disuasión-focalizada&#34;&gt;Teoría de Disuasión Focalizada&lt;/h3&gt;
+&lt;p&gt;La disuasión focalizada se basa en la teoría de la disuasión del delito,
+que establece que se desalienta a las personas a cometer delitos si
+creen que el castigo por cometer dicho delito es seguro, severo y
+rápido.&lt;/p&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada se ocupan principalmente de la
+disuasión específica, lo que significa que se centran en las personas
+con más probabilidades de ofender en el futuro cercano. Sin embargo,
+también pueden contribuir a mejorar la disuasión general, al desalentar
+los delitos entre el público en general.&lt;/p&gt;
+&lt;p&gt;El papel de la policía en la disuasión del delito reside principalmente
+en el primer elemento de disuasión: &lt;em&gt;la certeza de atrapar de ser castigado&lt;/em&gt;. La policía generalmente tiene poca influencia sobre la
+&lt;em&gt;severidad&lt;/em&gt; o la &lt;em&gt;rapidez&lt;/em&gt; del castigo, ya que estos factores generalmente
+son decididos por las legislaturas, jueces y fiscales.&lt;/p&gt;
+&lt;h3 id=&#34;teoría-vs-práctica&#34;&gt;Teoría vs. Práctica&lt;/h3&gt;
+&lt;p&gt;La teoría detrás de la disuasión criminal es sólida, aunque la evidencia
+ha demostrado que el aspecto más importante es la certeza del castigo,
+más que su severidad o rapidez. Sin embargo, en la práctica, la
+disuasión es más difícil de implementar, ya que los sistemas de
+justicia penal sólo castigan a una fracción muy pequeña de los
+delincuentes.&lt;/p&gt;
+&lt;p&gt;Además, en lugar de basarse en mediciones objetivas, el efecto
+disuasorio se basa en última instancia en la percepción que las personas tienen
+sobre la certeza, la rapidez y la severidad del castigo, y estas
+percepciones pueden variar considerablemente entre las comunidades y los
+individuos. Por ejemplo, es probable que las personas que viven en
+comunidades que sufren un alto índice de delincuencia perciban que el riesgo general de castigo de la policía es débil, mientras que los
+delincuentes prolíficos, que probablemente han pasado por el sistema de
+justicia penal muchas veces, son aún más propensos a percibir que las
+posibilidades de castigo son bajas.&lt;/p&gt;
+&lt;p&gt;La disuasión focalizada tiene como objetivo abordar algunas de estas
+debilidades al concentrar los recursos de la justicia penal y las
+instituciones de política social en las personas que tienen más
+probabilidades de delinquir. Estudios científicos han demostrado en repetidas
+ocasiones que pequeñas cantidades de individuos, en general delincuentes
+prolíficos, son responsables de grandes cantidades de los delitos.&lt;/p&gt;
+&lt;p&gt;Los delincuentes prolíficos suelen tener muchos antecedentes penales y
+es probable que sean conocidos por la policía. La disuasión focalizada
+funciona al reducir la sensación de anonimato que los delincuentes
+prolíficos creen que disfrutan, y al alterar su percepción de la
+probabilidad de ser atrapados si cometen un delito. Al coordinar la
+forma en que varias instituciones de justicia penal gestionan a los
+delincuentes prolíficos y controlan estratégicamente sus acciones, se
+puede maximizar el efecto disuasorio de las sanciones. Este elemento de
+la estrategia se conoce como &amp;ldquo;accionar palancas&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;La disuasión focalizada también puede funcionar a través de mecanismos situacionales de prevención del delito, lo que significa que puede
+aumentar el esfuerzo para cometer delitos, aumentar el riesgo de ser
+atrapado, reducir las recompensas de cometer delitos y eliminar las
+provocaciones y excusas que alientan a los delincuentes a cometer
+delitos.&lt;/p&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada pueden funcionar a través de
+una variedad de mecanismos, más allá de la teoría de la disuasión y la
+prevención situacional del delito. Estos incluyen principios de ventanas
+rotas, eficacia colectiva, control social informal y justicia procesal.&lt;/p&gt;
+&lt;h2 id=&#34;el-rol-del-análisis&#34;&gt;El Rol del Análisis&lt;/h2&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada no pueden implementarse fuera
+del contexto local. Repetir exactamente lo que otros departamentos
+policiales han hecho es poco probable que funcione. Un aspecto central
+de la lógica detrás de las técnicas policiales orientadas a problemas,
+como la disuasión focalizada, es que los problemas de delincuencia
+tienen características locales importantes que deben entenderse antes de
+desarrollar e implementar las soluciones pensadas.&lt;/p&gt;
+&lt;p&gt;Los problemas de delincuencia de cada comunidad son diferentes en
+algunos aspectos, incluso si las comunidades son similares en otros. Por
+lo tanto, en lugar de simplemente copiar lo que han hecho otros
+departamentos de policía, es importante observar cómo abordaron el
+problema, cómo lo analizaron y lo entendieron, para que podamos aprender
+cómo analizar y comprender nuestros problemas de delincuencia y así
+desarrollar intervenciones personalizadas que tienen más probabilidades
+de funcionar.&lt;/p&gt;
+&lt;p&gt;Al analizar un problema de delincuencia y desarrollar una política de
+disuasión focalizada, es importante tener en cuenta condiciones como:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La naturaleza de los problemas de violencia local.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las características de las vínculos sociales del delincuente.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El volumen y la gravedad de los incidentes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Los poderes de aplicación de la ley otorgados a la policía y otras
+instituciones de justicia penal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La disponibilidad de servicios sociales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La disposición de las instituciones de justicia penal y servicios
+sociales para colaborar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La disposición de la comunidad para colaborar con la iniciativa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Casi todas las iniciativas de disuasión focalizada se han guiado por el
+análisis de datos al menos para estos propósitos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Definir la naturaleza, el alcance y la gravedad del problema.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Comprender la dinámica local del problema (incluidos los motivos,
+los métodos y las redes de personas involucradas).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Guiar la selección de personas con alto riesgo de ofender.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Elaboración de intervenciones que coincidan con las condiciones y
+recursos locales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Evaluar la implementación y los efectos de la intervención.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A continuación, se ilustran los tipos de análisis que podrían ser
+relevantes para diseñar una iniciativa de disuasión focalizada:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Mapeo de los territorios de pandillas conocidas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Estudiar la red social de pandillas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrevistar a delincuentes para aprender sobre los motivos, métodos
+y percepción de riesgos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clasificación de incidentes violentos por motivo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El análisis también es importante para evaluar cómo se lleva a cabo la
+implementación de la intervención. Esto es vital para hacer correcciones
+a mitad de la implementación si un elemento de la intervención no
+funciona, y para crear un registro que garantice el aprendizaje
+institucional y el intercambio de conocimientos.&lt;/p&gt;
+&lt;p&gt;Puede ser necesario trabajar con investigadores externos, de universidades
+o consultorías, para dirigir o ayudar en el análisis de datos.&lt;/p&gt;
+&lt;h2 id=&#34;las-fases-y-elementos-centrales-de-la-disuasión-focalizada&#34;&gt;Las Fases y Elementos Centrales de la Disuasión Focalizada&lt;/h2&gt;
+&lt;h3 id=&#34;fase-1---planificación-e-implementación&#34;&gt;Fase 1 - Planificación e Implementación&lt;/h3&gt;
+&lt;p&gt;La primera fase de una iniciativa de disuasión focalizada es pensar
+cuidadosamente sobre el plan y la implementación del programa. La
+implementación de iniciativas exitosas de disuasión focalizada requiere
+la coordinación entre múltiples partes. Por lo tanto, durante esta fase,
+es crucial relacionarse y comprometerse con partes interesadas cuyo apoyo es
+necesario para realizar la intervención.&lt;/p&gt;
+&lt;p&gt;Los objetivos de la Fase 1 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Involucrar a la comunidad&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Involucrar al personal policial&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Involucrar a socios externos para asegurar el apoyo y los
+compromisos de recursos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Establecer objetivos claros del programa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Establecer una infraestructura administrativa.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fase-2---selección-de-individuos-de-alto-riesgo&#34;&gt;Fase 2 - Selección de Individuos de Alto Riesgo&lt;/h3&gt;
+&lt;p&gt;Después de asegurar la participación de socios y la infraestructura necesaria para administrar la iniciativa de disuasión focalizada, el siguiente paso es
+decidir cómo se seleccionarán los individuos de alto riesgo.&lt;/p&gt;
+&lt;p&gt;La selección de los delincuentes de alto riesgo debe ser justa, objetiva
+y transparente. La mayoría de los individuos seleccionados (y la
+comunidad en general) no deben percibir que han sido seleccionados de
+manera injusta o arbitraria, sino que la  selección está bien justificada. Debe quedar claro que la selección se basó en la frecuencia
+y/o severidad de delitos pasados. Del mismo modo, los delincuentes
+deben creer que pueden dejar de ser objeto de la intervención si
+cambian su comportamiento.&lt;/p&gt;
+&lt;p&gt;El tipo de delincuentes de alto riesgo que se elegirán dependerá del
+problema delictivo que desee abordar, como: delitos violentos, delitos
+relacionados con pandillas, delitos relacionados con el mercado de
+drogas, violencia doméstica, conducir en estado de ebriedad, etc. Por
+ejemplo, si se esta interesado en abordar crímenes violentos
+relacionados con pandillas, no tendría sentido seleccionar un
+individuo por su historia de conducir en estado de ebriedad.&lt;/p&gt;
+&lt;p&gt;A continuación, se debe decidir el umbral que se utilizará para seleccionar a los
+delincuentes para la intervención. Esta puede ser la
+frecuencia o severidad de ofensas previas (o una combinación de ambas).
+Factores adicionales pueden influir en los criterios de selección, como
+el papel de un individuo en una red social y su influencia en otros
+delincuentes.&lt;/p&gt;
+&lt;p&gt;Luego, se debe seleccionar a los delincuentes que se encuentren arriba del umbral especificado previamente utilizando evidencia objetiva,
+basada en datos sobre delitos anteriores, análisis de redes sociales,
+entrevistas y otras fuentes.&lt;/p&gt;
+&lt;p&gt;Por último, también debe decidir los criterios que se utilizarían para
+formalmente retirar a un individuo de la intervención.&lt;/p&gt;
+&lt;p&gt;Los objetivos de la Fase 2 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Desarrollar y probar un método para la selección de delincuentes de
+alto riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identificar candidatos a ser clasficiados como delincuentes de alto riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Seleccionar a los delincuentes de alto riesgo&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fase-3--notificación&#34;&gt;Fase 3 – Notificación&lt;/h3&gt;
+&lt;p&gt;Uno de los elementos centrales de una iniciativa de disuasión focalizada
+es notificar a los delincuentes de alto riesgo seleccionados sobre la
+intervención. Recuerde que el efecto disuasorio del castigo sólo funciona si los
+delincuentes &lt;em&gt;perciben&lt;/em&gt; que la probabilidad de ser atrapados es alta, por
+lo tanto, si los delincuentes no conocen la iniciativa de disuasión
+focalizada, es poco probable que la intervención funcione.&lt;/p&gt;
+&lt;p&gt;El mensaje general que deben recibir los delincuentes es del tipo
+siguiente:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Su delitos persistentes y graves nos han llamado la
+atención. El gobierno y la comunidad insisten en que deje de ofender
+porque estás lastimando a personas y a la comunidad. Si está dispuesto a
+detener tus acciones, recibirá toda la asistencia necesaria para crear
+un estilo de vida legítimo y exitoso para usted y su familia. Si no está dispuesto a detenerse, usted y sus asociados criminales
+estarán sujetos a todos los medios disponibles para obligarlos a
+detenerse.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Los delincuentes seleccionados son notificados de los detalles de la
+intervención en un entorno grupal en reuniones conocidas como reuniones
+o foros de notificación. Pero primero, la comunicación
+individual con los delincuentes y sus familias debe realizarse para
+convencerlos de que asistan a la reunión. Esto puede ser a través de una
+carta persuasiva. Es de crucial importancia para la intervención que las personas seleccionadas asistan a la reunión programada.&lt;/p&gt;
+&lt;p&gt;El objetivo de la reunión es que los delincuentes comprendan las
+consecuencias de sus acciones (ya sea continuando o desistiendo en su
+comportamiento criminal). La naturaleza pública de la reunión ayuda a
+reducir la sensación de anonimato de los delincuentes.&lt;/p&gt;
+&lt;p&gt;Los componentes clave del mensaje son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Las amenazas del castigo deben ser claras y creíbles.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las agencias de justicia penal deben especificar las acciones que
+están dispuestas a tomar contra los individuos seleccionadas (y sus
+asociados) que persistan en cometer delitos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las agencias deben asegurarse que se comunique claramente que se coordinarán y comunicarán entre sí para monitorear a las personas seleccionadas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El mensaje debe ser respetuoso pero firme.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Los diferentes oradores deben ser consistentes y adherirse al plan
+acordado (posiblemente siguiendo un guion).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;El mensaje debe reiterarse en las comunicaciones de seguimiento, ya
+sea en reuniones, en la calle o a través de cualquier medio adecuado.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los objetivos de la Fase 3 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Establecer una buena relación con las familias y amigos de los
+individuos de alto riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Invitar a delincuentes de alto riesgo a la reunión de notificación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Realizar la reunión de notificación&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fase-4-cumplimiento-y-prestación-de-servicios&#34;&gt;Fase 4: cumplimiento y prestación de servicios&lt;/h3&gt;
+&lt;p&gt;El segundo elemento más importante de una iniciativa de disuasión
+focalizada es hacer un seguimiento de los compromisos adquiridos en la
+fase de notificación. Esto significa que las acciones coercitivas
+coordinadas contra los delincuentes seleccionados que persistan en su
+comportamiento criminal deben implementarse rápidamente. Además, se debe
+asegurar que los servicios prometidos a aquellos que desistan de su
+comportamiento criminal se pongan a su disposición inmediatamente.&lt;/p&gt;
+&lt;p&gt;Las acciones de cumplimiento pueden incluir:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Monitoreo previo al arresto&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Arresto&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Procesamiento judicial&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentencia y monitoreo intensivo posterior a la liberación&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interrupción de las condiciones en las que los delincuentes cometen
+delitos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Incautaciones de activos y bienes ilícitos&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;La prestación del servicio debe estar supeditada a que los delincuentes
+desistan de su comportamiento criminal, y también debe adaptarse a las
+necesidades del individuo. La asistencia bien intencionada que no sea
+relevante para el individuo no será particularmente efectiva. Esto puede
+requerir muchos recursos. Se recomienda tener trabajadores sociales
+específicos para cada caso.&lt;/p&gt;
+&lt;p&gt;Entre los servicios sociales que pueden ser relevantes están:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Capacitación y entrevistas de trabajo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Empleo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tratamiento de adicciones&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tratamiento de salud mental&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Asistencia familiar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transporte&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Alojamiento&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Asistencia educativa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrenamiento de habilidades para la vida&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Control de la ira&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mentoría de pares no criminales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Apoyo espiritual.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si bien la disuasión focalizada tiene como objetivo hacer un uso más
+estratégico de los mecanismos formales de control social para disuadir
+el comportamiento delictivo de un grupo selecto de individuos de alto
+riesgo, las intervenciones más efectivas también movilizan mecanismos
+informales de control social (como el que se ejerce a través de la
+familia, los amigos y la comunidad), para disuadir a los delincuentes.&lt;/p&gt;
+&lt;p&gt;Si el entorno social donde viven los individuos de alto riesgo
+promueve el comportamiento antisocial y criminal, es probable que el
+efecto disuasorio de las instituciones formales de control social (por
+ejemplo, la policía, los tribunales, el gobierno, etc.) se debilite. Por
+lo tanto, es importante que las iniciativas de disuasión focalizada se
+involucren a los controladores sociales informales y les den una buena
+razón para ponerse del lado de la intervención. Esto puede ser
+particularmente difícil en comunidades donde las relaciones con la
+policía son complicadas.&lt;/p&gt;
+&lt;p&gt;Por último, para problemas criminales relacionados a grupos delictivos (por ejemplo, violencia de pandillas), las iniciativas de disuasión focalizada pueden
+aprovechar la presión grupal para disuadir a los
+delincuentes. Esto se logra prometiendo (y realizando) acciones de
+cumplimiento concentradas en todos los miembros del grupo si uno de sus
+miembros persiste en ofender. Esto hace que todo el grupo sea vulnerable
+a las acciones de un individuo, y es un buen ejemplo del uso del control
+social formal para aprovechar los mecanismos informales de control
+social.&lt;/p&gt;
+&lt;p&gt;En resumen, los objetivos de la Fase 4 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Llevar a cabo la ejecución y el enjuiciamiento de los delincuentes
+de alto riesgo que se niegan a desistir de participar en actividades
+criminales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Proporcionar servicios a delincuentes de alto riesgo que desistan de
+sus actividades criminales y soliciten asistencia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fase-5---comunicación-de-seguimiento&#34;&gt;Fase 5 - Comunicación de Seguimiento&lt;/h3&gt;
+&lt;p&gt;Para fortalecer el efecto disuasorio de la intervención, es importante
+hacer un seguimiento de la notificación inicial con mensajes que
+detallen las acciones impuestas (por ejemplo, arrestos, juicios, sentencias) a las personas que persistieron en su comportamiento criminal. Esto ayudará a
+reforzar el mensaje inicial, subrayando la certeza, la rapidez y la
+severidad del castigo que aguardan a quienes no hagan caso de las
+advertencias.&lt;/p&gt;
+&lt;p&gt;También es importante comunicar los servicios que se han prestado a los individuos de alto riesgo que han desistido del delito. Esto ayudará a
+convencer a otros de que estarán mejor abandonando el estilo de vida criminal.&lt;/p&gt;
+&lt;p&gt;Por último, también debe mantenerse informadas a los socios y miembros de
+la comunidad involucrados en el programa sobre los éxitos y fracasos de
+la intervención, para mantenerlos involucrados en el esfuerzo.&lt;/p&gt;
+&lt;p&gt;Los objetivos de la Fase 5 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Informar a los delincuentes de alto riesgo y sus asociados
+criminales de las consecuencias (positivas o negativas) que se
+derivaron del cumplimiento o incumplimiento, y los comportamientos específicos que los desataron.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mantener a las partes informadas sobre las medidas tomadas para
+penalizar o ayudar a los delincuentes de alto riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informar al público en general sobre los principios de disuasión
+focalizada, y las principales acciones y resultados.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;fase-6--evaluación&#34;&gt;Fase 6 – Evaluación&lt;/h3&gt;
+&lt;p&gt;Un tiempo después de que se haya implementado la intervención, se
+deberán realizar dos tipos de evaluaciones. La primera es una
+evaluación del proceso que detalla cómo se implementó la intervención
+(por ejemplo, cómo se seleccionaron y notificaron a los individuos, el
+contenido de las notificaciones, las acciones implementadas, etc.). La
+segunda es una evaluación de impacto para evaluar la efectividad de la
+intervención respecto a los objetivos planteados, así como evaluar si fue justa y rentable.&lt;/p&gt;
+&lt;p&gt;Para evaluar la efectividad, los indicadores deben medirse antes y
+después de la intervención. Algunos indicadores relevantes que podrían
+medirse son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Cambio en el número de delitos que fueron el motivaron la intervención
+(por ejemplo, delitos violentos, delitos relacionados con pandillas,
+etc.).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cambio en el número de delitos (relevantes a la intervención) cometidos por
+delincuentes de alto riesgo que recibieron la intervención.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cambio en el número de delitos (de otro tipo) por parte
+de delincuentes de alto riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cambios en las percepciones de la comunidad sobre el miedo al
+crimen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Evaluaciones previas sugieren que los efectos de las iniciativas de disuasión
+focalizada tienden ser de gran magnitud y a observarse rápidamente cuando se trata de delincuentes violentos. Cuando se trata de delincuentes no-violentos, los efectos tienden a ser de menor magnitud y a notarse más lentamente.&lt;/p&gt;
+&lt;p&gt;Evaluar adecuadamente las intervenciones de disuasión focalizada
+requiere conocimientos y habilidades especializadas, por lo que tiene
+sentido asociarse con investigadores con experiencia en evaluaciones
+cuantitativas para la prevención del delito.&lt;/p&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada requieren muchos recursos,
+debido a la cantidad de agencias, socios y servicios sociales
+involucrados. Por lo tanto, es importante evaluar si la intervención fue
+rentable. Esencialmente, esto implica comparar la cantidad de recursos
+utilizados para la intervención con los ahorros monetarios asociados con
+sus efectos (por ejemplo, delitos prevenidos, recursos no gastados en
+encarcelamiento, etc.)&lt;/p&gt;
+&lt;p&gt;Los objetivos de la Fase 6 son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Determinar si la intervención se está implementando según lo
+previsto&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinar si la intervención está teniendo el impacto deseado de
+reducir los delitos específicos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Determinar si la intervención se percibe como justa y si es rentable&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;administrar-y-liderar-una-iniciativa-de-disuasión-focalizada&#34;&gt;Administrar y Liderar una Iniciativa de Disuasión Focalizada&lt;/h2&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada pueden ser difíciles de
+administrar porque involucran la colaboración de múltiples
+organizaciones, cada una con diferentes misiones, mandatos y
+requisitos organizacionales. Tales colaboraciones son particularmente
+difíciles de mantener a largo plazo.&lt;/p&gt;
+&lt;p&gt;Las siguientes recomendaciones pueden ayudar a los administradores y
+líderes a mantener iniciativas de disuasión focalizada por más tiempo.&lt;/p&gt;
+&lt;h3 id=&#34;protocolo&#34;&gt;Protocolo&lt;/h3&gt;
+&lt;p&gt;Los socios principales deben acordar un protocolo formal para
+la intervención que contenga:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Una definición acordada sobre problema que la intervención pretende
+abordar y los objetivos de la colaboración.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Qué información se compartirá con quién y cómo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cuándo y dónde se llevarán a cabo las reuniones.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quién asumirá el liderazgo y la carga administrativa de la
+colaboración.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cómo contribuirá cada socio a la colaboración.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;estructura-organizacional&#34;&gt;Estructura organizacional&lt;/h3&gt;
+&lt;p&gt;Ejecutar una intervención de disuasión enfocada necesita una estructura organizacional. Se recomiendan tres grupos de gestión:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Un grupo de altos funcionarios para establecer políticas generales y asegurar recursos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Un grupo de supervisores de nivel intermedio para dar seguimiento diario, revisar los resultados del análisis, seleccionar delincuentes de alto riesgo y asegurar que los socios cumplan con sus responsabilidades.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Un grupo de nivel operativo para implementar las respuestas específicas.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;duración-de-la-intervención&#34;&gt;Duración de la intervención&lt;/h3&gt;
+&lt;p&gt;Las organizaciones que participan en la intervención deben decidir
+si la iniciativa pretende ser una intervención de corto plazo (por
+ejemplo, un grupo de trabajo) o si tienen la intención de hacerla
+permanente (por ejemplo, institucionalizar su gestión).&lt;/p&gt;
+&lt;h3 id=&#34;enfoque-especializado-o-generalista&#34;&gt;Enfoque especializado o generalista&lt;/h3&gt;
+&lt;p&gt;Dependiendo de los recursos disponibles, los socios también tienen que decidir si un enfoque especializado o generalista es mejor. En un enfoque especializado, es cuando un pequeño grupo de personas se dedica por completo a la
+iniciativa. Un enfoque generalista es cuando la implementación de la iniciativa es realizada por todo el personal, que también debe dedicar parte de su tiempo a sus tareas habituales.&lt;/p&gt;
+&lt;h3 id=&#34;liderazgo-sólido&#34;&gt;Liderazgo sólido&lt;/h3&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada requieren un
+liderazgo sólido. El liderazgo de las iniciativas de disuasión
+focalizada generalmente recae en la policía. Sin embargo, la policía
+debe tener cuidado de no tomar demasiado control, ya que todos los
+socios son dueños del proyecto. Tener una estructura de gestión clara
+puede ayudar a la iniciativa a soportar cambios, como las transiciones
+de liderazgo y la rotación del personal.&lt;/p&gt;
+&lt;h2 id=&#34;la-aplicación-de-disuasión-focalizada-a-problemas-delictivos-específicos&#34;&gt;La Aplicación de Disuasión Focalizada a Problemas Delictivos Específicos&lt;/h2&gt;
+&lt;p&gt;Las iniciativas de disuasión focalizada están destinadas esencialmente
+a reducir los incidentes delictivos cometidos por delincuentes
+prolíficos. Debido a que los delincuentes prolíficos tienden a cometer
+muchos tipos diferentes de delitos, las intervenciones podrían
+reducir varios tipos de delitos, además de los delitos que
+motivaron la intervención.&lt;/p&gt;
+&lt;p&gt;Algunas intervenciones se concentran en delincuentes que viven y operan
+en vecindarios específicos, por ejemplo, involucrados en pandillas o
+mercados locales de drogas. Por lo tanto, estas intervenciones combinan
+un enfoque en delincuentes de alto riesgo con intervenciones basadas en
+el lugar (como el &lt;a href=&#34;/que-funciona/policiamiento-puntos-calientes/&#34;&gt;policiamiento de puntos calientes&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;No obstante, también es posible implementar iniciativas de disuasión
+focalizada para abordar los problemas de delincuencia y seguridad en
+los que los delincuentes no están agrupados geográficamente, como
+el abuso sexual, conductores en estado de ebriedad y la violencia
+doméstica. Sin embargo, el abordar estos problemas, puede significar que
+una reducción en la delincuencia general sea menos probable.&lt;/p&gt;
+&lt;p&gt;La mayoría de las iniciativas de disuasión focalizada han sido
+dirigidas a reducir la violencia de las pandillas juveniles, incluidas
+las pandillas pequeñas y desorganizadas, así como los grupos grandes y
+organizados. También se han ideado intervenciones para hacer frente a
+los mercados locales de drogas. Abordar estos tipos de delitos
+generalmente requiere una comprensión firme de las redes de personas que
+conforman estos mercados.&lt;/p&gt;
+&lt;p&gt;La disuasión focalizada también se ha utilizado para combatir la
+violencia doméstica. La intervención generalmente implica un enfoque
+escalonado para tratar con delincuentes de violencia doméstica: los
+delincuentes más graves son objeto de enjuiciamiento inmediato; los
+siguientes delincuentes más serios son seleccionados para notificación y
+monitoreo; y, los siguientes son informados de posibles monitoreos
+futuros.&lt;/p&gt;
+&lt;p&gt;También se han propuesto enfoques de disuasión focalizada para hacer
+frente a delitos organizados, tales como el tráfico ilegal transnacional y el terrorismo. Sin embargo, hasta la fecha parecen no han habido casos de éxito del uso de la disuasión focalizada.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 13,
+originalmente elaborada por
+Michael S Scott,
+de la serie de guías de
+Respuestas Específicas
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/focused-deterrence-high-risk-offenders&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;referencias&#34;&gt;Referencias&lt;/h2&gt;
+&lt;p&gt;Braga, A.A., Weisburd D. and Turchan, B. (2019). Focused deterrence
+strategies effects on crime: A systematic review. Campbell Systematic
+Reviews, Campbell Collaboration. &lt;a href=&#34;https://doi.org/10.1002/cl2.1051&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/cl2.1051&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Martinez, N. N., Lee, Y. J., Eck, J. E., &amp;amp; SooHyun, O. (2017). Ravenous
+wolves revisited: A systematic review of offending concentration. &lt;em&gt;Crime
+Science&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 703. &lt;a href=&#34;https://doi.org/10.1186/s40163-017-0072-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s40163-017-0072-2&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Traspasando y Compartiendo la Responsabilidad de los Problemas de Seguridad Pública</title>
+      <link>/problemas-y-soluciones/compartiendo-responsabilidad/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/compartiendo-responsabilidad/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;El público hace un llamado a la policía para que responda a una amplia
+gama de problemas y que realice una diversidad extraordinaria de tareas,
+y al mismo tiempo asume que la policía tiene la experiencia y los
+recursos para hacerlo. Muchos de estos problemas y tareas recaen en la
+policía a través del incumplimiento de otros: desde brechas en los
+servicios gubernamentales hasta el abandono de responsabilidades por
+parte de ciudadanos, compañáis y otras organizaciones. Esto siempre
+ha sido una preocupación. En los últimos años, a través de un enfoque
+más metódico de la policía, se está presionando por una distribución
+más racional de responsabilidades basada en una examinación detallada
+de las diferentes facetas del trabajo policial.&lt;/p&gt;
+&lt;p&gt;Esta guía detalla como la policía puede persuadir u obligar a otros actores a hacerse cargo de problemas delictivos o de desorden público.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Los problemas de seguridad pública son comúnmente abordados a través de
+una combinación de respuestas; rara vez es suficiente sólo un tipo de
+respuesta. Por supuesto, muchos de los problemas de seguridad pública
+son adecuadamente abordados por la policía en el ejercicio de su
+autoridad y experiencia normales. Sin embargo, y cada vez más, la
+policía y otras instituciones están descubriendo que no sólo ellos
+tienen la autoridad y experiencia para responder a muchos de los
+problemas de seguridad pública. En consecuencia, la policía ha llegado a
+depender en gran medida de otros para ayudarlos a responder de manera
+efectiva al delito. Cada vez hay más evidencia de que al abordar las
+condiciones subyacentes de los problemas delictivos, en vez de
+limitarse a sólo detener a los delincuentes, la policía puede prevenir y
+controlar estos problemas de manera más efectiva.&lt;/p&gt;
+&lt;p&gt;También existe evidencia creciente&amp;mdash;de la cual gran parte se encuentra
+en la literatura sobre prevención situacional del delito&amp;mdash;que demuestra
+cómo los problemas de seguridad pública pueden ser prevenidos, reducidos
+y controlados con poco o ningún involucramiento policial, un proceso por
+el cual indudablemente la policía se beneficia.&lt;/p&gt;
+&lt;p&gt;Una vez identificado el problema y la estrategia para solucionarlo, es
+importante determinar cuál de las diversas partes interesadas está mejor
+posicionada para implementar y aplicar la solución propuesta.
+Dependiendo de la situación, la policía, los ciudadanos, el sector
+privado o el gobierno pueden tener alguna responsabilidad para abordar
+el problema. En algunos casos, está claro que la policía son la mejor
+opción. Por ejemplo, cuando se necesita una investigación criminal y
+detenciones de individuos, la policía suele ser la responsable, ya que
+la mayoría de las otras entidades no cuentan con la autoridad o
+experiencia para realizar esas tareas. En otros casos, aunque la
+respuesta es clara, podría haber un número de actores viables capaces de
+aceptar la responsabilidad de llevar a cabo la respuesta a buen término.
+Por ejemplo, cuando se requiere educar, advertir o asesorar a la
+ciudadanía no queda claro si la policía u otra
+entidad debería hacerse responsable de desarrollar y transmitir el
+mensaje.&lt;/p&gt;
+&lt;p&gt;Existen unas pocas reglas claras que dictan quién es el principal
+responsable para abordar un problema específico de seguridad pública.
+Por ejemplo, las reglas que dictan quién es responsable de prevenir y
+controlar el robo minorista. ¿Es la policía? ¿Son las tiendas? ¿El
+consumidor? ¿La aseguradora? La dificultad surge porque cada problema
+proviene de una variedad de fuentes, en las cuales recae parte de la responsabilidad de resolverlo. Mucho depende
+de quién posee las habilidades, el conocimiento, la autoridad y los
+recursos para implementar cambios que pueden reducir o controlar el
+problema de manera efectiva. Sin embargo, mucho también depende en quién
+posea el poder político para evitar aceptar la responsabilidad&amp;mdash;delegando a otros, incluida la policía, la responsabilidad de abordar el
+problema.&lt;/p&gt;
+&lt;p&gt;Esta guía se enfoca en los problemas que la policía acepta como parte de
+su mandato y que se sienten obligados a abordar&amp;mdash;incluso
+cuando aceptar parte de la responsabilidad frente a un
+problema no implica aceptar que la policía debería ser la única responsable por resolverlo.&lt;/p&gt;
+&lt;p&gt;Aunque algunas personas no van a cuestionar la base sobre la cual la
+policía solicita a otros que asuman la responsabilidad de abordar un
+problema, la solidez de tales solicitudes puede fortalecerse
+si la policía puede explicar convincentemente los fundamentos de la
+solicitud, incluyendo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cómo el cumplimiento de la solicitud abordará el problema;&lt;/li&gt;
+&lt;li&gt;La base del conocimiento policial respecto a la efectividad de la
+respuesta propuesta;&lt;/li&gt;
+&lt;li&gt;Qué medidas ha tomado la policía para resolver el problema;&lt;/li&gt;
+&lt;li&gt;Las limitaciones de esas medidas; y,&lt;/li&gt;
+&lt;li&gt;Los beneficios para todas las partes interesadas si las nuevas
+prácticas se adoptan de forma voluntaria.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cada vez más, la policía busca traspasar y compartir la responsabilidad
+de abordar los problemas de seguridad pública, en gran parte debido a
+varias tendencias dentro y fuera de la profesión policial, que incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Un mayor énfasis policial en la prevención y proactividad.&lt;/li&gt;
+&lt;li&gt;Mayor énfasis y capacidades para realizar análisis detallados de
+cargas de trabajo policial.&lt;/li&gt;
+&lt;li&gt;El reconocimiento de que incidentes a menudo se dan en concentraciones específicas (lugares comunes, delincuentes, víctimas y
+horas) que, si se gestionan con eficacia, pueden reducir en gran
+medida la magnitud del problema.&lt;/li&gt;
+&lt;li&gt;Un mayor énfasis en la eficiencia, especialmente en tiempos de
+presupuestos ajustados y mayor conciencia fiscal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Determinar y asignar la responsabilidad de abordar problemas de seguridad
+pública será cada vez más importante a medida que mejore la compresión
+general de las causas de los problemas y la mejor manera de resolverlos.
+Hasta que se realicen mejores arreglos con las comunidades locales y con
+la sociedad en general para determinar y asignar tales
+responsabilidades, seguirá siendo responsabilidad de la policía analizar
+estos problemas y tomar la iniciativa para asignar las funciones para
+abordarlos.&lt;/p&gt;
+&lt;p&gt;La policía orientada a problemas depende en gran medida
+de colaboraciones sólidas y de confianza mutua entre la policía y otras
+entidades, colaboraciones en las que cada parte asume una justa su parte
+de responsabilidad. El objetivo principal de la policía
+orientada a problemas es adoptar respuestas a los problemas de la
+comunidad que sean más equitativas y efectivas que las respuestas
+actuales. La policía no debe comenzar simplemente a desprenderse de la
+responsabilidad de diversas tareas. Sólo después de una cuidadosa
+exploración y análisis que la policía debería concluir que alguien más
+debería estar haciendo algo diferente para controlar mejor un problema delictivo en particular.&lt;/p&gt;
+&lt;h2 id=&#34;métodos-para-traspasar-y-compartir-la-responsabilidad-de-lo-problemas-de-seguridad-pública&#34;&gt;Métodos para Traspasar y Compartir la Responsabilidad de lo Problemas de Seguridad Pública&lt;/h2&gt;
+&lt;p&gt;La policía puede aplicar una variedad de métodos para lograr que otros
+asuman una mayor responsabilidad sobre estos problemas. La lista de
+métodos que se presenta a continuación no pretende ser exhaustiva o definitiva, sino más bien ilustrativa. Una forma en que los métodos difieren es el grado
+de coerción que la policía aplica para lograr su objetivo. La lista
+comienza con métodos que son generalmente menos coercitivos y continúa
+con aquellos generalmente más coercitivos, aunque el grado de coerción
+puede depender del contexto específico y no necesariamente de la
+naturaleza del método aplicado.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h3 id=&#34;métodos-para-convencer-a-otros-de-aceptar-la-responsabilidad-de-problemas-de-seguridad-pública&#34;&gt;Métodos para convencer a otros de aceptar la responsabilidad de problemas de seguridad pública&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Educar a otros respecto a sus responsabilidades sobre el problema&lt;/li&gt;
+&lt;li&gt;Hacer una solicitud informal directa de alguna entidad para asumir
+la responsabilidad del problema.&lt;/li&gt;
+&lt;li&gt;Hacer una solicitud confrontacional dirigida a alguna entidad para
+asumir la responsabilidad del problema.&lt;/li&gt;
+&lt;li&gt;Involucrar a otra organización existente que tenga la capacidad para
+ayudar a abordar el problema.&lt;/li&gt;
+&lt;li&gt;Presionar para la creación de una nueva organización para que asuma
+la responsabilidad del problema.&lt;/li&gt;
+&lt;li&gt;Avergonzar a la entidad en falta llamando la atención públicamente sobre
+su falta de responsabilidad por el problema.&lt;/li&gt;
+&lt;li&gt;Retirar los servicios policiales relacionados con ciertos aspectos
+del problema.&lt;/li&gt;
+&lt;li&gt;Presionar por una legislación que obligue a las entidades a tomar
+medidas para prevenir el problema.&lt;/li&gt;
+&lt;li&gt;Llevar a cabo una acción civil o demanda para obligar a las
+entidades a aceptar responsabilidad por el problema.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;En muchos casos, pueden tener sentido emplear primero los métodos que
+son relativamente no coercitivos y pasar a métodos más coercitivos sólo
+si los primeros no logran la cooperación deseada.&lt;/p&gt;
+&lt;p&gt;En su forma definitiva, el esfuerzo policial para traspasar la
+responsabilidad por problemas de seguridad pública implica ayudar a
+otros a desarrollar la capacidad de identificar y rectificar problemas
+sin una mayor intervención policial. A falta de un cambio completo en la
+responsabilidad, en la mayoría de los casos la policía busca trasladar o
+compartir parte de ella con respecto a un problema específico, limitado
+en el tiempo y el espacio.&lt;/p&gt;
+&lt;p&gt;En muchos casos, la policía y otros emplean una variedad de métodos para
+abordar un problema, lo que complica los esfuerzos para comprender con
+precisión el efecto que cada método ha tenido sobre éste. Los métodos
+utilizados no son mutuamente excluyentes.&lt;/p&gt;
+&lt;p&gt;Es importante mencionar dos aspectos importantes que deben ser considerados. Primero, muchos de los ejemplos citados a continuación provienen de informes preparados por agencias policiales. Aunque tales informes han sido ampliamente aceptados y considerados creíbles, pocas de estas iniciativas se han beneficiado de una evaluación rigurosa e independiente; en consecuencia, las conclusiones extraídas no deberían considerarse absolutas. Segundo, algunos métodos que la policía pudiera proponer para persuadir a otros asumir mayores responsabilidades podrían enfrentar desafíos legales. La policía debería hacer uso completo de sus consejeros legales cuando tales desafíos sean probables. Sin embargo, sería aconsejable que los asesores legales no desechen todas las iniciativas que puedan enfrentar tal desafío. El análisis legal adecuado en un contexto orientado a problemas puede, en su conjunto, concluir que el grado de coerción inherente a la nueva alternativa sea menos intrusivo y más refinado que la práctica actual. Por ejemplo, una orden legal que controla la solicitud de prostitución podría ser preferible&amp;mdash;tanto en su condición de justa y en su efectividad&amp;mdash;que el uso excesivo continuo de detenciones y procesamientos indiscriminados.&lt;/p&gt;
+&lt;h3 id=&#34;educar-a-las-víctimas-y-a-los-delincuentes&#34;&gt;Educar a las Víctimas y a los Delincuentes&lt;/h3&gt;
+&lt;p&gt;La policía ha estado involucrada durante mucho tiempo en transmitir sistemáticamente información al público sobre cómo prevenir el delito. Esto se hace mediante presentaciones, folletos y una variedad de otros programas. Algunos de estos esfuerzos están dirigidos al público general; otros están dirigidos a grupos específicos. Los mensajes educacionales y los programas están dirigidos hacia víctimas potenciales, instruyéndoles cómo evitar la victimización, o hacia potenciales delincuentes, instruyéndoles sobre cómo evitar delinquir. Sin embargo, es esencial para todos estos esfuerzos el hecho de que aquellos a quienes se dirige el mensaje estén en condiciones de tomar medidas que los protegerán de la victimización o a evitar cometer delitos. Dichos materiales y presentaciones educacionales son generalmente discretos; uno puede tomar el consejo o ignorarlo. Los mensajes educativos a potenciales delincuentes toman un tono de ayuda en lugar de uno de advertencia: están dirigidas a personas que tienen a obedecer la ley, pero que pueden delinquir por ignorancia o descuido.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Un análisis de la policía de San Diego, California, encontró que un
+alto porcentaje de los casos de agresión sexual eran violaciones por
+personas conocidas entre sí que involucraron a adolescentes. Al
+examinar y analizar los archivos de casos relevantes, la unidad de
+delitos sexuales identificó patrones de conducta que condujeron a
+tales agresiones, y luego elaboró un plan curricular escolar
+diseñado para informar a los estudiantes sobre la reducción del
+riesgo de victimización. La iniciativa produjo folleto&amp;mdash;diferentes
+para hombres y mujeres&amp;mdash;que buscaban informar a los estudiantes,
+usando lenguaje y escenarios que les resultaran familiares, sobre lo
+que constituye una violación por alguien conocido, cómo las mujeres
+pueden evitar ser víctimas y como los hombres pueden evitar cometer una violación.&lt;/li&gt;
+&lt;li&gt;Preocupada por el problema del consumo de alcohol entre menores, la
+policía de Plano, Texas, desarrolló una presentación para los
+propietarios y gerentes de tiendas con licencia para vender bebidas
+alcohólicas describiendo las medidas que podrían tomarse para ayudar
+a los empleados de las tiendas a cumplir con las leyes que prohíban
+la venta de alcohol a menores. Aunque las advertencias severas y la
+aplicación de la ley fueron los componentes esenciales de la
+iniciativa, la policía encontró que algunos empleados estaban
+confundidos respecto a la ley y sobre cómo detectar intentos
+irregulares de comprar alcohol. En consecuencia, los programas
+informativos fueron más que una forma de emitir una advertencia
+cortés; de hecho, ayudaron a las personas que se inclinaban a
+cumplir con la ley a efectivamente hacerlo.&lt;/li&gt;
+&lt;li&gt;Para abordar el problema de los niños que son atropellados por
+automóviles, la policía en Hamilton-Wentworth, Ontario, encabezó
+una iniciativa para desarrollar material educativo y programas
+diseñados para enseñar a los niños a cómo cruzar la calle de manera
+segura. Estos elementos estaban basados en un cuidadoso
+entendimiento de cómo los niños pequeños aprenden mejor, cómo
+aplican nuevas reglas y habilidades, y su creación fue asesorada por
+ingenieros de tránsito, educadores, profesionales del cuidado
+infantil, padres y funcionarios de salud pública.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;hacer-una-solicitud-informal-directa&#34;&gt;Hacer una Solicitud Informal Directa&lt;/h3&gt;
+&lt;p&gt;El uso de solicitudes directas es un primer paso natural que la policía
+da cuando busca que individuos u organizaciones específicas se
+responsabilicen de atender un problema delictivo. Naturalmente, una
+respuesta positiva a la solicitud inicial evita la necesidad de
+cualquier aumento de presión.&lt;/p&gt;
+&lt;p&gt;Aquí, la policía no está simplemente transmitiendo consejos preparados
+sobre prevención a una gran audiencia. Por el contrario, se centran en
+solicitar a la ciudadanía que resuelvan un problema inmediato mediante
+una acción de remediación específica. Aunque el hecho de que la policía
+esté levantando la solicitud podría implicar que habrá consecuencias. Si
+estas se ignoran, a menudo ocurre que la policía meramente está
+informando a un ciudadano de algo de lo que no estaba al tanto, y el
+ciudadano cumple la solicitud con gratitud y cortesía.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La policía en Chula Vista, California, concluyó que las nuevas
+viviendas sociales eran vulnerables al robo simplemente porque
+muchas de las casas no estaban diseñadas para protegerse contra
+éste. Basada en su análisis del problema, la policía desarrolló una
+serie de recomendaciones sobre cómo se podrían diseñar y construir
+nuevas viviendas para disuadir el robo, e hizo una completa
+presentación de sus hallazgos a ejecutivos de las mayores empresas
+de desarrollo inmobiliario en el área. Finalmente, los
+desarrolladores firmaron un memorando de entendimiento mediante el
+cual acordaron instalar las cerraduras y ventanas recomendadas en
+todas las casas nuevas y así ayudar a la policía con medidas de
+prevención de robo.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;hacer-una-solicitud-confrontacional-dirigida&#34;&gt;Hacer una Solicitud Confrontacional Dirigida&lt;/h3&gt;
+&lt;p&gt;Uno de los resultados más claros de los cambios recientes en las
+policías es la creciente tendencia de las agencias policiales a
+confrontar agresivamente a aquellos responsables de un gran volumen de
+incidentes que la policía debe manejar. La policía suele recurrir a este
+modo más confrontacional cuando las solicitudes directas son ignoradas.&lt;/p&gt;
+&lt;p&gt;Por lo general, la policía documenta cómo un problema es causado y agravado por la acción (o la falta de acción) de otros. La evidencia
+resultante se presenta a la parte infractora, junto con una solicitud
+para que se tomen las medidas preventivas. Lo que se busca es que,
+cuando se vean confrontados con dicha documentación, la parte se sienta
+obligada a asumir la responsabilidad de tomar las medidas preventivas
+necesarias.&lt;/p&gt;
+&lt;p&gt;Los esfuerzos de un trabajo policial comunitario, que ponen mucho
+énfasis en cultivar relaciones con ciudadanos afectados por problemas,
+también contribuyen a un aumento de las solicitudes confrontacionales.
+Ya sea enfrentándose a un fumadero de drogas ilegales, un bar problemático o
+una riña en el parque, la policía puede sentirse empoderada para actuar
+de manera más confrontacional en virtud del apoyo que recibe de los
+ciudadanos agraviados.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La policía en Peel, Ontario, identificó establecimientos con una
+alta incidencia de servir alcohol a personas posteriormente
+detenidas por conducción en estado de ebriedad, y reenvió la
+información a la junta local expendedora de licencias de venta de
+alcohol. Armados con estos datos, los funcionarios de licencias
+confrontaron a los dueños de los establecimientos problemáticos, les
+aconsejaron tomar medidas preventivas, y ofrecieron asesoramiento
+detallado y capacitación para la gerencia y el personal respecto a
+cómo cumplir con sus obligaciones legales. Estas solicitudes
+confrontacionales fueron hechas antes del inicio de cualquier
+investigación formal con el fin de permitir que los propietarios
+cumplan voluntariamente con la ley.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;involucrar-a-otra-organización-existente&#34;&gt;Involucrar a otra organización existente&lt;/h3&gt;
+&lt;p&gt;Gran parte del trabajo policial consiste en manejar problemas y casos
+que se escapan de la red de seguridad social o que no pueden ser atendidos por otras agencias debido a recursos limitados:
+personas con condiciones psiquiátricas que no son atendidas adecuadamente
+por la comunidad; personas con adicciones que no reciben servicios de tratamiento
+apropiados; parques, parques infantiles y viviendas sociales sin mantenimiento adecuado; autos y casas abandonadas, etc. En tales casos, la policía a
+veces intenta traspasar la responsabilidad de prevención del delito a
+otra agencia gubernamental u organización no-gubernamental que brinde
+servicios relevantes en la comunidad.&lt;/p&gt;
+&lt;p&gt;La investigación en profundidad del tipo requerido en la el trabajo
+policial orientado a problemas a menudo identifica un incumplimiento o
+brecha en los servicios que, de ser corregida, reduciría o eliminaría un
+problema. Aunque una situación o circunstancia particular puede
+caracterizarse como un delito o un problema policial, la investigación
+en profundidad a menudo redefine el problema e identifica de manera más
+clara las condiciones que contribuyen a éste. Por lo tanto, un problema
+inicialmente denunciado como adolescentes ruidosos y amenazantes
+puede, después de un análisis más detallado,
+resultar ser un caso de relaciones conflictivas entre ciudadanos de la
+tercera edad y adolescentes provocado por las políticas de una escuela
+en el vecindario. Involucrar a las autoridades escolares en la
+exploración de estrategias preventivas puede resultar en que asuman la
+responsabilidad del problema.&lt;/p&gt;
+&lt;p&gt;Intercambiar estrategias preventivas a otra agencia puede crear tensión
+si es que la agencia percibe a la iniciativa policial como un intento de
+dictar las estrategias de la agencia o descargar en ella trabajo que no
+le corresponde. Esto es particularmente cierto durante periodos de
+ajustes en el gobierno donde los presupuestos pueden ser limitados. Es
+posible que otras agencias no estén posicionadas para proveer el tipo o
+nivel de servicio recomendado por la policía, y podrían necesitar
+recursos adicionales para satisfacer estas nuevas demandas de servicio.&lt;/p&gt;
+&lt;p&gt;Es igualmente importante que la policía establezca una atmósfera de
+confianza y entendimiento mutuo entre ellos y las agencia con intereses
+comunes; la aplicación de medidas más coercitivas para traspasar la
+responsabilidad sólo se justifica cuando la confianza y el entendimiento
+mutuo se han roto. De hecho, algunas personas y organizaciones pueden
+ver tales solicitudes como útiles en lugar de coercitivas. En algunos
+casos, la documentación policial de un problema ha sido utilizada por
+autoridades locales y organizaciones gubernamentales para justificar
+programas que han defendido durante mucho tiempo. En otros casos, grupos
+privados han utilizado la documentación policial para justificar
+expansiones en sus programas y presupuestos de apoyo.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Basándose en un cuidadoso análisis de datos, la policía de
+Blackpool, Inglaterra, persuadió a otras autoridades de que los
+delincuentes prolíficos con problemas de drogadicción debían recibir un tratamiento
+intensivo y otros servicios sociales inmediatamente después de ser
+liberados. Esto iba en contra de las prácticas convencionales, en
+las que muchos delincuentes recién liberados se veían obligados a
+esperar largos periodos de tiempo para recibir tratamiento para sus
+adicciones, lo que provocaba que la mayoría volviera a consumir drogas y
+delinquir. La policía involucró a supervisores de libertad
+condicional, fiscales, trabajadores sociales y proveedores de
+tratamiento de adicciones para garantizar que los delincuentes que
+calificaban y que estuvieran dispuestos a aceptar estos servicios
+los recibieran de manera oportuna y confiable. Una evaluación de un
+año de duración indicó que la iniciativa arrojó una reducción de un
+30% en el crimen denunciado en el área objetivo, no hubo evidencia
+de desplazamiento geográfico, y evidenció que la mayoría de los
+delincuentes que participaron en el programa habían delinquido menos
+mientras recibían tratamiento que en un periodo comparable antes del
+tratamiento.&lt;/li&gt;
+&lt;li&gt;La policía en Fremont, California, logró persuadir al programa local
+de asistencia a víctimas de violencia doméstica para que aceptara
+referencias directas de oficiales de policía. La policía demostró
+mediante análisis que había una necesidad crucial para darle
+servicios de alta prioridad a víctimas reiteradas de violencia
+doméstica. Anteriormente, las propias víctimas tenían que buscar
+tales servicios. Una evaluación de la intervención indicó una
+reducción demostrable en las llamadas repetidas a servicios
+policiales por parte de víctimas de violencia doméstica. En esta
+instancia, si bien la policía asumió una mayor responsabilidad para
+tratar con víctimas y agresores de violencia doméstica crónica, su
+relación de trabajo más cercana con otros proveedores de servicios
+les permitió concentrar recursos policiales y de servicios sociales
+limitados en los individuos más problemáticos.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;presionar-para-la-creación-de-una-nueva-organización&#34;&gt;Presionar para la creación de una nueva organización&lt;/h3&gt;
+&lt;p&gt;La policía no siempre está en condiciones de implementar medidas que
+aborden mejor un problema específico, y puede que no haya otra entidad
+apropiada para hacerlo. Entonces, la policía podría encontrarse abogando
+por la creación de una nueva organización con el mandato y los recursos
+para abordar el problema de manera efectiva.&lt;/p&gt;
+&lt;p&gt;Con el aumento de los esfuerzos para organizar vecindarios,
+especialmente en grandes áreas urbanas, con frecuencia no es necesario
+que la policía sea el catalizador principal de dichos esfuerzos; en
+cambio, la policía a menudo asume un papel de apoyo. También hay
+situaciones en donde una organización comunitaria crece orgánicamente
+debido a la preocupación por un problema dado, con el apoyo de la
+policía. Sin embargo, a medida que las organizaciones comienzan a
+existir y son fortalecidas, la policía descubre que gradualmente se
+puede transferir responsabilidades de estrategias de prevención
+específica a estas nuevas entidades.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La policía en Racine, Wisconsin, concluyó que una solución para
+mejorar vecindarios con problemas de fumaderos de drogas era comprar propiedades
+problemáticas y convertirlas para usarlas como estaciones de policía
+comunitarias o repararlas y venderlas a ocupantes responsables.
+Para lograr esto, la policía convenció a líderes empresariales
+locales a crear una organización privada sin fines de lucro que
+pudiese comprar y vender bienes raíces para los fines propuestas por
+la policía y el gobierno de la ciudad. Este nuevo acuerdo condujo a
+la compra y rehabilitación de un número significativo de propiedades
+residenciales, e inspiró otras remodelaciones privadas en
+vecindarios problemáticos. La iniciativa resultó en reducciones
+dramáticas en los delitos violentes y contra la propiedad, una
+reducción concomitante en llamadas a los servicios de policía y una
+mejora sustancial en la disponibilidad de viviendas en las áreas
+objetivo.&lt;/li&gt;
+&lt;li&gt;La policía en Fontana, California trabajo con más de 20
+organizaciones de caridad, iglesias y empresas locales para formar
+una nueva red de servicios para individuos indigentes, muchos de los
+cuales estaba generando mucho trabajo para la policía por su
+comportamiento problemático y delictivo. La llamada “Red de
+Enriquecimiento Transitorio” consolidó una gama de servicios para
+personas indigentes, proporcionando instalaciones centrales donde las
+necesidades especiales de cada individuo&amp;mdash;salud mental y física,
+empleo, vivienda, comida, refugio, o abuso de
+sustancias&amp;mdash;podrían ser diagnosticadas y abordadas. Esta nueva red
+inspiró a oficiales de policía a lidiar más directamente con
+individuos en situación de calle, confiando en que al hacerlo
+conduciría a mejoras en la conducta y circunstancias del individuo.
+Los resultados iniciales fueron abrumadoramente positivos: más de
+500 individuos se beneficiaron del programa en sus primeros dos años
+de operación. Además, los delitos y las llamadas a servicios de
+policía atribuidos a personas sin hogar disminuyeron
+sustancialmente.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;avergonzar-a-entidades-en-falta&#34;&gt;Avergonzar a entidades en falta&lt;/h3&gt;
+&lt;p&gt;La vergüenza pública es a menudo un paso intermedio entre la
+confrontación privada anteriormente descrita y recurrir a acciones
+legales. Se pone mucho en juego al avergonzar en público, tanto para la
+policía como para aquellos contra quien se dirige la acción. Por ello,
+la policía obviamente debe estar armada de argumentos sólidos y
+comprobables. La reputación pública es de gran valor para las personas,
+empresas y agencias; por lo tanto, ser desacreditado públicamente por la
+policía puede tener consecuencias de largo plazo significativas. Este
+método de traspasar la responsabilidad puede ser percibido como el más
+coercitivo. En consecuencia, la policía generalmente recurre a él sólo
+después que métodos más privados de persuasión han fallado. La meta de
+la policía es llamar a la atención pública sobre la naturaleza del
+problema, los factores que causa o contribuyen a éste, que tan razonables son
+las solicitudes de la policía, la negativa o falta de respuesta a
+medidas menos coercitivas, y los argumentos para responsabilizar a otros
+por sus contribuciones al problema.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La policía en Lanchashire, Inglaterra, envió cartas a los
+propietarios de vehículos vistos andando en áreas donde la
+prostitución callejera era un problema. Aunque el tono de las cartas
+era totalmente informativo, el efecto tácito&amp;mdash;y sin duda la
+intención&amp;mdash;de las cartas era exponer a los potenciales clientes a
+pasar una posible vergüenza pública al crear el riesgo de que otros
+pudieran leer las cartas. Del mismo modo, la policía en muchas
+jurisdicciones colabora con medios de comunicación locales para
+publicitar los arrestos de personas detenidas solicitando
+prostitución en la calle.&lt;/li&gt;
+&lt;li&gt;En un esfuerzo por reducir los problemas relacionados con el consumo
+de alcohol en Green Bay, Wisconsin, los oficiales de policía
+persuadieron a medios de comunicación locales a que expusieran tanto
+las prácticas irresponsables de ciertos dueños de bares y la falta
+de aplicación de la ley de algunos inspectores. Este esfuerzo, en
+conjunto con otras acciones, resultó en el cierre de varios bares
+problemáticos a través de la aplicación más estricta de licencias de
+venta de alcohol y una concomitante reducción en llamados a la
+policía. Todo este accionar inspiró un nuevo desarrollo económico y
+una completa transformación en el área.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;retirar-los-servicios-policiales&#34;&gt;Retirar los servicios policiales&lt;/h3&gt;
+&lt;p&gt;Ocasionalmente, la policía busca forzar la adopción de estrategias
+preventivas al negarse a responder, investigar, detener o tomar otras
+medidas oficiales cuando un individuo u organización se ha negado a
+implementar medidas diseñadas para reducir la probabilidad de
+victimización. Si un retiro completo del servicio no es factible, la
+policía puede responder con menos recursos, lo que se puede hacer
+reduciendo la prioridad dada a ciertos tipos de incidentes poniendo más
+de la carga de la denuncia a quién la reporta o reduciendo el nivel de
+seguimiento después de recolectar la información inicial del caso.&lt;/p&gt;
+&lt;p&gt;Por lo general, el retiro o modificación de los servicios policiales
+ocurre en el contexto de un negocio o empresa, donde existe evidencia
+abrumadora de que el problema sería eliminado si se implementaran
+ciertas medidas (las cuales el propietario u operador no implementará en
+base a una creencia que de hacerlo reduciría sus ventas).&lt;/p&gt;
+&lt;p&gt;El retiro completo del servicio policial es raro, probablemente porque
+la policía es reacia a ser vista como rehusándose a hacer lo que otros
+perciben como “su trabajo”. La policía también puede preocuparse de que
+el hecho de no responder a una simple solicitud de asistencia pueda
+resultar en que no se atienda una infracción más grave que la solicitud
+original.&lt;/p&gt;
+&lt;p&gt;La mayoría de los retiros de servicio surge de transacciones comerciales
+que son temas principalmente civiles más que penales. A
+continuación, se presentan algunos ejemplos típicos.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Algunas agencias de policía se niegan a responder a denuncias sobre
+automovilistas que dejan las estaciones de autoservicio sin pagar
+por la gasolina cuando una estación ha experimentado un alto volumen
+de casos, pero se ha negado a instalar un sistema de prepago.
+Alternativamente, la policía podría simplemente negarse a enviar a
+un oficial para que haga un procedimiento en torno a dicho incidente
+y exigir al personal de la estación de servicio que presente un
+formulario en la estación.&lt;/li&gt;
+&lt;li&gt;La policía puede negarse a gastar tiempo y recursos en incidentes
+que involucren la falta de devolución de propiedad arrendada, como
+herramientas, electrodomésticos o muebles, sabiendo que la retención
+del número de una tarjeta de crédito u otro método de seguridad
+eliminaría dichos incidentes. Las llamadas “tiendas de alquiler con
+opción de compra” pueden generar un alto volumen de robos en
+jurisdicciones donde los requisitos de verificación de clientes son
+laxos.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;presionar-por-legislación&#34;&gt;Presionar por Legislación&lt;/h3&gt;
+&lt;p&gt;Además de recurrir a las numerosas leyes que prohíben directamente la
+conducta ilegal y perjudicial, la policía ha recurrido durante mucho
+tiempo a una variedad de órdenes municipales y regulaciones
+administrativas diseñadas para gestionar y controlar las condiciones que
+fomentan y generan delitos y daños. Estos reflejan un juicio legislativo
+que ciertas empresas, organizaciones e individuos son responsables de
+asegurarse que las actividades en las que participan se llevan a cabo de
+manera segura y ordenada; un buen ejemplo es la extensa regulación de la
+venta de bebidas alcohólicas. La policía ahora comúnmente establece
+condiciones para emitir permisos para eventos públicos tales como
+desfiles, festivales, manifestaciones y fiestas callejeras&amp;mdash;condiciones
+que requieren que los organizadores del evento brinden seguridad al
+público y eviten el desorden y el delito. La responsabilidad principal
+de tales medidas recae en el titular de la licencia o permiso. El rol de
+la policía es secundario: para reforzar la responsabilidad del titular a
+través de la aplicación de la normativa. En virtud del conocimiento
+especial que han adquirido analizando problemas de delincuencia y
+desorden, la policía a menudo está en condiciones de proponer nuevas
+leyes y reglamentos específicos que le asignen responsabilidad de
+controlar las condiciones criminogénicas a ciertas personas, empresas o
+grupos, y que imponen sanciones a quienes no lo hacen.&lt;/p&gt;
+&lt;p&gt;La adopción de medidas de esta naturaleza suele ir precedida primero por
+debates públicos informales y luego por audiencias públicas formales. En
+el escenario típico, los individuos sobre quienes recaerá la nueva carga
+regulatoria usualmente se oponen a la propuesta.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Para reducir los robos residenciales, algunas ciudades han
+implementado códigos que exigen características de diseño y
+construcción que prevengan dichos delitos. Algunos códigos de
+construcción, como el implementado en Overland Park, Kansas en 2003,
+van más allá de simplemente requerir cerraduras en puertas y
+ventanas, ya que regulan características tales como la iluminación,
+la vigilancia natural y la resistencia de puertas y ventanas.&lt;/li&gt;
+&lt;li&gt;Como parte de una iniciativa para reducir las agresiones con objetos
+de vidrio en las calles de Liverpool, Inglaterra, la policía del
+condado de Merseyside persuadió al Ayuntamiento de Liverpool para
+que promulgara un reglamento que hiciera a los propietarios de
+establecimientos vendedores de alcohol responsables de prevenir que
+las botellas y vasos de vidrio fueran sacados de sus locales. Luego,
+la policía convenció al Ministerio del Interior del Reino Unido para
+que aprobara una nueva legislación que autorizara a la policía a
+confiscar contenedores de vidrio transportados en las calles del
+centro de Liverpool. Estas acciones legislativas ayudaron a reducir
+drásticamente el número de lesiones asociadas a objetos de vidrio en
+el área objetivo.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;llevar-a-cabo-una-acción-o-demanda-civil&#34;&gt;Llevar a cabo una Acción o Demanda Civil&lt;/h3&gt;
+&lt;p&gt;Existen varios caminos por los cuales la policía pueden iniciar acciones
+legales para obligar a las personas y organizaciones a implementar
+medidas para prevenir el delito y el desorden. Esta estrategia
+normalmente es reservada para las condiciones más complejas y se emplea
+únicamente como un último recurso porque, con algunas excepciones, el
+proceso es difícil y los costos son altos.&lt;/p&gt;
+&lt;p&gt;Los estudios relacionados con el problema de las drogas inevitablemente
+centran la atención en los &amp;ldquo;fumaderos de drogas.&amp;rdquo; La búsqueda de una
+alternativa a simplemente recolectar evidencia y detener a individuos ha
+llevado a la policía a desempolvar procedimientos poco utilizados y a
+generar acciones legales específicamente diseñadas que les permita, a
+través de un procedimiento judicial y la presentación de evidencia
+adecuada, confiscar bienes raíces asociados con una alta incidencia
+delictiva. Esta autorización legal, marcada por algunos esfuerzos
+exitosos, tiene la intención de obligar a los dueños de inmuebles a
+asumir una mayor responsabilidad de controlar las actividades que tienen
+lugar en sus propiedades.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h4 id=&#34;ejemplos&#34;&gt;Ejemplos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;La policía en Oakland, California, presentó una demanda contra la
+casa matriz de una franquicia internacional de moteles por no
+controlar el tráfico de drogas, prostitución y una variedad de
+delitos y desórdenes en su propiedad. La demanda fue posterior a
+repetidos intentos de la policía de educar a los administradores y
+ejecutivos respecto de los problemas del motel, las solicitudes de
+mejora y las advertencias de posibles consecuencias legales. En este
+caso, la policía aumentó constantemente la presión sobre la casa
+matriz de una manera cuidadosa y medida. De hecho, la unidad
+especial del Departamento de Policía de Oakland que interpuso la
+acción civil había desarrollado un proceso formal para documentar
+tales problemas y para ejercer niveles crecientes de presión sobre
+los administradores y propietarios del negocio.&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;construyendo-el-caso-para-traspasar-la-responsabilidad&#34;&gt;Construyendo el Caso para Traspasar la Responsabilidad&lt;/h2&gt;
+&lt;p&gt;El proceso que conduce a los esfuerzos policiales para traspasar y
+compartir la responsabilidad generalmente implica:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Documentar la magnitud de un problema específico&lt;/li&gt;
+&lt;li&gt;Identificar las condiciones que contribuyen al problema&lt;/li&gt;
+&lt;li&gt;Establecer un vínculo entre tales condiciones y el individuo,
+empresa u organización considerada responsable de ellas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por lo tanto, la recolección de información detallada, incluidos datos
+estadísticos, es una parte fundamental del proceso antes de que éste
+avance. Debido a que la policía está utilizando grados crecientes de
+poder gubernamental, tales estudios deben ser llevados a cabo
+meticulosamente para asegurar precisión y equidad y, cuando resulten en
+una propuesta, poder presentar el caso más sólido posible.&lt;/p&gt;
+&lt;p&gt;Gran parte del conocimiento acumulado en el que confía la policía para
+abogar y traspasar y compartir la responsabilidad de abordar problemas
+se basa en información que han adquirido a través de años de
+experiencia. El valor de la experiencia policial es en ocasiones
+subestimado por quienes sólo confían en altos estándares de ciencias
+sociales y análisis de políticas públicas para informar las decisiones políticas;
+por el contrario, dicha experiencia es a veces sobreestimada por quienes
+creen que “el conocimiento callejero” tiene más peso que el conocimiento
+basado en investigación. Gran parte del conocimiento policial respecto a
+la prevención y control del delito y el desorden en gran medida nunca ha
+sido probado. Esto no disminuye totalmente su valor, y sigue existiendo
+una necesidad crítica de capturar, probar y refinar la experiencia
+policial, contribuyendo así a un cuerpo de conocimiento más formal para
+apoyar las prácticas policiales.&lt;/p&gt;
+&lt;h2 id=&#34;midiendo-la-efectividad-de-las-nuevas-respuestas&#34;&gt;Midiendo la Efectividad de las Nuevas Respuestas&lt;/h2&gt;
+&lt;p&gt;Cuantificar la efectividad puede resultar complejo ya que la policía a
+menudo aplica varias respuestas a un problema, algunas involucrando
+acción directa (aplicación de la ley y presencia policial) y otras
+involucrando acción indirecta (persuasión y coerción del tipo descrito
+anteriormente). Determinar el efecto de cada respuesta de manera aislada
+puede ser un verdadero desafío metodológico.&lt;/p&gt;
+&lt;p&gt;Algunas personas pueden sentirse incómodas porque la policía trata en
+ocasiones a los ciudadanos de una manera dura. Tales preocupaciones son
+ciertamente justificables cuando se realizan solicitudes y amenazas sin
+que éstas sean sustentadas con hechos. Es por ello que un alto estándar de
+cuidado en la recolección y análisis de los hechos puede ser una
+protección efectiva contra el abuso. Adicionalmente, la investigación en
+profundidad de un problema específico puede incluso identificar medidas
+específicas que tienen el potencial para prevenirlo efectivamente.
+Recolectar datos concretos respecto a un problema específico puede
+desempeñar un papel central para convencer a otros de la seriedad de la
+situación, así como también puede servir de evidencia cuando la
+estrategia preventiva implique acciones legales.&lt;/p&gt;
+&lt;h2 id=&#34;determinando-el-grado-apropiado-de-presión-para-traspasar-la-responsabilidad&#34;&gt;Determinando el Grado Apropiado de Presión para Traspasar la Responsabilidad&lt;/h2&gt;
+&lt;p&gt;Gran parte del trabajo policial consiste en determinar y aplicar un
+grado de presión o coerción que sea apropiado para una situación
+particular. Los oficiales de policía que buscan traspasar o compartir la
+responsabilidad de problemas de seguridad pública deberían considerar,
+entre otros factores:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La justificación para la presión en primera instancia, incluyendo
+los costos para la policía y para la comunidad de mantener el estado actual.&lt;/li&gt;
+&lt;li&gt;Qué tan razonables son las solicitudes de la policía, incluyendo el
+estándar de prueba que la policía debe demostrar.&lt;/li&gt;
+&lt;li&gt;La probabilidad de que un nuevo grupo de respuestas al problema
+tengan un valor preventivo de largo plazo.&lt;/li&gt;
+&lt;li&gt;La probabilidad que las partes interesadas claves respalden o
+acepten las nuevas propuestas, lo cual está influenciado por la
+complejidad del tema en cuestión.&lt;/li&gt;
+&lt;li&gt;La naturaleza, grado y consecuencias de resistir los intentos de la
+policía de compartir o traspasar la responsabilidad, incluyendo los
+riesgos y costos potenciales para la organización policial y sus
+funcionarios al presentar propuestas controvertidas o polémicas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ningún factor por si sólo va a dictar qué método o grado de coerción
+debería ser empleado. Por el contrario, la decisión debería estar basada
+en un análisis exhaustivo de la amplitud y gravedad del problema, la
+efectividad probable de la solución propuesta y la probabilidad tanto de
+la cooperación de diversas partes interesadas como del apoyo del público
+en general.&lt;/p&gt;
+&lt;h2 id=&#34;conclusión&#34;&gt;Conclusión&lt;/h2&gt;
+&lt;p&gt;A medida que la policía comprenda mejor las condiciones, prácticas y
+comportamientos que dan lugar a problemas específicos de seguridad
+pública y pueda determinar con mayor certeza las respuestas que son más
+efectivas para prevenirlos y controlarlos, estarán en una mejor posición
+para traspasar y compartir la responsabilidad de lidiar con aquellos
+problemas. Hacer esto fortalecerá a la policía como institución al
+aumentar su capacidad para realizar las funciones que legítimamente
+están dentro de sus obligaciones y a su vez reducirá la necesidad de
+que la policía intente resolver problemas que están más allá de sus competencias. Quizás lo más importante es que
+llevará a la sociedad hacia un estilo de policía más
+efectivo, eficiente y equitativo.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 3,
+originalmente elaborada por
+Michael S Scott y Herman Goldstein,
+de la serie de guías de
+Respuestas Específicas
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/shifting-and-sharing-responsibility-public-safety-problems-0&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

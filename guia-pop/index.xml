@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guía de referencia sobre la Policía Orientada a Problemas | Centro POP Uruguay de UCL</title>
+    <link>/guia-pop/</link>
+      <atom:link href="/guia-pop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guía de referencia sobre la Policía Orientada a Problemas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guía de referencia sobre la Policía Orientada a Problemas</title>
+      <link>/guia-pop/</link>
+    </image>
+    
+    <item>
+      <title>¿Qué es la Policía Orientada a Problemas?</title>
+      <link>/guia-pop/que-es-pop/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/guia-pop/que-es-pop/</guid>
+      <description>&lt;p&gt;La Policía Orientada a Problemas (POP) involucra entender los problemas delictivos, implementar soluciones diseñadas a la medida, y evaluar su impacto.&lt;/p&gt;
+&lt;p&gt;Un enfoque POP no asume que las responsabilidades tradicionales de la policía (como responder a incidentes e investigar delitos) no existan, sino que considera que las funciones de la policía son más amplias que &amp;ldquo;hacer cumplir la ley&amp;rdquo; y responder ante los delitos.&lt;/p&gt;
+&lt;p&gt;Un problema delictivo puede abarcar cualquier tipo de incidente delictivo u otros asuntos de seguridad ciudadana (así como una combinación de estos). Los problemas pueden involucrar volúmenes elevados o pequeños de incidentes, ser serios o menos serios, estar asociados a grupos o bandas delictivas o ser cometidos por delincuentes individuales.&lt;/p&gt;
+&lt;h2 id=&#34;la-pop-reduce-el-delito&#34;&gt;La POP reduce el delito&lt;/h2&gt;
+&lt;p&gt;Una revisión sistemática de 34 evaluaciones de intervenciones POP encontró que el enfoque POP reduce el delito y el desorden en alrededor de 34%.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;el-trabajo-pop-es-trabajo-policial&#34;&gt;El trabajo POP es trabajo policial&lt;/h2&gt;
+&lt;p&gt;POP ofrece la oportunidad de trabajar directamente para reducir el delito en su comunidad. Muchos oficiales de policía han dicho que su su trabajo POP ha sido la experiencia más gratificante de sus carreras.&lt;/p&gt;
+&lt;h2 id=&#34;el-triángulo-del-delito&#34;&gt;El triángulo del delito&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Un problema delictivo tiene tres componentes principales: un agresor, una víctima (u algún otro blanco u objetivo), y un lugar. Dividir el problema en estos componentes nos ayuda a pensar en términos de la estructura de oportunidad que facilita la comisión de un delito (sin uno de estos elementos, el delito no puede ocurrir). El triángulo del delito también es útil para recordar que la resolución de problemas delictivos no solo se trata de enfocarse en los agresores, sino que también hay que enfocarse en las víctimas, los blancos u objetivos, y en los lugares.&lt;/p&gt;
+&lt;figure id=&#34;figure-el-triángulo-del-delito&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/crime-triangle.png&#34; data-caption=&#34;El triángulo del delito.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/media/crime-triangle.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;figcaption&gt;
+    El triángulo del delito.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Hinkle JC, Wiesburd D, Telep CW &amp;amp; Petersen K (2020) Problem‐oriented policing for reducing crime and disorder: An updated systematic review and meta‐analysis. &lt;em&gt;Campbell Systematic Reviews&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(2). &lt;a href=&#34;https://doi.org/10.1002/cl2.1089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/cl2.1089&lt;/a&gt; &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Búsqueda</title>
+      <link>/guia-pop/busqueda/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/guia-pop/busqueda/</guid>
+      <description>&lt;p&gt;Un problema es un conjunto de eventos similares y recurrentes que afectan una comunidad o vecindario. La resolución de problemas es más efectiva cuando el problema ha sido correctamente identificado o definido de forma específica&amp;mdash;esto es el objetivo de la etapa de búsqueda.&lt;/p&gt;
+&lt;h2 id=&#34;cuál-es-el-problema&#34;&gt;¿Cuál es el problema?&lt;/h2&gt;
+&lt;p&gt;El primer paso en la &lt;em&gt;búsqueda&lt;/em&gt; es identificar cuál es realmente el problema que hay que resolver y entender la magnitud del problema. Primero especifique el problema (por ejemplo, robo a transeúntes). Luego, haga las siguientes preguntas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿El problema ha aumentado o es un problema persistente?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Problemas que aumentan o son persistentes son los tipos de problemas que requieren atención prioritaria. Si el problema está disminuyendo u ocurre muy esporádicamente, probablemente existan otros problemas que meriten más prioridad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¿Los incidentes son similares?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Si los incidentes asociados al problema varían mucho, va a ser más difícil encontrar una solución que atienda todas los tipos de incidentes. Mejor enfóquese en conjuntos de incidentes similares entre sí.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cuál-es-nuestro-rol&#34;&gt;¿Cuál es nuestro rol?&lt;/h2&gt;
+&lt;p&gt;Tenga claro cuál es el rol de su agencia en la resolución del problema. Si, por ejemplo, usted trabaja en la policía y el problema que busca resolver tiene que ver con &amp;ldquo;jóvenes en las calles del área&amp;rdquo;, primero debe de definir qué están haciendo esos jóvenes en las calles que esté relacionado con problemas delictivos o que esté afectando la seguridad. Ello le ayudará a clarificar el rol que podría jugar la policía en la resolución del problema.&lt;/p&gt;
+&lt;h2 id=&#34;establezca-la-escena&#34;&gt;Establezca la escena&lt;/h2&gt;
+&lt;p&gt;Establezca la escena del problema usando datos e información provista por quienes conocen bien el problema. Describa el tamaño del problema (por ejemplo, cuántos incidentes ocurren cada mes) y los detalles del problema.&lt;/p&gt;
+&lt;h2 id=&#34;cuáles-son-sus-expectativas&#34;&gt;¿Cuáles son sus expectativas?&lt;/h2&gt;
+&lt;p&gt;Determine los resultados que espera obtener. Para problemas delictivos el resultado esperado más común es una reducción en la incidencia del problema, pero otros resultados posibles pueden ser mejoras en la denuncia, reducciones en la reincidencia, mejoras en las relaciones con la comunidad, o resultados más específicos como reducciones en la victimización repetida de un grupo particular de personas. Pensar claramente sobre los resultados que esperamos obtener ayudará a enfocar el trabajo de la resolución de problemas.&lt;/p&gt;
+&lt;h2 id=&#34;revisión&#34;&gt;Revisión&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Cuál es el problema?&lt;/strong&gt; ¿El problema ha sido definido de forma específica y clara?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Es un problema?&lt;/strong&gt; ¿Está aumentando o es persistente? ¿A quién afecta?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Cuáles son los detalles del problema?&lt;/strong&gt; ¿Qué datos se han usado para describir el problema?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Qué resultados espera obtener?&lt;/strong&gt; ¿Cómo definiría que el problema se ha resuelto de forma exitosa?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recursos-adicionales&#34;&gt;Recursos adicionales&lt;/h2&gt;
+&lt;p&gt;Clarke, RV &amp;amp; Eck, JE (2005) &lt;a href=&#34;https://popcenter.asu.edu/sites/default/files/library/reading/PDFs/60_pasos.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Análisis Delictivo para la Resolución de Problemas en 60 Pequeños Pasos&lt;/em&gt;&lt;/a&gt; (A Arango Durán &amp;amp; JP Arango Orozco, Trad.) Washington, DC: Office of Community Oriented Policing Services.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Análisis</title>
+      <link>/guia-pop/analisis/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/guia-pop/analisis/</guid>
+      <description>&lt;p&gt;El rol del análisis es asegurarse de que el problema se haya comprendido bien. Para ello se requieren datos e información.&lt;/p&gt;
+&lt;h2 id=&#34;datos-que-pueden-utilizarse&#34;&gt;Datos que pueden utilizarse&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Registros delictivos&lt;/li&gt;
+&lt;li&gt;Llamadas de emergencia&lt;/li&gt;
+&lt;li&gt;Información recopilada en patrullajes&lt;/li&gt;
+&lt;li&gt;Vigilancia&lt;/li&gt;
+&lt;li&gt;Entrevistas con presuntos delincuentes&lt;/li&gt;
+&lt;li&gt;Informantes&lt;/li&gt;
+&lt;li&gt;Visitas de campo&lt;/li&gt;
+&lt;li&gt;Información de la comunidad&lt;/li&gt;
+&lt;li&gt;Datos sociodemográficos&lt;/li&gt;
+&lt;li&gt;Datos de otras agencias:
+&lt;ul&gt;
+&lt;li&gt;Escuelas&lt;/li&gt;
+&lt;li&gt;Servicios sociales&lt;/li&gt;
+&lt;li&gt;Sistema penitenciario&lt;/li&gt;
+&lt;li&gt;Etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En algunos casos es necesario recolectar datos e información para entender un problema específico (por ejemplo, realizar encuestas con las personas afectadas).&lt;/p&gt;
+&lt;h2 id=&#34;entendiendo-la-estructura-de-la-oportunidad-delictiva&#34;&gt;Entendiendo la estructura de la oportunidad delictiva&lt;/h2&gt;
+&lt;p&gt;El análisis debe de examinar la estructura de la oportunidad delictiva que alimenta al problema en cuestión. La estructura de la oportunidad se refiere a los elementos de la situación que permiten que el problema ocurra. Por ello, el análisis debe de enfocarse en las causas próximas al problema (es decir, entender por qué los delitos ocurren en ese lugar, momento, involucrando a ciertas personas y de una forma en particular), en lugar de enfocarse en la causas distantes (por ejemplo, la relación que variables como la pobreza o la educación podrían tener en el problema).&lt;/p&gt;
+&lt;p&gt;Para analizar el problema, debe recopilar información que le permita responder las siguientes preguntas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;¿Qué incidentes ocurren?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifique precisamente qué tipo de incidentes son parte del problema y cuáles no.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¿Dónde ocurren?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Todos los incidentes ocurren en un lugar en específico, y comúnmente estos se concentran en un puñado de &amp;lsquo;puntos calientes&amp;rsquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¿Cuándo ocurren?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Todos los incidentes ocurren en un momento específico, y es muy común que incidentes similares tiendan a ocurrir en las mismas horas del día o los mismos días de la semana.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¿A quién involucran?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Todos los incidentes involucran a por lo menos un delincuente, y generalmente a por lo menos una víctima. Comúnmente, un pequeño número de personas son responsables por la mayoría de los delitos, y un pequeño número de víctimas tiende a sufrir la gran mayoría de los delitos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;¿Cómo ocurren o qué acciones involucran?&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Piense sobre los pasos o acciones que se deben de realizar para poder cometer el delito en cuestión. Cada paso representa una oportunidad para intervenir y resolver el problema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Responder esta preguntas le ayudará a construir un &amp;lsquo;perfil&amp;rsquo; del problema, a describirlo de forma detallada y precisa. Sin embargo, conviene ir más allá y tratar de explicar &lt;em&gt;por qué&lt;/em&gt; ocurre el problema. Esto requiere pensar acerca de qué significan los datos y la información recopilada. Utilizando pruebas de hipótesis puede ser muy útil para ayudar a entender el problema, y a responder por qué ocurre.&lt;/p&gt;
+&lt;p&gt;Si un problema delictivo se entiende adecuadamente, será más fácil determinar qué soluciones podrían ayudar a resolverlo.&lt;/p&gt;
+&lt;h2 id=&#34;pruebas-de-hipótesis&#34;&gt;Pruebas de hipótesis&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Entender los problemas adecuadamente es un reto para implementar la POP de forma efectiva. Usar pruebas de hipótesis durante el análisis puede ayudar a mejorar la interpretación del problema&lt;/p&gt;
+&lt;figure id=&#34;figure-policías-uruguayos-utilizando-pruebas-de-hipótesis-para-analizar-los-hurtos-en-fincas&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/POP-Group-work-2.png&#34; data-caption=&#34;Policías uruguayos utilizando pruebas de hipótesis para analizar los hurtos en fincas.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/media/POP-Group-work-2.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;figcaption&gt;
+    Policías uruguayos utilizando pruebas de hipótesis para analizar los hurtos en fincas.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Las pruebas de hipótesis plantean una serie explicaciones plausibles sobre la causa de un problema (es decir, hipótesis). Las hipótesis planteadas determinan el tipo de análisis que debe realizarse. Una hipótesis es una teoría u opinión que usted o sus colegas pueden tener sobre un problema.&lt;/p&gt;
+&lt;p&gt;Por ejemplo, un proyecto POP planteó la siguiente hipótesis: &amp;ldquo;el incremento en robos en el área se debe a que más estudiantes del colegio han sido victima de robo de teléfono celular&amp;rdquo;. Para probar esta hipótesis, el análisis examinó si los robos de estudiantes del colegio habían aumentado recientemente, si el principal objeto que se les había robado era el teléfono celular, si los robos ocurrían a la hora de la salida del colegio, y dónde ocurrían. A su vez, el análisis también contribuyó a entender mejor qué motivaba a los delincuentes y cómo elegían sus víctimas.&lt;/p&gt;
+&lt;p&gt;Las pruebas de hipótesis también ayudan a determinar qué datos se necesitan para el análisis.&lt;/p&gt;
+&lt;p&gt;En la práctica, normalmente se proponen entre 3 y 5 hipótesis en los análisis POP, y cada una contribuye de alguna forma para entender mejor por qué el problema existe. Probar las hipótesis una por una ayuda a mantener el análisis bien enfocado, y ayuda a alcanzar conclusiones que expliquen las causas del problema.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;revisión&#34;&gt;Revisión&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Por qué el problema existe?&lt;/strong&gt; ¿Qué razones explican el problema? ¿Las explicaciones propuestas se enfocan en la estructura de la oportunidad delictiva?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Se han utilizado datos de buena calidad para entender el problema?&lt;/strong&gt; ¿Tiene certeza de que los datos que se utilizaron permiten entender el problema de manera fiel?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solución</title>
+      <link>/guia-pop/solucion/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/guia-pop/solucion/</guid>
+      <description>&lt;p&gt;Las soluciones que se busquen implementar deben de estar diseñadas a la medida del problema que se busca resolver. Existen vatios tipos de soluciones que deberían considerarse.&lt;/p&gt;
+&lt;h2 id=&#34;tipos-de-intervención&#34;&gt;Tipos de intervención&lt;/h2&gt;
+&lt;p&gt;La lista que se presenta a continuación no describe intervenciones específicas, sino los &lt;em&gt;tipos&lt;/em&gt; de soluciones que podrían ser parte de una intervención:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cumplimiento de la ley&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que buscan asegurar que leyes o reglas específicas se cumplan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Detección&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que resultan en arrestos, procuración de justicia, y castigos penales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disuasión&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervención que procuran reducir la atracción y las recompensas de cometer un delito en particular.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disrupción y desviación&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que interrumpen la comisión del delito, y hacen que un potencial delincuente se desvíe de sus objetivos hacia otra actividad menos dañina.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tratamiento y apoyo&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que buscan remediar el abuso de las drogas y el alcohol, atender problemas de salud mental, o que proveen servicios de mediación y apoyo para ayudar a las personas a llevar estilos de vida más positivos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fortalecimiento de objetivos&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que hacen más difícil cometer un delito contra un blanco específico.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fortalecer la confianza del público&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que mejoran las percepciones y la confianza en la policía.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trabajar con la comunidad&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Intervenciones que promueven que las personas tomen precauciones sensibles para mejorar la seguridad, y que mejoran el diálogo con la comunidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Cuando tenga que elegir una solución, conviene comenzar revisando qué han hecho otros departamentos para resolver problemas similares.&lt;/p&gt;
+&lt;h2 id=&#34;qué-funciona-para-reducir-el-delito&#34;&gt;¿Qué funciona para reducir el delito?&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Es poco probable que sea la primera persona que se enfrenta al problema que busca resolver. La sección &lt;a href=&#34;/pop-en-practica/&#34;&gt;POP en práctica&lt;/a&gt;. Otros recursos (disponibles en inglés):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://whatworks.college.police.uk/toolkit/Pages/Toolkit.aspx&#34;&gt;&lt;em&gt;Crime Reduction Toolkit&lt;/em&gt; del &lt;em&gt;What Works Centre for Crime Reduction&lt;/em&gt; del Colegio de Policías de Reino Unido.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.crimesolutions.gov&#34;&gt;&lt;em&gt;Crime Solutions&lt;/em&gt; del Instituto Nacional de Justicia del gobierno de los Estados Unidos.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Aunque arrestar a un delincuente puede parecer como un logro importante, si las oportunidades para cometer delitos persisten, el problema no se ha resuelto. la POP promueve el uso de &lt;strong&gt;alternativas al arresto&lt;/strong&gt; y enfatiza las soluciones que procuran &lt;strong&gt;hacer más difícil cometer los delitos&lt;/strong&gt; que son parte del problema.&lt;/p&gt;
+&lt;p&gt;La tabla a continuación puede ayudar a pensar sobre potenciales soluciones enfocadas en hacer más difícil cometer un delito.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Aumentar el esfuerzo&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Aumentar los riesgos&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Reducir las recompensas&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Reducir las provocaciones&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Retirar las excusas&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Blindar o fortalecer los blancos u objetivos&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Extender la custodia&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Ocultar los blancos u objetivos&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reducir la frustración y el estrés&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Establecer reglas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Controlar el acceso a instalaciones&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Mejorar la vigilancia natural&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Retirar los blancos u objetivos&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Evitar las disputas&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Colocar instrucciones&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Monitorear las salidas&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reducir el anonimato&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Identificar la propiedad&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reducir las fuentes de excitación emocional&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Alertar la conciencia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Desviar a los delincuentes&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Utilizar gestores del espacio físico&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Interrumpir mercados negros&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Neutralizar la presión grupal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Facilitar el cumplimiento&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Controlar armas o herramientas&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Fortalecer la vigilancia formal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Negar los beneficios&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Desalentar la imitación&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Controlar las drogas y el alcohol&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Es más probable que soluciones que se enfocan en lugares o personas específicas sean más efectivas para resolver el problema. También es probable que sea necesario combinar varias intervenciones en lugar de tratar de resolver el problema con solo una intervención.&lt;/p&gt;
+&lt;h2 id=&#34;pensando-sobre-las-soluciones-planeadas-para-resolver-un-problema&#34;&gt;Pensando sobre las soluciones planeadas para resolver un problema&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Las soluciones planeadas para resolver un problema tienden a funcionar mejor cuando una persona se hace responsable y asume el liderazgo del plan.&lt;/p&gt;
+&lt;p&gt;Considere los siguientes puntos cuando implemente las soluciones planeadas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mecanismos&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Para cada solución o intervención, piense y describa cuál es el mecanismo de acción que reduce el problema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contexto&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconozca que las intervenciones pueden funcionar en algunos contextos pero no en otros.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resultados&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Determine resultados realistas que espera obtener y cómo los medirá.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transfiera y comparta&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifique qué instancia está mejor posicionada para implementar las intervenciones, y si es necesario presione a que tomen la iniciativa de actuar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retos de implementación&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Reconozca que es poco probable que todo salga como se ha planeado, así que esté listo para identificar y corregir cualquier falla.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;revisión&#34;&gt;Revisión&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Qué les ha funcionado a otros?&lt;/strong&gt; Consulte la evidencia existente para identificar &lt;a href=&#34;/pop-en-practica/&#34;&gt;qué funciona&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Las intervenciones están bien enfocadas?&lt;/strong&gt; Evite intervenciones generales y priorice enfocarse en las personas y lugares más vulnerables.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Cómo funcionan las intervenciones?&lt;/strong&gt; Diseñe intervenciones que hagan más difícil cometer los delitos en cuestión, o que reduzcan la vulnerabilidad de las personas o los blancos del delito.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Quién es responsable de implementar cada intervención&lt;/strong&gt; Identifique un responsable de cada intervención para asegurarse de que sea implementada correctamente.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evaluación</title>
+      <link>/guia-pop/evaluacion/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/guia-pop/evaluacion/</guid>
+      <description>&lt;p&gt;La última etapa del método BASE tiende a ser ignorada. La evaluación es importante para:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Determinar el nivel de impacto de las intervenciones.&lt;/li&gt;
+&lt;li&gt;Reconocer qué intervenciones contribuyeron a resolver el problema.&lt;/li&gt;
+&lt;li&gt;Identificar cómo las intervenciones pueden fortalecerse para así asegurar su impacto en el largo plazo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cómo-se-mide-el-impacto&#34;&gt;¿Cómo se mide el impacto?&lt;/h2&gt;
+&lt;p&gt;La evaluación no es algo para preocuparse al final del proyecto. Al contrario, es importante pensar en cómo se van a medir los impactos antes de implementar cualquier intervención. Por ejemplo, algunos indicadores que pueden servir para medir el impacto son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El número de incidentes delictivos.&lt;/li&gt;
+&lt;li&gt;Las llamadas de emergencia.&lt;/li&gt;
+&lt;li&gt;El porcentaje de satisfacción con la policía.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;métodos-de-evaluación&#34;&gt;Métodos de evaluación&lt;/h2&gt;
+&lt;p&gt;Existen dos principales métodos para evaluar si una intervención funcionó:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Estudio observacional&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Una forma simple de evaluación que consiste simplemente en observar cómo evoluciona el problema después de que se implementan las intervenciones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Estudio observacional controlado&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Es un método mucho más robusto, pues consiste en comparar el impacto de las intervenciones en lugares o personas que recibieron las intervenciones con lugares y personas similares que no la recibieron (es decir, con grupos de control).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;grupos-de-control&#34;&gt;Grupos de control&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Para determinar con certeza si una intervención tuvo efecto es importante utilizar grupos de control. Los grupos de control nos ayudan a determinar si los cambios observados en el problema se deben a la intervención o si éstos se deben a otra razón.&lt;/p&gt;
+&lt;p&gt;Los grupos de control pueden componerse de áreas o personas donde las intervenciones no se realizaron. Es crucial que los grupos de control sean lo más parecido posible al grupo de tratamiento (es decir, las áreas o personas que sí recibieron las intervenciones).&lt;/p&gt;
+&lt;p&gt;Comparar cómo cambia el problema en los grupos de tratamiento y control después de implementar las intervenciones es una forma efectiva de determinar si las intervenciones tuvieron impacto.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;la-intervención-funcionó&#34;&gt;¿La intervención funcionó?&lt;/h2&gt;
+&lt;p&gt;La evaluación permite entender mejor qué funciona para reducir el delito. Si las intervenciones que implementó no funcionaron, regrese a las listas de revisión de secciones anteriores. Esto le ayudará a identificar aspectos que quizá no se hayan considerado y a determinar &lt;em&gt;por qué&lt;/em&gt; sus intervenciones no tuvieron el efecto deseado.&lt;/p&gt;
+&lt;p&gt;Independientemente de si las intervenciones implementadas hayan funcionado o no, es importante compartir las lecciones aprendidas con sus colegas.&lt;/p&gt;
+&lt;h2 id=&#34;evaluaciones-de-resultados-y-procesos&#34;&gt;Evaluaciones de resultados y procesos&lt;/h2&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Muchas intervenciones que podrían funcionar, fracasan porque no se han implementado de forma correcta.&lt;/p&gt;
+&lt;p&gt;Una &lt;em&gt;evaluación de resultados&lt;/em&gt; determina si las intervenciones tuvieron el efecto deseado, y si podemos tener confianza en que nuestras acciones fueron las responsables de los cambios observados.&lt;/p&gt;
+&lt;p&gt;Por otro lado, una &lt;em&gt;evaluación del proceso&lt;/em&gt; ayuda a determinar si hubieron fallas en la implementación. La evaluación del proceso revisa si los planes de implementación se siguieron, si se realizaron cambios, si todas las acciones se realizaron en las secuencias planeadas, quién cooperó en la implementación, quié no, y por qué.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h1 id=&#34;revisión&#34;&gt;Revisión&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Cuál fue el impacto de las intervenciones?&lt;/strong&gt; ¿Cómo se midió el impacto? ¿Se usaron grupos de control adecuados? ¿Qué intervenciones funcionaron mejor?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Las intervenciones se implementaron de acuerdo a lo planeado?&lt;/strong&gt; ¿Qué retos se encontraron en la implementación?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;¿Cuáles son las principales lecciones aprendidas?&lt;/strong&gt; ¿Se han compartido los resultados con colegas para compartir los aprendizajes adquiridos?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guías de problemas específicos | Centro POP Uruguay de UCL</title>
+    <link>/category/guias-de-problemas-especificos/</link>
+      <atom:link href="/category/guias-de-problemas-especificos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guías de problemas específicos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Guías de problemas específicos</title>
+      <link>/category/guias-de-problemas-especificos/</link>
+    </image>
+    
+    <item>
+      <title>Mercados de Bienes Robados</title>
+      <link>/problemas-y-soluciones/bienes-robados/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/bienes-robados/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    La presente guía aborda el problema de los mercados de bienes robados.
+El objetivo final de reducir el mercado de bienes robados es hacer más
+difícil y arriesgado para las personas comerciar con bienes robados y,
+por lo tanto, desalentar el robo en primer lugar.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;el-problema-del-mercado-de-bienes-robados&#34;&gt;El Problema del Mercado de Bienes Robados&lt;/h2&gt;
+&lt;p&gt;La mayoría de los ladrones roban para recaudar dinero, y para esto
+necesitan vender lo que roban. Esto requiere que exista un mercado de
+bienes robados que no sólo proporcione un punto de venta, sino que esté
+alimentado por una demanda permanente de bienes robados.&lt;/p&gt;
+&lt;h3 id=&#34;resumen-general-del-problema&#34;&gt;Resumen General del Problema&lt;/h3&gt;
+&lt;p&gt;Los mercados de bienes robados facilitan la demanda que genera mucho
+robo de propiedad.&lt;/p&gt;
+&lt;p&gt;Muchos mercados de bienes robados son clandestinos, lo que los hace más
+difícil de investigar y abordar. Sin embargo, mucho comercio de bienes
+robados se lleva a cabo en plena luz del día, como en lugares donde
+bienes se venden abiertamente en las calles o en casas de empeño o de
+segunda mano.&lt;/p&gt;
+&lt;p&gt;Recolectar evidencia suficiente para procesar a un vendedor o
+intermediario de bienes robados&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; es difícil, ya que estas personas
+pueden fácilmente disimular sus actividades ilegítimas detrás de
+fachadas comerciales legítimas. Las personas que hacen esto
+profesionalmente saben cómo hacerlo bien y pueden operar con impunidad
+durante años.&lt;/p&gt;
+&lt;h3 id=&#34;daños-causados-por-el-mercado-de-bienes-robados&#34;&gt;Daños causados por el Mercado de Bienes Robados&lt;/h3&gt;
+&lt;p&gt;Los mercados de bienes robados causan una serie de daños sociales. En
+algunos casos, están vinculados a iniciativas criminales organizadas más
+grandes y sofisticadas. Quienes compran bienes robados crean una demanda
+que aumenta sus riesgos de victimización, además de la victimización de otros.
+Adicionalmente, debido a que los individuos involucrados en mercados de
+bienes robados no pueden recurrir a métodos legales para resolver
+disputas por temor a ser descubiertos, a menudo recurren a
+la violencia para estos fines.&lt;/p&gt;
+&lt;h2 id=&#34;factores-que-contribuyen-a-los-mercados-de-bienes-robados&#34;&gt;Factores que contribuyen a los Mercados de Bienes Robados&lt;/h2&gt;
+&lt;p&gt;Entender los factores que contribuyen al problema ayuda a enmarcar las
+preguntas de análisis local, determinar buenas medidas de efectividad,
+reconocer puntos de intervención claves, y seleccionar respuestas
+apropiadas.&lt;/p&gt;
+&lt;h3 id=&#34;transacciones&#34;&gt;Transacciones&lt;/h3&gt;
+&lt;p&gt;El comercio de bienes robados típicamente incluye varios pasos,
+comenzando con el robo mismo, y terminando con el consumidor final
+obteniendo los bienes.&lt;/p&gt;
+&lt;h4 id=&#34;cadena-de-transacciones-de-bienes-robados&#34;&gt;Cadena de transacciones de bienes robados&lt;/h4&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TB
+A[Robo de&amp;lt;br/&amp;gt;cualquier tipo] --&amp;gt; B[Ocultar o esconder&amp;lt;br/&amp;gt;objeto robado]
+B --&amp;gt; C[Disfrazar origen&amp;lt;br/&amp;gt;robado de objeto]
+C --&amp;gt; D[Ofrecer objeto&amp;lt;br/&amp;gt;robado al cliente&amp;lt;br/&amp;gt;o a través de &amp;lt;br/&amp;gt;intermediario]
+D --&amp;gt; E[Vender el bien]
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;oferta-y-demanda-el-tema-clave-en-la-mayoría-de-los-robos&#34;&gt;Oferta y Demanda: El Tema Clave en la Mayoría de los Robos&lt;/h3&gt;
+&lt;p&gt;Como con cualquier mercado, la relación entre oferta y demanda por
+bienes robados puede ser compleja. Generalmente, la demanda de bienes
+robados aumenta la incidencia del robo. Esto tiene sentido debido a que,
+en su mayoría, los ladrones no robarán bienes a no ser que primero sepan
+o crean que otros los comprarán o intercambiarán por ellos. Un
+entendimiento general sobre si los dueños de negocios y el público en
+general están dispuestos a comprar bienes robados motiva a los ladrones
+a comenzar y continuar robando.&lt;/p&gt;
+&lt;p&gt;A veces los ladrones roban artículos por encargo. Esto significa que
+son requeridos para proveer productos particulares a través del robo. De
+esta manera, los comerciantes prolíficos de bienes robados tienden a
+alentar a los ladrones a aumentar sus actividades delictivas. Sin
+embargo, robar por encargo no es tan frecuente como robar para ofrecer
+en el mercado.&lt;/p&gt;
+&lt;h3 id=&#34;bienes-frecuentemente-robados-y-vendidos&#34;&gt;Bienes Frecuentemente Robados y Vendidos&lt;/h3&gt;
+&lt;p&gt;El conocimiento de la “demanda permanente” de bienes robados afecta el
+tipo de bienes robados, dependiendo lo que más se demanda en ese
+momento, y a veces puede generar oleadas de delitos problemáticos cuando
+los ladrones se enfocan en bienes específicos muy buscados.&lt;/p&gt;
+&lt;p&gt;La investigación académica muestra que la mayoría de los ladrones actúa en
+base a una jerarquía en constante cambio de bienes que prefieren robar.
+La investigación directa con ladrones revela que rara vez acumulan
+bienes robados por más de una hora o dos, ya que buscan una rápida
+devolución de dinero en efectivo y quieren evitar ser atrapados con los
+bienes en su poder. Esto significa que es poco probable que los ladrones
+roben y almacenen bienes de los que no saben la demanda actual, en caso
+de que sean vendibles en un futuro.&lt;/p&gt;
+&lt;p&gt;Dado que la mayoría de los ladrones roba para obtener dinero rápidamente, el efectivo es el objeto preferido para robar, seguido por artículos que pueden vender fácil y rápidamente a precios relativamente altos, como joyas y equipos de
+entretenimiento de alta tecnología para el hogar.&lt;/p&gt;
+&lt;p&gt;Entender qué hace que los productos sean atractivos para los ladrones
+ayuda a anticipar nuevos blancos de robo, y consecuentemente
+comprender qué nuevos productos pueden llegar a ser populares en los
+mercados de bienes robados. Los llamados &lt;em&gt;productos calientes&lt;/em&gt; suelen
+tener una o más de las siguientes características, que pueden resumirse
+con la sigla CRAVED (por sus iniciales en inglés):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Ocultable&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los artículos son fáciles de ocultar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Extraíble&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones pueden llevarse fácilmente el artículo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Disponible&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Se encuentran comúnmente en víctimas potenciales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Valiosos&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los artículos son útiles para el ladrón u otra persona.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Deseados&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los artículos son divertidos de usar, brindan placer y
+satisfacción&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Desechables&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones pueden vender o intercambiar los artículos
+con facilidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Mientras más de estas características tenga un producto, más atractivo
+será para que alguien lo robe. Sin embargo, ya que sabemos que los
+ladrones prolíficos rara vez roban artículos para uso propio, las
+últimas tres características son las más relevantes debido a que se
+relacionan con el valor de un artículo, y no únicamente a su
+portabilidad. Es este &lt;em&gt;valor&lt;/em&gt; de los artículos el que los hace
+desechables como productos cuando los ladrones desean vender o
+intercambiar artículos robados por drogas.&lt;/p&gt;
+&lt;h3 id=&#34;ubicaciones-y-horarios-de-los-mercados-de-bienes-robados&#34;&gt;Ubicaciones y Horarios de los Mercados de Bienes Robados&lt;/h3&gt;
+&lt;p&gt;Aunque el robo puede ocurrir en cualquier lugar donde haya algo para
+robar, muchos robos en domicilios y otros tipos de robo se concentran en
+áreas específicas, y los ladrones se aprovechan más frecuentemente de
+personas en esas áreas.&lt;/p&gt;
+&lt;p&gt;Los ladrones generalmente prefieren vender bienes robados localmente y
+rápidamente (en cuestión de horas en vez de días). Por lo tanto, una
+concentración de robos podría (pero no necesariamente) indicar
+la proximidad relativa de un mercado local para esos bienes. Sin
+embargo, debe tenerse en cuenta que si bien este fenómeno es algo que
+vale la pena explorar en primera instancia, no debe hacerse a costa
+de descuidar otros mercados más lejanos pero más importantes.&lt;/p&gt;
+&lt;h3 id=&#34;compradores-de-bienes-robados&#34;&gt;Compradores de Bienes Robados&lt;/h3&gt;
+&lt;p&gt;Además de comerciantes profesionales de bienes robados, los ciudadanos
+también compran bienes robados. A su vez, los dueños de negocios
+también pueden ser susceptibles a comprar bienes robados. Esto mismo se
+cumple para comerciantes y cualquier otra persona en la población que
+encuentren difícil resistir la posibilidad de una ganga sin regatear ni
+hacer muchas preguntas.&lt;/p&gt;
+&lt;h3 id=&#34;tolerancia-del-público-a-los-mercados-de-bienes-robados&#34;&gt;Tolerancia del Público a los Mercados de Bienes Robados&lt;/h3&gt;
+&lt;p&gt;Mientras que la mayoría de los ciudadanos no toleran a los ladrones ni
+al robo, tienden a ser más tolerantes con los compradores y vendedores
+de bienes robados. Esto usualmente se debe a que son vistos como
+emprendedores o empresarios que brindan un servicio local poniendo a
+disposición del público bienes a precios reducidos.&lt;/p&gt;
+&lt;h3 id=&#34;vínculos-con-uso-ilícito-de-substancias&#34;&gt;Vínculos con Uso Ilícito de Substancias&lt;/h3&gt;
+&lt;p&gt;Los mercados de bienes robados juegan un papel importante en los
+mercados de drogas al explicar las altas tasas de robo y, por lo tanto,
+representan una oportunidad importante para iniciativas de reducción del
+delito. Dicho esto, los narcotraficantes pueden aceptar ciertos tipos de
+artículos a cambio de drogas, y también los pueden comprar directamente.
+Se sabe que los narcotraficantes compran en particular ropa de diseñador
+y joyas para uso propio. Comprar y vender productos robados es, para
+muchos delincuentes, un delito de entrada a la compra y venta de drogas.&lt;/p&gt;
+&lt;h3 id=&#34;tipos-de-mercados-de-bienes-robados&#34;&gt;Tipos de Mercados de Bienes Robados&lt;/h3&gt;
+&lt;p&gt;Los mercados de bienes robados tienden a presentar características
+locales particulares en términos de lo que roban los ladrones y como
+aquellos involucrados llevan a cabo transacciones. En consecuencia,
+reducir estos mercados locales requiere de soluciones adaptadas a la
+realidad local.&lt;/p&gt;
+&lt;p&gt;Existen seis tipos de mercados de bienes robados que difieren en los
+modos en que los ladrones, los comerciantes o intermediarios y los
+consumidores operan. Ningún tipo de mercado es más serio o importante
+que otro en términos del papel que desempeña promoviendo el robo. Los
+seis tipos de mercados son los siguientes:&lt;/p&gt;
+&lt;h4 id=&#34;proveedores-de-intermediarios-comerciales&#34;&gt;Proveedores de intermediarios comerciales &lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones venden bienes robados a intermediarios comerciales, quienes operan en tiendas como joyerías, casa de empeño y locales de segunda mano.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;proveedores-de-intermediarios-residenciales&#34;&gt;Proveedores de intermediarios residenciales&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones venden bienes robados (especialmente bienes electrónicos) a intermediarios, generalmente en los hogares de estos últimos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ventas-en-cadena&#34;&gt;Ventas en cadena&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones traspasan los bienes robados, y cada participante de la cadena aumenta un poco el precio hasta que se encuentra un consumidor. Esto puede involucrar a un intermediario residencial, y el comprador puede ser el consumidor final o puede vender los bienes nuevamente a través de otros vínculos sociales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ventas-comerciales&#34;&gt;Ventas comerciales&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Los intermediarios comerciales generalmente se presentan abiertamente como dueños de negocios legítimos mientras venden en secreto bienes robados para obtener ganancias, ya sea directamente al consumidor (inocente) o, más infrecuentemente, a otro distribuidor que piensa que podría revender los bienes para obtener ganancias adicionales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;venta-en-lugares-públicos&#34;&gt;Venta en lugares públicos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones venden directamente a los consumidores en lugares como bares, pubs o incluso puerta a puerta (e.g., ladrones de tiendas pueden vender cigarrillos, artículos de baño, ropa o comida).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ventas-por-internet&#34;&gt;Ventas por internet&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Este tipo de mercado implica la venta de bienes robados a través de sitios web privados o en sitios de subastas en línea, tales como eBay, Facebook Marketplace o MercadoLibre. Esto les da a los ladrones acceso a compradores que de otro modo no podrían alcanzar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;el-dilema-del-vendedor&#34;&gt;El Dilema del Vendedor&lt;/h3&gt;
+&lt;p&gt;Entender los dilemas a los que se enfrentan las personas que
+comercializan bienes robados es útil para diseñar estrategias de
+prevención y control.&lt;/p&gt;
+&lt;p&gt;El dilema del vendedor de bienes robados es que para aumentar sus
+posibilidades de obtener una ganancia tiene que aumentar los riesgos de
+ser descubierto. El vendedor puede elegir vender únicamente a individuos
+conocidos, lo que reduce los riesgos de ser engañado o detectado, pero
+restringe sus ventas y oportunidades de compra. Por otra parte, el
+vendedor puede vender a desconocidos, lo que le permite tener acceso a
+más clientes potenciales, pero a la vez aumenta sus posibilidades de
+ser detenido o engañado.&lt;/p&gt;
+&lt;h3 id=&#34;intermediarios&#34;&gt;Intermediarios&lt;/h3&gt;
+&lt;p&gt;Algunos traficantes de bienes robados son intermediarios profesionales,
+que disimulan sus actividades detrás de fachadas comerciales legítimas.
+Otros no lo son, pero en vez operan desde sus propios hogares, o
+desplazándose de un lugar a otro, usando por ejemplo redes de asociados
+vinculados a través de teléfonos móviles. En otros mercados, los
+consumidores y los distribuidores inocentes pueden comprar directamente
+a los ladrones en vez de hacerlo a través de un intermediario.&lt;/p&gt;
+&lt;h4 id=&#34;principios-básicos-de-los-intermediarios&#34;&gt;Principios Básicos de los Intermediarios&lt;/h4&gt;
+&lt;p&gt;Para que un intermediario profesional pueda operar y evitar su
+detención, necesita entrenar a ladrones promisorios para evitar la
+detección y maximizar las ganancias. Debe ocultar sus actividades con
+bienes robados detrás de una fachada comercial legítima. También debe
+permanecer deliberadamente ignorante respecto de si los bienes que
+compra de otros distribuidores son a su vez robados. Debe intentar
+descargar rápidamente los bienes robados para evitar ser detectado, pero
+también saber cuándo es más seguro almacenarlos y venderlos más tarde.
+Debe evitar ser descubierto en posesión de bienes robados, pero en caso
+de que lo sea, debe saber cómo dificultar a la policía para que pueda
+demostrar que sabía que los bienes eran robados.&lt;/p&gt;
+&lt;h3 id=&#34;método-de-operación&#34;&gt;Método de Operación&lt;/h3&gt;
+&lt;p&gt;Los ladrones inexpertos tienden a vender principalmente a desconocidos
+en lugares públicos o vendiendo sólo a un intermediario residencial
+conocido. En particular, los usuarios problemáticos de drogas a menudo
+encuentran difícil ubicar a intermediarios con quienes hacer negocios.
+Los delincuentes más experimentados y prolíficos tienden a conocer la
+mayoría de las formas de vender bienes robados en una variedad de
+mercados.&lt;/p&gt;
+&lt;h2 id=&#34;entendiendo-su-problema-local&#34;&gt;Entendiendo Su Problema Local&lt;/h2&gt;
+&lt;p&gt;Toda la información provista anteriormente constituye sólo una
+descripción general de los mercados de bienes robados. Se deben
+combinar los hechos básicos con un entendimiento más específico del
+problema local. Analizar el problema local cuidadosamente ayudará a
+diseñar una estrategia de respuesta más efectiva.&lt;/p&gt;
+&lt;p&gt;Para entender las dinámicas de los mercados de bienes robados en su
+área, se debe entrevistar a delincuentes e informantes conocidos. Es
+importante hablar con quienes roban, venden, comercializan y usan
+propiedad robada, así como aquellos que pueden saber sobre estas
+personas. Generalmente, se debe solicitar información a los siguientes
+grupos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Delincuentes actuales, recientemente activos y exdelincuentes
+(ladrones, intermediarios, narcotraficantes, usuarios de drogas);&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Presos (condenados por robo, comercialización de bienes robados, y
+uso o tráfico de drogas); y,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Informantes confidenciales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;También se debe asegurar de que el público pueda denunciar a la policía,
+de manera fácil y confidencial, sobre cualquier actividad sospechosa
+relacionada con bienes robados.&lt;/p&gt;
+&lt;h3 id=&#34;partes-interesadas&#34;&gt;Partes Interesadas&lt;/h3&gt;
+&lt;p&gt;Además de las entidades locales de justicia penal, los siguientes grupos
+tienen intereses en el problema del comercio de bienes robados, y se
+debería considerar la contribución que podrían hacer para recolectar
+información sobre el problema y responder a él:&lt;/p&gt;
+&lt;h4 id=&#34;asociaciones-comerciales&#34;&gt;Asociaciones comerciales&lt;/h4&gt;
+&lt;p&gt;Asociaciones que representan a vendedores minoristas bares, comerciantes de chatarra, entre otros, tienen un interés en evitar que los comerciantes de bienes robados socaven la participación en el mercado de comerciantes legítimos, y pueden saber qué comerciantes son sospechosos de tratar con bienes robados.&lt;/p&gt;
+&lt;h4 id=&#34;profesionales-de-prevención-de-pérdida-de-activos&#34;&gt;Profesionales de prevención de pérdida de activos&lt;/h4&gt;
+&lt;p&gt;Los profesionales de prevención de pérdidas tienen un interés en reducir las pérdidas derivadas de desvíos de mercancía mayoristas compradas legítimamente a los mercados ilegítimos de bienes robados.&lt;/p&gt;
+&lt;h4 id=&#34;líneas-directas-de-denuncia-de-delitos&#34;&gt;Líneas directas de denuncia de delitos&lt;/h4&gt;
+&lt;p&gt;Pueden tener información sobre presuntos ladrones e intermediarios en particular, así como sobre tendencias emergentes.&lt;/p&gt;
+&lt;h4 id=&#34;autoridades-tributarias&#34;&gt;Autoridades tributarias&lt;/h4&gt;
+&lt;p&gt;Están interesadas en detener ingresos fiscales perdidos atribuibles al comercio de bienes robados y pueden tener información respecto a entidades comerciales sospechosas.&lt;/p&gt;
+&lt;h4 id=&#34;entidades-reguladoras&#34;&gt;Entidades reguladoras&lt;/h4&gt;
+&lt;p&gt;Saben qué tipo de regulaciones legales pueden aplicar a empresas sospechosas de comercializar bienes robados.&lt;/p&gt;
+&lt;h4 id=&#34;agencias-de-policía-nacionales-y-estatales&#34;&gt;Agencias de policía nacionales y estatales&lt;/h4&gt;
+&lt;p&gt;Las agencias policiales nacionales y estatales podrían saber cómo los mercados de bienes robados locales están conectados a organizaciones criminales más grandes y sofisticadas.&lt;/p&gt;
+&lt;h3 id=&#34;haciendo-las-preguntas-correctas&#34;&gt;Haciendo las Preguntas Correctas&lt;/h3&gt;
+&lt;p&gt;Las siguientes son algunas preguntas claves que se deberían tener en
+cuenta al analizar los problemas de mercados de bienes robados, incluso
+si las respuestas no siempre están disponibles. Las respuestas a éstas y
+a otras preguntas ayudarán a elegir el conjunto más apropiado de
+respuestas.&lt;/p&gt;
+&lt;h4 id=&#34;mercados-de-bienes-robados&#34;&gt;Mercados de Bienes Robados&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Cuánto comercio de bienes robados ocurre en su jurisdicción?
+(Recuerde que los datos de delitos registrados por la policía
+oficial son de poca ayuda para esto, ya que el público rara vez
+denuncia tales delitos, y muchos casos de recepción de artículos
+robados son en realidad casos en los que los ladrones se declararon
+culpables de un cargo menor cuando la evidencia del robo original es
+débil).&lt;/li&gt;
+&lt;li&gt;¿Cuáles tipos de mercados de bienes robados comercializan qué tipos
+específicos de bienes?&lt;/li&gt;
+&lt;li&gt;¿Se están reduciendo o incluso cerrando algunos tipos de mercados?
+¿Están surgiendo nuevos tipos de mercados?&lt;/li&gt;
+&lt;li&gt;¿Dónde se ubican los mercados para tipos específicos de bienes
+robados?&lt;/li&gt;
+&lt;li&gt;¿Cuál es el descuento típico para bienes robados? ¿El descuento está
+aumentando o disminuyendo?&lt;/li&gt;
+&lt;li&gt;¿Qué proporción de bienes robados en su jurisdicción estima que son
+vendidos posteriormente en mercados de bienes robados, en lugar de
+ser usados por el ladrón, recuperados por la policía o descartados?&lt;/li&gt;
+&lt;li&gt;¿Cuán fácil y rápido es para &lt;em&gt;los ladrones&lt;/em&gt; encontrar un comprador
+para sus bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Cuán fácil y rápido es para &lt;em&gt;los intermediarios&lt;/em&gt; encontrar un
+comprador para sus bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Cómo transportan los ladrones los bienes robados a los
+intermediarios?&lt;/li&gt;
+&lt;li&gt;¿Qué suelen hacer los ladrones con los bienes inmediatamente después
+de robarlos (e.g., los venden o intercambian en la calle; los
+ocultan mientras buscan un comprador; los venden a una casa de
+empeño o a un intermediario)?&lt;/li&gt;
+&lt;li&gt;¿Con qué frecuencia los ladrones necesitan deshacerse de bienes que
+pueden vender?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;delincuentes&#34;&gt;Delincuentes&lt;/h4&gt;
+&lt;h5 id=&#34;ladrones&#34;&gt;Ladrones&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quién hace negocios con determinados tipos de bienes robados? ¿En
+qué mercado(s) los hace y cómo?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los ladrones como &lt;em&gt;riesgos&lt;/em&gt; de vender bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los ladrones como &lt;em&gt;recompensas&lt;/em&gt; de vender bienes
+robados?&lt;/li&gt;
+&lt;li&gt;¿Cómo evitan los ladrones la detección al vender bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Cómo aprenden los ladrones dónde vender bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Qué tan seguros se sienten los ladrones transportando y almacenando
+bienes robados?&lt;/li&gt;
+&lt;li&gt;¿Qué tan seguros se sienten los ladrones al lidiar con un
+intermediario?&lt;/li&gt;
+&lt;li&gt;¿Qué tan preocupados se sienten los ladrones por ser descubiertos?&lt;/li&gt;
+&lt;li&gt;¿Cuánto saben los ladrones sobre las operaciones policiales contra
+el tráfico de bienes robados?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;intemediarios&#34;&gt;Intemediarios&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quiénes son los intermediarios (e.g., profesionales; comerciantes
+semi-legítimos)?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los intermediarios como &lt;em&gt;riesgos&lt;/em&gt; de vender bienes
+robados?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los intermediarios como &lt;em&gt;recompensas&lt;/em&gt; de vender bienes
+robados?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;consumidores&#34;&gt;Consumidores&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Quién en su jurisdicción tiende a comprar bienes que saben o
+deberían sospechar que han sido robados?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los consumidores como &lt;em&gt;riesgos&lt;/em&gt; de comprar bienes
+robados?&lt;/li&gt;
+&lt;li&gt;¿Qué perciben los consumidores como &lt;em&gt;recompensas&lt;/em&gt; de comprar bienes
+robados?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Qué tipos de bienes se venden comúnmente en los mercados de bienes
+robados?&lt;/li&gt;
+&lt;li&gt;¿Qué tipos de artículos específicos son recientemente cotizados?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;ubicaciones-y-horarios&#34;&gt;Ubicaciones y Horarios&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;¿Dónde se ubican las operaciones de intermediarios dentro de su
+jurisdicción?&lt;/li&gt;
+&lt;li&gt;¿Existen variaciones estacionales en los tipos de bienes vendidos
+en mercados de bienes robados (e.g., cortacéspedes en verano;
+electrónica y computadores portátiles al comienzo de los años
+académicos; libros de textos universitarios al comienzo de los
+semestres y justo antes de los periodos de exámenes)?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;consejos-para-entender-los-mercados-locales-de-bienes-robados&#34;&gt;Consejos para Entender los Mercados Locales de Bienes Robados&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Entreviste a una muestra de personas que trabajan en los sectores de bienes mayoristas y minoristas.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Sin hablar sobre el delito, averigüe cómo y por qué algunos productos son rechazados o transportados fuera de las tiendas que los compraron legítimamente y donde terminan estos artículos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mapee posibles puntos calientes de mercados de bienes robados.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Analice con colegas, informantes, delincuentes, exdelincuentes y otros expertos, tales como funcionarios públicos o criminólogos respecto a por qué ciertas áreas pueden ser propicias para los mercados de bienes robados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fotografíe letreros de tiendas en su jurisdicción que parezcan invitar a los ladrones a vender productos robados ahí.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Nuevamente, analice junto a otros que puedan contribuir su conocimiento experto en el tema.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Realizar encuestas a víctimas de robo y al público de una comuna, departamento, pueblo o ciudad es costoso.&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Si bien este tipo de ejercicios es invaluable para la investigación académica, estos esfuerzos toman mucho tiempo y, debido a las características específicas de los problemas de delincuencia local, ofrece poca información útil para iniciativas locales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;midiendo-su-efectividad&#34;&gt;Midiendo Su Efectividad&lt;/h2&gt;
+&lt;p&gt;La medición permite determinar en qué grado los esfuerzos han tenido
+éxito y sugiere como se podrían modificar las respuestas si no está
+produciendo los resultados deseados. Se deberían medir los problemas
+delictivos &lt;em&gt;antes&lt;/em&gt; de implementar respuestas, para así determinar cuán
+serios son los problemas, y &lt;em&gt;después&lt;/em&gt; de implementarlas, para determinar
+si es que fueron efectivas. Se debería tomar mediciones tanto en el área
+objetivo como en un área de control, como por ejemplo el área
+circundante. Por lo general, se necesita un periodo de tiempo de al
+menos tres meses para medir el impacto de las respuestas a los mercados
+de bienes robados.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 57,
+originalmente elaborada por
+Michael Sutton,
+de la serie de guías de
+Problemas Específicos
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/stolen-goods-markets-0&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Un receptor, comerciante o vendedor de bienes robados; un individuo que, a sabiendas de su procedencia, compra bienes robados para más tarde venderlos obteniendo una ganancia. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robo Callejero</title>
+      <link>/problemas-y-soluciones/robo-a-transeunte/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/robo-a-transeunte/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    Esta guía describe los factores generales que contribuyen al robo
+callejero y discute cómo ayudar a mejorar la comprensión del problema
+local de este tipo de delito. El robo callejero es uno de los delitos
+más comunes en el mundo, sin embargo, los patrones y las causas de este
+crimen pueden variar según la ubicación y el contexto. Esto significa
+que las respuestas al robo callejero probablemente variarán, pero que
+también es probable que haya mucho en común en los procesos de
+prevención de este delito. En esta guía, también describimos algunas de
+las posibles respuestas a los problemas de robo callejeros.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;el-problema-del-robo-callejero&#34;&gt;El problema del robo callejero&lt;/h2&gt;
+&lt;p&gt;El robo callejero es un delito en el que el delincuente roba el dinero o
+la propiedad de un peatón con el uso o la amenaza de fuerza en un lugar
+público o semipúblico. El robo callejero ocurre entre extraños y no
+necesariamente involucra un arma. Hay varios tipos de robo en la calle,
+y estos serán discutidos más adelante en esta guía. Esta guía no cubre
+otros delitos callejeros, ya que son causados por diferentes estructuras
+de oportunidad y requieren análisis y respuestas de diferente estilo.&lt;/p&gt;
+&lt;h3 id=&#34;resumen-general-del-problema&#34;&gt;Resumen general del problema&lt;/h3&gt;
+&lt;p&gt;Los robos callejeros constituyen una gran parte de todos los robos. En
+muchos países, casi la mitad de todos los robos denunciados a la policía
+son robos callejeros. Si bien el robo callejero se ha reducido en los
+Estados Unidos y Europa desde mediados de la década de 1990, los robos
+callejeros son un problema relevante y creciente en América Latina y el
+Caribe (ALC). Según encuestas, entre el 10,1% y el 30,6% de las personas
+en los países de América Latina fueron víctimas de robo durante el mismo
+año&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;, de los cuales la mayoría fueron víctimas de robos callejeros.&lt;/p&gt;
+&lt;h4 id=&#34;delincuentes&#34;&gt;Delincuentes&lt;/h4&gt;
+&lt;p&gt;Los que cometen robos callejeros tienden a ser jóvenes;
+los delincuentes suelen estar en la adolescencia y a principios de los
+20 años de edad. Los delincuentes son típicamente hombres. Aunque la
+raza parece ser un factor en los Estados Unidos, se desconoce si juega
+un papel en la región de ALC. Es más probable que el estatus
+socioeconómico juegue un papel más importante que la raza en la región
+de ALC.&lt;/p&gt;
+&lt;h4 id=&#34;víctimas&#34;&gt;Víctimas&lt;/h4&gt;
+&lt;p&gt;Los delincuentes que llevan a cabo el robo callejero
+generalmente buscan víctimas que parecen tener dinero u otros artículos
+de valor. También buscan a aquellas personas que pueden ser más
+vulnerables y menos propensas a resistir un robo (ej. alguien que este
+solo o intoxicado). Los peatones que están distraídos y menos alertas a
+su entorno también tienen más probabilidades de parecer vulnerables a un
+delincuente.&lt;/p&gt;
+&lt;h4 id=&#34;horarios-días-y-lugares&#34;&gt;Horarios, días y lugares&lt;/h4&gt;
+&lt;p&gt;Los robos callejeros se agrupan en
+determinados momentos, días y lugares. Esto se debe a que los patrones
+de robo en la calle siguen los ritmos y las actividades rutinarias de la
+vida cotidiana. Los ladrones de la calle aprovechan el hecho de que los
+peatones vulnerables son más propensos a ser encontrados en la calle
+durante ciertos momentos, en ciertos días, en ciertas partes de una
+ciudad, a medida que avanzan en su vida diaria (ej. desplazamientos
+hacia y desde el trabajo) Aunque los patrones específicos varían,
+algunos patrones generales son comunes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Momentos&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A menudo, la mayoría de los robos ocurren
+durante la tarde y la noche. Sin embargo, para algunos grupos de
+personas, los tiempos pico de robo variarán dependiendo de sus
+actividades rutinarias. Por ejemplo, es más probable que las
+personas de edad avanzada sean robadas a primera hora de la tarde
+mientras hacen mandados, mientras que los jóvenes en edad escolar
+tienen más probabilidades de ser robados al final de la tarde cuando
+salen de la escuela y regresan a casa. Del mismo modo, es más
+probable que los delincuentes roben a los adultos jóvenes durante la
+tarde y la noche cuando salen del trabajo o van en busca de
+entretenimiento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Días&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;En los Estados Unidos y el Reino Unido, la
+mayoría de los robos callejeros ocurren los fines de semana. Esto se
+debe a que las actividades sociales que ocurren los fines de semana
+atraen a muchos objetivos potenciales a un área única. No es claro
+si el robo en callejero en ALC también alcanza su punto máximo los
+fines de semana, pero es probable que los patrones de robo imiten
+otros patrones diarios de actividad social. Por ejemplo, es probable
+que el robo en la calle sea más común los días que las personas usan
+el transporte público para ir de su trabajo a su hogar, ya que los
+robos pueden ocurrir cerca de los centros de transporte que usan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Lugar&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El robo callejero es más común en las zonas
+urbanas que en las rurales. Sin embargo, incluso dentro de un área,
+es probable que el robo callejero se agrupe en lugares específicos
+(en calles especificas o intersecciones particulares). Estos lugares
+también pueden ser estacionamientos, parques, campos, parques
+infantiles y áreas cercanas a paradas y centros de transporte
+público.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;objetivos&#34;&gt;Objetivos&lt;/h4&gt;
+&lt;p&gt;Los ladrones son más propensos a robar ciertos artículos
+durante un robo callejero: efectivo, monederos, tarjetas de crédito,
+joyas, ropa y dispositivos electrónicos portátiles (especialmente
+teléfonos móviles). Es probable que la proliferación de teléfonos
+móviles en las últimas dos décadas haya contribuido al aumento del robo
+callejero en algunos lugares. En general, los artículos tomados durante
+este tipo de robos caen dentro de las características de CRAVED (por sus
+siglas en ingles). Estos son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Ocultable&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los artículos son fáciles de ocultar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Extraíble&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones pueden llevarse fácilmente el artículo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Disponible&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Se encuentran comúnmente en víctimas potenciales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Valiosos&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Los artículos son útiles para el ladrón u otra persona.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Deseados&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los artículos son divertidos de usar, brindan placer y
+satisfacción&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;&lt;strong&gt;Desechables&lt;/strong&gt;&lt;/em&gt;
+&lt;ul&gt;
+&lt;li&gt;Los ladrones pueden vender o intercambiar los artículos
+con facilidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;daños-causados-por-el-robo-callejero&#34;&gt;Daños causados por el robo callejero&lt;/h3&gt;
+&lt;p&gt;El robo callejero es una fuente que genera temor entre la población en
+general porque las víctimas enfrentan una amenaza repentina a la vida,
+una pérdida de control, la pérdida potencial de propiedades valiosas y
+una invasión a su seguridad personal. El robo en la calle es
+especialmente un generador de miedo público porque ocurre mientras las
+víctimas realizan su vida cotidiana.&lt;/p&gt;
+&lt;p&gt;Los robos callejeros también tienen un alto riesgo de provocar lesiones
+a la víctima (y, en el peor de los casos, la muerte) y, por lo tanto,
+contribuyen a la sobrecarga del sistema de salud parcialmente generada
+por el crimen y la violencia que enfrenta ALC. El riesgo de muerte es
+particularmente alto si el delincuente usa un arma para cometer el robo
+(un hecho muy común en ALC). Es probable que los altos niveles de
+homicidio en ALC estén en parte relacionados con los robos callejeros
+que terminan en homicidios. &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h2 id=&#34;factores-que-contribuyen-al-robo-callejero&#34;&gt;Factores que contribuyen al robo callejero&lt;/h2&gt;
+&lt;p&gt;Desarrollar una respuesta adecuada al robo callejero requiere comprender
+la forma en que ciertos factores contribuyen al problema. Las
+condiciones locales pueden incluir situaciones no cubiertas en esta
+guía, pero los elementos discutidos pueden ayudarlo a pensar
+sistemáticamente sobre los problemas que enfrenta.&lt;/p&gt;
+&lt;p&gt;Se debe basar la investigación en el triángulo de análisis de robo
+callejero. El triángulo organiza los factores básicos que contribuyen a
+los problemas de este crimen en particular. Aunque ningún elemento por
+sí solo explica completamente el problema y la forma en que las
+víctimas, los delincuentes, las ubicaciones y las rutinas interactúan,
+el modelo en su totalidad contribuye a entender los patrones del robo
+callejero.&lt;/p&gt;
+&lt;h4 id=&#34;el-triángulo-de-análisis-del-robo-callejero&#34;&gt;El triángulo de análisis del robo callejero&lt;/h4&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;figure id=&#34;figure-el-triángulo-de-análisis-del-robo-callejero&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/media/street_robbery_triangle.svg&#34; data-caption=&#34;El triángulo de análisis del robo callejero.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;/media/street_robbery_triangle.svg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;&lt;/p&gt;
+  &lt;figcaption&gt;
+    El triángulo de análisis del robo callejero.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Los robos callejeros ocurren cuando los delincuentes motivados
+encuentran víctimas adecuadas en un lugar que facilita el robo. Cuando
+los delincuentes se encuentran repetidamente con víctimas en el mismo
+lugar, surge un problema persistente de robo callejero. Dependiendo de
+las circunstancias del problema del robo en la calle, la importancia de
+cada uno de los elementos del triángulo del crimen variará. El triángulo
+de análisis del delito también ayuda a identificar los elementos que
+pueden manipularse durante intervención por parte de la policía.
+Dirigirse a un lado del triángulo podría ayudar, pero abordar más de uno
+probablemente sea más efectivo para reducir los problemas que facilitan
+al robo callejero.&lt;/p&gt;
+&lt;h3 id=&#34;delincuentes-1&#34;&gt;Delincuentes&lt;/h3&gt;
+&lt;p&gt;Como todos los delincuentes, los ladrones callejeros participan en un
+proceso de toma de decisiones cuando seleccionan víctimas, horarios y
+lugares para cometer sus crímenes. Para implementar intervenciones
+apropiadas, es útil considerar los siguientes tres factores que afectan
+el proceso de toma de decisiones de un delincuente:&lt;/p&gt;
+&lt;h4 id=&#34;necesidades-de-efectivo&#34;&gt;Necesidades de efectivo&lt;/h4&gt;
+&lt;p&gt;Los delincuentes roban principalmente porque
+quieren o necesitan efectivo. Esto podría ser para obtener el dinero
+necesario para comprar sustancias intoxicantes (por ejemplo, alcohol,
+drogas) u otros artículos que representan el éxito o estatus (por
+ejemplo, ropa, joyas). Cuando los delincuentes participan en robos
+callejeros frecuentemente, las ganancias pueden utilizarse para
+financiar una carrera criminal establecida. Cuando los ladrones toman
+otros artículos valiosos de las víctimas (por ejemplo, teléfonos
+móviles), pueden usarlos ellos mismos, pero es más común que vendan los
+artículos un mercado de bienes robados.&lt;/p&gt;
+&lt;h4 id=&#34;métodos-de-ataque&#34;&gt;Métodos de ataque&lt;/h4&gt;
+&lt;p&gt;Los delincuentes usan diferentes métodos de ataque
+para cometer un robo callejero. La capacidad de usar un método en un
+entorno particular también puede afectar su decisión de cometer el robo.
+Los cuatro métodos principales de ataque son (con detalles adicionales
+proporcionados en la tabla a continuación):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Flash&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El delincuente primero usa la violencia para
+dominar a la víctima y luego procede a robarla.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Arrebato&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Los delincuentes toman rápidamente la
+propiedad visible (por ejemplo, un bolso o un teléfono móvil) de la
+víctima y escapan a toda velocidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Enfrentamiento&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El delincuente exige las posesiones de
+la víctima mediante amenazas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Engaño&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El delincuente utiliza una distracción para
+atrapar a la víctima con la guardia baja, por ejemplo, preguntando
+la hora.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;planificación&#34;&gt;Planificación&lt;/h4&gt;
+&lt;p&gt;Los delincuentes aprenden de la experiencia previa qué
+tácticas funcionan dependiendo de la situación. Lo que podría parecer
+impulsivo o aleatorio podría ser, de hecho, el producto de un plan
+moldeado por la experiencia previa. Las circunstancias inmediatas (por
+ejemplo, la disponibilidad de armas, vehículos o cómplices) también
+pueden afectar la planificación. La idea principal es que los
+delincuentes utilizan la planificación básica para superar los desafíos
+situacionales para cometer un robo callejero. Por lo tanto, las
+intervenciones podrían centrarse en interrumpir los planes de los
+delincuentes al hacer que tales desafíos situacionales sean más
+difíciles de superar.&lt;/p&gt;
+&lt;h4 id=&#34;tipos-de-robo&#34;&gt;Tipos de robo&lt;/h4&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Resumen de los tipos de robo, recuerde que los tipos no son mutuamente excluyentes.&lt;/p&gt;
+&lt;h5 id=&#34;flash&#34;&gt;Flash&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes usan la violencia para obtener el control.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las víctimas están aisladas y los delincuentes pueden sorprenderlas y controlarlas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;No es útil en multitudes. Se puede usar cuando no hay rutas de escape.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5 id=&#34;arrebato&#34;&gt;Arrebato&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes identifican elementos visibles y los toman rápidamente sin exigencias verbales.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los lugares están llenos de gente y hay muchas rutas de escape. Los delincuentes pueden mezclarse y las víctimas no pueden perseguirlos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes pueden trabajar en grupos. No requiere armas. Los delincuentes deben mezclarse con lo que los rodea.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5 id=&#34;enfrentamiento&#34;&gt;Enfrentamiento&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes se acercan a la víctima y hacen demandas verbales. La violencia física es posible, pero no requerida.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las víctimas están aisladas, los delincuentes pueden acercarse sin alertarlos y pueden hacer amenazas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las armas (reales o falsas) son útiles. Las víctimas distraídas o con discapacidades son más vulnerables.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5 id=&#34;engaño&#34;&gt;Engaño&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes involucran a la víctima con una distracción, luego proceden a robarla.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las víctimas no se sienten amenazadas por el lugar o el delincuente. Objetos de valor visibles.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Se puede usar en multitudes o en aislamiento. El arma solo se necesita como respaldo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;víctimas-1&#34;&gt;Víctimas&lt;/h3&gt;
+&lt;p&gt;Las características de las víctimas&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; son importantes porque se
+relacionan con algunas actividades rutinarias que aumentan el riesgo de
+sufrir un delito. Descubrir que cierto grupo de personas enfrenta un
+mayor riesgo de ser víctima de un robo callejero es un paso importante,
+pero también se debe determinar el porqué.&lt;/p&gt;
+&lt;p&gt;Para identificar cuales características de las víctimas pueden hacerlas
+más idóneas al robo callejero, es necesario mirar a las víctimas desde
+la perspectiva del delincuente. Hay cinco características de la víctima
+que los delincuentes pueden notar.&lt;/p&gt;
+&lt;h4 id=&#34;vulnerable&#34;&gt;Vulnerable&lt;/h4&gt;
+&lt;p&gt;Los delincuentes prefieren objetivos que consideran fáciles
+de intimidar, someter o dominar. Buscan objetivos que tengan menos
+probabilidades de resistir.&lt;/p&gt;
+&lt;h4 id=&#34;interesantes&#34;&gt;Interesantes&lt;/h4&gt;
+&lt;p&gt;Las variables que pueden hacer que una víctima sea
+interesante para un ladrón no son universales. Algunos ladrones quieren
+solo robar efectivo y, por lo tanto, buscarán víctimas que perciban que
+sean más propensas a llevar efectivo u otros artículos que valga la pena
+robar (como teléfonos móviles).&lt;/p&gt;
+&lt;h4 id=&#34;distraídos&#34;&gt;Distraídos&lt;/h4&gt;
+&lt;p&gt;Los delincuentes prefieren objetivos que están distraídos
+(por ejemplo, usando su teléfono, borrachos), son más fáciles de abordar
+y de controlar.&lt;/p&gt;
+&lt;h4 id=&#34;sin-complicaciones&#34;&gt;Sin complicaciones&lt;/h4&gt;
+&lt;p&gt;Los delincuentes prefieren objetivos que son más
+fáciles de controlar, aunque esto depende del tipo de métodos de ataque
+que los delincuentes elijan usar.&lt;/p&gt;
+&lt;h4 id=&#34;eludible&#34;&gt;Eludible&lt;/h4&gt;
+&lt;p&gt;Los delincuentes toman en consideración la facilidad con la
+que pueden huir después de atacar a una víctima. Esto también se
+relaciona con la probabilidad de que el delincuente perciba que la
+víctima pueda resistirse o perseguirlo.&lt;/p&gt;
+&lt;h3 id=&#34;lugar&#34;&gt;Lugar&lt;/h3&gt;
+&lt;p&gt;Los delincuentes eligen ubicaciones en función de las características
+situacionales que hacen que algunos lugares sean más adecuados o
+atractivos para cometer robos. Además, algunos lugares pueden tener más
+robos debido a las actividades rutinarias que tienen lugar allí. Los
+delincuentes también prefieren lugares donde puedan mezclarse y escapar
+fácilmente.&lt;/p&gt;
+&lt;p&gt;Los delincuentes también consideran la distancia que deben viajar al
+lugar donde planean cometer un delito. En general, los delincuentes
+prefieren viajar distancias cortas, en lugar de largas distancias, pero
+la relevancia de la distancia de viaje varía según la ciudad. Las
+ciudades que, por ejemplo, tienen buenos sistemas de transporte público
+o autopistas rápidas, hacen que la variable de la distancia pueda no ser
+tan relevante.&lt;/p&gt;
+&lt;p&gt;La cantidad de peatones es un factor importante que afecta la ubicación
+del robo callejero. En general, no es probable que ocurran robos en las
+calles donde la densidad de peatones es más alta (donde los objetivos
+son abundantes, pero la protección es alta), ni donde es más baja (donde
+la protección es baja, pero no hay objetivos). Es más probable que el
+robo ocurra en un punto intermedio, donde hay suficientes peatones para
+proporcionar una cantidad decente de objetivos, pero no los suficientes
+para aumentas los niveles de protección.&lt;/p&gt;
+&lt;p&gt;Hay cuatro características de los lugares que pueden atraer a los
+ladrones callejeros:&lt;/p&gt;
+&lt;h4 id=&#34;protección-natural&#34;&gt;Protección natural&lt;/h4&gt;
+&lt;p&gt;El tráfico de peatones y vehículos aumenta la
+protección, por lo que es probable que los delincuentes elijan lugares
+con un nivel de protección deficiente.&lt;/p&gt;
+&lt;h4 id=&#34;rutas-de-escape&#34;&gt;Rutas de escape&lt;/h4&gt;
+&lt;p&gt;Los delincuentes prefieren lugares de los que pueden
+escapar rápida y fácilmente.&lt;/p&gt;
+&lt;h4 id=&#34;área-de-familiaridad&#34;&gt;Área de familiaridad&lt;/h4&gt;
+&lt;p&gt;Los ladrones prefieren cometer delitos en áreas
+con las que están más familiarizados.&lt;/p&gt;
+&lt;h4 id=&#34;oportunidades-de-reventa&#34;&gt;Oportunidades de reventa&lt;/h4&gt;
+&lt;p&gt;Los ladrones prefieren ubicaciones cercanas
+a lugares donde pueden vender fácilmente los productos robados.&lt;/p&gt;
+&lt;h3 id=&#34;rutinas&#34;&gt;Rutinas&lt;/h3&gt;
+&lt;p&gt;Las rutinas afectan el momento de los patrones de robo porque unen a
+ladrones y objetivos en ubicaciones específicas. Los cambios en las
+rutinas pueden tener grandes efectos en los patrones de robo. Algunas de
+las rutinas que afectan los patrones de robo son:&lt;/p&gt;
+&lt;h4 id=&#34;eventos-especiales&#34;&gt;Eventos especiales&lt;/h4&gt;
+&lt;p&gt;Eventos como eventos deportivos y festivales pueden
+llevar a una gran cantidad de personas a áreas pequeñas. Las multitudes
+proporcionan una gran cantidad de objetivos, ya sea en los terrenos del
+evento o en las rutas para llegar allí. Los asistentes al evento pueden
+no estar familiarizados con el área, pueden estar distraídos o
+intoxicados, lo que podría hacerlos más vulnerables a los delincuentes.&lt;/p&gt;
+&lt;h4 id=&#34;vacaciones&#34;&gt;Vacaciones&lt;/h4&gt;
+&lt;p&gt;Ciertos días festivos aumentan la disponibilidad de
+víctimas llevando efectivo y otros bienes valiosos en público. Además,
+algunas vacaciones implican un mayor consumo de alcohol y drogas. Por lo
+tanto, los robos pueden alcanzar su punto máximo en estas fechas.&lt;/p&gt;
+&lt;h4 id=&#34;rutinas-anuales&#34;&gt;Rutinas anuales&lt;/h4&gt;
+&lt;p&gt;El comienzo del año escolar puede aumentar la
+cantidad de personas que llevan artículos CRAVED en áreas desconocidas
+(por ejemplo, nuevos estudiantes con computadoras portátiles y teléfonos
+en el campus). Otras rutinas que convocan grandes volúmenes de personas
+en nuevas ubicaciones incluyen el trabajo estacional y las vacaciones.&lt;/p&gt;
+&lt;h4 id=&#34;interrupción-a-las-rutinas&#34;&gt;Interrupción a las rutinas&lt;/h4&gt;
+&lt;p&gt;La construcción puede alterar las rutas
+que las personas suelen tomar para llegar al trabajo, forzándolas a
+pasar por lugares desconocidos y exponiéndolos potencialmente a un mayor
+riesgo de robo. El equipo de construcción (como andamios y barreras)
+también puede obstruir la vista, reduciendo la protección natural del
+ambiente. Las interrupciones también pueden disminuir el riesgo de robo
+al separar a los delincuentes de los objetivos.&lt;/p&gt;
+&lt;h4 id=&#34;rutinas-cotidianas&#34;&gt;Rutinas cotidianas&lt;/h4&gt;
+&lt;p&gt;Los ritmos de la vida cotidiana pueden tener un
+gran efecto en los patrones de robo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Escuela&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;El día escolar dicta las horas y los días en
+que los estudiantes están expuestos a robos en la calle (por
+ejemplo, llegar y salir de la escuela los días de semana).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Desplazamientos&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;La mayoría de las ciudades ven un
+aumento de la densidad de peatones en los momentos en que las
+personas llegan y salen del trabajo (mañana y tarde). La forma en
+que estas horas punta afectan los patrones de robo probablemente
+variará según la ciudad y el vecindario.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Rutinas de pago&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Algunos trabajadores reciben salarios
+durante periodos específicos y regulares (por ejemplo, diariamente,
+quincenalmente, mensualmente). Los trabajadores pagados en efectivo
+al final del día son objetivos de robo. De manera similar, es más
+probable que los robos se acerquen a las fechas en que los
+trabajadores reciben su salario, ya que las víctimas pueden salir a
+disfrutar de sus ingresos y los delincuentes están al acecho de
+estos objetivos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Entretenimiento&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Las rutinas asociadas con el
+entretenimiento pueden afectar los patrones de robo al reunir a los
+delincuentes y objetivos en lugares en determinados momentos (como
+parques, museos, teatros, bares y restaurantes). El aumento del
+consumo de alcohol puede aumentar aún más el riesgo de robo al
+aumentar la vulnerabilidad y disminuir la capacidad de la víctima
+para protegerse.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;comprender-el-problema-local&#34;&gt;Comprender el problema local&lt;/h2&gt;
+&lt;p&gt;La información en esta guía es una descripción general del robo
+callejero. Para desarrollar respuestas apropiadas a este delito, esta
+guía debe combinarse con análisis cuidadosos de sus condiciones locales.&lt;/p&gt;
+&lt;p&gt;El primer paso es identificar claramente la forma específica de robo
+callejero que afecta a su comunidad. El siguiente paso es el análisis,
+para comprender por qué su comunidad está sufriendo este tipo de robo.&lt;/p&gt;
+&lt;p&gt;Aunque el proceso variará, es útil dividir el proceso de robo en tres
+bloques: lo que ocurrió 1) justo antes del robo; 2) durante el robo; y
+3) después del robo. Comprender lo que estaba sucediendo con el
+delincuente, la víctima y la ubicación durante estos tres bloques puede
+ofrecer información útil sobre el problema del robo.&lt;/p&gt;
+&lt;h3 id=&#34;partes-interesadas&#34;&gt;Partes interesadas&lt;/h3&gt;
+&lt;p&gt;Comprender su problema de robo callejero también puede ayudar a
+identificar a otras partes interesadas que puedan tener un interés o
+papel para resolver el problema. La participación de las partes
+interesadas puede ayudar al proceso de recopilación de datos (es decir,
+otros pueden saber más sobre el problema que la policía) y también
+pueden ayudar a desarrollar e implementar respuestas efectivas. Estas
+otras partes interesadas pueden incluir proveedores de transporte,
+escuelas y universidades, empresas locales y asociaciones empresariales
+y asociaciones locales de vecinos.&lt;/p&gt;
+&lt;h3 id=&#34;haciendo-las-preguntas-correctas&#34;&gt;Haciendo las preguntas correctas&lt;/h3&gt;
+&lt;p&gt;Las respuestas a las siguientes preguntas pueden ayudar a comprender
+mejor su problema de robo callejero.&lt;/p&gt;
+&lt;h4 id=&#34;incidentes&#34;&gt;Incidentes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuántos robos callejeros ocurren en el área de interés?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de robos callejeros no se completaron y qué impidió
+que los delincuentes los completaran?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los robos callejeros aumentan, son estables o disminuyen?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de robos callejeros involucra armas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Se utilizan diferentes tácticas en los robos callejeros? ¿El uso de
+diferentes tácticas varía según las circunstancias, los tiempos, las
+víctimas o los lugares?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;delincuentes-2&#34;&gt;Delincuentes&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuáles son las características de los delincuentes?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los delincuentes son locales? ¿Viven cerca de los sitios de robo?
+¿Cómo llegaron a los sitios de robo?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los delincuentes trabajan solos o en grupos?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de robos fueron cometidos por reincidentes?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de robos fueron cometidos por delincuentes en
+libertad condicional o en espera de juicio por otro delito?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los delincuentes estaban bajo la influencia del alcohol u otras
+sustancias?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué tipo de artículos están siendo robados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Dónde venden o eliminan los ladrones sus artículos robados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;víctimas-2&#34;&gt;Víctimas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Existen patrones relacionados con las características de las
+víctimas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué proporción de las víctimas son víctimas de robo repetido, y son
+las víctimas repetidas diferentes de las víctimas únicas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿A dónde iban y venían las víctimas cuando fueron robadas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Viven las víctimas cerca del lugar donde fueron robadas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de víctimas resisten el robo, cómo resistieron y
+cuáles fueron las consecuencias?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de víctimas fueron heridas o asesinadas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Las víctimas llevaban visiblemente efectivo o artículos CRAVED?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Las víctimas fueron seguidas desde otro lugar, como un cajero
+automático o una estación de tránsito?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;lugares-y-horarios&#34;&gt;Lugares y horarios&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Dónde ocurren los robos callejeros? ¿Hay algún punto caliente?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Están los puntos críticos de robo asociados con rutas de transporte
+público, negocios, eventos o definidos por alguna otra
+característica?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuándo son más probables los robos (por ejemplo, día, noche, día de
+la semana y época del año)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Existen características de seguridad comunes en los puntos críticos
+de robo (por ejemplo, iluminación, visibilidad, circuito cerrado de
+televisión)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;rutinas-1&#34;&gt;Rutinas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Son comunes los robos callejeros durante eventos especiales?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los robos aumentan durante las vacaciones?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los robos están asociados con rutinas anuales?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los robos están asociados con las rutinas diarias?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Hay interrupciones que podrían aumentar o disminuir los robos
+callejeros?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;respuestas-actuales-y-anteriores&#34;&gt;Respuestas actuales y anteriores&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué se ha intentado en el pasado? ¿Funcionó?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Quién ha estado involucrado y qué hicieron?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cómo maneja la policía los robos callejeros?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué les sucede a los ladrones callejeros después del arresto?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;respuestas-al-robo-callejero&#34;&gt;Respuestas al robo callejero&lt;/h2&gt;
+&lt;p&gt;Esta sección de la guía presenta un resumen de varias respuestas comunes
+que se utilizan para ayudar a reducir los problemas de robo. Es vital
+adaptar la respuesta a sus condiciones locales y al problema específico
+de robo callejero que se haya identificado. Es posible tener más de un
+tipo de problema de robo; por lo tanto, cada uno necesitará una
+respuesta específica. Debe poder justificar por qué ha elegido una
+respuesta particular en función de los análisis que ha realizado. Para
+reducir el robo, es probable que se necesite una combinación de
+respuestas (que aborden diferentes lados del triángulo delictivo). Las
+respuestas policiales pueden no ser sostenibles a largo plazo, y es
+probable que el plan de respuesta requiera cooperación con las partes
+interesadas.&lt;/p&gt;
+&lt;h3 id=&#34;respuestas-orientadas-al-delincuente&#34;&gt;Respuestas orientadas al delincuente&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;A continuación se detallan las respuestas organizadas en relación al
+delincuente.&lt;/p&gt;
+&lt;h4 id=&#34;policiamiento-de-zonas-calientes&#34;&gt;Policiamiento de zonas calientes&lt;/h4&gt;
+&lt;p&gt;Patrullas enfocadas en áreas de alta criminalidad.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el riesgo percibido de detección de los ladrones.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía es muy visible en los puntos críticos durante los períodos pico de robo.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Debería ser parte de un plan de solución más grande a largo plazo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;patrullas-enfocadas-encubiertas&#34;&gt;Patrullas enfocadas encubiertas&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el riesgo real de captura de los ladrones.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía vestida de civil puede atrapar a los delincuentes en el acto.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Efectos limitados por sí mismo. Se puede usar para arrestar delincuentes muy prolíficos.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;disuasión-focalizada&#34;&gt;Disuasión focalizada&lt;/h4&gt;
+&lt;p&gt;Uso de la inteligencia para disuadir a ladrones prolíficos.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Disuade a los ladrones prolíficos al aumentar su probabilidad de arresto.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Existen buenas bases de datos de inteligencia criminal.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Puede requerir capacitación y recursos especializados. Difícil de coordinar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;perturbar-los-mercados-de-bienes-robados&#34;&gt;Perturbar los mercados de bienes robados&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce las recompensas de cometer robos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía trabaja con empresas locales y residentes para identificar mercados de bienes robados.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Algunos mercados pueden se online y extenderse más allá de la jurisdicción.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;mejorar-los-métodos-de-identificación-de-ladrones&#34;&gt;Mejorar los métodos de identificación de ladrones&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el riesgo de detección.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Se combina con inteligencia policial.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Puede ser un método demasiado costoso.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;desviar-delincuentes-potenciales-a-actividades-legítimas&#34;&gt;Desviar delincuentes potenciales a actividades legítimas&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Elimina excusas por ofender.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía trabaja con agencias de asistencia social y ONGs.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las asociaciones deben ser cultivadas y sostenidas en el tiempo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;eliminar-herramientas-usadas-para-el-robo&#34;&gt;Eliminar herramientas usadas para el robo&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el esfuerzo por cometer un robo.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los minoristas locales acuerdan regular tales herramientas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los minoristas pueden resistir.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;respuestas-orientadas-a-las-víctimas&#34;&gt;Respuestas orientadas a las víctimas&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;A continuación se detallan las respuestas organizadas en relación a la víctima.&lt;/p&gt;
+&lt;h4 id=&#34;campañas-de-concientización-sobre-robos&#34;&gt;Campañas de concientización sobre robos&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Pide a las víctimas que tomen precauciones, reduciendo su atractivo y vulnerabilidad a los ladrones.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La campaña se dirige solo a las personas con mayor riesgo de sufrir un robo, en los lugares más peligrosos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Una buena campaña puede requerir la participación de profesionales de publicidad y relaciones públicas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;proporcionar-transporte-seguro&#34;&gt;Proporcionar transporte seguro&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce el número de objetivos en la calle.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;El transporte es accesible y está disponible a bajo precio en los momentos y lugares pico de robo.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Requiere la participación de proveedores de transporte y otras partes interesadas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;mejorar-cómo-las-víctimas-denuncian-robos&#34;&gt;Mejorar cómo las víctimas denuncian robos&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Mejora la recopilación de inteligencia, aumentando la probabilidad de arrestos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reportar robos es rápido y conveniente, y la víctima recibe apoyo.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La inteligencia debe fluir rápidamente a los oficiales de primera línea.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;reducción-de-la-intoxicación-en-áreas-pico-de-robo&#34;&gt;Reducción de la intoxicación en áreas pico de robo&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce la vulnerabilidad de las víctimas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía trabaja con lugares de entretenimiento.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las partes interesadas pueden necesitar convencimiento.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;rediseñando-artículos-craved&#34;&gt;Rediseñando artículos CRAVED&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce el atractivo de un objeto para ladrones.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las mejoras de seguridad están bien publicitadas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Requiere convencer a los fabricantes, que pueden no ser locales.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;hacer-que-ciertos-grupos-sean-menos-vulnerables&#34;&gt;Hacer que ciertos grupos sean menos vulnerables&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce el riesgo de victimización de personas vulnerables específicas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Está claro qué hace que un grupo de personas sea más vulnerable.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Requiere un análisis detallado y respuestas creativas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;respuestas-orientadas-a-la-ubicación&#34;&gt;Respuestas orientadas a la ubicación&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;A continuación se detallan las respuestas organizadas en relación a la ubicación.&lt;/p&gt;
+&lt;h4 id=&#34;eliminar-los-escondites&#34;&gt;Eliminar los escondites&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta la protección natural y el riesgo percibido de detección.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía trabaja con otras agencias que tienen la autoridad necesaria para hacer las modificaciones.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Podría requerir la eliminación de valiosos árboles y edificios.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;incremento-del-alumbrado-público-en-lugares-problemáticos&#34;&gt;Incremento del alumbrado público en lugares problemáticos&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta la protección natural y el riesgo percibido de detección.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las luces se instalan en o cerca de puntos calientes nocturnos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Deben de mantenerse. Podría aumentar el robo si los objetivos son más fáciles de detectar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;instalar-cctv&#34;&gt;Instalar CCTV&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta la protección natural y el riesgo percibido de detección.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La presencia de CCTV está bien publicitada.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Menos efectivo si se producen desplazamientos. CCTV debe ser monitoreado.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;aumentar-la-densidad-peatonal&#34;&gt;Aumentar la densidad peatonal&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta la protección natural y el riesgo percibido de detección.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los robos ocurren en el punto medio entre lugares aglomerados y vacíos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;El desvío del tráfico peatonal puede hacer que los viajes sean inconvenientes para algunos.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;eliminar-rutas-de-escape&#34;&gt;Eliminar rutas de escape&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el esfuerzo para los delincuentes.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los puntos calientes de robo son áreas con muchas rutas de escape.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los ladrones pueden estar más dispuestos a usar la violencia si no pueden escapar.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;respuestas-orientadas-a-la-rutina&#34;&gt;Respuestas orientadas a la rutina&lt;/h3&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;A continuación se detallan las respuestas organizadas en relación a la rutina.&lt;/p&gt;
+&lt;h4 id=&#34;mejorar-la-planificación-de-eventos-especiales&#34;&gt;Mejorar la planificación de eventos especiales&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce los riesgos de robo atípicos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las condiciones que aumentan el riesgo pueden identificarse y manipularse.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Se debe tener cuidado de no disuadir a los asistentes de ir a eventos con excesiva seguridad.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;notificar-a-los-padres-y-estudiantes-sobre-los-riesgos-antes-de-que-empiece-año-escolar&#34;&gt;Notificar a los padres y estudiantes sobre los riesgos antes de que empiece año escolar&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce la vulnerabilidad de los estudiantes.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los padres están dispuestos a tomar precauciones relevantes.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las escuelas pueden dudar en preocupar a los padres y estudiantes.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;proporcionar-rutas-seguras-durante-las-construcciones&#34;&gt;Proporcionar rutas seguras durante las construcciones&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reduce el aislamiento de peatones en lugares desconocidos.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía trabaja con los constructores para adaptar las rutas según sea necesario.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Las condiciones cambian rápidamente y pueden dificultar el monitoreo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;respuestas-ineficaces&#34;&gt;Respuestas ineficaces&lt;/h3&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Se ha encontrado que estas respuestas no funcionan para reducir el delito.&lt;/p&gt;
+&lt;h4 id=&#34;usar-señuelos-policiales&#34;&gt;Usar señuelos policiales&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta el riesgo de detención del delincuente.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;La policía quiere arrestar a más delincuentes.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Poca evidencia que demuestre que reduce el robo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;dar-armas-a-víctimas-potenciales&#34;&gt;Dar armas a víctimas potenciales&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Cómo funciona&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Funciona mejor si&amp;hellip;&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;&lt;strong&gt;Consideraciones&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Aumenta los riesgos para los delincuentes.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Los delincuentes percibieron un mayor riesgo de represalias de las víctimas.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Es poco probable que sea efectivo. Es más probable que provoque más lesiones y muertes de víctimas.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;medición-de-efectividad&#34;&gt;Medición de efectividad&lt;/h2&gt;
+&lt;p&gt;Para determinar la efectividad de su respuesta, debe medir la cantidad
+de robos callejeros antes y después de la intervención. Además, también
+debe comparar el cambio en los robos en el área donde implementó su
+respuesta con el cambio en un área que no recibió la intervención (ej.
+otro barrio en la ciudad), para determinar si el cambio que vio estaba
+relacionado con su respuesta. La medición no solo ayuda a determinar la
+efectividad, sino que también puede sugerir modificaciones a la
+respuesta.&lt;/p&gt;
+&lt;p&gt;Los delincuentes pueden responder a su intervención desplazándose a una
+nueva ubicación. Anticipar tales adaptaciones puede ayudar a limitar que
+sucedan. Sin embargo, el desplazamiento no es inevitable.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 59,
+originalmente elaborada por
+Khadija M Monk, Justin A Heinonen y John E Eck,
+de la serie de guías de
+Problemas Específicos
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/street-robbery-0&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;En Bergman, Marcelo (2018) &lt;em&gt;More Money, More Crime: Prosperity and
+rising crime in Latin America&lt;/em&gt;. Oxford, UK: Oxford University Press,
+p. 49. &lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Ver Bergman (2018, p. 48). &lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Reconocer que algunas características personales, elecciones de
+estilo de vida o actividades de rutina están asociadas con un mayor
+riesgo de convertirse en una víctima nunca debe tomarse como una
+indicación de culpa. La culpa del crimen siempre recae en el
+delincuente. Identificar esas características de las víctimas es
+importante porque ayuda a la policía a dirigir sus intervenciones de
+manera más efectiva a quienes más lo necesitan. &lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robo de y a Vehículos en Zonas Residenciales</title>
+      <link>/problemas-y-soluciones/hurto-de-autos-residencial/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/problemas-y-soluciones/hurto-de-autos-residencial/</guid>
+      <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;div class=&#34;alert alert-secondary&#34;&gt;
+  &lt;div&gt;
+    Esta guía describe el problema del robo de vehículos y de artículos en su interior en zonas residenciales y revisa factores que aumentan los riesgos de estos incidentes. Luego, identifica una serie de preguntas que ayudan a analizar el problema en su dimensión local. Finalmente, revisa respuestas al problema y lo que se sabe de éstas desde la evaluación y la práctica policial.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;descripción-general-del-problema&#34;&gt;Descripción General del Problema&lt;/h2&gt;
+&lt;p&gt;El robo de autos estacionados es uno de los tipos de incidentes que ocurren en zonas residenciales. Algunos delitos, y en particular los delitos contra la propiedad tienden a no ser denunciados a las autoridades. Como resultado, el problema podría ser peor de lo que parece según las estadísticas reportadas por la policía.&lt;/p&gt;
+&lt;p&gt;El robo de artículos en el &lt;em&gt;interior&lt;/em&gt; de los vehículos puede implicar la sustracción de objetos de bajo valor comercial, pero consumen recursos policiales considerables y aumentan el temor al delito de los residentes y reducen su confianza en la policía y otras autoridades.&lt;/p&gt;
+&lt;p&gt;Si bien generalmente es un problema en las áreas metropolitanas, los robos &lt;em&gt;de&lt;/em&gt; vehículos también plantean un problema delictivo significativo en muchas jurisdicciones suburbanas. Por lo general, los vehículos son robados para uno de tres propósitos: (1) para transporte temporal, como el uso en otro delito o para circular; (2) para desarmar el vehículo en partes y revenderlas; (3) para revender el vehículo completo, a menudo disimulando su origen robado. Los vehículos robados generan mayores costos de seguros, inconvenientes y pérdidas financieras para sus propietarios, así como riesgos para la seguridad de la policía y otros automovilistas por persecuciones a vehículos robados.&lt;/p&gt;
+&lt;h2 id=&#34;factores-que-contribuyen-al-robo-de-vehículos-y-de-artículos-en-su-interior-en-zonas-residenciales&#34;&gt;Factores que Contribuyen al Robo de Vehículos y de Artículos en su Interior en Zonas Residenciales&lt;/h2&gt;
+&lt;h3 id=&#34;ubicación&#34;&gt;Ubicación&lt;/h3&gt;
+&lt;h4 id=&#34;en-residencias-de-familia&#34;&gt;En residencias de familia&lt;/h4&gt;
+&lt;p&gt;Debido a que áreas suburbanas residenciales son relativamente seguras y tranquilas, los residentes pueden volverse descuidados respecto a la seguridad de sus automóviles. Pueden dejar las puertas sin seguro o las llaves en el encendido. A menudo, la iluminación exterior de sus hogares es totalmente inadecuada. Arbustos excesivamente altos y otros elementos de jardinería en el recinto puede proporcionar escondite para los ladrones. Todo un vecindario lleno de autos abiertos y hogares pobremente iluminados, con muchos lugares para esconderse, es un área que favorece a un ladrón.&lt;/p&gt;
+&lt;h4 id=&#34;en-la-calle&#34;&gt;En la calle&lt;/h4&gt;
+&lt;p&gt;Los vehículos en ubicaciones residenciales adyacentes a vecindarios de niveles socioeconómicos de nivel inferior (que a menudo tienen tasas de criminalidad más altas) son generalmente más vulnerables. Los ladrones que residen en vecindarios con altas tasas delictivas sólo necesitan caminar unas cuantas cuadras para buscar artículos o vehículos para robar, contando con la ventaja de estar familiarizados con el área.&lt;/p&gt;
+&lt;h4 id=&#34;subdivisiones-residenciales&#34;&gt;Subdivisiones residenciales&lt;/h4&gt;
+&lt;p&gt;Subdivisiones residenciales rodeadas de tierras rurales sin servicio de transporte público tienen menos probabilidades de ser víctimas de delitos vehiculares crónicos. Los ladrones tendrían que viajar al lugar y caminar en vecindarios desconocidos donde es más probable que parezcan fuera de lugar y levanten sospechas. Además, estas áreas a menudo no tienen veredas, por lo que el tráfico peatonal en general llama la atención.&lt;/p&gt;
+&lt;h3 id=&#34;hora&#34;&gt;Hora&lt;/h3&gt;
+&lt;p&gt;Los robos de vehículos y de artículos en su interior en áreas residenciales suburbanas generalmente ocurre de noche. Esto se debe a que es el momento en que la mayoría de los autos están presentes en el área, así como al hecho de que la oscuridad brinda protección a los ladrones. En áreas residenciales con complejos de departamentos multifamiliares, los estacionamientos pueden ser vulnerables a los robos durante el día debido al alto tráfico de público que los usan, proporcionando anonimato al delincuente. Algunos eventos especiales que atraen a grandes cantidades de vehículos a un área también generan grandes volúmenes de robos de vehículos.&lt;/p&gt;
+&lt;h3 id=&#34;tipo-de-vehículo&#34;&gt;Tipo de Vehículo&lt;/h3&gt;
+&lt;p&gt;En general, los modelos más antiguos de vehículos son robados con más frecuencia que los más recientes debido a que contienen menos dispositivos antirrobo, y los ladrones aprenden que algunos modelos de vehículos son más fáciles de robar que otros. Sin embargo, modelos más nuevos pueden ser objeto de robo si contienen componentes costosos que son de gran demanda.&lt;/p&gt;
+&lt;h3 id=&#34;artículos-seleccionados-para-el-robo&#34;&gt;Artículos Seleccionados para el Robo&lt;/h3&gt;
+&lt;p&gt;Con frecuencia, los robos ocurrirán en grupos. Se pueden reportar numerosos robos durante las primeras horas de la mañana cuando uno o más ladrones han pasado por un vecindario en busca de artículos para robar. En general, dos tipos de artículos son robados: artículos personales y componentes de automóviles. Los artículos personales que los propietarios suelen dejar en su auto incluyen dinero en efectivo, computadores portátiles, celulares y billeteras. Los componentes específicos de automóviles atractivos cambian a medida que las diferentes características son más o menos demandadas. Durante un tiempo, las radios eran un objetivo valioso, pero ahora las bolsas de aire y otras partes costosas, como las luces de alto alcance o de xenón son altamente cotizadas.&lt;/p&gt;
+&lt;h2 id=&#34;entendiendo-el-problema-local&#34;&gt;Entendiendo el Problema Local&lt;/h2&gt;
+&lt;p&gt;La información provista anteriormente es sólo una descripción generalizada del problema de robo de vehículos y de artículos en su interior en zonas residenciales. Se deben combinar los hechos básicos con un entendimiento más específico del problema local.&lt;/p&gt;
+&lt;p&gt;En la mayoría de los casos, el principal problema será el robo de artículos del interior de vehículos, y se debería intentar determinar el tipo de delincuente involucrado (e.g., indigentes, usuarios que abusan de sustancias, delincuentes juveniles). Por otra parte, si el problema es el robo de vehículos, se necesitará determinar el motivo, ya sea para uso temporal o para obtener ganancias (venta de partes o del automóvil). Los principales indicadores de la motivación son las tasas de recuperación, aunque el modelo del vehículo también ayudará a determinarla, ya que ciertos tipos de ladrones favorecen ciertos modelos, que varían según cuán fácil son de robar o qué tan valiosas son los componentes con los que cuentan.&lt;/p&gt;
+&lt;h3 id=&#34;partes-interesadas&#34;&gt;Partes Interesadas&lt;/h3&gt;
+&lt;p&gt;Determinar qué individuos y grupos tienen interés en el problema y su resolución es un primer paso importante para recolectar información respecto al problema. Junto con las agencias de justicia penal, es probable que los siguientes grupos tengan algún interés en el problema debido a que puede efectuar cambios en el ambiente donde ocurren los robos.&lt;/p&gt;
+&lt;h4 id=&#34;en-casas-privadas&#34;&gt;En casas privadas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Propietarios o arrendatarios&lt;/li&gt;
+&lt;li&gt;Compañías de seguros de viviendas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;en-calles-públicas&#34;&gt;En calles públicas&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervisores de la ciudad&lt;/li&gt;
+&lt;li&gt;Topógrafos municipales&lt;/li&gt;
+&lt;li&gt;Ingenieros de tráfico&lt;/li&gt;
+&lt;li&gt;Planificadores urbanos&lt;/li&gt;
+&lt;li&gt;Grupos comunitarios locales&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;para-ambas-ubicaciones&#34;&gt;Para ambas ubicaciones&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Compañías de seguros de autos&lt;/li&gt;
+&lt;li&gt;Los propietarios de los autos&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;recolectando-inteligencia&#34;&gt;Recolectando Inteligencia&lt;/h3&gt;
+&lt;p&gt;El primer paso y el más importante debe ser la recolección de información relevante. Sólo a través de la recopilación sistemática de información sobre las características de la ubicación, los horarios y los métodos utilizados por los delincuentes surgirá una imagen clara del problema.&lt;/p&gt;
+&lt;p&gt;En muchas áreas densamente pobladas, los robos desde vehículos no se investigan si no la víctima no proporciona información de la víctima que pueda ayudar a identificar al autor del robo. Con frecuencia, las policías ni siquiera envían a un oficial a la escena para investigar o entrevistar a la víctima. Los informes sobre este tipo de delitos a menudo simplemente se toman por teléfono y se ingresan en los registros de la policía. Si bien este tipo de acción puede ser pragmática en las agencias de policía sobrecargadas, cuando se intenta abordar el problema específico, se pierde una gran cantidad de información que pudiese ser de ayuda. La identificación de uno o más autores puede alivianar un problema al retirar al delincuente y brindar información sobre las características, los motivos y el método de operación de los ladrones.&lt;/p&gt;
+&lt;p&gt;Los siguientes métodos específicos de recolección de inteligencia pueden ser particularmente útiles para este tipo de problema:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Enviar a un oficial a cada informe de robo de un vehículo puede brindar una oportunidad para que la policía descubra detalles sobre el crimen que probablemente no sean posibles de descubrir por teléfono. Atender en persona le brinda al oficial una oportunidad para entrevistar a los vecinos y quizás descubrir indicios o delitos adicionales. Además, esa capacidad de respuesta les demuestra a los residentes que la policía toma en serio sus preocupaciones y está llevando a cabo acciones concretas para ayudar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Formar un grupo de trabajo para investigar delitos de vehículos en el área objetivo puede ser una forma efectiva de concentrar esfuerzos para resolver los delitos. Un grupo de oficiales y/o detectives que tengan la oportunidad de enfocarse en un solo problema puede desarrollar una imagen más clara del patrón general. Asimismo, pueden coordinar sus esfuerzos y sintetizar la información de múltiples fuentes sin la distracción de manejar numerosas llamadas e investigaciones adicionales.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Entrevistar a los delincuentes en cuanto a su motivación y sus métodos pueden ayudar a la policía a desarrollar nuevos enfoques al problema y a determinar qué esfuerzos empleados son efectivos y cuáles no. Recolectar información detallada de los autores puede revelar el tipo de delincuente y a la vez sugerir cursos de acción adecuados. Por ejemplo, si el análisis revela que ladrones profesionales están robando vehículos para desarmarlos o revenderlos, la investigación puede enfocarse en identificar ubicaciones donde los ladrones podrían llevar a cabo dicha operación.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;haciendo-las-preguntas-correctas&#34;&gt;Haciendo las Preguntas Correctas&lt;/h2&gt;
+&lt;p&gt;Las siguientes son algunas preguntas que se debería hacer al analizar el problema particular de robos de autos o artículos en su interior en zonas residenciales suburbanas, incluso si las respuestas no siempre están disponibles de manera oportuna.&lt;/p&gt;
+&lt;h3 id=&#34;incidentes&#34;&gt;Incidentes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Es el robo vehicular o de artículos en su interior el problema
+principal? (Las diferentes motivaciones de los delincuentes puede
+sugerir respuestas específicas).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué factores explican por qué algunos delitos fueron consumados y
+otros no? (Por ejemplo, la presencia de alarmas en el vehículo o
+testigos actuando como disuasores).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué porcentaje de delitos no ha sido denunciado a la policía (se
+deberá preguntar a residentes del sector para saber esto)? ¿Por qué
+algunos delitos no fueron denunciados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Hay otros incidentes, desconocidos para su agencia, que están
+siendo investigados por otra agencia de policía?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los robos de vehículos están ocurriendo al mismo tiempo que otros
+delitos o eventos (e.g., vandalismo, robos de otra propiedad, robo a
+casa-habitación)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cómo se logra abrir un vehículo? ¿Mediante puertas o ventanas ya
+abiertas, o forzándolas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;delincuentes&#34;&gt;Delincuentes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Son los autores adictos a las drogas buscando dinero para comprar
+sustancias ilícitas?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Son personas en situación de calle que pasan por el área a otra ubicación
+en particular?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Son delincuentes juveniles o menores de edad?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Son ladrones de vehículos profesionales que seleccionan blancos
+específicos o componentes para revender?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Se están robando los vehículos para transporte temporal o
+entretenimiento?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los delincuentes son locales o foráneos?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;víctimas&#34;&gt;Víctimas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Hay propietarios de vehículos que han sido
+victimizados en repetidas ocasiones?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Ciertos comportamientos de las víctimas contribuyen a los robos
+(e.g., dejar las llaves u objetos de valor a la vista dentro del
+vehículo)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;robo-de-vehículos&#34;&gt;Robo de Vehículos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué marcas y modelos son robados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué proporción de vehículos robados son recuperados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué marcas/modelos tienen menos probabilidades de ser recuperados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué tan rápido son recuperados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Dónde son recuperados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Están dañados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Se robaron artículos al robar el vehículo?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;robo-de-artículos-en-el-interior-del-vehículo&#34;&gt;Robo de Artículos en el Interior del Vehículo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Hay métodos preferidos para abrir los vehículos?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué objetos son robados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Dónde y cómo se comercializan los artículos robados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ubicacioneshorarios&#34;&gt;Ubicaciones/Horarios&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Dónde están ocurriendo los robos? ¿En qué calles? ¿Existe un patrón
+o puntos de concentración del delito?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Durante qué hora del día, día de la semana, días del meses y meses
+del año ocurren los delitos con mayor frecuencia?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los delitos ocurren durante eventos especiales (e.g., cerca de
+eventos deportivos u otros eventos de entretenimiento o fiestas
+masivas)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;condiciones-facilitadoras-del-robo&#34;&gt;Condiciones Facilitadoras del Robo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuáles son los patrones de tráfico vehicular típicos en el área
+(e.g., calles de sentido único, calles sin salida, tráfico pesado o
+ligero)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuáles son las condiciones de iluminación (en las calles y
+alrededor de las casas) en el momento de los delitos?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué tipo de escondite está disponible para los ladrones (e.g.,
+follaje frondoso, áreas oscuras, edificios, paredes y cercas)?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;respuestas-actuales-a-los-problemas&#34;&gt;Respuestas Actuales a los Problemas&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;¿Los residentes están conscientes del problema? Si es así, ¿qué tan
+preocupados están al respecto?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué medidas, de haberlas, han tomado los residentes y propietarios
+de vehículos para prevenir los robos?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué medidas ha tomado la policía para abordar el problema?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Qué número y porcentaje de delitos han sido exitosamente
+gestionados?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¿Cuáles son los resultados típicos de un proceso penal contra un
+delincuente en estas circunstancias?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;midiendo-la-efectividad&#34;&gt;Midiendo la Efectividad&lt;/h2&gt;
+&lt;p&gt;La medición permite determinar en qué medida los esfuerzos han sido
+exitosos y sugiere cómo se podrían modificar las respuestas en el caso
+de que no estén produciendo los resultados deseados.&lt;/p&gt;
+&lt;p&gt;Las siguientes son medidas potencialmente útiles sobre la efectividad de
+las respuestas a los robos de vehículos y los artículos en su interior:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Menos robos denunciados a la policía&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Menos delitos relacionados (e.g., vandalismo, otros robos) en el
+área&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Se roba propiedad de menor valor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Menor preocupación de los residentes del área sobre el problema&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Disminución de informes de robos a compañías de seguros de automóvil&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Menos quejas de ciudadanos preocupados, grupos comunitarios o
+funcionarios electos sobre el problema.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;respuestas-al-problema-de-robo-de-autos-y-de-artículos-de-su-interior-en-zonas-residenciales&#34;&gt;Respuestas al Problema de Robo de Autos y de Artículos de su Interior en Zonas Residenciales&lt;/h2&gt;
+&lt;p&gt;El análisis de su problema en particular debería darle un mejor
+entendimiento de los factores que contribuyen al la incidencia delictiva. Una vez
+analizado el problema local y establecida una línea base para medir la
+efectividad, se deberían considerar posibles respuestas para abordar el
+problema.&lt;/p&gt;
+&lt;h3 id=&#34;consideraciones-generales-para-una-estrategia-de-respuesta-efectiva&#34;&gt;Consideraciones Generales para una Estrategia de Respuesta Efectiva&lt;/h3&gt;
+&lt;p&gt;Si bien hay una serie de respuestas efectivas para proteger a los
+vehículos estacionados en estacionamientos u otras instalaciones,
+existen menos soluciones claramente efectivas que la policía local puede
+implementar para evitar robos en calles residenciales y entradas de
+casas.&lt;/p&gt;
+&lt;p&gt;Las calles donde se estacionan los vehículos pueden ser
+anchas o estrechas, con árboles o sin ellos, e iluminadas u oscuras; los
+riesgos de robo varían de acuerdo con estos entornos. El hecho que las
+calles y las vías de acceso a ellas sean a accesibles al público en
+general hace que los vehículos sean muy vulnerables. Probablemente, la
+respuesta más efectiva para los propietarios de vehículos sea no
+estacionar sus vehículos en la calle o en caminos abiertos. Por
+supuesto, muchos dueños, especialmente en áreas residenciales densamente
+pobladas, se ven obligados a estacionar en las calles porque no tienen
+garajes ni entradas para vehículos.&lt;/p&gt;
+&lt;p&gt;La capacidad para prevenir el robo de y a vehículos y sus partes a
+nivel local es limitada, especialmente cuando éstos se encuentran
+estacionados en la calle donde son fácilmente accesibles en cualquier
+momento del día, con pocos obstáculos para el ladrón. En gran medida, la
+solución depende de los fabricantes de vehículos, quienes en los últimos años han comenzado a
+diseñar vehículos que son mucho más seguros contra robos. También
+depende de las aseguradoras de vehículos, qué han exigido que éstos se
+diseñen con elementos antirrobo como factor relevante, tal y como lo
+hicieron anteriormente con respecto a la seguridad de los ocupantes del
+vehículo.&lt;/p&gt;
+&lt;h4 id=&#34;promover-la-venta-de-vehículos-con-sistemas-antirrobo-incorporados&#34;&gt;Promover la venta de vehículos con sistemas antirrobo incorporados&lt;/h4&gt;
+&lt;p&gt;Las técnicas más efectivas que han reducido el robo automotriz a lo largo de las últimas tres décadas han sido los sistemas de seguridad instalados de fábrica. Estos sistemas han incluido:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;El bloqueo de la columna de dirección, que requiere la llave de
+contacto para desbloquear la dirección, se ha demostrado desde
+1970 como un método eficaz para reducir el robo de vehículos.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Los sistemas de geolocalización, que requieren de un transmisor
+dentro del automóvil para enviar señales por GPS informando la
+ubicación del vehículo a la policía, han sido efectivos para
+ubicar autos robados.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Los inmovilizadores electrónicos, que impiden la puesta en
+marcha de un auto en varios puntos, requieren que el propietario
+se autentique mediante un control remoto o un código PIN para
+hacer partir el vehículo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Las medidas de seguridad para la identificación del vehículo
+incluyen la inscripción del número de identificación vehicular (VIN) en las partes del
+automóvil o en el auto mismo utilizando tecnología de
+micropuntos, así como el reconocimiento automático de placas
+patentes y el grabado de VIN.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;promover-el-uso-de-accesorios-de-seguridad-posventa&#34;&gt;Promover el uso de accesorios de seguridad posventa&lt;/h4&gt;
+&lt;p&gt;También existen algunos dispositivos y sistemas de seguridad posventa
+que gozan de gran popularidad. Estos incluyen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Barreras mecánicas (e.g., traba-volantes) donde el volante o el
+pedal de freno está bloqueado con una barra de metal. La ventaja de sentido
+común de estos dispositivos es que son claramente visibles para los
+ladrones que podrían preferir robar un auto que no esté bloqueado y
+sin ningún sistema de seguridad visible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sirenas y alarmas que indiquen un intento de robo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todos estos sistemas, ya sea instalados de fábrica o agregados
+posteriormente, pueden ser efectivos contra el robo de vehículos, pero
+harán poco para evitar el robo de artículos de su interior.&lt;/p&gt;
+&lt;h4 id=&#34;otras-técnicas&#34;&gt;Otras técnicas&lt;/h4&gt;
+&lt;p&gt;Como hemos visto, los automóviles están generalmente más seguros en las
+entradas que estacionados en las calles, pero esto dependerá en cierta
+medida de la longitud de la entrada, los arbustos cercanos, la
+iluminación y otros factores que afectan la vigilancia natural.&lt;/p&gt;
+&lt;p&gt;Muchas técnicas de sentido común pueden aplicarse localmente, aunque a
+menudo pueden depender de la acción del propietario del vehículo y de la
+propiedad para implementarlas. De hecho, algunas agencias policiales han
+descubierto que los residentes de la comunidad no aseguran sus bienes
+personales tan bien como deberían. Los automóviles con puertas sin asegurar, autos
+con artículos de valor a la vista, iluminación deficiente y la
+vegetación u otras características que puedan ocultar a los ladrones
+son comunes.&lt;/p&gt;
+&lt;h5 id=&#34;asociarse-con-algún-negocio&#34;&gt;Asociarse con algún negocio&lt;/h5&gt;
+&lt;p&gt;Las compañías de seguros asumen gran parte del costo de los robos y pueden ayudar a la policía a nivel local a proporcionar recursos financieros y denunciar fraudes de seguros. Estas compañías se están involucrando más directamente en las medidas de prevención del delito, lo que es parte de una tendencia creciente de participación de las empresas en la lucha contra el delito.&lt;/p&gt;
+&lt;h5 id=&#34;capacitar-a-los-oficiales-de-patrulla-sobre-patrones-de-robo-de-vehículos&#34;&gt;Capacitar a los oficiales de patrulla sobre patrones de robo de vehículos&lt;/h5&gt;
+&lt;p&gt;Educar a los oficiales de patrulla sobre la naturaleza y el alcance del problema puede ayudar a producir más arrestos y aliviar las preocupaciones del público en general. La información relativa a los métodos de operación de los ladrones y las características de los delincuentes, y cualquier información relacionada con posibles sospechosos, puede ser transmitida a los oficiales que patrullan el área en cuestión.&lt;/p&gt;
+&lt;h3 id=&#34;respuestas-específicas-para-reducir-el-robo-de-vehículos-y-de-artículos-en-su-interior-en-zonas-residenciales&#34;&gt;Respuestas Específicas para Reducir el Robo de Vehículos y de Artículos en su Interior en Zonas Residenciales&lt;/h3&gt;
+&lt;p&gt;Las respuestas específicas están clasificadas en tres áreas: seguridad,
+educación y de aplicación de la ley. Sin embargo, las tres están
+estrechamente relacionadas, y es probable que cualquier programa
+destinado a reducir este problema incluya respuestas de las tres áreas.&lt;/p&gt;
+&lt;h4 id=&#34;seguridad&#34;&gt;Seguridad&lt;/h4&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h5 id=&#34;mejorar-la-iluminación&#34;&gt;Mejorar la iluminación&lt;/h5&gt;
+&lt;p&gt;La mayoría de los robos de artículos al interior de vehículos en vecindarios residenciales ocurren de noche ya que es cuando la mayoría de los vehículos están presentes en estas comunidades y por el anonimato que proporciona la oscuridad. El alumbrado público mejorado y la iluminación de propiedad privada eliminan a uno de los más grandes aliados del ladrón: la cobertura de la oscuridad. La investigación ha demostrado los efectos positivos de la mejora del alumbrado público en la reducción de actividad criminal.&lt;/p&gt;
+&lt;h5 id=&#34;remover-vegetación-y-otras-estructuras-cubiertas&#34;&gt;Remover vegetación y otras estructuras cubiertas&lt;/h5&gt;
+&lt;p&gt;Los ladrones que buscan objetos rápidos y fáciles de robar eligen objetivos donde el riesgo de detección y detención es bajo. Los árboles con ramas bajas y arbustos altos que ocultan la vista de la propiedad desde la calle pueden ayudar a ocultar al ladrón. El simple recorte o poda de dicha vegetación, o la alteración de otras estructuras que pueden cubrir a un ladrón, pueden privar a los delincuentes de potenciales escondites.&lt;/p&gt;
+&lt;h5 id=&#34;cambiar-o-restringir-patrones-de-tránsito&#34;&gt;Cambiar o restringir patrones de tránsito&lt;/h5&gt;
+&lt;p&gt;Una preocupación clave para los ladrones es tener un medio rápido de escape después del evento o en caso de ser descubiertos. Los ladrones que operan en vehículos pueden ser disuadidos si sus potenciales rutas de escape son restringidas. Las calles sin salida ofrecen sólo un medio de acceso, y también aumentan la probabilidad de llamar la atención sobre cualquier vehículo en particular que ingrese a la calle.&lt;/p&gt;
+&lt;h5 id=&#34;instalar-y-monitorear-cámaras-de-vigilancia-cctvque-funcionacctv&#34;&gt;Instalar y monitorear &lt;a href=&#34;/que-funciona/cctv/&#34;&gt;cámaras de vigilancia (CCTV)&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Los &lt;a href=&#34;/que-funciona/cctv/&#34;&gt;sistemas de videovigilancia&lt;/a&gt; pueden proporcionar un método de bajo costo (en comparación con el uso de guardias de seguridad) para proporcionar monitoreo en las calles las 24 horas. Si bien estos dispositivos pueden no registrar un acto criminal, potencialmente podrían ayudar a la policía a identificar un vehículo o una persona conocida que se encuentre en el área donde se producen los delitos y que no tenga una causa razonable para estar ahí. Sin embargo, no está claro en qué circunstancias y en qué ubicaciones específicas la videovigilancia puede ser efectiva.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;educación&#34;&gt;Educación&lt;/h4&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h5 id=&#34;alertar-a-los-propietarios-de-los-vehículos-respecto-a-problemas-de-robo-y-educarlos-sobre-los-factores-de-riesgo-conocidos-y-prevención-efectiva&#34;&gt;Alertar a los propietarios de los vehículos respecto a problemas de robo y educarlos sobre los factores de riesgo conocidos y prevención efectiva&lt;/h5&gt;
+&lt;p&gt;Los propietarios de vehículos a menudo no aseguran su propiedad personal tan bien como deberían. Educarlos sobre cómo proteger sus vehículos y sus contenidos se ha utilizado como parte de un programa policial general para reducir los robos. El primer paso es asegurarse que los propietarios de vehículos y los residentes del área estén conscientes de que existe un problema. Cuando los miembros de una comunidad están al tanto de un problema de robo de vehículos, es más probable que tomen medidas para asegurar su propiedad.&lt;/p&gt;
+&lt;p&gt;Entre los mensajes más importantes para transmitir a los propietarios de
+vehículos están los siguientes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Los vehículos se encuentran más seguros en un garaje, corren riesgos
+en una entrada y corren muchos riesgos en la calle.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;La compra de un vehículo de años recientes asegurará que tenga
+instalado sistemas de seguridad modernos. Verificar los índices de
+marcas/modelos más robados puede indicarles a los propietarios qué
+vehículos están en riesgo.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Si los propietarios deben estacionar los vehículos en la calle,
+probablemente convenga recomendar la instalación de
+sistemas de seguridad posventa, en especial aquellos claramente
+visibles para el ladrón.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;aplicación-de-la-ley&#34;&gt;Aplicación de la Ley&lt;/h4&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;h5 id=&#34;aumentar-los-patrullajes&#34;&gt;Aumentar los patrullajes&lt;/h5&gt;
+&lt;p&gt;El aumento de patrullajes puede ser útil en algunas ocasiones, particularmente cuando la información producto del análisis criminal puede demostrar un patrón claro de &lt;a href=&#34;/que-funciona/policiamiento-puntos-calientes/&#34;&gt;concentración de robos en ciertos lugares y a ciertas horas&lt;/a&gt;.&lt;/p&gt;
+&lt;h5 id=&#34;perseguir-penalmente-a-los-delincuentes&#34;&gt;Perseguir penalmente a los delincuentes&lt;/h5&gt;
+&lt;p&gt;Trabajar con los fiscales locales para asegurar la procuración de justicia y la ejecución de sanciones penales puede eliminar temporalmente a los delincuentes prolíficos de la comunidad y servir como un disuasor para los demás. La falta de procuración genera que el riesgo de ser arrestado se perciba como bajo por los delincuentes.&lt;/p&gt;
+&lt;h5 id=&#34;usar-vehículos-intervenidos-como-señuelos&#34;&gt;Usar vehículos intervenidos como señuelos&lt;/h5&gt;
+&lt;p&gt;Colocar vehículos acondicionados como señuelos a la vista puede proporcionar un objetivo para que la policía observe y atrape a los delincuentes en el acto. Mantener los vehículos bajo vigilancia continua requiere mucha mano de obra, aunque las innovaciones tecnológicas, como el rastreo por GPS, han hecho estas tareas más fáciles.&lt;/p&gt;
+&lt;h5 id=&#34;seguimiento-de-bienes-robados&#34;&gt;Seguimiento de bienes robados&lt;/h5&gt;
+&lt;p&gt;Las casas de empeño locales y las tiendas de segunda mano que comercian artículos robados con mayor frecuencia deben contactarse directamente. No sólo deben verificarse los elementos identificables, sino que la policía también puede aprovechar la oportunidad para educar a los propietarios de las tiendas sobre el problema, solicitar su ayuda y/o advertirles sobre las consecuencias de recibir propiedad robada.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;respuestas-con-efectividad-limitada&#34;&gt;Respuestas con Efectividad Limitada&lt;/h4&gt;
+&lt;div class=&#34;alert alert-warning&#34;&gt;
+  &lt;div&gt;
+    &lt;h5 id=&#34;advertir-a-los-infractores&#34;&gt;Advertir a los infractores&lt;/h5&gt;
+&lt;p&gt;La mayoría de los ladrones son conscientes de la amenaza de ser arrestados y procesados penalmente. La instalación de anuncios  de programas de &lt;a href=&#34;/que-funciona/vigilancia-vecinal/&#34;&gt;vigilancia vecinal&lt;/a&gt; y otros mensajes para advertir a los delincuentes generalmente no actúan como elementos disuasorios para los delincuentes experimentados, pues estos se dan cuenta que los riesgos de detección y la aprehensión son pequeños.&lt;/p&gt;
+&lt;h5 id=&#34;programas-para-delincuentes-juveniles&#34;&gt;Programas para delincuentes juveniles&lt;/h5&gt;
+&lt;p&gt;Enviar a delincuentes juveniles involucrados en el robo de automóviles a programas diseñados para proporcionarles una forma positiva de descargar sus energías e intereses, tiene el propósito de desalentarlos de continuar cometiendo delitos. Lamentablemente, la mayoría de las investigaciones han demostrado que estos programas tienen una efectividad limitada o nula para reducir la delincuencia relacionada con vehículos.&lt;/p&gt;
+&lt;h5 id=&#34;implementación-de-programas-de-vigilancia-vehicular&#34;&gt;Implementación de programas de vigilancia vehicular&lt;/h5&gt;
+&lt;p&gt;Este enfoque implica un acuerdo voluntario entre la policía y los ciudadanos donde se le permite a la policía detener ciertos vehículos sin causa si los ven circulando durante ciertas horas de la noche. Para estos efectos, los vehículos son identificados mediante un distintivo conocido para los policías con el fin de destacarse.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+    &lt;div&gt;
+Esta guía es una adaptación de la
+Guía No. 46,
+originalmente elaborada por
+Todd Keister,
+de la serie de guías de
+Problemas Específicos
+del &lt;a href=&#34;https://popcenter.asu.edu/&#34; target=&#34;_new&#34;&gt;Centro POP en ASU&lt;/a&gt;.
+&lt;a href=&#34;https://popcenter.asu.edu/content/thefts-and-cars-residential-streets-driveways-0&#34; target = &#34;_new&#34;&gt;Consulte la fuente original&lt;/a&gt;.
+	&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
